@@ -1,0 +1,61 @@
+# Fontes de notícias (RSS/Atom). Cada fonte tem: nome, url, regiao, categorias (dica), idioma, tipo.
+# tipo: oficial | multilateral | imprensa | ciencia
+# regiao: brasil | europa | eua | asia | global
+# Adicione ou remova fontes livremente; feeds que falham são ignorados e registrados no log.
+
+fontes:
+  # ---------------- BRASIL ----------------
+  - {nome: "Agência Brasil", url: "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml", regiao: brasil, idioma: pt, tipo: oficial}
+  - {nome: "Agência Gov", url: "https://agenciagov.ebc.com.br/noticias/rss", regiao: brasil, idioma: pt, tipo: oficial}
+  - {nome: "Agência Senado", url: "https://www12.senado.leg.br/noticias/rss", regiao: brasil, idioma: pt, tipo: oficial, categorias: [politica]}
+  - {nome: "Agência Câmara", url: "https://www.camara.leg.br/noticias/rss/ultimas-noticias", regiao: brasil, idioma: pt, tipo: oficial, categorias: [politica]}
+  - {nome: "STF Notícias", url: "https://portal.stf.jus.br/noticias/rss.asp", regiao: brasil, idioma: pt, tipo: oficial, categorias: [politica]}
+  - {nome: "Agência IBGE", url: "https://agenciadenoticias.ibge.gov.br/agencia-noticias.rss", regiao: brasil, idioma: pt, tipo: oficial, categorias: [economia]}
+  - {nome: "Fiocruz", url: "https://portal.fiocruz.br/rss.xml", regiao: brasil, idioma: pt, tipo: ciencia, categorias: [saude]}
+  - {nome: "Agência FAPESP", url: "https://agencia.fapesp.br/rss/", regiao: brasil, idioma: pt, tipo: ciencia, categorias: [tecnologia, saude]}
+  - {nome: "BBC News Brasil", url: "https://feeds.bbci.co.uk/portuguese/rss.xml", regiao: brasil, idioma: pt, tipo: imprensa}
+  - {nome: "DW Brasil", url: "https://rss.dw.com/xml/rss-br-all", regiao: brasil, idioma: pt, tipo: imprensa}
+  - {nome: "G1", url: "https://g1.globo.com/rss/g1/", regiao: brasil, idioma: pt, tipo: imprensa}
+  - {nome: "Folha de S.Paulo", url: "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml", regiao: brasil, idioma: pt, tipo: imprensa}
+  - {nome: "Estadão", url: "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/?body=%7B%22layout%22:%22google-news%22%7D", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [politica]}
+  - {nome: "InfoMoney", url: "https://www.infomoney.com.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [economia]}
+  - {nome: "Tecnoblog", url: "https://tecnoblog.net/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [tecnologia]}
+
+  # ---------------- MULTILATERAIS / GLOBAL ----------------
+  - {nome: "ONU News (PT)", url: "https://news.un.org/feed/subscribe/pt/news/all/rss.xml", regiao: global, idioma: pt, tipo: multilateral}
+  - {nome: "UN News", url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml", regiao: global, idioma: en, tipo: multilateral}
+  - {nome: "OMS / WHO", url: "https://www.who.int/rss-feeds/news-english.xml", regiao: global, idioma: en, tipo: multilateral, categorias: [saude]}
+  - {nome: "FMI / IMF", url: "https://www.imf.org/en/News/RSS?language=eng", regiao: global, idioma: en, tipo: multilateral, categorias: [economia]}
+  - {nome: "UNESCO", url: "https://www.unesco.org/en/rss.xml", regiao: global, idioma: en, tipo: multilateral, categorias: [cultura]}
+  - {nome: "Nature News", url: "https://www.nature.com/nature.rss", regiao: global, idioma: en, tipo: ciencia, categorias: [saude, tecnologia]}
+
+  # ---------------- EUROPA ----------------
+  - {nome: "Comissão Europeia", url: "https://ec.europa.eu/commission/presscorner/api/rss?language=en", regiao: europa, idioma: en, tipo: oficial}
+  - {nome: "Parlamento Europeu", url: "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", regiao: europa, idioma: en, tipo: oficial, categorias: [politica]}
+  - {nome: "BCE / ECB", url: "https://www.ecb.europa.eu/rss/press.html", regiao: europa, idioma: en, tipo: oficial, categorias: [economia]}
+  - {nome: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml", regiao: europa, idioma: en, tipo: imprensa}
+  - {nome: "DW (EN)", url: "https://rss.dw.com/xml/rss-en-all", regiao: europa, idioma: en, tipo: imprensa}
+  - {nome: "Euronews", url: "https://www.euronews.com/rss", regiao: europa, idioma: en, tipo: imprensa}
+  - {nome: "France 24", url: "https://www.france24.com/en/rss", regiao: europa, idioma: en, tipo: imprensa}
+  - {nome: "The Guardian World", url: "https://www.theguardian.com/world/rss", regiao: europa, idioma: en, tipo: imprensa}
+  - {nome: "RTP Notícias", url: "https://www.rtp.pt/noticias/rss", regiao: europa, idioma: pt, tipo: imprensa}
+
+  # ---------------- ESTADOS UNIDOS ----------------
+  - {nome: "Casa Branca", url: "https://www.whitehouse.gov/news/feed/", regiao: eua, idioma: en, tipo: oficial, categorias: [politica]}
+  - {nome: "Federal Reserve", url: "https://www.federalreserve.gov/feeds/press_all.xml", regiao: eua, idioma: en, tipo: oficial, categorias: [economia]}
+  - {nome: "NIH News", url: "https://www.nih.gov/news-events/news-releases/feed.xml", regiao: eua, idioma: en, tipo: oficial, categorias: [saude]}
+  - {nome: "NPR News", url: "https://feeds.npr.org/1001/rss.xml", regiao: eua, idioma: en, tipo: imprensa}
+  - {nome: "PBS NewsHour", url: "https://www.pbs.org/newshour/feeds/rss/headlines", regiao: eua, idioma: en, tipo: imprensa}
+  - {nome: "New York Times", url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", regiao: eua, idioma: en, tipo: imprensa}
+  - {nome: "Ars Technica", url: "https://feeds.arstechnica.com/arstechnica/index", regiao: eua, idioma: en, tipo: imprensa, categorias: [tecnologia]}
+  - {nome: "MIT Technology Review", url: "https://www.technologyreview.com/feed/", regiao: eua, idioma: en, tipo: imprensa, categorias: [tecnologia, ia]}
+  - {nome: "The Verge", url: "https://www.theverge.com/rss/index.xml", regiao: eua, idioma: en, tipo: imprensa, categorias: [tecnologia]}
+  - {nome: "TechCrunch AI", url: "https://techcrunch.com/category/artificial-intelligence/feed/", regiao: eua, idioma: en, tipo: imprensa, categorias: [ia]}
+
+  # ---------------- ÁSIA ----------------
+  - {nome: "NHK World", url: "https://www3.nhk.or.jp/nhkworld/en/news/feeds/", regiao: asia, idioma: en, tipo: imprensa}
+  - {nome: "South China Morning Post", url: "https://www.scmp.com/rss/91/feed", regiao: asia, idioma: en, tipo: imprensa}
+  - {nome: "Channel NewsAsia", url: "https://www.channelnewsasia.com/rssfeeds/8395986", regiao: asia, idioma: en, tipo: imprensa}
+  - {nome: "The Hindu", url: "https://www.thehindu.com/news/international/feeder/default.rss", regiao: asia, idioma: en, tipo: imprensa}
+  - {nome: "Korea Herald", url: "https://www.koreaherald.com/common/rss_xml.php?ct=102", regiao: asia, idioma: en, tipo: imprensa}
+  - {nome: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml", regiao: asia, idioma: en, tipo: imprensa}

@@ -1,0 +1,519 @@
+[
+ {
+  "titulo": "Congresso aprova projeto de lei sobre orçamento",
+  "resumo": "Senado e Câmara concluem votação do projeto de lei orçamentária. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/0",
+  "fonte": "Fonte de teste brasil",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T01:10:13.902227+00:00",
+  "dicas": [
+   "politica"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t000"
+ },
+ {
+  "titulo": "Banco Central mantém taxa Selic",
+  "resumo": "Comitê de política monetária decide manter os juros e cita inflação. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/1",
+  "fonte": "Fonte de teste brasil",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T00:10:13.902227+00:00",
+  "dicas": [
+   "economia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t001"
+ },
+ {
+  "titulo": "IBGE divulga dados de emprego do trimestre",
+  "resumo": "Taxa de desemprego recua segundo a pesquisa do IBGE. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/2",
+  "fonte": "Fonte de teste brasil",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T23:10:13.902227+00:00",
+  "dicas": [
+   "economia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t002"
+ },
+ {
+  "titulo": "Fiocruz anuncia estudo sobre vacina contra dengue",
+  "resumo": "Pesquisa da Fiocruz avalia nova vacina para dengue no SUS. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/3",
+  "fonte": "Fonte de teste brasil",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T22:10:13.902227+00:00",
+  "dicas": [
+   "saude"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t003"
+ },
+ {
+  "titulo": "Ministério da Saúde amplia campanha de vacinação",
+  "resumo": "Campanha de vacinação chega a novos municípios. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/4",
+  "fonte": "Fonte de teste brasil",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T21:10:13.902227+00:00",
+  "dicas": [
+   "saude"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t004"
+ },
+ {
+  "titulo": "Startup brasileira lança modelo de inteligência artificial em português",
+  "resumo": "Modelo de linguagem treinado em português é apresentado. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/5",
+  "fonte": "Fonte de teste brasil",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T20:10:13.902227+00:00",
+  "dicas": [
+   "ia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t005"
+ },
+ {
+  "titulo": "Festival de cinema de São Paulo anuncia programação",
+  "resumo": "Mostra de cinema traz filmes de 60 países. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/6",
+  "fonte": "Fonte de teste brasil",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T19:10:13.902227+00:00",
+  "dicas": [
+   "cultura"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t006"
+ },
+ {
+  "titulo": "STF julga ação sobre regulação das redes sociais",
+  "resumo": "Supremo retoma julgamento sobre plataformas de internet. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/7",
+  "fonte": "Fonte de teste brasil",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T18:10:13.902227+00:00",
+  "dicas": [
+   "politica",
+   "tecnologia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t007"
+ },
+ {
+  "titulo": "ONU alerta para crise humanitária e pede financiamento",
+  "resumo": "Agências da ONU pedem recursos para ajuda humanitária. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/8",
+  "fonte": "Fonte de teste global",
+  "regiao": "global",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T17:10:13.902227+00:00",
+  "dicas": [
+   "politica"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t008"
+ },
+ {
+  "titulo": "OMS publica relatório sobre saúde mental",
+  "resumo": "Organização Mundial da Saúde recomenda ampliar serviços de saúde mental. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/9",
+  "fonte": "Fonte de teste global",
+  "regiao": "global",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T16:10:13.902227+00:00",
+  "dicas": [
+   "saude"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t009"
+ },
+ {
+  "titulo": "FMI revisa projeção de crescimento global",
+  "resumo": "Fundo Monetário Internacional atualiza estimativa do PIB mundial. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/10",
+  "fonte": "Fonte de teste global",
+  "regiao": "global",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T15:10:13.902227+00:00",
+  "dicas": [
+   "economia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t010"
+ },
+ {
+  "titulo": "UNESCO inscreve novos sítios como patrimônio",
+  "resumo": "Comitê do patrimônio mundial aprova novas inscrições. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/11",
+  "fonte": "Fonte de teste global",
+  "regiao": "global",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T14:10:13.902227+00:00",
+  "dicas": [
+   "cultura"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t011"
+ },
+ {
+  "titulo": "Parlamento Europeu vota regras para inteligência artificial",
+  "resumo": "Eurodeputados aprovam ajustes no AI Act. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/12",
+  "fonte": "Fonte de teste europa",
+  "regiao": "europa",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T13:10:13.902227+00:00",
+  "dicas": [
+   "ia",
+   "politica"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t012"
+ },
+ {
+  "titulo": "BCE decide sobre taxa de juros da zona do euro",
+  "resumo": "Banco Central Europeu comenta inflação e crescimento. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/13",
+  "fonte": "Fonte de teste europa",
+  "regiao": "europa",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T12:10:13.902227+00:00",
+  "dicas": [
+   "economia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t013"
+ },
+ {
+  "titulo": "Comissão Europeia apresenta plano para chips",
+  "resumo": "Plano busca ampliar produção de semicondutores na Europa. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/14",
+  "fonte": "Fonte de teste europa",
+  "regiao": "europa",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T11:10:13.902227+00:00",
+  "dicas": [
+   "tecnologia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t014"
+ },
+ {
+  "titulo": "Eleições regionais na Alemanha",
+  "resumo": "Partidos disputam votos em eleição regional. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/15",
+  "fonte": "Fonte de teste europa",
+  "regiao": "europa",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T10:10:13.902227+00:00",
+  "dicas": [
+   "politica"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t015"
+ },
+ {
+  "titulo": "Museu do Louvre anuncia nova exposição",
+  "resumo": "Exposição reúne obras de arte do Renascimento. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/16",
+  "fonte": "Fonte de teste europa",
+  "regiao": "europa",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T09:10:13.902227+00:00",
+  "dicas": [
+   "cultura"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t016"
+ },
+ {
+  "titulo": "Agência europeia de medicamentos aprova tratamento",
+  "resumo": "Novo tratamento contra câncer recebe parecer favorável. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/17",
+  "fonte": "Fonte de teste europa",
+  "regiao": "europa",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T08:10:13.902227+00:00",
+  "dicas": [
+   "saude"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t017"
+ },
+ {
+  "titulo": "Federal Reserve sinaliza próximos passos dos juros",
+  "resumo": "Fed avalia dados de inflação e emprego. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/18",
+  "fonte": "Fonte de teste eua",
+  "regiao": "eua",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T07:10:13.902227+00:00",
+  "dicas": [
+   "economia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t018"
+ },
+ {
+  "titulo": "Congresso dos EUA debate orçamento federal",
+  "resumo": "Senado americano discute prazo do orçamento. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/19",
+  "fonte": "Fonte de teste eua",
+  "regiao": "eua",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T06:10:13.902227+00:00",
+  "dicas": [
+   "politica"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t019"
+ },
+ {
+  "titulo": "Empresa de IA anuncia novo modelo de linguagem",
+  "resumo": "Lançamento promete avanços em raciocínio e programação. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/20",
+  "fonte": "Fonte de teste eua",
+  "regiao": "eua",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T01:10:13.902227+00:00",
+  "dicas": [
+   "ia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t020"
+ },
+ {
+  "titulo": "NASA divulga resultados de missão espacial",
+  "resumo": "Satélite envia novos dados científicos. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/21",
+  "fonte": "Fonte de teste eua",
+  "regiao": "eua",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T00:10:13.902227+00:00",
+  "dicas": [
+   "tecnologia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t021"
+ },
+ {
+  "titulo": "NIH financia pesquisa sobre Alzheimer",
+  "resumo": "Institutos Nacionais de Saúde anunciam programa de pesquisa. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/22",
+  "fonte": "Fonte de teste eua",
+  "regiao": "eua",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T23:10:13.902227+00:00",
+  "dicas": [
+   "saude"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t022"
+ },
+ {
+  "titulo": "Big techs enfrentam processo antitruste",
+  "resumo": "Departamento de Justiça amplia investigação sobre tecnologia. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/23",
+  "fonte": "Fonte de teste eua",
+  "regiao": "eua",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T22:10:13.902227+00:00",
+  "dicas": [
+   "tecnologia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t023"
+ },
+ {
+  "titulo": "Prêmio de música anuncia indicados",
+  "resumo": "Lista de indicados destaca artistas latinos. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/24",
+  "fonte": "Fonte de teste eua",
+  "regiao": "eua",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T21:10:13.902227+00:00",
+  "dicas": [
+   "cultura"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t024"
+ },
+ {
+  "titulo": "China divulga dados do PIB e comércio exterior",
+  "resumo": "Exportações chinesas crescem no período. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/25",
+  "fonte": "Fonte de teste asia",
+  "regiao": "asia",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T20:10:13.902227+00:00",
+  "dicas": [
+   "economia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t025"
+ },
+ {
+  "titulo": "Japão aprova pacote de estímulo econômico",
+  "resumo": "Governo japonês anuncia medidas fiscais. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/26",
+  "fonte": "Fonte de teste asia",
+  "regiao": "asia",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T19:10:13.902227+00:00",
+  "dicas": [
+   "economia",
+   "politica"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t026"
+ },
+ {
+  "titulo": "Coreia do Sul investe em semicondutores e IA",
+  "resumo": "Plano nacional destina recursos a chips de inteligência artificial. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/27",
+  "fonte": "Fonte de teste asia",
+  "regiao": "asia",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T18:10:13.902227+00:00",
+  "dicas": [
+   "ia",
+   "tecnologia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t027"
+ },
+ {
+  "titulo": "Índia lança satélite de observação",
+  "resumo": "Agência espacial indiana conclui lançamento. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/28",
+  "fonte": "Fonte de teste asia",
+  "regiao": "asia",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T17:10:13.902227+00:00",
+  "dicas": [
+   "tecnologia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t028"
+ },
+ {
+  "titulo": "Cúpula da ASEAN discute comércio regional",
+  "resumo": "Líderes asiáticos tratam de tarifas e cooperação. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/29",
+  "fonte": "Fonte de teste asia",
+  "regiao": "asia",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T16:10:13.902227+00:00",
+  "dicas": [
+   "politica",
+   "economia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t029"
+ },
+ {
+  "titulo": "Surto de doença respiratória monitorado na Ásia",
+  "resumo": "Autoridades de saúde reforçam vigilância. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/30",
+  "fonte": "Fonte de teste asia",
+  "regiao": "asia",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T15:10:13.902227+00:00",
+  "dicas": [
+   "saude"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t030"
+ },
+ {
+  "titulo": "Festival de cinema de Busan premia filmes",
+  "resumo": "Filmes asiáticos são destaque do festival. (notícia fictícia de teste)",
+  "link": "https://exemplo.org/31",
+  "fonte": "Fonte de teste asia",
+  "regiao": "asia",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-02T14:10:13.902227+00:00",
+  "dicas": [
+   "cultura"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "t031"
+ }
+]

@@ -1,0 +1,84 @@
+name: Boletim diário (6h Brasília)
+
+on:
+  schedule:
+    # 06:30 UTC = 03:30 em Brasília. O cron do GitHub pode atrasar; a margem garante a publicação às 6h.
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+    inputs:
+      publicar_imediatamente:
+        description: "Publicar sem aguardar as 6h"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  models: read      # GitHub Models (IA gratuita)
+  pages: write
+  id-token: write
+
+concurrency:
+  group: boletim
+  cancel-in-progress: false
+
+env:
+  TZ: America/Sao_Paulo
+
+jobs:
+  gerar-e-publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar ffmpeg e fontes
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Gerar edição (coleta, resumo, áudio e vídeo)
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m boletim --midia _midia
+
+      - name: Aguardar até 06:00 de Brasília
+        if: github.event_name == 'schedule' || inputs.publicar_imediatamente == false
+        run: |
+          alvo=$(date -d "today 06:00" +%s); agora=$(date +%s)
+          if [ "$agora" -lt "$alvo" ]; then echo "Aguardando $((alvo-agora))s"; sleep $((alvo-agora)); fi
+
+      - name: Publicar áudio e vídeo como Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          DATA=$(date +%F)
+          gh release create "edicao-$DATA" _midia/boletim-$DATA.mp3 _midia/boletim-$DATA.mp4 \
+            --title "Brasil e Mundo Hoje — $DATA" --notes-file edicoes/$(date +%Y/%m/%d)/boletim.md \
+            || gh release upload "edicao-$DATA" _midia/boletim-$DATA.mp3 _midia/boletim-$DATA.mp4 --clobber
+
+      - name: Versionar a edição no repositório
+        run: |
+          git config user.name "boletim-bot"
+          git config user.email "boletim-bot@users.noreply.github.com"
+          git add edicoes
+          git commit -m "Edição $(date +%F)" || echo "Nada a commitar"
+          git push
+
+      - name: Montar site
+        run: python -m boletim.site _site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - uses: actions/deploy-pages@v4

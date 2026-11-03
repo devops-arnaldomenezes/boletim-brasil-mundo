@@ -1,0 +1,6 @@
+_midia/
+_site/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env

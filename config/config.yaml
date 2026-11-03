@@ -1,0 +1,42 @@
+# Configuração geral do Boletim
+titulo: "Brasil e Mundo Hoje"
+fuso_horario: "America/Sao_Paulo"
+janela_horas: 26            # notícias publicadas nas últimas N horas
+max_itens_por_fonte: 25
+max_itens_por_secao: 18     # itens enviados ao modelo por seção
+
+# Provedor de IA para resumo e roteiro:
+#   github    -> GitHub Models, gratuito no GitHub Actions (nenhuma chave extra)
+#   gemini    -> Google Gemini, camada gratuita (segredo GEMINI_API_KEY)
+#   anthropic -> Claude, pago (segredo ANTHROPIC_API_KEY)
+provedor_ia: "github"
+modelos_ia:
+  github: "openai/gpt-4.1"
+  gemini: "gemini-2.5-flash"
+  anthropic: "claude-sonnet-5-5"
+duracao_alvo_min: 38             # entre 30 e 45 minutos
+palavras_por_minuto: 150         # ritmo de locução em português
+
+voz_tts: "pt-BR-AntonioNeural"   # vozes edge-tts: pt-BR-AntonioNeural, pt-BR-FranciscaNeural, pt-BR-ThalitaNeural
+voz_tts_secundaria: "pt-BR-FranciscaNeural"
+gerar_audio: true
+gerar_video: true
+resolucao_video: "1280x720"
+
+# Seções do boletim, na ordem de leitura. Cada seção tem identidade visual própria no vídeo.
+secoes:
+  - {id: destaques,  titulo: "Manchetes do dia",          cor: "#0B3D91", cor2: "#1E88E5"}
+  - {id: politica,   titulo: "Política",                  cor: "#5E1A1A", cor2: "#C62828"}
+  - {id: economia,   titulo: "Economia e Mercados",       cor: "#0D4D2B", cor2: "#2E7D32"}
+  - {id: tecnologia, titulo: "Tecnologia",                cor: "#1A237E", cor2: "#3949AB"}
+  - {id: ia,         titulo: "Inteligência Artificial",   cor: "#311B92", cor2: "#7E57C2"}
+  - {id: saude,      titulo: "Saúde",                     cor: "#004D40", cor2: "#00897B"}
+  - {id: cultura,    titulo: "Cultura",                   cor: "#6A1B4D", cor2: "#D81B60"}
+  - {id: encerramento, titulo: "Resumo e agenda",         cor: "#212121", cor2: "#546E7A"}
+
+regioes:
+  brasil: "Brasil"
+  europa: "Europa"
+  eua: "Estados Unidos"
+  asia: "Ásia"
+  global: "Mundo / Organismos internacionais"
