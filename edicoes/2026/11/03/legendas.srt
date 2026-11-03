@@ -1,0 +1,840 @@
+1
+00:00:03,100 --> 00:00:04,633
+Bom dia!
+
+2
+00:00:04,583 --> 00:00:10,583
+Este é o Brasil e Mundo Hoje, edição de terça-feira, 3 de novembro de 2026.
+
+3
+00:00:10,583 --> 00:00:12,643
+Os destaques de hoje.
+
+4
+00:00:12,643 --> 00:00:18,952
+Segundo Tecnoblog: Melhor TV com Roku OS: 6 modelos para comprar em 2026.
+
+5
+00:00:18,952 --> 00:00:24,304
+Televisores com Roku TV são opções com foco em custo-benefício; conheça prós e contras
+
+6
+00:00:24,304 --> 00:00:29,656
+de modelos da AOC, Philco, Semp, Multilaser e Britânia Melhor TV com Roku OS:
+
+7
+00:00:29,656 --> 00:00:35,008
+6 modelos para comprar em 2026 Segundo BBC News Brasil: Vídeo mostra queda de
+
+8
+00:00:35,008 --> 00:00:36,155
+avião na Flórida.
+
+9
+00:00:36,155 --> 00:00:41,167
+O Learjet 60 decolou de Austin, no Texas, rumo às Bahamas.
+
+10
+00:00:41,167 --> 00:00:47,536
+A queda aconteceu a cerca de 14 km de Mar-a-Lago, resort do presidente Donald Trump.
+
+11
+00:00:47,536 --> 00:00:52,122
+Segundo BBC News Brasil: O que são as eleições de meio de mandato dos
+
+12
+00:00:52,122 --> 00:00:55,726
+EUA e por que elas podem selar o futuro de Trump?
+
+13
+00:00:55,726 --> 00:01:00,772
+Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá
+
+14
+00:01:00,772 --> 00:01:03,655
+ter grande impacto na presidência de Donald Trump.
+
+15
+00:01:03,655 --> 00:01:10,536
+Segundo Tecnoblog: Cupons da Black November no Magalu: como usar e economizar até R$ 300.
+
+16
+00:01:10,536 --> 00:01:15,562
+Magazine Luiza traz cupons em Samsung, Motorola e mais no mês da Black Friday;
+
+17
+00:01:15,562 --> 00:01:20,588
+saiba como aplicar conseguir até 10% de desconto Cupons da Black November no Magalu:
+
+18
+00:01:20,588 --> 00:01:25,615
+como usar e economizar até R$ 300 Segundo BBC News Brasil: Em áudio |
+
+19
+00:01:25,615 --> 00:01:31,000
+'Não reconheci meu namorado quando o encontrei no supermercado': como descobri que tinha cegueira facial.
+
+20
+00:01:31,000 --> 00:01:37,417
+Após receber diagnóstico de prosopagnosia, jornalista investigou ciência por trás dessa condição.
+
+21
+00:01:37,417 --> 00:01:42,543
+Segundo BBC News Brasil: Como um piloto de 20 anos, em sua segunda temporada
+
+22
+00:01:42,543 --> 00:01:46,571
+na F1, fez história como o mais jovem campeão do esporte.
+
+23
+00:01:46,571 --> 00:01:51,981
+Italiano conquista seu primeiro título mundial após elevar a média de pontos por corrida
+
+24
+00:01:51,981 --> 00:01:55,071
+de 6,25 para 20 em apenas uma temporada.
+
+25
+00:01:55,071 --> 00:02:01,619
+Segundo Agência Brasil: Economista de Plano Real acusa BC de causar rombo fiscal via juros.
+
+26
+00:02:01,619 --> 00:02:06,848
+O artigo de um dos economistas da equipe que elaborou o Plano Real, professor
+
+27
+00:02:06,848 --> 00:02:12,077
+André Lara Resende, tem ganhado destaque nos últimos dias por acusar o Banco Central
+
+28
+00:02:12,077 --> 00:02:17,307
+(BC) de causar desequilíbrio fiscal no Brasil por meio das altas taxas de jur
+
+29
+00:02:17,307 --> 00:02:22,536
+Segundo France 24: Emergency alerts hacking 'designed to undermine trust in government', expert says.
+
+30
+00:02:22,536 --> 00:02:28,049
+Emergency alert systems in Russia and Ukraine were hit in cyber attacks overnight, with
+
+31
+00:02:28,049 --> 00:02:32,774
+fake warnings of possible nuclear strikes broadcast to users in both countries.
+
+32
+00:02:32,774 --> 00:02:37,524
+The systems have since been brought back under control, though much rema
+
+33
+00:02:40,660 --> 00:02:41,943
+Agora, Política.
+
+34
+00:02:41,893 --> 00:02:46,143
+Segundo BBC News Brasil: Vídeo mostra queda de avião na Flórida.
+
+35
+00:02:46,143 --> 00:02:50,191
+O Learjet 60 decolou de Austin, no Texas, rumo às Bahamas.
+
+36
+00:02:50,191 --> 00:02:56,215
+A queda aconteceu a cerca de 14 km de Mar-a-Lago, resort do presidente Donald Trump.
+
+37
+00:02:56,215 --> 00:03:01,528
+Segundo ONU News (PT): ONU reforça apoio a processo de paz após encerrar missão
+
+38
+00:03:01,528 --> 00:03:02,667
+no Saara Ocidental.
+
+39
+00:03:02,667 --> 00:03:08,940
+Operação terminou após impasse no Conselho de Segurança sobre renovação do mandato; secretário-geral António
+
+40
+00:03:08,940 --> 00:03:15,214
+Guterres garante que organização segue intermediando diálogo diplomático; nota reforça que fim da missão
+
+41
+00:03:15,214 --> 00:03:21,487
+não anula direito à autode Segundo France 24: 🔴US midterms live: More than 58
+
+42
+00:03:21,487 --> 00:03:25,072
+million ballots cast in record early vote turnout.
+
+43
+00:03:25,072 --> 00:03:27,215
+Follow our special coverage.
+
+44
+00:03:27,215 --> 00:03:34,512
+Segundo Casa Branca: President Trump Completes Historic Travel Blitz: 30 Events, 20 States, 32 Days.
+
+45
+00:03:34,512 --> 00:03:35,819
+President Donald J.
+
+46
+00:03:35,819 --> 00:03:41,916
+Trump has just completed one of the most relentless, far-reaching travel schedules of any
+
+47
+00:03:41,916 --> 00:03:48,012
+modern presidency: 20 states in 32 days, from Wasilla, Alaska, to Daytona Beach, Florida.
+
+48
+00:03:48,012 --> 00:03:52,124
+At every stop, President Trump took his Segundo The Hindu: U.S.
+
+49
+00:03:52,124 --> 00:03:55,489
+votes for midterm elections, seen as referendum on Trump.
+
+50
+00:03:55,489 --> 00:04:00,217
+The polling will decide whether President Trump’s Republican Party retains control of the House
+
+51
+00:04:00,217 --> 00:04:03,932
+of Representatives and the Senate, the two chambers of the U.S.
+
+52
+00:04:03,932 --> 00:04:08,661
+Congress, or, as opinion polls are predicting, the Democratic Party wrests contr Segundo BBC
+
+53
+00:04:08,661 --> 00:04:13,389
+News Brasil: O que são as eleições de meio de mandato dos EUA e
+
+54
+00:04:13,389 --> 00:04:16,429
+por que elas podem selar o futuro de Trump?
+
+55
+00:04:16,429 --> 00:04:21,225
+Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá
+
+56
+00:04:21,225 --> 00:04:23,965
+ter grande impacto na presidência de Donald Trump.
+
+57
+00:04:23,965 --> 00:04:30,190
+Segundo France 24: The Long Hull: Karl Bushby reflects on perseverance & 'best of
+
+58
+00:04:30,190 --> 00:04:32,858
+humanity' on his 28-year journey home.
+
+59
+00:04:32,858 --> 00:04:34,679
+They say it takes a village.
+
+60
+00:04:34,679 --> 00:04:36,846
+In this case, it took a world.
+
+61
+00:04:36,846 --> 00:04:43,658
+After 28 years and some 50,000 kilometres, British explorer and adventurer Karl Bushby has
+
+62
+00:04:43,658 --> 00:04:50,471
+returned to his hometown of Hull, completing an extraordinary life journey across four Segundo
+
+63
+00:04:50,471 --> 00:04:56,310
+Casa Branca: President Trump’s Second Term: Promises Made, Promises Kept, Results Delivered.
+
+64
+00:04:56,310 --> 00:04:57,725
+President Donald J.
+
+65
+00:04:57,725 --> 00:05:05,274
+Trump has executed the most sweeping restoration of American sovereignty, strength, and prosperity in modern history.
+
+66
+00:05:05,274 --> 00:05:12,703
+With ferocious speed and resolve, President Trump has reversed decades of decline, kept more promises
+
+67
+00:05:15,748 --> 00:05:18,674
+Agora, Economia e Mercados.
+
+68
+00:05:18,624 --> 00:05:24,132
+Segundo BBC News Brasil: Em áudio | 'Não reconheci meu namorado quando o encontrei
+
+69
+00:05:24,132 --> 00:05:27,279
+no supermercado': como descobri que tinha cegueira facial.
+
+70
+00:05:27,279 --> 00:05:33,696
+Após receber diagnóstico de prosopagnosia, jornalista investigou ciência por trás dessa condição.
+
+71
+00:05:33,696 --> 00:05:38,936
+Segundo ONU News (PT): Comitê da ONU alerta para casamento e gravidez precoces em
+
+72
+00:05:38,936 --> 00:05:40,434
+Angola e Cabo Verde.
+
+73
+00:05:40,434 --> 00:05:46,440
+Grupo de especialistas independentes avaliou medidas de combate à discriminação contra mulheres; taxa de
+
+74
+00:05:46,440 --> 00:05:52,446
+gravidez entre angolanas de 15 a 19 anos chega a 42,5% nas zonas rurais;
+
+75
+00:05:52,446 --> 00:05:58,453
+em Cabo Verde, preocupação é com reconhecimento retroativo de Segundo BCE / ECB: Boris
+
+76
+00:05:58,453 --> 00:06:03,172
+Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world.
+
+77
+00:06:03,172 --> 00:06:08,684
+Segundo NPR News: Two economists studied California's billionaire tax.
+
+78
+00:06:08,684 --> 00:06:11,922
+They reached wildly different conclusions.
+
+79
+00:06:11,922 --> 00:06:16,803
+What happens in California could shape how America taxes the superrich.
+
+80
+00:06:16,803 --> 00:06:21,374
+But will its billionaire tax fill state coffers — or drain them?
+
+81
+00:06:21,374 --> 00:06:27,327
+Segundo The Hindu: California could become the first State to tax billionaires' wealth.
+
+82
+00:06:27,327 --> 00:06:32,802
+Proposition 40 would impose a one-time 5% tax on the wealth of Californians whose
+
+83
+00:06:32,802 --> 00:06:38,277
+net worth exceeds $1 billion, with most of the revenue dedicated to replacing federal
+
+84
+00:06:38,277 --> 00:06:43,752
+funding cuts to healthcare Segundo Agência Brasil: Economista de Plano Real acusa BC de
+
+85
+00:06:43,752 --> 00:06:45,708
+causar rombo fiscal via juros.
+
+86
+00:06:45,708 --> 00:06:50,672
+O artigo de um dos economistas da equipe que elaborou o Plano Real, professor
+
+87
+00:06:50,672 --> 00:06:55,637
+André Lara Resende, tem ganhado destaque nos últimos dias por acusar o Banco Central
+
+88
+00:06:55,637 --> 00:07:00,602
+(BC) de causar desequilíbrio fiscal no Brasil por meio das altas taxas de jur
+
+89
+00:07:00,602 --> 00:07:05,922
+Segundo ONU News (PT): Em Dia Internacional, Guterres ressalta que jornalismo não pode ser silenciado.
+
+90
+00:07:05,922 --> 00:07:11,543
+Em 2025, pelo menos 34 jornalistas foram assassinados; casos são marcados por alta taxa
+
+91
+00:07:11,543 --> 00:07:17,164
+de impunidade; líder das Nações Unidas ressaltou que a profissão é “fundamental para os
+
+92
+00:07:17,164 --> 00:07:19,172
+direitos humanos e a democracia”.
+
+93
+00:07:19,172 --> 00:07:24,831
+Segundo The Guardian World: RBA interest rates: Bullock says ‘pain now’ will prevent worse
+
+94
+00:07:24,831 --> 00:07:28,469
+later as Reserve Bank hikes rates for fifth time.
+
+95
+00:07:28,469 --> 00:07:34,311
+Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest
+
+96
+00:07:34,311 --> 00:07:40,152
+level since 2008 RBA interest rates live updates: Reserve Bank cash rate decision Get
+
+97
+00:07:40,152 --> 00:07:45,577
+our daily political email , free app or daily news podcast The Res
+
+98
+00:07:48,724 --> 00:07:50,388
+Agora, Tecnologia.
+
+99
+00:07:50,338 --> 00:07:56,136
+Segundo Tecnoblog: Melhor TV com Roku OS: 6 modelos para comprar em 2026.
+
+100
+00:07:56,136 --> 00:08:01,576
+Televisores com Roku TV são opções com foco em custo-benefício; conheça prós e contras
+
+101
+00:08:01,576 --> 00:08:07,016
+de modelos da AOC, Philco, Semp, Multilaser e Britânia Melhor TV com Roku OS:
+
+102
+00:08:07,016 --> 00:08:12,457
+6 modelos para comprar em 2026 Segundo Nature News: Chinese PhD students in clinical
+
+103
+00:08:12,457 --> 00:08:16,731
+medicine can graduate without a thesis — more degrees to follow.
+
+104
+00:08:16,731 --> 00:08:31,232
+Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03480-7 This expands the country's ‘practical PhD’ programme
+
+105
+00:08:31,232 --> 00:08:34,339
+beyond engineering students.
+
+106
+00:08:34,339 --> 00:08:41,410
+Segundo France 24: Emergency alerts hacking 'designed to undermine trust in government', expert says.
+
+107
+00:08:41,410 --> 00:08:46,993
+Emergency alert systems in Russia and Ukraine were hit in cyber attacks overnight, with
+
+108
+00:08:46,993 --> 00:08:51,779
+fake warnings of possible nuclear strikes broadcast to users in both countries.
+
+109
+00:08:51,779 --> 00:08:56,707
+The systems have since been brought back under control, though much rema Segundo MIT
+
+110
+00:08:56,707 --> 00:09:01,636
+Technology Review: The Download: the agentic web arrives and the drive for safer roads.
+
+111
+00:09:01,636 --> 00:09:09,587
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily
+
+112
+00:09:09,587 --> 00:09:15,267
+dose of what&#8217;s going on in the world of technology.
+
+113
+00:09:15,267 --> 00:09:20,822
+The agentic web is here In 2001, a decade after inventing the World Wide
+
+114
+00:09:20,822 --> 00:09:27,172
+Web, Tim Berners- Segundo Al Jazeera: Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings.
+
+115
+00:09:27,172 --> 00:09:33,803
+As Israel grapples with an inconclusive election, Palestinians face West Bank closures and Gaza killings.
+
+116
+00:09:33,803 --> 00:09:40,029
+Segundo Tecnoblog: Cupons da Black November no Magalu: como usar e economizar até R$ 300.
+
+117
+00:09:40,029 --> 00:09:45,614
+Magazine Luiza traz cupons em Samsung, Motorola e mais no mês da Black Friday;
+
+118
+00:09:45,614 --> 00:09:51,199
+saiba como aplicar conseguir até 10% de desconto Cupons da Black November no Magalu:
+
+119
+00:09:51,199 --> 00:09:56,784
+como usar e economizar até R$ 300 Segundo Euronews: Apple earnings beat expectations, but
+
+120
+00:09:56,784 --> 00:09:58,779
+rising chip costs worry investors.
+
+121
+00:09:58,779 --> 00:10:04,886
+Better-than-expected results from Apple for the last quarter of the company’s fiscal year 2026
+
+122
+00:10:04,886 --> 00:10:10,993
+were overshadowed by rising memory chip costs and a forecast for slower services growth.
+
+123
+00:10:10,993 --> 00:10:18,517
+Segundo Ars Technica: Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights.
+
+124
+00:10:18,517 --> 00:10:24,564
+Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.
+
+125
+00:10:27,676 --> 00:10:30,602
+Agora, Inteligência Artificial.
+
+126
+00:10:30,552 --> 00:10:36,707
+Segundo Agência Brasil: ONU ressalta importância de proteger jornalistas e acesso à informação.
+
+127
+00:10:36,707 --> 00:10:42,264
+Em todo o mundo, jornalistas continuam pagando um preço exorbitante por dizerem a verdade”,
+
+128
+00:10:42,264 --> 00:10:47,820
+o alerta foi feito nesta segunda-feira (2) pelo secretário-geral das Nações Unidas, António Guterres,
+
+129
+00:10:47,820 --> 00:10:53,377
+ao marcar o Dia Internacional pelo Fim da Imp Segundo Euronews: Why are supermarket
+
+130
+00:10:53,377 --> 00:10:57,743
+freezers being hacked across Europe and could AI make it worse?
+
+131
+00:10:57,743 --> 00:11:03,268
+Who is responsible for the cyber attacks on supermarket freezers in Europe and why
+
+132
+00:11:03,268 --> 00:11:05,636
+will it get worse with AI?
+
+133
+00:11:05,636 --> 00:11:10,112
+Euronews Next spoke to cybersecurity experts for answers.
+
+134
+00:11:10,112 --> 00:11:16,267
+Segundo The Verge: Anthropic clamps down on Claude’s AI video game clones.
+
+135
+00:11:16,267 --> 00:11:22,000
+Anthropic has updated Claude Code's system prompt to prevent the AI tool from being
+
+136
+00:11:22,000 --> 00:11:26,505
+used to re-create existing video games, as reported by Tom's Hardware.
+
+137
+00:11:26,505 --> 00:11:32,721
+Retro gaming is currently being overrun with AI-made decompilations, recompilations, Segundo South China Morning
+
+138
+00:11:32,721 --> 00:11:39,826
+Post: ‘At some point it’s going to be too much’: global financiers grapple with AI risks.
+
+139
+00:11:39,826 --> 00:11:45,847
+The artificial intelligence boom is creating an unprecedented demand for capital and infrastructure, raising
+
+140
+00:11:45,847 --> 00:11:51,868
+questions about whether debt markets, power grids and corporate productivity can keep pace with
+
+141
+00:11:51,868 --> 00:11:57,889
+the technology’s expansion, executi Segundo InfoMoney: Palantir vê lucro mais que dobrar no 3º
+
+142
+00:11:57,889 --> 00:12:00,469
+trimestre e eleva projeções para 2026.
+
+143
+00:12:00,469 --> 00:12:06,898
+A receita da companhia de software e inteligência artificial (IA) disparou 96% na comparação
+
+144
+00:12:06,898 --> 00:12:13,327
+anual, para US$ 2,31 bilhões, superando a expectativa de US$ 2,18 bilhões do mercado
+
+145
+00:12:13,327 --> 00:12:19,756
+The post Palantir vê lucro mais que dobrar no 3º trimestre e e Segundo
+
+146
+00:12:19,756 --> 00:12:25,267
+BBC World: Bollywood film star Ranbir Kapoor on AI, movies and fatherhood.
+
+147
+00:12:25,267 --> 00:12:29,933
+The film star plays the leading role in a major new adaptation of the
+
+148
+00:12:29,933 --> 00:12:30,933
+Indian epic Ramayana.
+
+149
+00:12:30,933 --> 00:12:37,396
+Segundo MIT Technology Review: Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test.
+
+150
+00:12:37,396 --> 00:12:42,243
+This story originally appeared in The Algorithm, our weekly newsletter on AI.
+
+151
+00:12:42,243 --> 00:12:46,636
+To get stories like this in your inbox first, sign up here.
+
+152
+00:12:46,636 --> 00:12:52,716
+At the end of September, President Trump signed an executive order that contained just
+
+153
+00:12:52,716 --> 00:12:58,797
+one directive, Segundo South China Morning Post: China’s ‘Lipstick King’ hawks tokens as AI
+
+154
+00:12:58,797 --> 00:13:00,969
+gets mass-market Singles’ Day push.
+
+155
+00:13:00,969 --> 00:13:06,159
+China’s “Lipstick King” has traded make-up swatches for artificial intelligence.
+
+156
+00:13:06,159 --> 00:13:12,626
+Top live-streamer Li Jiaqi on Monday evening teamed up with an executive from Alibaba
+
+157
+00:13:12,626 --> 00:13:17,707
+Group Holding to pitch AI subscriptions, selling nearly 100,000 monthly p
+
+158
+00:13:20,836 --> 00:13:20,967
+Agora, Saúde.
+
+159
+00:13:20,967 --> 00:13:21,947
+Segundo Agência Brasil: Duas pessoas morrem em queda de asa-delta em São Conrado, no Rio.
+
+160
+00:13:21,947 --> 00:13:22,143
+Duas pessoas morreram
+
+161
+00:13:22,093 --> 00:13:24,388
+Segundo Agência Brasil: Duas pessoas morrem em queda de asa-delta em São Conrado, no Rio.
+
+162
+00:13:24,388 --> 00:13:26,530
+Duas pessoas morreram nesta segunda-feira (2), depois que uma asa-delta caiu na praia de
+
+163
+00:13:26,530 --> 00:13:27,296
+São Conrado, na zona s
+
+164
+00:13:27,296 --> 00:13:29,723
+Duas pessoas morreram nesta segunda-feira (2), depois que uma asa-delta caiu na praia de
+
+165
+00:13:29,723 --> 00:13:31,630
+São Conrado, na zona sul da cidade do Rio de Janeiro.
+
+166
+00:13:31,630 --> 00:13:34,058
+O Corpo de Bombeiros informou que foi acionado para o socorro das vítimas, mas
+
+167
+00:13:34,058 --> 00:13:35,272
+não deu detalhes d Segundo UN Ne
+
+168
+00:14:50,165 --> 00:14:55,111
+Cobertura vacinal contra o sarampo está abaixo da meta A cobertura vacinal contra o
+
+169
+00:14:55,111 --> 00:14:58,998
+sarampo permanece abaixo da meta estabelecida pelo Ministério da Saúde nas
+
+170
+00:15:52,156 --> 00:15:54,297
+Agora, Cultura.
+
+171
+00:15:54,247 --> 00:15:59,373
+Segundo BBC News Brasil: Como um piloto de 20 anos, em sua segunda temporada
+
+172
+00:15:59,373 --> 00:16:03,401
+na F1, fez história como o mais jovem campeão do esporte.
+
+173
+00:16:03,401 --> 00:16:08,810
+Italiano conquista seu primeiro título mundial após elevar a média de pontos por corrida
+
+174
+00:16:08,810 --> 00:16:11,901
+de 6,25 para 20 em apenas uma temporada.
+
+175
+00:16:11,901 --> 00:16:18,116
+Segundo UN News: Six in seven journalist murders go unpunished, UNESCO reports.
+
+176
+00:16:18,116 --> 00:16:23,062
+Global impunity for journalist killings has risen for the first time in more than
+
+177
+00:16:23,062 --> 00:16:28,008
+a decade, while the growing use of drones is an emerging threat for reporters
+
+178
+00:16:28,008 --> 00:16:32,955
+in conflict zones, according to the latest report from UN cultural organization Segundo Comissão
+
+179
+00:16:32,955 --> 00:16:37,901
+Europeia: Speech by Commissioner Lahbib at the Opening of the European Civil Protection Forum.
+
+180
+00:16:37,901 --> 00:16:45,032
+European Commission Speech Brussels, 03 Nov 2026 Allow me to start with a personal memory.
+
+181
+00:16:45,032 --> 00:16:50,901
+Twenty-five years ago, I was in Afghanistan as a young reporter for Belgian television.
+
+182
+00:16:50,901 --> 00:16:53,235
+It was autumn 2001.
+
+183
+00:16:53,235 --> 00:16:54,758
+The war ha...
+
+184
+00:16:54,758 --> 00:17:01,568
+Segundo PBS NewsHour: Zelenskyy on his 'emotional' relationship with Trump and fighting Russia.
+
+185
+00:17:01,568 --> 00:17:06,463
+A Russian strike on an aid station and shelter killed at least 26 people
+
+186
+00:17:06,463 --> 00:17:08,211
+in southern Ukraine on Monday.
+
+187
+00:17:08,211 --> 00:17:13,027
+It was the latest in an unceasing series of Russian attacks on Ukrainian cities
+
+188
+00:17:13,027 --> 00:17:14,747
+and the civilians living there.
+
+189
+00:17:14,747 --> 00:17:21,310
+Before the bombing, Amna Segundo South China Morning Post: Hong Kong records 15th straight
+
+190
+00:17:21,310 --> 00:17:24,592
+quarter of growth as GDP rises 5.2%.
+
+191
+00:17:24,592 --> 00:17:30,123
+Hong Kong’s economy grew by 5.2 per cent year on year in the third
+
+192
+00:17:30,123 --> 00:17:35,654
+quarter, marking its 15th consecutive quarter of expansion, while retail sales rose by 6.4
+
+193
+00:17:35,654 --> 00:17:37,235
+per cent in September.
+
+194
+00:17:37,235 --> 00:17:42,742
+For the first three quarters combined, the economy expanded Segundo Agência Brasil: Impa Tech
+
+195
+00:17:42,742 --> 00:17:45,889
+abre inscrições para graduação em matemática nesta terça.
+
+196
+00:17:45,889 --> 00:17:50,935
+O período de inscrição para o curso de graduação em matemática da tecnologia e
+
+197
+00:17:50,935 --> 00:17:53,818
+inovação do Impa Tech começa nesta terça-feira (3).
+
+198
+00:17:53,818 --> 00:17:59,588
+Para esta edição serão ofertadas, pela primeira vez, vagas na unidade Impa Tech Nordeste,
+
+199
+00:17:59,588 --> 00:18:05,357
+no Tech Park Piauí, Segundo ONU News (PT): Calor extremo pode eliminar 2,4 milhões
+
+200
+00:18:05,357 --> 00:18:07,830
+de empregos na África até 2040.
+
+201
+00:18:07,830 --> 00:18:13,518
+Alerta da Organização Internacional do Trabalho coloca agricultura e construção entre os setores mais
+
+202
+00:18:13,518 --> 00:18:19,206
+vulneráveis; especialistas defendem mudanças nas jornadas laborais e medidas de proteção para reduzir os
+
+203
+00:18:19,206 --> 00:18:20,425
+impactos do calor.
+
+204
+00:18:20,425 --> 00:18:25,699
+Segundo DW (EN): How Iliana Yotova won the presidential election in Bulgaria.
+
+205
+00:18:25,699 --> 00:18:31,627
+Iliana Yotova won the presidential election in Bulgaria, promising to be a "president of peace.
+
+206
+00:18:31,627 --> 00:18:36,127
+But the campaign showed how divided Bulgarians are about the war in Ukraine and
+
+207
+00:18:36,127 --> 00:18:38,056
+drone attacks in the Black Sea.
+
+208
+00:18:41,212 --> 00:18:46,175
+Este foi o Brasil e Mundo Hoje de terça-feira, 3 de novembro de 2026.
+
+209
+00:18:46,125 --> 00:18:49,612
+O próximo boletim será publicado amanhã, às seis da manhã.
+
+210
+00:18:49,612 --> 00:18:50,957
+Até lá!
+
