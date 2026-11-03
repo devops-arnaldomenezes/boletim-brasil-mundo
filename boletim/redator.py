@@ -162,6 +162,7 @@ class Redator:
             if not itens:
                 log.warning("Seção %s sem notícias; pulando.", s["id"])
                 continue
+            orcamento = p_abertura if s["id"] == "destaques" else p_secao
             if self.cliente and self.falhas_ia < 2:  # disjuntor: após 2 falhas, segue sem IA
                 if s["id"] == "destaques":
                     pedido = PEDIDO_ABERTURA.format(data=data_extenso, titulo=self.cfg["titulo"],
@@ -175,7 +176,7 @@ class Redator:
                 except RuntimeError as e:
                     log.error("IA indisponível na seção %s (%s); usando modo extrativo.", s["id"], e)
                     self.falhas_ia += 1
-                    conteudo = self._extrativo(s, itens, data_extenso)
+                    conteudo = self._extrativo(s, itens, data_extenso, orcamento)
                 if self.cfg.get("revisao_ia", True) and not conteudo.get("_extrativo"):
                     try:
                         revisado = self._chamar(PEDIDO_REVISAO.format(
@@ -185,7 +186,7 @@ class Redator:
                     except RuntimeError as e:
                         log.warning("Revisão da seção %s falhou; mantendo versão original: %s", s["id"], e)
             else:
-                conteudo = self._extrativo(s, itens, data_extenso)
+                conteudo = self._extrativo(s, itens, data_extenso, orcamento)
             log.info("Seção %-12s %4d palavras", s["id"], len(conteudo["roteiro"].split()))
             segmentos.append({**s, **conteudo})
 
@@ -210,8 +211,14 @@ class Redator:
         return segmentos
 
     # ------------------------------------------------------------ fallback
-    def _extrativo(self, s: dict, itens: list[Noticia], data_extenso: str) -> dict:
-        sel = itens[:8]
+    def _extrativo(self, s: dict, itens: list[Noticia], data_extenso: str, palavras: int = 0) -> dict:
+        # Sem IA, a meta de duração é atingida lendo mais notícias reais coletadas (no mínimo 8, se houver).
+        sel, total = [], 0
+        for n in itens:
+            if len(sel) >= 8 and total >= palavras:
+                break
+            sel.append(n)
+            total += len(f"{n.fonte} {n.titulo} {n.resumo[:240]}".split()) + 1
         lista = [{"titulo": n.titulo, "texto": (n.resumo[:300] or n.titulo), "regiao": n.regiao,
                   "fontes": [n.fonte], "links": [n.link]} for n in sel]
         if s["id"] == "destaques":

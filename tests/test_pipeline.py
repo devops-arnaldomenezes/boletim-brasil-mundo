@@ -57,3 +57,15 @@ def test_vinheta_manim_renderiza(tmp_path):
     p = vinhetas.render("Transicao", {"duracao": 1, "cor": "#0B3D91", "cor2": "#1E88E5", "titulo": "Saúde"},
                         tmp_path / "v.mp4", "640x360")
     assert p and p.stat().st_size > 1000
+
+
+def test_extrativo_usa_orcamento_de_palavras():
+    cfg = carregar_yaml("config.yaml")
+    itens = [n for n in coletor.carregar(FIX)] * 5  # repete a fixture para simular uma seção cheia
+    r = Redator.__new__(Redator)
+    r.cfg = cfg
+    secao = {"id": "politica", "titulo": "Política"}
+    curto = r._extrativo(secao, itens, "hoje", 0)
+    longo = r._extrativo(secao, itens, "hoje", 700)
+    assert len(curto["itens"]) == min(8, len(itens))
+    assert len(longo["itens"]) > len(curto["itens"]) and len(longo["roteiro"].split()) >= 700
