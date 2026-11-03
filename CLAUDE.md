@@ -5,7 +5,7 @@ Comunique-se em português do Brasil.
 
 - Pipeline: `python -m boletim` (coleta → classificação → redação IA → áudio → vídeo → publicação).
 - Agendamento: `.github/workflows/boletim-diario.yml` (cron 06:30 UTC, publica às 06:00 BRT).
-- IA gratuita por padrão: GitHub Models (`provedor_ia` em `config/config.yaml`).
+- IA: `provedor_ia: auto` em `config/config.yaml` (Claude se houver ANTHROPIC_API_KEY, senão Gemini grátis com GEMINI_API_KEY, senão GitHub Models). Em 03/11/2026 o GitHub Models só respondia "OK"; sem IA o boletim sai em modo extrativo.
 - Memória do agente: `estado/estado.json` (saúde das fontes, ritmo de locução medido).
 - Cada edição: `edicoes/AAAA/MM/DD/` com `boletim.md`, `relatorio.json` (métricas), `noticias.json`, `roteiro.json`.
 - MP3/MP4 ficam nas Releases `edicao-AAAA-MM-DD`; site e feed do podcast no GitHub Pages.

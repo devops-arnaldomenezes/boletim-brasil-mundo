@@ -6,10 +6,11 @@ max_itens_por_fonte: 25
 max_itens_por_secao: 18     # itens enviados ao modelo por seção
 
 # Provedor de IA para resumo e roteiro:
-#   github    -> GitHub Models, gratuito no GitHub Actions (nenhuma chave extra)
-#   gemini    -> Google Gemini, camada gratuita (segredo GEMINI_API_KEY)
+#   auto      -> usa o primeiro com credencial: anthropic, depois gemini, depois github
+#   gemini    -> Google Gemini, camada gratuita (segredo GEMINI_API_KEY, criado no Google AI Studio)
+#   github    -> GitHub Models (em 03/11/2026 o serviço respondia apenas "OK", sem conteúdo)
 #   anthropic -> Claude, pago (segredo ANTHROPIC_API_KEY)
-provedor_ia: "github"
+provedor_ia: "auto"
 modelos_ia:
   github: "openai/gpt-4.1"
   gemini: "gemini-2.5-flash"

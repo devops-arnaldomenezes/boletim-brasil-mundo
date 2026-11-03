@@ -83,17 +83,25 @@ def _extrair_json(texto: str) -> dict:
 class Redator:
     def __init__(self, cfg: dict):
         self.cfg = cfg
-        self.provedor = cfg.get("provedor_ia", "github")
+        escolha = cfg.get("provedor_ia", "auto")
+        # "auto": usa o primeiro provedor com credencial disponível, nesta ordem
+        ordem = ["anthropic", "gemini", "github"] if escolha == "auto" else [escolha]
         self.falhas_ia = 0
         self.cliente = None
-        if self.provedor == "anthropic" and os.environ.get("ANTHROPIC_API_KEY"):
-            import anthropic
-            self.cliente = anthropic.Anthropic()
-        elif self.provedor == "github" and os.environ.get("GITHUB_TOKEN"):
-            self.cliente = ("https://models.github.ai/inference/chat/completions", os.environ["GITHUB_TOKEN"])
-        elif self.provedor == "gemini" and os.environ.get("GEMINI_API_KEY"):
-            self.cliente = ("https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
-                            os.environ["GEMINI_API_KEY"])
+        self.provedor = ordem[0]
+        for prov in ordem:
+            if prov == "anthropic" and os.environ.get("ANTHROPIC_API_KEY"):
+                import anthropic
+                self.cliente = anthropic.Anthropic()
+            elif prov == "gemini" and os.environ.get("GEMINI_API_KEY"):
+                self.cliente = ("https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+                                os.environ["GEMINI_API_KEY"])
+            elif prov == "github" and os.environ.get("GITHUB_TOKEN"):
+                self.cliente = ("https://models.github.ai/inference/chat/completions", os.environ["GITHUB_TOKEN"])
+            if self.cliente:
+                self.provedor = prov
+                log.info("Provedor de IA: %s", prov)
+                break
         if not self.cliente:
             log.warning("Sem credencial para o provedor '%s': usando modo extrativo (sem IA).", self.provedor)
 

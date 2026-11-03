@@ -34,9 +34,10 @@ Agendamento: [`.github/workflows/boletim-diario.yml`](.github/workflows/boletim-
 
 ## Configuração (uma vez)
 
-1. Nada de chave para começar: por padrão a IA é o **GitHub Models**, gratuito dentro do GitHub Actions
-   (`provedor_ia: github` em `config/config.yaml`). Alternativas: `gemini` (segredo `GEMINI_API_KEY`,
-   camada gratuita do Google AI Studio) ou `anthropic` (segredo `ANTHROPIC_API_KEY`, pago).
+1. IA gratuita: crie uma chave em [Google AI Studio](https://aistudio.google.com/apikey) (sem cartão) e
+   salve como segredo `GEMINI_API_KEY` em **Settings → Secrets and variables → Actions**. Com
+   `provedor_ia: auto`, o agente usa Claude (`ANTHROPIC_API_KEY`, pago) se existir, senão Gemini, senão
+   GitHub Models. Sem nenhuma IA, o boletim sai em modo extrativo (sem tradução).
 2. Em **Settings → Pages**, em *Source*, escolha **GitHub Actions**.
 3. Em **Actions**, rode manualmente "Boletim diário" (*Run workflow*) para gerar a primeira edição.
 

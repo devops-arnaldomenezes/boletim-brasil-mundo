@@ -130,7 +130,7 @@ def main(argv=None) -> int:
         "fontes_com_falha": sorted(n for n, (ok, _) in saude.items() if not ok),
         "fontes_pausadas": memoria.pausadas(est), "duracao_min": dur_min,
         "meta_duracao_ok": bool(dur_min and 30 <= dur_min <= 45), "palavras": palavras,
-        "ppm_usado": cfg["palavras_por_minuto"], "provedor_ia": cfg.get("provedor_ia"),
+        "ppm_usado": cfg["palavras_por_minuto"], "provedor_ia": redator.provedor,
         "ia_ativa": bool(redator.cliente), "falhas_ia": redator.falhas_ia,
         "secoes": {s["id"]: len(s.get("itens") or []) for s in segmentos},
     }, ensure_ascii=False, indent=1), encoding="utf-8")
