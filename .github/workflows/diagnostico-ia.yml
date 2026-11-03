@@ -1,0 +1,20 @@
+name: Diagnóstico da IA
+on: workflow_dispatch
+permissions:
+  models: read
+  contents: read
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Chamar GitHub Models
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for url in https://models.github.ai/inference/chat/completions; do
+            echo "== $url"
+            curl -sS -i "$url" -H "Authorization: Bearer $GH_TOKEN" -H "Content-Type: application/json" \
+              -H "Accept: application/json" -H "X-GitHub-Api-Version: 2022-11-28" \
+              -d '{"model":"openai/gpt-4.1","max_tokens":20,"messages":[{"role":"user","content":"Diga ola"}]}' | head -c 1500
+            echo
+          done
