@@ -106,8 +106,11 @@ class Redator:
             log.warning("Sem credencial para o provedor '%s': usando modo extrativo (sem IA).", self.provedor)
 
     # ------------------------------------------------------------------ IA
-    def _texto(self, sistema: str, pedido: str, max_tokens: int) -> str:
-        modelo = self.cfg["modelos_ia"][self.provedor]
+    def _modelos(self) -> list[str]:
+        m = self.cfg["modelos_ia"][self.provedor]
+        return m if isinstance(m, list) else [m]
+
+    def _texto(self, sistema: str, pedido: str, max_tokens: int, modelo: str) -> str:
         if self.provedor == "anthropic":
             resp = self.cliente.messages.create(model=modelo, max_tokens=max_tokens, system=sistema,
                                                 messages=[{"role": "user", "content": pedido}])
@@ -132,12 +135,15 @@ class Redator:
 
     def _chamar(self, pedido: str, max_tokens: int = 4000) -> dict:
         sistema = SISTEMA.format(titulo=self.cfg["titulo"])
+        modelos = self._modelos()
         for tentativa in range(4):
+            # alterna entre os modelos configurados: se um está sobrecarregado (503), tenta o próximo
+            modelo = modelos[tentativa % len(modelos)]
             try:
-                texto = self._texto(sistema, pedido, max_tokens)
+                texto = self._texto(sistema, pedido, max_tokens, modelo)
             except Exception as e:  # noqa: BLE001  (limite de uso, rede etc.)
-                log.warning("Erro na IA (tentativa %d): %s", tentativa + 1, e)
-                time.sleep(30 * (tentativa + 1))  # 503/429 de alta demanda costumam passar em minutos
+                log.warning("Erro na IA (tentativa %d, %s): %s", tentativa + 1, modelo, str(e)[:200])
+                time.sleep((5 if len(modelos) > 1 else 30) * (tentativa + 1))  # 503/429 de alta demanda costumam passar em minutos
                 continue
             try:
                 return _extrair_json(texto)
