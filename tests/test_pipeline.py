@@ -69,3 +69,21 @@ def test_extrativo_usa_orcamento_de_palavras():
     longo = r._extrativo(secao, itens, "hoje", 700)
     assert len(curto["itens"]) == min(8, len(itens))
     assert len(longo["itens"]) > len(curto["itens"]) and len(longo["roteiro"].split()) >= 700
+
+
+def test_fator_extensao_aprende():
+    from boletim import estado as m
+    est = {"fontes": {}}
+    f = m.registrar_extensao(est, 2500, 5000)  # IA escreveu metade do pedido
+    assert 1.3 < f <= 2.5
+
+
+def test_completa_secao_curta(monkeypatch):
+    for k in ("ANTHROPIC_API_KEY", "GITHUB_TOKEN", "GEMINI_API_KEY"):
+        monkeypatch.delenv(k, raising=False)
+    cfg = carregar_yaml("config.yaml")
+    itens = coletor.carregar(FIX)
+    r = Redator(cfg)
+    curto = {"itens": [{"titulo": itens[0].titulo, "texto": "x", "links": [itens[0].link]}], "roteiro": "Curto."}
+    out = r._completar({"id": "politica", "titulo": "Política"}, curto, itens, 400)
+    assert len(out["roteiro"].split()) > 100 and len(out["itens"]) > 1

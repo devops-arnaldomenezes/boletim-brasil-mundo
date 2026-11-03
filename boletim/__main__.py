@@ -41,6 +41,7 @@ def main(argv=None) -> int:
     trab.mkdir(exist_ok=True)
 
     est = memoria.carregar()
+    cfg["fator_extensao"] = est.get("fator_extensao") or 1.0
     if est.get("ppm_medido"):
         cfg["palavras_por_minuto"] = est["ppm_medido"]
         log.info("Ritmo de locução calibrado: %.0f palavras/min", est["ppm_medido"])
@@ -63,6 +64,8 @@ def main(argv=None) -> int:
     grupos = classificador.agrupar(noticias, [s["id"] for s in cfg["secoes"]], cfg["max_itens_por_secao"])
     redator = Redator(cfg)
     segmentos = redator.escrever(data_ext, grupos)
+    if not a.fixture and redator.palavras_ia[0]:
+        log.info("Fator de extensão da IA: %.2f", memoria.registrar_extensao(est, *redator.palavras_ia))
     (pasta / "roteiro.json").write_text(json.dumps(segmentos, ensure_ascii=False, indent=1), encoding="utf-8")
     palavras = sum(len(s["roteiro"].split()) for s in segmentos)
     log.info("Roteiro com %d palavras (~%.0f min)", palavras, palavras / cfg["palavras_por_minuto"])
@@ -132,6 +135,7 @@ def main(argv=None) -> int:
         "meta_duracao_ok": bool(dur_min and 30 <= dur_min <= 45), "palavras": palavras,
         "ppm_usado": cfg["palavras_por_minuto"], "provedor_ia": redator.provedor,
         "ia_ativa": bool(redator.cliente), "falhas_ia": redator.falhas_ia,
+        "fator_extensao": cfg["fator_extensao"], "palavras_ia_escritas_pedidas": redator.palavras_ia,
         "secoes": {s["id"]: len(s.get("itens") or []) for s in segmentos},
     }, ensure_ascii=False, indent=1), encoding="utf-8")
     if not a.fixture:

@@ -17,7 +17,8 @@ modelos_ia:
   anthropic: "claude-sonnet-5-5"
 duracao_alvo_min: 38             # entre 30 e 45 minutos
 palavras_por_minuto: 150         # valor inicial; o agente mede o ritmo real da voz e se recalibra (estado/estado.json)
-revisao_ia: true                 # segunda passada da IA checando cada seção contra as fontes
+revisao_ia: auto                 # 2ª passada de checagem de fatos; auto = só no Claude (pago), para poupar a cota gratuita
+intervalo_ia_s: 8                # pausa mínima entre chamadas à IA (limites por minuto das camadas gratuitas)
 
 voz_tts: "pt-BR-AntonioNeural"   # vozes edge-tts: pt-BR-AntonioNeural, pt-BR-FranciscaNeural, pt-BR-ThalitaNeural
 voz_tts_secundaria: "pt-BR-FranciscaNeural"

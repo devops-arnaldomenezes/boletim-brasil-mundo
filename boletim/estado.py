@@ -50,3 +50,13 @@ def registrar_ritmo(estado: dict, palavras: int, segundos: float) -> float:
 
 def pausadas(estado: dict) -> list[str]:
     return sorted(n for n, f in estado["fontes"].items() if f.get("falhas_seguidas", 0) >= DIAS_PARA_PAUSAR)
+
+
+def registrar_extensao(estado: dict, escritas: int, pedidas: int) -> float:
+    """Aprende quanto a IA costuma encurtar o texto e ajusta o pedido das próximas edições."""
+    fator = estado.get("fator_extensao") or 1.0
+    if escritas > 0 and pedidas > 0:
+        alvo = fator * pedidas / escritas
+        fator = max(1.0, min(2.5, 0.6 * fator + 0.4 * alvo))
+    estado["fator_extensao"] = round(fator, 2)
+    return estado["fator_extensao"]

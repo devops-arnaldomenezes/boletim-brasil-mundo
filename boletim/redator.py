@@ -34,9 +34,11 @@ A seguir, {n} notícias coletadas nas últimas 24 horas (JSON). Produza a seçã
 Responda APENAS com um JSON válido neste formato:
 {{
   "itens": [{{"titulo": "título curto em português", "texto": "resumo de 2 a 4 frases", "regiao": "brasil|europa|eua|asia|global", "fontes": ["nome da fonte"], "links": ["url"]}}],
-  "roteiro": "texto corrido para locução desta seção, com cerca de {palavras} palavras, começando com uma transição natural para a seção {secao}"
+  "roteiro": "texto corrido para locução desta seção, começando com uma transição natural para a seção {secao}"
 }}
 Selecione de {min_itens} a {max_itens} itens mais relevantes.
+IMPORTANTE: o roteiro DEVE ter NO MÍNIMO {palavras} palavras (a duração do programa depende disso).
+Dedique cerca de {por_item} palavras a cada item: o fato, o contexto e por que importa, sempre com base nas fontes.
 
 Notícias:
 {noticias}"""
@@ -87,6 +89,9 @@ class Redator:
         # "auto": usa o primeiro provedor com credencial disponível, nesta ordem
         ordem = ["anthropic", "gemini", "github"] if escolha == "auto" else [escolha]
         self.falhas_ia = 0
+        self.palavras_ia = [0, 0]  # [escritas pela IA, pedidas] para calibrar o fator de extensão
+        self.intervalo = float(cfg.get("intervalo_ia_s", 8))
+        self._ultima = 0.0
         self.cliente = None
         self.provedor = ordem[0]
         for prov in ordem:
@@ -137,13 +142,18 @@ class Redator:
         sistema = SISTEMA.format(titulo=self.cfg["titulo"])
         modelos = self._modelos()
         for tentativa in range(4):
+            espera = self.intervalo - (time.monotonic() - self._ultima)
+            if espera > 0:  # respeita o limite por minuto das camadas gratuitas
+                time.sleep(espera)
+            self._ultima = time.monotonic()
             # alterna entre os modelos configurados: se um está sobrecarregado (503), tenta o próximo
             modelo = modelos[tentativa % len(modelos)]
             try:
                 texto = self._texto(sistema, pedido, max_tokens, modelo)
             except Exception as e:  # noqa: BLE001  (limite de uso, rede etc.)
                 log.warning("Erro na IA (tentativa %d, %s): %s", tentativa + 1, modelo, str(e)[:200])
-                time.sleep((5 if len(modelos) > 1 else 30) * (tentativa + 1))  # 503/429 de alta demanda costumam passar em minutos
+                base = 30 if "HTTP 429" in str(e) else (5 if len(modelos) > 1 else 30)
+                time.sleep(base * (tentativa + 1))  # 503/429 de alta demanda costumam passar em minutos
                 continue
             try:
                 return _extrair_json(texto)
@@ -160,6 +170,7 @@ class Redator:
         p_abertura, p_fim = int(total_palavras * 0.10), int(total_palavras * 0.07)
         p_secao = int((total_palavras - p_abertura - p_fim) / max(len(miolo), 1))
 
+        fator = float(self.cfg.get("fator_extensao") or 1.0)  # aprendido em estado.json
         segmentos = []
         for s in secoes:
             itens = grupos.get(s["id"], [])
@@ -172,18 +183,24 @@ class Redator:
             if self.cliente and self.falhas_ia < 2:  # disjuntor: após 2 falhas, segue sem IA
                 if s["id"] == "destaques":
                     pedido = PEDIDO_ABERTURA.format(data=data_extenso, titulo=self.cfg["titulo"],
-                                                    palavras=p_abertura, noticias=_json_noticias(itens))
+                                                    palavras=int(p_abertura * fator), noticias=_json_noticias(itens))
                 else:
+                    pedir = int(p_secao * fator)
                     pedido = PEDIDO_SECAO.format(data=data_extenso, secao=s["titulo"], n=len(itens),
-                                                 palavras=p_secao, min_itens=5, max_itens=9,
-                                                 noticias=_json_noticias(itens))
+                                                 palavras=pedir, min_itens=7, max_itens=10,
+                                                 por_item=max(60, pedir // 9), noticias=_json_noticias(itens))
                 try:
                     conteudo = self._chamar(pedido)
                 except RuntimeError as e:
                     log.error("IA indisponível na seção %s (%s); usando modo extrativo.", s["id"], e)
                     self.falhas_ia += 1
                     conteudo = self._extrativo(s, itens, data_extenso, orcamento)
-                if self.cfg.get("revisao_ia", True) and not conteudo.get("_extrativo"):
+                if not conteudo.get("_extrativo"):
+                    self.palavras_ia[0] += len(conteudo["roteiro"].split())
+                    self.palavras_ia[1] += orcamento
+                revisar = self.cfg.get("revisao_ia", "auto")
+                revisar = (self.provedor == "anthropic") if revisar == "auto" else bool(revisar)
+                if revisar and not conteudo.get("_extrativo"):
                     try:
                         revisado = self._chamar(PEDIDO_REVISAO.format(
                             noticias=_json_noticias(itens), gerado=json.dumps(conteudo, ensure_ascii=False)))
@@ -193,6 +210,7 @@ class Redator:
                         log.warning("Revisão da seção %s falhou; mantendo versão original: %s", s["id"], e)
             else:
                 conteudo = self._extrativo(s, itens, data_extenso, orcamento)
+            conteudo = self._completar(s, conteudo, itens, orcamento)
             log.info("Seção %-12s %4d palavras", s["id"], len(conteudo["roteiro"].split()))
             segmentos.append({**s, **conteudo})
 
@@ -215,6 +233,22 @@ class Redator:
                             "O próximo boletim será publicado amanhã, às seis da manhã. Até lá!"}
             segmentos.append({**fim, **conteudo})
         return segmentos
+
+    def _completar(self, s: dict, conteudo: dict, itens: list[Noticia], orcamento: int) -> dict:
+        """Se a IA escreveu bem menos que o orçamento, completa com outras notícias reais da seção."""
+        faltam = int(orcamento * 0.85) - len(conteudo["roteiro"].split())
+        if conteudo.get("_extrativo") or faltam < 80 or s["id"] == "destaques":
+            return conteudo
+        usados = {i.get("titulo", "") for i in conteudo.get("itens", [])}
+        links = {l for i in conteudo.get("itens", []) for l in i.get("links", [])}
+        resto = [n for n in itens if n.link not in links and n.titulo not in usados]
+        if not resto:
+            return conteudo
+        extra = self._extrativo(s, resto, "", faltam)
+        texto = extra["roteiro"].split(". ", 1)[1] if ". " in extra["roteiro"] else extra["roteiro"]
+        log.info("Seção %s curta; completando com %d notícias extras.", s["id"], len(extra["itens"]))
+        return {**conteudo, "itens": conteudo["itens"] + extra["itens"],
+                "roteiro": conteudo["roteiro"] + f" Outras notícias de {s['titulo'].lower()}. " + texto}
 
     # ------------------------------------------------------------ fallback
     def _extrativo(self, s: dict, itens: list[Noticia], data_extenso: str, palavras: int = 0) -> dict:
