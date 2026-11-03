@@ -45,7 +45,8 @@ jobs:
 
   gerar-e-publicar:
     needs: verificar
-    if: needs.verificar.outputs.ja_publicada != 'true'
+    # manual: sempre gera (refaz a edição do dia); agendado: só se ainda não publicada
+    if: github.event_name == 'workflow_dispatch' || needs.verificar.outputs.ja_publicada != 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 240
     environment:

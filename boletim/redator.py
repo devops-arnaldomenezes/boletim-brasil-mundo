@@ -132,12 +132,12 @@ class Redator:
 
     def _chamar(self, pedido: str, max_tokens: int = 4000) -> dict:
         sistema = SISTEMA.format(titulo=self.cfg["titulo"])
-        for tentativa in range(3):
+        for tentativa in range(4):
             try:
                 texto = self._texto(sistema, pedido, max_tokens)
             except Exception as e:  # noqa: BLE001  (limite de uso, rede etc.)
                 log.warning("Erro na IA (tentativa %d): %s", tentativa + 1, e)
-                time.sleep(20 * (tentativa + 1))
+                time.sleep(30 * (tentativa + 1))  # 503/429 de alta demanda costumam passar em minutos
                 continue
             try:
                 return _extrair_json(texto)
