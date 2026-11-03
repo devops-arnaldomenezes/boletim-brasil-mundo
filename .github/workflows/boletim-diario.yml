@@ -4,6 +4,8 @@ on:
   schedule:
     # 06:30 UTC = 03:30 em Brasília. O cron do GitHub pode atrasar; a margem garante a publicação às 6h.
     - cron: "30 6 * * *"
+    # Reserva: o GitHub às vezes descarta o agendamento (03/11/2026 não disparou). Se a edição já saiu, nada é refeito.
+    - cron: "15 8 * * *"
   workflow_dispatch:
     inputs:
       publicar_imediatamente:
@@ -26,7 +28,24 @@ env:
   TZ: America/Sao_Paulo
 
 jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    outputs:
+      ja_publicada: ${{ steps.release.outputs.existe }}
+    steps:
+      - id: release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "edicao-$(date +%F)" -R "${{ github.repository }}" >/dev/null 2>&1; then
+            echo "Edição de hoje já publicada."; echo "existe=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "existe=false" >> "$GITHUB_OUTPUT"
+          fi
+
   gerar-e-publicar:
+    needs: verificar
+    if: needs.verificar.outputs.ja_publicada != 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 240
     environment:
@@ -75,14 +94,18 @@ jobs:
           git commit -m "Edição $(date +%F)" || echo "Nada a commitar"
           git push
 
+      # O site é complementar: enquanto o GitHub Pages não estiver ativado, a falha aqui não derruba a edição.
       - name: Montar site
+        continue-on-error: true
         run: python -m boletim.site _site
 
       - uses: actions/upload-pages-artifact@v3
+        continue-on-error: true
         with:
           path: _site
 
       - uses: actions/deploy-pages@v4
+        continue-on-error: true
 
       - name: Abrir issue automática em caso de falha
         if: failure()
