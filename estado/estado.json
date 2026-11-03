@@ -1,4 +1,5 @@
 {
+ "fator_extensao": 1.1,
  "fontes": {
   "Agência Brasil": {
    "falhas_seguidas": 0,
@@ -16,14 +17,14 @@
    "ultimo_ok": "2026-11-03"
   },
   "Agência Gov": {
-   "falhas_seguidas": 4
+   "falhas_seguidas": 5
   },
   "Agência IBGE": {
-   "falhas_seguidas": 4
+   "falhas_seguidas": 5
   },
   "Agência Senado": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 7,
+   "itens_ultimo": 8,
    "ultimo_ok": "2026-11-03"
   },
   "Al Jazeera": {
@@ -63,7 +64,7 @@
   },
   "Comissão Europeia": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 7,
+   "itens_ultimo": 8,
    "ultimo_ok": "2026-11-03"
   },
   "DW (EN)": {
@@ -78,7 +79,7 @@
   },
   "Estadão": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 17,
+   "itens_ultimo": 16,
    "ultimo_ok": "2026-11-03"
   },
   "Euronews": {
@@ -87,7 +88,7 @@
    "ultimo_ok": "2026-11-03"
   },
   "FMI / IMF": {
-   "falhas_seguidas": 4
+   "falhas_seguidas": 5
   },
   "Federal Reserve": {
    "falhas_seguidas": 0,
@@ -120,18 +121,18 @@
    "ultimo_ok": "2026-11-03"
   },
   "Korea Herald": {
-   "falhas_seguidas": 4
+   "falhas_seguidas": 5
   },
   "MIT Technology Review": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 6,
+   "itens_ultimo": 4,
    "ultimo_ok": "2026-11-03"
   },
   "NHK World": {
-   "falhas_seguidas": 4
+   "falhas_seguidas": 5
   },
   "NIH News": {
-   "falhas_seguidas": 4
+   "falhas_seguidas": 5
   },
   "NPR News": {
    "falhas_seguidas": 0,
@@ -140,7 +141,7 @@
   },
   "Nature News": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 12,
+   "itens_ultimo": 13,
    "ultimo_ok": "2026-11-03"
   },
   "New York Times": {
@@ -164,7 +165,7 @@
    "ultimo_ok": "2026-11-03"
   },
   "Parlamento Europeu": {
-   "falhas_seguidas": 4
+   "falhas_seguidas": 5
   },
   "RTP Notícias": {
    "falhas_seguidas": 0,
@@ -172,7 +173,7 @@
    "ultimo_ok": "2026-11-03"
   },
   "STF Notícias": {
-   "falhas_seguidas": 4
+   "falhas_seguidas": 5
   },
   "South China Morning Post": {
    "falhas_seguidas": 0,
@@ -210,8 +211,8 @@
    "ultimo_ok": "2026-11-03"
   },
   "UNESCO": {
-   "falhas_seguidas": 4
+   "falhas_seguidas": 5
   }
  },
- "ppm_medido": 146.5
+ "ppm_medido": 146.4
 }

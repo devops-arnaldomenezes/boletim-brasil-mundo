@@ -3,966 +3,1586 @@
 Bom dia!
 
 2
-00:00:04,583 --> 00:00:08,738
-Hoje é terça-feira, três de novembro de dois mil e vinte e seis.
+00:00:04,583 --> 00:00:08,976
+Hoje é terça-feira, três de novembro de dois anos e vinte e seis.
 
 3
-00:00:08,738 --> 00:00:13,786
-Sejam bem-vindos ao Brasil e Mundo Hoje, o seu boletim diário de notícias.
+00:00:08,976 --> 00:00:12,143
+Sejam bem-vindos ao Brasil e Mundo Hoje.
 
 4
-00:00:13,786 --> 00:00:18,429
-Destacamos as principais informações do cenário nacional e internacional.
+00:00:12,143 --> 00:00:15,786
+Acompanhe agora os principais destaques desta edição.
 
 5
-00:00:18,429 --> 00:00:23,189
-Segundo a Agência Brasil, o mercado financeiro elevou as projeções para a taxa básica
+00:00:15,786 --> 00:00:21,147
+Na economia nacional, o governo federal pretende enviar ainda hoje ao Congresso Nacional a
 
 6
-00:00:23,189 --> 00:00:27,949
-de juros, a inflação e o dólar neste ano, além de reduzir a estimativa
+00:00:21,147 --> 00:00:27,274
+medida provisória que regulamenta o Imposto Seletivo, segundo informou o Ministério da Fazenda à Agência Brasil.
 
 7
-00:00:27,949 --> 00:00:29,310
-de crescimento da economia.
+00:00:27,274 --> 00:00:32,061
+Ainda no cenário econômico, de acordo com o Boletim Focus divulgado pelo Banco Central
 
 8
-00:00:29,310 --> 00:00:34,471
-Ainda no país, de acordo com a Agência Brasil, a Agência Nacional de Vigilância
+00:00:32,061 --> 00:00:36,847
+e repercutido pela Agência Brasil, o mercado financeiro elevou as projeções para a inflação,
 
 9
-00:00:34,471 --> 00:00:39,633
-Sanitária determinou a interdição parcial de um terminal no Porto de Santos após identificar
+00:00:36,847 --> 00:00:41,976
+para a taxa básica de juros, a taxa Selic, e para o dólar neste ano.
 
 10
-00:00:39,633 --> 00:00:41,845
-irregularidades sanitárias em inspeção de rotina.
+00:00:41,976 --> 00:00:47,581
+No âmbito da justiça, conforme noticiou a Agência Brasil, o ministro Luiz Fux, do
 
 11
-00:00:41,845 --> 00:00:46,629
-E, no noticiário internacional, a rede PBS NewsHour informa que os Estados Unidos realizam
+00:00:47,581 --> 00:00:53,187
+Supremo Tribunal Federal, rebateu críticas sobre audiências públicas e declarou ter a percepção de
 
 12
-00:00:46,629 --> 00:00:51,413
-eleições de meio de mandato com disputas acirradas em estados como Flórida e Texas,
+00:00:53,187 --> 00:00:57,190
+que as apostas online, conhecidas como bets, devem ser banidas.
 
 13
-00:00:51,413 --> 00:00:56,197
-ao mesmo tempo em que o governo americano anunciou planos de encerrar o repasse
+00:00:57,190 --> 00:01:02,153
+Na editoria de saúde e portos, a Agência Brasil relata que a Agência Nacional
 
 14
-00:00:56,197 --> 00:01:00,298
-de quatro bilhões de dólares em ajuda a Israel no próximo ano.
+00:01:02,153 --> 00:01:07,116
+de Vigilância Sanitária determinou a interdição parcial de um terminal no Porto de Santos
 
 15
-00:01:00,298 --> 00:01:05,488
-Permaneçam conosco para acompanhar os desdobramentos desses e de outros fatos a seguir.
+00:01:07,116 --> 00:01:09,952
+após uma inspeção de rotina apontar irregularidades sanitárias.
 
 16
-00:01:08,644 --> 00:01:11,987
-Seguimos agora para a seção de Política do nosso boletim.
+00:01:09,952 --> 00:01:15,443
+E no cenário internacional, segundo a rede Public Broadcasting Service NewsHour e a rede
 
 17
-00:01:11,937 --> 00:01:17,398
-No cenário nacional, o presidente do Tribunal de Justiça de Mato Grosso do Sul,
+00:01:15,443 --> 00:01:20,933
+British Broadcasting Corporation News Brasil, os eleitores americanos votam hoje em eleições de meio
 
 18
-00:01:17,398 --> 00:01:22,080
-desembargador Dorival Renato Pavan, assumiu interinamente a chefia do Poder Executivo estadual.
+00:01:20,933 --> 00:01:26,423
+de mandato marcadas por disputas acirradas ao Senado e governos estaduais, com forte impacto
 
 19
-00:01:22,080 --> 00:01:27,269
-Segundo a Agência Brasil, a posse ocorreu neste domingo devido a uma licença temporária
+00:01:26,423 --> 00:01:29,952
+de debates sobre política externa e ajuda financeira internacional.
 
 20
-00:01:27,269 --> 00:01:30,234
-solicitada pelo governador Eduardo Riedel e pelo vice.
+00:01:33,100 --> 00:01:35,229
+Seja muito bem-vindo ou bem-vinda.
 
 21
-00:01:30,234 --> 00:01:35,187
-O magistrado permanece à frente do governo sul-mato-grossense até a próxima sexta-feira.
+00:01:35,179 --> 00:01:39,498
+Começamos agora a seção de política do boletim Brasil e Mundo Hoje desta terça-feira,
 
 22
-00:01:35,187 --> 00:01:40,904
-Na Câmara dos Deputados, a Comissão Especial sobre Transição Energética e Produção de Hidrogênio
+00:01:39,498 --> 00:01:42,583
+três de novembro de dois mil e vinte e seis.
 
 23
-00:01:40,904 --> 00:01:47,437
-Verde realiza um seminário para debater a implementação da Política Nacional de Minerais Críticos e Estratégicos.
+00:01:42,583 --> 00:01:47,779
+Vamos detalhar os principais fatos que movimentam os poderes e a diplomacia no cenário
 
 24
-00:01:47,437 --> 00:01:52,177
-De acordo com a Agência Câmara, o debate aborda o crescimento da demanda por
+00:01:47,779 --> 00:01:48,893
+nacional e internacional.
 
 25
-00:01:52,177 --> 00:01:55,901
-esses recursos para atender ao avanço das tecnologias de energia renovável.
+00:01:48,893 --> 00:01:54,079
+No Brasil, o ministro Luiz Fux, do Supremo Tribunal Federal, rebateu críticas sobre a
 
 26
-00:01:55,901 --> 00:02:01,185
-No cenário internacional, os eleitores dos Estados Unidos votam nesta terça-feira nas eleições de
+00:01:54,079 --> 00:01:59,265
+escolha de participantes para a audiência pública convocada para debater a proibição das apostas
 
 27
-00:02:01,185 --> 00:02:02,318
-meio de mandato.
+00:01:59,265 --> 00:02:01,488
+online, conhecidas como bets, no país.
 
 28
-00:02:02,318 --> 00:02:07,087
-Conforme publicações da imprensa internacional, o pleito decide o controle da Câmara dos Representantes
+00:02:01,488 --> 00:02:07,940
+Fux destacou que já ouviu entidades contrárias à autorização que expuseram malefícios graves, como a ludopatia.
 
 29
-00:02:07,087 --> 00:02:11,856
-e do Senado e é visto como um referendo sobre o governo do presidente
+00:02:07,940 --> 00:02:13,512
+A discussão ganha enorme relevância diante do impacto social e econômico do avanço vertiginoso
 
 30
-00:02:11,856 --> 00:02:17,306
-Donald Trump, mobilizando o eleitorado em disputas acirradas como a vaga para o Senado na Flórida.
+00:02:13,512 --> 00:02:18,287
+dos jogos de azar e da regulamentação desse mercado no território brasileiro.
 
 31
-00:02:17,306 --> 00:02:21,867
-Ainda nos Estados Unidos, o presidente Donald Trump declarou à imprensa que o país
+00:02:18,287 --> 00:02:23,858
+Ainda no âmbito legislativo nacional, a Comissão Especial sobre Transição Energética e Produção de
 
 32
-00:02:21,867 --> 00:02:26,427
-vai interromper o repasse de quatro bilhões de dólares em ajuda financeira a Israel
+00:02:23,858 --> 00:02:29,429
+Hidrogênio Verde da Câmara dos Deputados realizou um seminário fundamental sobre a implementação da
 
 33
-00:02:26,427 --> 00:02:28,056
-a partir do próximo ano.
+00:02:29,429 --> 00:02:32,214
+Política Nacional de Minerais Críticos e Estratégicos.
 
 34
-00:02:28,056 --> 00:02:33,995
-Segundo a rede PBS NewsHour, o republicano afirmou que a medida foi discutida com
+00:02:32,214 --> 00:02:37,452
+O debate abordou a crescente demanda internacional e interna por esses recursos para atender
 
 35
-00:02:33,995 --> 00:02:36,115
-o primeiro-ministro israelense, Benjamin Netanyahu.
+00:02:37,452 --> 00:02:40,071
+ao avanço das tecnologias de energia renovável.
 
 36
-00:02:36,115 --> 00:02:41,013
-Em outra frente judicial americana, a Suprema Corte rejeitou um pedido da administração de
+00:02:40,071 --> 00:02:45,201
+O tema é considerado central para a estratégia industrial, econômica e ambiental do Brasil
 
 37
-00:02:41,013 --> 00:02:45,211
-Trump para bloquear mais de vinte mil cédulas de votação na Califórnia.
+00:02:45,201 --> 00:02:46,667
+para os próximos anos.
 
 38
-00:02:45,211 --> 00:02:49,852
-De acordo com a emissora DW, o governo argumentava que a relação continha eleitores
+00:02:46,667 --> 00:02:51,135
+Continuando no Congresso Nacional, o Senado Federal analisa, por meio da Comissão de Constituição
 
 39
-00:02:49,852 --> 00:02:51,842
-que não são cidadãos do país.
+00:02:51,135 --> 00:02:55,604
+e Justiça, o projeto de lei que cria o Fundo de Amparo às Crianças
 
 40
-00:02:51,842 --> 00:02:56,710
-Em relação ao conflito na Europa, a Organização das Nações Unidas alertou sobre a
+00:02:55,604 --> 00:02:58,476
+Órfãs e o Programa de Amparo às Crianças Órfãs.
 
 41
-00:02:56,710 --> 00:02:58,449
-situação da educação na Ucrânia.
+00:02:58,476 --> 00:03:03,870
+O objetivo principal da proposta é garantir suporte financeiro e assistencial adequado a crianças
 
 42
-00:02:58,449 --> 00:03:02,797
-Segundo a ONU News, o Fundo das Nações Unidas para a Infância, a Unicef,
+00:03:03,870 --> 00:03:06,952
+e adolescentes que perderam pais ou cuidadores primários.
 
 43
-00:03:02,797 --> 00:03:07,144
-apontou que o país sofreu quase dois mil ataques contra instituições de ensino desde
+00:03:06,952 --> 00:03:12,255
+A medida é voltada especificamente para famílias de baixa renda e prevê a possibilidade
 
 44
-00:03:07,144 --> 00:03:11,492
-a invasão russa em dois mil e vinte e dois, sendo duzentos e setenta
+00:03:12,255 --> 00:03:15,286
+de acúmulo com outros auxílios governamentais já existentes.
 
 45
-00:03:11,492 --> 00:03:12,734
-ocorrências apenas neste ano.
+00:03:15,286 --> 00:03:20,123
+Mudando o foco para o cenário internacional, os eleitores nos Estados Unidos vão às
 
 46
-00:03:12,734 --> 00:03:17,788
-Para finalizar, na Ásia, o general Zhang Shengmin, alto dirigente militar da China, reuniu-se
+00:03:20,123 --> 00:03:24,961
+urnas nesta terça-feira para as cruciais eleições de meio de mandato, vistas por analistas
 
 47
-00:03:17,788 --> 00:03:21,758
-em Pequim com o ministro da Defesa da Rússia, Andrey Belousov.
+00:03:24,961 --> 00:03:28,762
+como um referendo direto sobre o governo do presidente Donald Trump.
 
 48
-00:03:21,758 --> 00:03:27,381
-Conforme o South China Morning Post, o encontro teve como objetivo aprofundar a cooperação
+00:03:28,762 --> 00:03:33,378
+A votação de hoje decide o controle da Câmara dos Deputados e do Senado,
 
 49
-00:03:27,381 --> 00:03:30,996
-militar e a coordenação estratégica entre os dois países.
+00:03:33,378 --> 00:03:37,993
+com pesquisas de opinião apontando a real possibilidade de o Partido Democrata retomar o
 
 50
-00:03:34,060 --> 00:03:36,986
-Agora, Economia e Mercados.
+00:03:37,993 --> 00:03:42,609
+controle de pelo menos uma das casas legislativas na reta final do mandato presidencial.
 
 51
-00:03:36,936 --> 00:03:43,698
-Segundo Agência Brasil: Mercado eleva projeção para inflação, juros e dólar em 2026.
+00:03:42,609 --> 00:03:47,225
+Também nos Estados Unidos, o presidente Donald Trump declarou que o país vai parar
 
 52
-00:03:43,698 --> 00:03:49,000
-O mercado financeiro elevou as projeções para a taxa básica de juros (Selic), a
+00:03:47,225 --> 00:03:52,500
+de conceder quatro bilhões de dólares em ajuda financeira a Israel a partir do próximo ano.
 
 53
-00:03:49,000 --> 00:03:54,302
-inflação e o dólar neste ano e reduziu, pela terceira semana consecutiva, a estimativa
+00:03:52,500 --> 00:03:58,316
+Segundo o mandatário republicano, a decisão foi discutida com o primeiro-ministro israelense Benjamin Netanyahu
 
 54
-00:03:54,302 --> 00:03:55,817
-de crescimento da economia.
+00:03:58,316 --> 00:04:00,393
+ao longo dos últimos anos.
 
 55
-00:03:55,817 --> 00:04:03,181
-Os dados constam do Boletim Focus, relatório Segundo Comissão Europeia: Commission conditionally approves JD.com's
+00:04:00,393 --> 00:04:05,566
+A medida inesperada ocorre em meio a intensas discussões políticas sobre o envolvimento estratégico
 
 56
-00:04:03,181 --> 00:04:07,389
-acquisition of CECONOMY under the Foreign Subsidies Regulation.
+00:04:05,566 --> 00:04:09,631
+de Washington no Oriente Médio e as repercussões nas eleições locais.
 
 57
-00:04:07,389 --> 00:04:15,825
-European Commission Press release Brussels, 03 Nov 2026 The European Commission has approved, under
+00:04:09,631 --> 00:04:14,679
+Ainda na política norte-americana, a Suprema Corte do país rejeitou um recurso apresentado pelo
 
 58
-00:04:15,825 --> 00:04:24,262
-the Foreign Subsidies Regulation ('FSR'), the acquisition of CECONOMY AG ('CECONOMY') by JD.com, Inc.
+00:04:14,679 --> 00:04:19,726
+governo Trump que tentava bloquear mais de vinte mil votos no estado da Califórnia.
 
 59
-00:04:24,262 --> 00:04:24,865
-('JD.com').
+00:04:19,726 --> 00:04:26,000
+A administração argumentava que a lista de eleitores continha pessoas que não possuem a cidadania norte-americana.
 
 60
-00:04:24,865 --> 00:04:31,049
-The approval is conditiona Segundo New York Times: Saudi Aramco Profit Jumps Despite Damaging
+00:04:26,000 --> 00:04:30,674
+O caso reflete a intensa e contínua disputa judicial em torno da lisura e
 
 61
-00:04:31,049 --> 00:04:33,258
-Attacks on Pipelines and Refineries.
+00:04:30,674 --> 00:04:33,345
+das regras dos processos eleitorais em solo americano.
 
 62
-00:04:33,258 --> 00:04:39,805
-Saudi Arabia’s state-owned oil company posted a 9 percent increase in third-quarter profit on Tuesday.
+00:04:33,345 --> 00:04:37,892
+Passando para os temas globais, o Fundo das Nações Unidas para a Infância informou
 
 63
-00:04:39,805 --> 00:04:45,090
-Segundo South China Morning Post: Why a midterm mauling for Trump will not bring
+00:04:37,892 --> 00:04:42,439
+em novo relatório que a Ucrânia sofreu quase dois mil ataques contra instalações educacionais
 
 64
-00:04:45,090 --> 00:04:46,222
-Asia trade relief.
+00:04:42,439 --> 00:04:46,985
+desde o início da invasão russa em dois mil e vinte e dois, sendo
 
 65
-00:04:46,222 --> 00:04:51,006
-Since returning to the White House in January last year, US President Donald Trump
+00:04:46,985 --> 00:04:49,583
+duzentos e setenta ocorrências registradas apenas neste ano.
 
 66
-00:04:51,006 --> 00:04:55,789
-has upended the global trading order with his scattergun approach to tariffs and launched
+00:04:49,583 --> 00:04:54,650
+O alerta humanitário foi emitido após um ataque recente a uma escola que estava
 
 67
-00:04:55,789 --> 00:04:58,865
-a war on Iran that sent oil prices soaring.
+00:04:54,650 --> 00:04:56,821
+sendo utilizada para distribuir ajuda humanitária.
 
 68
-00:04:58,865 --> 00:05:04,829
-On Tuesday, American vo Segundo Agência Câmara: Comissão debate projeto que cria Marco de
+00:04:56,821 --> 00:05:01,560
+O conflito segue gerando perdas severas e profundo impacto na vida civil.
 
 69
-00:05:04,829 --> 00:05:07,384
-Fomento à Economia Digital no Brasil.
+00:05:01,612 --> 00:05:06,266
+Por fim, na Ásia, o general Zhang Shengmin, que é o vice-presidente da Comissão
 
 70
-00:05:07,384 --> 00:05:13,348
-Depositphotos Objetivo é aprofundar análise técnica da proposta A Comissão de Desenvolvimento Econômico da
+00:05:06,266 --> 00:05:11,586
+Militar Central da China, encontrou-se com o ministro da Defesa da Rússia, Andrey Belousov, em Pequim.
 
 71
-00:05:13,348 --> 00:05:19,312
-Câmara dos Deputados realiza, nesta quarta-feira (4), audiência pública para discutir o Projeto de
+00:05:11,536 --> 00:05:16,809
+Durante a reunião bilateral, o oficial chinês prometeu aprofundar ainda mais a cooperação militar
 
 72
-00:05:19,312 --> 00:05:25,276
-Lei 5960/25 , que institui o Marco Segundo France 24: Californians vote on ballot
+00:05:16,809 --> 00:05:19,822
+e a coordenação estratégica entre Pequim e Moscou.
 
 73
-00:05:25,276 --> 00:05:28,258
-initiative to impose one-time tax on billionaires.
+00:05:19,822 --> 00:05:25,263
+O movimento reforça de maneira expressiva os laços diplomáticos e militares entre as duas
 
 74
-00:05:28,258 --> 00:05:33,424
-This Tuesday, Californians are voting on a landmark plan to impose a one-time tax
+00:05:25,263 --> 00:05:27,595
+potências no atual cenário geopolítico mundial.
 
 75
-00:05:33,424 --> 00:05:36,377
-on billionaires to fund the state's healthcare system.
+00:05:27,595 --> 00:05:28,929
+Continue conosco.
 
 76
-00:05:36,377 --> 00:05:38,615
-We take a closer look.
+00:05:28,929 --> 00:05:32,572
+A seguir, traremos as atualizações de economia e cultura.
 
 77
-00:05:38,615 --> 00:05:44,007
-Also on the show: global oil prices fell sharply on the eve of the
+00:05:32,572 --> 00:05:36,310
+O boletim Brasil e Mundo Hoje retorna em instantes.
 
 78
-00:05:44,007 --> 00:05:49,399
-US midterm el Segundo South China Morning Post: Cuba flight, Taiwan trade pushback, Panama
+00:05:39,460 --> 00:05:44,256
+Seguindo agora para a nossa editoria de Economia e Mercados, vamos aos principais fatos
 
 79
-00:05:49,399 --> 00:05:51,710
-probe: 7 Latin America relations reads.
+00:05:44,256 --> 00:05:49,053
+que movimentam o cenário financeiro no Brasil e ao redor do planeta nesta terça-feira.
 
 80
-00:05:51,710 --> 00:05:56,813
-We have selected seven of the most interesting and important news stories covering Latin
+00:05:49,003 --> 00:05:54,274
+Começando pelos rumos fiscais do país, segundo a Agência Brasil, o ministro da Fazenda,
 
 81
-00:05:56,813 --> 00:05:59,365
-American relations from the past few weeks.
+00:05:54,274 --> 00:05:59,546
+Dario Durigan, informou que o governo pretende enviar ainda hoje ao Congresso Nacional a
 
 82
-00:05:59,365 --> 00:06:04,722
-If you would like to see more of our reporting, please consider subscribing.
+00:05:59,546 --> 00:06:02,181
+medida provisória que regulamenta o Imposto Seletivo.
 
 83
-00:06:04,722 --> 00:06:05,123
-1.
+00:06:02,181 --> 00:06:07,385
+O texto será discutido primeiramente com o presidente Luiz Inácio Lula da Silva antes
 
 84
-00:06:05,123 --> 00:06:10,731
-Air China scrambles to fly Segundo Agência Senado: Áudio: CCJ analisa criação de fundo
+00:06:07,385 --> 00:06:08,872
+do envio ao Legislativo.
 
 85
-00:06:10,731 --> 00:06:12,734
-de amparo às crianças órfãs.
+00:06:08,872 --> 00:06:14,336
+A expectativa é de que a regulamentação avance para definir novas diretrizes tributárias.
 
 86
-00:06:12,734 --> 00:06:17,508
-A Comissão de Constituição e Justiça (CCJ) analisa projeto de lei que cria o
+00:06:14,336 --> 00:06:19,275
+Ainda no cenário nacional, de acordo com a Agência Brasil, o mercado financeiro elevou
 
 87
-00:06:17,508 --> 00:06:22,281
-Fundo de Amparo às Crianças Órfãs e o Programa de Amparo às Crianças Órfãs.
+00:06:19,275 --> 00:06:24,214
+as projeções para a taxa básica de juros, a inflação e o dólar neste
 
 88
-00:06:22,281 --> 00:06:28,805
-O PL 2.329/2021 tem o objetivo de garantir suporte financeiro e assistencial a crianças
+00:06:24,214 --> 00:06:28,800
+ano, enquanto reduziu pela terceira semana consecutiva a estimativa de crescimento da economia.
 
 89
-00:06:28,805 --> 00:06:35,329
-Segundo The Guardian World: Brazil publishes first global ‘roadmap’ for phasing out fossil fuels.
+00:06:28,800 --> 00:06:34,092
+Os dados foram publicados no Boletim Focus, relatório semanal do Banco Central, refletindo um
 
 90
-00:06:35,329 --> 00:06:40,196
-Cop30 host sets out steps to break link with coal, oil and gas as
+00:06:34,092 --> 00:06:37,872
+ambiente de maior cautela com a inflação e o câmbio.
 
 91
-00:06:40,196 --> 00:06:45,062
-it aims to move focus from negotiating to implementing All countries can start to
+00:06:37,872 --> 00:06:42,720
+No legislativo, a Agência Câmara destaca que a Comissão de Desenvolvimento Econômico realiza nesta
 
 92
-00:06:45,062 --> 00:06:49,929
-break their dependence on fossil fuels now without needing to wait for new technologies
+00:06:42,720 --> 00:06:47,567
+quarta-feira uma audiência pública para discutir o Projeto de Lei que institui o Marco
 
 93
-00:06:49,929 --> 00:06:54,448
-or e Segundo Al Jazeera: Alaska Senate candidates trade accusations ahead of election.
+00:06:47,567 --> 00:06:49,991
+de Fomento à Economia Digital no Brasil.
 
 94
-00:06:54,448 --> 00:07:00,326
-Alaska Senate candidates trade accusations ahead of election Segundo Agência Câmara: Comissão aprova isenção
+00:06:49,991 --> 00:06:55,355
+O debate foi marcado para a manhã no plenário cinco, por solicitação do deputado
 
 95
-00:07:00,326 --> 00:07:05,365
-de taxa da carteira de habilitação para motoristas de veículos de emergência.
+00:06:55,355 --> 00:07:00,336
+Jadyel Alencar, buscando aprofundar a análise técnica sobre o desenvolvimento digital no país.
 
 96
-00:07:05,365 --> 00:07:11,165
-Texto segue em análise na Câmara do Deputados Segundo France 24: US strikes Iran's
+00:07:00,336 --> 00:07:05,468
+Por fim, a InfoMoney relata que o economista Lara Resende apresentou uma proposta polêmica
 
 97
-00:07:11,165 --> 00:07:13,651
-Qeshm Island as midterm elections start.
+00:07:05,468 --> 00:07:10,967
+para o ajuste fiscal, argumentando que o principal problema está no serviço da dívida pública.
 
 98
-00:07:13,651 --> 00:07:18,942
-The United States has conducted defensive strikes on some Iranian targets in the Strait
+00:07:10,967 --> 00:07:16,800
+Pelo plano discutido, o Banco Central reduziria gradualmente a taxa Selic para sete pontos
 
 99
-00:07:18,942 --> 00:07:24,234
-of Hormuz, a US official said Monday, on the eve of crucial midterm elections.
+00:07:16,800 --> 00:07:22,634
+e meio percentuais em doze meses, utilizando reservas para suavizar a depreciação cambial, gerando
 
 100
-00:07:24,234 --> 00:07:28,140
-The unpopular Iran war and the resulting impact on U.S.
+00:07:22,634 --> 00:07:25,550
+debates intensos entre especialistas da área econômica.
 
 101
-00:07:28,140 --> 00:07:32,436
-gasoline prices a Segundo The Hindu: California could become first U.S.
+00:07:25,550 --> 00:07:31,757
+Passando para o cenário internacional e cruzando o Atlântico, a Comissão Europeia aprovou, sob
 
 102
-00:07:32,436 --> 00:07:34,389
-State to tax billionaires' wealth.
+00:07:31,757 --> 00:07:38,408
+o regulamento de subsídios estrangeiros, a aquisição da empresa alemã CECONOMY pela gigante asiática JD.com.
 
 103
-00:07:34,389 --> 00:07:40,305
-Proposition 40 would impose a one-time 5% tax on the wealth of Californians whose
+00:07:38,408 --> 00:07:43,951
+A aprovação é condicional ao cumprimento integral dos compromissos assumidos pelas partes para garantir
 
 104
-00:07:40,305 --> 00:07:46,222
-net worth exceeds $1 billion, with most of the revenue dedicated to replacing federal
+00:07:43,951 --> 00:07:47,515
+a manutenção da competitividade no mercado europeu de varejo.
 
 105
-00:07:46,222 --> 00:07:52,139
-funding cuts to healthcare Segundo InfoMoney: Ibovespa Hoje Ao Vivo: Bolsa cai com Focus
+00:07:47,515 --> 00:07:52,639
+Ainda na Europa, O The Guardian World informa que o governo brasileiro apresentou o
 
 106
-00:07:52,139 --> 00:07:54,674
-e preocupação fiscal; PETR4 recua 4%.
+00:07:52,639 --> 00:07:57,763
+primeiro roteiro global para a eliminação gradual dos combustíveis fósseis, orientando a transição energética
 
 107
-00:07:54,674 --> 00:07:57,460
-Bolsas dos EUA operam
+00:07:57,763 --> 00:08:01,789
+mundial para longe do carvão, do petróleo e do gás natural.
 
 108
-00:07:57,604 --> 00:08:02,875
-mistas com eleições e balanço da Apple em foco The post Ibovespa Hoje Ao
+00:08:01,789 --> 00:08:06,747
+A iniciativa busca transformar o foco das negociações climáticas em ações práticas de implementação
 
 109
-00:08:02,875 --> 00:08:08,899
-Vivo: Bolsa cai com Focus e preocupação fiscal; PETR4 recua 4% appeared first on InfoMoney .
+00:08:06,747 --> 00:08:11,705
+que possam ser adotadas por todos os países, consolidando o legado do país após
 
 110
-00:08:08,849 --> 00:08:15,706
-Segundo The Guardian World: Public service union refuses to back Labor at Victorian election,
+00:08:11,705 --> 00:08:14,539
+sediar a conferência da ONU sobre o clima.
 
 111
-00:08:15,706 --> 00:08:19,135
-condemning job cuts and $1.2bn consultant spend.
+00:08:14,539 --> 00:08:19,435
+Nos Estados Unidos, de acordo com o South China Morning Post e a France
 
 112
-00:08:19,135 --> 00:08:24,814
-Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of
+00:08:19,435 --> 00:08:24,331
+24, os eleitores participam nesta terça-feira das eleições de meio de mandato em um
 
 113
-00:08:24,814 --> 00:08:30,493
-unions turning on Carroll government Get our breaking news email , free app or
+00:08:24,331 --> 00:08:29,227
+contexto marcado por inflação persistente e elevado custo de vida no segundo mandato do
 
 114
-00:08:30,493 --> 00:08:36,172
-daily news podcast Victoria’s public servants union Segundo South China Morning Post: Indonesia under
+00:08:29,227 --> 00:08:30,277
+presidente Donald Trump.
 
 115
-00:08:36,172 --> 00:08:41,040
-mounting pressure to scrap VAT on sanitary pads amid rising living costs.
+00:08:30,277 --> 00:08:35,675
+Os reflexos econômicos de conflitos internacionais e da política comercial têm pressionado a popularidade
 
 116
-00:08:41,040 --> 00:08:46,660
-The Indonesian government is facing mounting pressure to scrap the value-added tax (VAT) on
+00:08:35,675 --> 00:08:41,072
+do Partido Republicano no Congresso, em um pleito que pode redefinir o cenário político
 
 117
-00:08:46,660 --> 00:08:52,280
-sanitary pads and other menstrual hygiene products, with critics arguing it adds to the
+00:08:41,072 --> 00:08:42,229
+e econômico americano.
 
 118
-00:08:52,280 --> 00:08:55,492
-financial burden for women from low-income families already
+00:08:42,229 --> 00:08:46,956
+No setor energético, o New York Times aponta que a empresa estatal de petróleo
 
 119
-00:08:58,636 --> 00:09:03,326
-Seguimos com o nosso boletim diário, agora com as principais atualizações do setor de
+00:08:46,956 --> 00:08:51,684
+da Arábia Saudita, a Saudi Aramco, registrou um aumento de nove por cento em
 
 120
-00:09:03,326 --> 00:09:05,336
-tecnologia no Brasil e no mundo.
+00:08:51,684 --> 00:08:53,372
+seu lucro no terceiro trimestre.
 
 121
-00:09:05,286 --> 00:09:10,619
-Na Ásia, a inteligência artificial esteve no centro dos debates econômicos e diplomáticos.
+00:08:53,372 --> 00:08:59,305
+O resultado positivo ocorreu apesar dos danos causados por ataques recentes a oleodutos e
 
 122
-00:09:10,619 --> 00:09:15,675
-Segundo o jornal South China Morning Post, o presidente da Alibaba Group Holding, Joe
+00:08:59,305 --> 00:09:03,967
+refinarias, demonstrando a robustez financeira da companhia perante as tensões regionais.
 
 123
-00:09:15,675 --> 00:09:20,730
-Tsai, afirmou que o código aberto é o único caminho viável para criar uma
+00:09:03,967 --> 00:09:08,246
+Na Ásia e no Pacífico, a France 24 e o The Hindu reportam que
 
 124
-00:09:20,730 --> 00:09:22,536
-indústria de inteligência artificial sustentável.
+00:09:08,246 --> 00:09:12,525
+os eleitores da Califórnia votam nesta terça-feira em uma iniciativa para instituir um imposto
 
 125
-00:09:22,536 --> 00:09:27,450
-A declaração foi feita durante a abertura da cúpula da internet em Wuzhen, na
+00:09:12,525 --> 00:09:16,804
+único de cinco por cento sobre a riqueza de indivíduos com patrimônio superior a
 
 126
-00:09:27,450 --> 00:09:32,364
-China, ocorrendo em um cenário de crescentes resistências por parte dos Estados Unidos em
+00:09:16,804 --> 00:09:18,027
+um bilhão de dólares.
 
 127
-00:09:32,364 --> 00:09:34,119
-relação ao ecossistema tecnológico chinês.
+00:09:18,027 --> 00:09:23,998
+A arrecadação planejada destina-se a financiar o sistema de saúde estadual para compensar cortes
 
 128
-00:09:34,119 --> 00:09:39,036
-Na Europa, a segurança digital voltou a preocupar autoridades e o setor comercial.
+00:09:23,998 --> 00:09:27,836
+federais, atraindo atenção global sobre a tributação de super-ricos.
 
 129
-00:09:39,036 --> 00:09:43,685
-De acordo com a rede BBC World, tanto a Ucrânia quanto a Rússia relataram
+00:09:27,836 --> 00:09:29,360
+Para encerrar
 
 130
-00:09:43,685 --> 00:09:48,334
-que seus aplicativos oficiais de alerta de ataques aéreos foram alvos de ataques cibernéticos.
+00:09:29,500 --> 00:09:34,597
+o bloco, o South China Morning Post destaca que o governo da Indonésia enfrenta
 
 131
-00:09:48,334 --> 00:09:54,593
-Em paralelo, dezenas de estabelecimentos comerciais em países europeus foram atingidos por uma ofensiva
+00:09:34,597 --> 00:09:40,057
+pressão crescente para eliminar o imposto sobre valor agregado incidente sobre produtos de higiene menstrual.
 
 132
-00:09:54,593 --> 00:10:00,853
-hacker que comprometeu os sistemas de refrigeração e freezers em supermercados, levantando novos alertas
+00:09:40,007 --> 00:09:44,572
+Manifestantes e críticos argumentam que a tributação sobre absorventes eleva o fardo financeiro para
 
 133
-00:10:00,853 --> 00:10:03,536
-sobre a vulnerabilidade de infraestruturas conectadas.
+00:09:44,572 --> 00:09:49,137
+mulheres de baixa renda em meio a um forte aumento no custo de vida,
 
 134
-00:10:03,536 --> 00:10:09,750
-Nos Estados Unidos, o avanço acelerado da inteligência artificial gera novos debates sobre limites técnicos.
+00:09:49,137 --> 00:09:53,376
+trazendo o debate da justiça fiscal para o centro das atenções em Jacarta.
 
 135
-00:10:09,750 --> 00:10:15,319
-Conforme publicou o TechCrunch AI, a empresa Anthropic emitiu um alerta informando estar muito
+00:09:53,376 --> 00:09:59,043
+Continuaremos acompanhando todos esses desdobramentos ao longo do dia na nossa programação.
 
 136
-00:10:15,319 --> 00:10:20,888
-próxima de alcançar a chamada melhoria recursiva automatizada, um estágio em que sistemas de
+00:10:02,212 --> 00:10:02,363
+Agora, Tecnologia.
 
 137
-00:10:20,888 --> 00:10:26,457
-inteligência artificial ganham capacidade avançada de treinar a si próprios e acelerar o próprio
+00:10:02,363 --> 00:10:03,347
+Segundo Tecnoblog: Melhor TV com Roku OS: 6 modelos para comprar em 2026.
 
 138
-00:10:26,457 --> 00:10:28,048
-desenvolvimento de forma autônoma.
+00:10:03,347 --> 00:10:03,876
+Televisores com Roku TV são opções co
 
 139
-00:10:28,048 --> 00:10:32,711
-Ainda no mercado norte-americano, o site Ars Technica revelou que a Apple planeja introduzir
+00:10:03,826 --> 00:10:06,182
+Segundo Tecnoblog: Melhor TV com Roku OS: 6 modelos para comprar em 2026.
 
 140
-00:10:32,711 --> 00:10:37,374
-no mercado, em dois mil e vinte e sete, um robô doméstico voltado para
+00:10:06,182 --> 00:10:08,718
+Televisores com Roku TV são opções com foco em custo-benefício; conheça prós e contras
 
 141
-00:10:37,374 --> 00:10:42,037
-tarefas simples, como chamadas de vídeo e o controle de iluminação residencial, com preço
+00:10:08,718 --> 00:10:09,624
+de modelos da AOC, Philc
 
 142
-00:10:42,037 --> 00:10:43,369
-estimado em mil dólares.
+00:10:09,624 --> 00:10:13,088
+Televisores com Roku TV são opções com foco em custo-benefício; conheça prós e contras
 
 143
-00:10:43,369 --> 00:10:48,572
-Por fim, no Brasil, a pauta tecnológica se cruza com a transição energética e a economia.
+00:10:13,088 --> 00:10:16,552
+de modelos da AOC, Philco, Semp, Multilaser e Britânia Melhor TV com Roku OS:
 
 144
-00:10:48,572 --> 00:10:54,280
-Segundo a Agência Câmara, a Comissão Especial sobre Transição Energética e Produção de Hidrogênio
+00:10:16,552 --> 00:10:20,017
+6 modelos para comprar em 2026 Segundo Nature News: research bonuses need clear a
 
 145
-00:10:54,280 --> 00:10:59,988
-Verde da Câmara dos Deputados promoveu debates sobre a implementação da Política Nacional de
+00:10:26,683 --> 00:10:39,707
+Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03562-6 research
 
 146
-00:10:59,988 --> 00:11:01,619
-Minerais Críticos e Estratégicos.
+00:12:28,517 --> 00:12:30,786
+mo usar e economizar até 25%.
 
 147
-00:11:01,619 --> 00:11:07,215
-O encontro destacou o crescimento expressivo na demanda por insumos minerais essenciais para sustentar
+00:12:30,786 --> 00:12:36,081
+Saiba como aplicar cupons e economizar na compra de celulares, smartwatches, tablets e mais
 
 148
-00:11:07,215 --> 00:11:12,810
-o avanço de novas tecnologias voltadas para a energia limpa e renovável no país.
+00:12:36,081 --> 00:12:39,863
+na Amazon durante o mês da Black Friday 2026 Cupon
 
 149
-00:11:15,844 --> 00:11:22,115
-Seguimos agora com as principais atualizações sobre inteligência artificial no cenário do Brasil e do mundo.
+00:13:33,719 --> 00:13:39,143
+demanda por esses recursos deve crescer para atender ao avanço das tecnologias de energia
 
 150
-00:11:22,065 --> 00:11:28,004
-Começando pela área de segurança cibernética, testes realizados pela Anthropic demonstraram que a inteligência
+00:13:39,143 --> 00:13:43,017
+renovável A Comissão Especial sobre Transição Energética e Produção de
 
 151
-00:11:28,004 --> 00:11:34,792
-artificial consegue criar vírus capazes de se espalhar por conta própria em eletrodomésticos, como smart TVs.
+00:14:05,243 --> 00:14:10,417
+m: demanda por esses recursos deve crescer para atender ao avanço das tecnologias de
 
 152
-00:11:34,792 --> 00:11:40,039
-Segundo a DW Brasil, esse tipo de código malicioso se propaga explorando falhas de
+00:14:10,417 --> 00:14:13,374
+energia renovável A Comissão Especial sobre Transição Energé
 
 153
-00:11:40,039 --> 00:11:45,287
-segurança e se adapta a diferentes tipos de dispositivos, elevando o alerta para a
+00:14:28,600 --> 00:14:36,535
+innovators in Uzbekistan are developing practical solutions while exploring opportunities for commercial production and
 
 154
-00:11:45,287 --> 00:11:47,161
-segurança de redes domésticas inteligentes.
+00:14:36,535 --> 00:14:38,803
+international Segundo TechCrunch AI
 
 155
-00:11:47,161 --> 00:11:53,792
-No mercado corporativo brasileiro, o avanço tecnológico impulsionou a demanda por infraestrutura tradicional.
+00:14:38,803 --> 00:14:45,291
+jor trial failed to show a benef Segundo Euronews: InnoWeek 2026 showcases adva
 
 156
-00:11:53,792 --> 00:11:58,883
-De acordo com o portal Tecnoblog, a Fujifilm investirá trezentos e quarenta e quatro
+00:14:58,804 --> 00:15:00,232
+RSI represents the cataclysm from which there is no return.
 
 157
-00:11:58,883 --> 00:12:03,973
-milhões de reais para quintuplicar a produção de fitas magnéticas, mídias que voltaram a
+00:15:00,232 --> 00:15:02,516
+Segundo South China Morning Post: In Israel, Arab lawmakers key to unseating Netanyahu amid divided opposition.
 
 158
-00:12:03,973 --> 00:12:09,792
-ser amplamente utilizadas por data centers para guardar grandes volumes de dados gerados pela inteligência artificial.
+00:15:02,466 --> 00:15:05,769
+Segundo South China Morning Post: In Israel, Arab lawmakers key to unseating Netanyahu amid divided opposition.
 
 159
-00:12:09,792 --> 00:12:15,401
-Passando para o cenário europeu, a desenvolvedora de inteligência artificial Anthropic registrou salto de
+00:15:05,769 --> 00:15:08,660
+The Israeli opposition bloc led by Gadi Eisenkot pledged on Tuesday to form a
 
 160
-00:12:15,401 --> 00:12:21,411
-quarenta e sete por cento na receita do último trimestre, alcançando dezessete bilhões de dólares.
+00:15:08,660 --> 00:15:09,692
+government quickly to oust Prime
 
 161
-00:12:21,411 --> 00:12:26,385
-No entanto, segundo a Euronews, a empresa voltou a registrar prejuízo operacional em meio
+00:15:09,692 --> 00:15:12,848
+The Israeli opposition bloc led by Gadi Eisenkot pledged on Tuesday to form a
 
 162
-00:12:26,385 --> 00:12:31,359
-a compromissos de custos computacionais próximos a oitocentos e noventa e cinco bilhões de
+00:15:12,848 --> 00:15:16,003
+government quickly to oust Prime Minister Benjamin Netanyahu but remained unclear on how, with
 
 163
-00:12:31,359 --> 00:12:35,268
-dólares, antes de sua planejada abertura de capital na bolsa Nasdaq.
+00:15:16,003 --> 00:15:17,806
+divisions over whether to ally with Arab lawmakers.
 
 164
-00:12:35,268 --> 00:12:41,448
-Ainda na Europa, gigantes tecnológicas americanas emissoras de bilhões de dólares em títulos voltados
+00:15:17,806 --> 00:15:19,835
+Meeting for the Segundo InfoMoney: Ibovespa Hoje Ao Vi
 
 165
-00:12:41,448 --> 00:12:46,304
-à inteligência artificial estão competindo diretamente com governos europeus por financiamento.
+00:15:19,835 --> 00:15:21,057
+with divisions over whether to ally with Arab lawmakers.
 
 166
-00:12:46,304 --> 00:12:51,713
-Conforme a Deutsche Welle, a situação gera pressão e volatilidade no mercado de títulos
+00:15:21,057 --> 00:15:22,958
+Meeting for the Segundo InfoMoney: Ibovespa Hoje Ao Vivo: Bolsa cai com Focus e
 
 167
-00:12:51,713 --> 00:12:54,804
-públicos de países como França, Alemanha e Itália.
+00:15:22,958 --> 00:15:23,502
+preocupação fiscal; PETR4 recua
 
 168
-00:12:54,804 --> 00:13:01,207
-Nos Estados Unidos, o MIT Technology Review destacou ordens executivas assinadas pelo presidente Trump
+00:15:23,502 --> 00:15:26,439
+Meeting for the Segundo InfoMoney: Ibovespa Hoje Ao Vivo: Bolsa cai com Focus e
 
 169
-00:13:01,207 --> 00:13:06,696
-determinando que agências governamentais rebatizem o termo inteligência artificial para super inteligência.
+00:15:26,439 --> 00:15:27,488
+preocupação fiscal; PETR4 recua 4%.
 
 170
-00:13:06,696 --> 00:13:12,205
-A diretriz gerou debates sobre o alinhamento de órgãos públicos e possíveis testes de
+00:15:27,488 --> 00:15:30,426
+Bolsas dos EUA operam mistas com eleições e balanço da Apple em foco The
 
 171
-00:13:12,205 --> 00:13:14,173
-lealdade exigidos de funcionários federais.
+00:15:30,426 --> 00:15:31,894
+post Ibovespa Hoje Ao Vivo: Bolsa cai
 
 172
-00:13:14,173 --> 00:13:19,946
-Na Ásia, o foco se voltou para o desenvolvimento tecnológico e a cooperação internacional.
+00:15:31,894 --> 00:15:34,743
+Bolsas dos EUA operam mistas com eleições e balanço da Apple em foco The
 
 173
-00:13:19,946 --> 00:13:25,238
-Durante a abertura da Conferência Mundial da Internet Wuzhen Summit, o presidente do Grupo
+00:15:34,743 --> 00:15:37,591
+post Ibovespa Hoje Ao Vivo: Bolsa cai com Focus e preocupação fiscal; PETR4 recua
 
 174
-00:13:25,238 --> 00:13:30,530
-Alibaba, Joe Tsai, defendeu o código aberto como o único caminho sustentável para a
+00:15:37,591 --> 00:15:38,812
+4% appeared first on InfoMoney .
 
 175
-00:13:30,530 --> 00:13:32,042
-indústria de inteligência artificial.
+00:15:38,812 --> 00:15:40,847
+Segundo Nature News: US social sciences face existential crisis af
 
 176
-00:13:32,042 --> 00:13:37,418
-Segundo o South China Morning Post, a declaração reforça a estratégia da gigante chinesa
+00:15:40,847 --> 00:15:42,070
+PETR4 recua 4% appeared first on InfoMoney .
 
 177
-00:13:37,418 --> 00:13:40,875
-em meio às barreiras comerciais impostas pelos Estados Unidos.
+00:15:42,070 --> 00:15:43,904
+Segundo Nature News: US social sciences face existential crisis after NSF cuts.
 
 178
-00:13:40,875 --> 00:13:45,964
-Para encerrar, na área de saúde pública, a Universidade Chinesa de Hong Kong anunciou
+00:15:43,904 --> 00:15:44,668
+Nature, Published online: 03 No
 
 179
-00:13:45,964 --> 00:13:51,052
-que vai lançar um programa gratuito de triagem de demência utilizando imagens de retina
+00:15:44,668 --> 00:15:47,760
+Segundo Nature News: US social sciences face existential crisis after NSF cuts.
 
 180
-00:13:51,052 --> 00:13:52,506
-geradas por inteligência artificial.
+00:15:47,760 --> 00:15:51,109
+Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03540-y The US National Science Foundation i
 
 181
-00:13:52,506 --> 00:13:57,914
-De acordo com o South China Morning Post, a iniciativa pretende identificar sinais precoces
+00:15:51,109 --> 00:15:59,434
+Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03540-y The US National Science Foundation is a
 
 182
-00:13:57,914 --> 00:14:03,322
-de declínio cognitivo em dois mil e setecentos idosos ao longo dos próximos dois
+00:15:59,434 --> 00:16:03,597
+major funder of economics and archaeology resear
 
 183
-00:14:03,322 --> 00:14:07,185
-anos, utilizando ferramentas automatizadas em distritos de alta densidade populacional.
+00:16:16,876 --> 00:16:22,370
+Seguindo com as atualizações do dia, entramos agora na seção dedicada aos desdobramentos globais
 
 184
-00:14:10,324 --> 00:14:13,655
-Seguimos agora para a seção de saúde do nosso boletim.
+00:16:22,370 --> 00:16:27,865
+e locais da inteligência artificial, que continua transformando a economia, a segurança digital e
 
 185
-00:14:13,605 --> 00:14:18,897
-No Brasil, a Agência Nacional de Vigilância Sanitária determinou a interdição parcial do Brasil
+00:16:27,865 --> 00:16:30,612
+o debate tecnológico em todo o planeta.
 
 186
-00:14:18,897 --> 00:14:22,676
-Terminal Portuário, localizado no Porto de Santos, em São Paulo.
+00:16:30,562 --> 00:16:36,812
+Vamos aos principais fatos recentes informados por especialistas e veículos de imprensa ao redor do mundo.
 
 187
-00:14:22,676 --> 00:14:28,073
-Segundo a Agência Brasil, a decisão ocorreu após a identificação de irregularidades sanitárias durante
+00:16:36,812 --> 00:16:42,095
+Começando pelo impacto na infraestrutura de dados no Brasil, o portal Tecnoblog informou que
 
 188
-00:14:28,073 --> 00:14:33,855
-uma inspeção de rotina baseada em análise de risco, com resolução publicada no Diário Oficial.
+00:16:42,095 --> 00:16:48,133
+o crescimento acelerado da inteligência artificial fez disparar a demanda por fitas magnéticas em data centers.
 
 189
-00:14:33,855 --> 00:14:39,641
-Ainda no cenário nacional, a Câmara dos Deputados avançou em pautas voltadas ao atendimento público.
+00:16:48,133 --> 00:16:53,531
+A Fujifilm anunciou um expressivo investimento de trezentos e quarenta e quatro milhões de
 
 190
-00:14:39,641 --> 00:14:45,459
-De acordo com a Agência Câmara, uma comissão aprovou diretrizes para o atendimento de
+00:16:53,531 --> 00:16:58,929
+reais para quintuplicar a produção dessas mídias físicas, que continuam sendo fundamentais para guardar
 
 191
-00:14:45,459 --> 00:14:51,276
-pacientes com condições pós-Covid no Sistema Único de Saúde, definindo parâmetros para diagnóstico precoce,
+00:16:58,929 --> 00:17:02,014
+grandes volumes de informações gerados pelos novos sistemas.
 
 192
-00:14:51,276 --> 00:14:52,938
-tratamento e acompanhamento contínuo.
+00:17:02,014 --> 00:17:07,871
+A expansão reflete a necessidade urgente de suporte material para o avanço tecnológico atual.
 
 193
-00:14:52,938 --> 00:14:55,248
-O texto segue em análise na Casa.
+00:17:07,871 --> 00:17:13,296
+Em outra frente nacional, o jornal Folha de S.Paulo destacou as críticas contundentes da
 
 194
-00:14:55,248 --> 00:15:00,367
-Também na pauta legislativa, outra proposta em tramitação assegura a realização de exames periódicos
+00:17:13,296 --> 00:17:18,720
+ativista ambiental Erin Brockovich contra as gigantes de tecnologia responsáveis pela expansão dos centros
 
 195
-00:15:00,367 --> 00:15:05,486
-no Sistema Único de Saúde para pessoas com diabetes, dependendo ainda de aprovação na
+00:17:18,720 --> 00:17:20,657
+de dados de inteligência artificial.
 
 196
-00:15:05,486 --> 00:15:08,045
-Câmara e no Senado para virar lei.
+00:17:20,657 --> 00:17:26,255
+Conhecida mundialmente por enfrentar uma poderosa companhia de energia nos Estados Unidos, Brockovich cobrou
 
 197
-00:15:08,045 --> 00:15:12,137
-Passando para os Estados Unidos, o portal Ars Technica informou que foi registrada a
+00:17:26,255 --> 00:17:32,252
+publicamente o executivo Sam Altman e questionou o valor humano por trás dessas operações massivas.
 
 198
-00:15:12,137 --> 00:15:16,522
-terceira morte por gripe aviária desde que o vírus começou a saltar para o gado.
+00:17:32,252 --> 00:17:37,739
+Ainda no cenário brasileiro, a agência DW Brasil relatou testes conduzidos pela Anthropic que
 
 199
-00:15:16,522 --> 00:15:21,090
-As autoridades apontam que a ameaça ainda é considerada baixa, mas o vírus continua
+00:17:37,739 --> 00:17:43,225
+demonstraram a capacidade da inteligência artificial de criar vírus de computador capazes de se
 
 200
-00:15:21,090 --> 00:15:22,069
-a se espalhar.
+00:17:43,225 --> 00:17:46,752
+espalhar por conta própria em eletrodomésticos, como smart TVs.
 
 201
-00:15:22,069 --> 00:15:27,192
-Ainda no país norte-americano, o jornal New York Times apontou que planos de saúde
+00:17:46,752 --> 00:17:52,150
+O código malicioso propaga-se explorando falhas de segurança e adaptando-se a diferentes tipos de
 
 202
-00:15:27,192 --> 00:15:30,486
-estão recusando o pagamento de contas médicas de emergência.
+00:17:52,150 --> 00:17:57,548
+dispositivos conectados, o que acende novos alertas de segurança digital sobre a expansão da
 
 203
-00:15:30,486 --> 00:15:34,534
-A prática desafia uma lei criada para acabar com cobranças surpresa.
+00:17:57,548 --> 00:17:58,705
+internet das coisas.
 
 204
-00:15:34,534 --> 00:15:40,034
-Na Ásia, conforme divulgou o South China Morning Post, um tribunal chinês iniciou as
+00:17:58,705 --> 00:18:04,840
+Movendo-nos para o cenário europeu, a emissora Euronews reportou que a desenvolvedora de inteligência
 
 205
-00:15:40,034 --> 00:15:45,534
-audiências de um processo bilionário de difamação relacionado à Covid-19, movido por autoridades e
+00:18:04,840 --> 00:18:07,907
+artificial Anthropic voltou a registrar prejuízo operacional.
 
 206
-00:15:45,534 --> 00:15:49,855
-institutos de Pequim e Wuhan contra o estado norte-americano de Missouri.
+00:18:07,907 --> 00:18:13,157
+Apesar de uma alta de quarenta e sete por cento na receita do último
 
 207
-00:15:49,855 --> 00:15:55,736
-Continuaremos acompanhando os desdobramentos de todas estas notícias e voltaremos a qualquer momento com
+00:18:13,157 --> 00:18:18,407
+trimestre, que atingiu dezessete bilhões de dólares, a empresa revelou compromissos financeiros de cerca
 
 208
-00:15:55,736 --> 00:15:58,676
-novas atualizações no Brasil e Mundo Hoje.
+00:18:18,407 --> 00:18:23,657
+de oitocentos e noventa e bilhões de dólares, voltados principalmente para poder computacional, antes
 
 209
-00:16:01,756 --> 00:16:06,373
-Seguimos agora para a seção de Cultura do boletim Brasil e Mundo Hoje.
+00:18:23,657 --> 00:18:26,657
+de sua planejada listagem na bolsa norte-americana Nasdaq.
 
 210
-00:16:06,323 --> 00:16:10,501
-Começamos com os destaques legislativos e culturais do país.
+00:18:26,657 --> 00:18:31,792
+Ainda na Europa, a mesma Euronews informou o alerta emitido pelo chefe do Centro
 
 211
-00:16:10,501 --> 00:16:15,845
-Segundo a Agência Senado, a Comissão de Educação e Cultura aprovou um projeto que
+00:18:31,792 --> 00:18:34,359
+Nacional de Segurança Cibernética do Reino Unido.
 
 212
-00:16:15,845 --> 00:16:21,189
-regulamenta a profissão de audiodescritor, o profissional responsável por traduzir imagens em palavras para
+00:18:34,359 --> 00:18:40,293
+Segundo a autoridade britânica, o país provavelmente enfrentará ataques cibernéticos impulsionados por inteligência artificial
 
 213
-00:16:21,189 --> 00:16:22,716
-pessoas com deficiência visual.
+00:18:40,293 --> 00:18:44,955
+direcionados a infraestruturas críticas até dois mil e vinte e oito.
 
 214
-00:16:22,716 --> 00:16:27,891
-A proposta define as funções, o planejamento de roteiros, a garantia de qualidade e
+00:18:44,955 --> 00:18:51,645
+O avanço criminoso ocorre enquanto serviços essenciais ainda operam com tecnologias consideradas obsoletas.
 
 215
-00:16:27,891 --> 00:16:30,108
-a composição das equipes de trabalho.
+00:18:51,645 --> 00:18:57,708
+Cruzando o Atlântico para os Estados Unidos, a revista MIT Technology Review analisou as
 
 216
-00:16:30,108 --> 00:16:34,882
-Ainda no âmbito legislativo, de acordo com a Agência Câmara, uma comissão aprovou um
+00:18:57,708 --> 00:19:04,205
+recentes diretrizes governamentais que obrigam agências federais a rebatizar o termo inteligência artificial como superinteligência.
 
 217
-00:16:34,882 --> 00:16:39,656
-projeto de lei que prevê desconto na compra de livros para professores e alunos
+00:19:04,205 --> 00:19:09,810
+A medida integra diretrizes assinadas pelo presidente Donald Trump e levanta discussões sobre controle
 
 218
-00:16:39,656 --> 00:16:44,430
-de cursos de licenciatura, e a proposta segue em análise na Câmara dos Deputados.
+00:19:09,810 --> 00:19:11,812
+e conformidade no setor público.
 
 219
-00:16:44,430 --> 00:16:49,617
-A mesma agência informou que foi aprovado um projeto que institui a carteira de
+00:19:11,812 --> 00:19:16,990
+Por fim, na Ásia, o jornal South China Morning Post destacou a intervenção do
 
 220
-00:16:49,617 --> 00:16:53,323
-docente para professores aposentados, texto que também continua em tramitação.
+00:19:16,990 --> 00:19:22,907
+presidente do Grupo Alibaba, Joe Tsai, durante a Cúpula Mundial da Internet em Wuzhen, na China.
 
 221
-00:16:53,323 --> 00:16:58,797
-Por fim, conforme a Agência Senado, a Comissão de Educação e Cultura aprovou um
+00:19:22,907 --> 00:19:28,591
+Tsai defendeu com veemência o modelo de código aberto como o único caminho sustentável
 
 222
-00:16:58,797 --> 00:17:04,272
-piso salarial nacional para profissionais de apoio da educação básica pública, como merendeiras, auxiliares
+00:19:28,591 --> 00:19:34,275
+para o desenvolvimento da inteligência artificial, ressaltando o esforço das empresas chinesas em consolidar
 
 223
-00:17:04,272 --> 00:17:06,227
-de limpeza e secretários escolares.
+00:19:34,275 --> 00:19:38,740
+ecossistemas colaborativos em meio às restrições comerciais impostas pelos Estados Unidos.
 
 224
-00:17:06,227 --> 00:17:10,911
-O valor será equivalente a setenta e cinco por cento do piso salarial dos
+00:19:38,740 --> 00:19:45,562
+Continuaremos acompanhando todos os desdobramentos desses temas na próxima edição do boletim Brasil e Mundo Hoje.
 
 225
-00:17:10,911 --> 00:17:15,930
-professores para trabalhadores com formação de nível médio e jornada de até quarenta horas semanais.
+00:19:45,562 --> 00:19:48,717
+Outras notícias de inteligência artificial.
 
 226
-00:17:15,930 --> 00:17:21,447
-Passando para o cenário internacional na Europa, segundo a emissora France 24, o escritor
+00:19:48,717 --> 00:19:54,478
+Segundo Agência Brasil: Site e aplicativo do Banco do Brasil apresentam instabilidade.
 
 227
-00:17:21,447 --> 00:17:27,751
-Philippe Jaenada foi o vencedor do Prêmio Goncourt, considerado o prêmio literário mais prestigiado da França.
+00:19:54,478 --> 00:20:00,024
+Os canais digitais do Banco do Brasil , como o site e aplicativo de
 
 228
-00:17:27,751 --> 00:17:33,085
-A premiação carrega uma recompensa simbólica de apenas dez euros, mas resulta em reconhecimento
+00:20:00,024 --> 00:20:03,193
+celular, apresentaram instabilidade na manhã desta terça-feira (3).
 
 229
-00:17:33,085 --> 00:17:37,275
-considerável e aumento nas vendas de livros para o autor vencedor.
+00:20:03,193 --> 00:20:07,955
+Clientes do banco utilizaram as redes sociais para relatar dificuldade
 
 230
-00:17:37,275 --> 00:17:42,315
-Na Ásia, de acordo com o jornal South China Morning Post, a edição de
+00:20:08,092 --> 00:20:09,661
+no acesso.
 
 231
-00:17:42,315 --> 00:17:47,355
-Hong Kong do festival de humanidades Being Human Festival vai oferecer ao público atividades
+00:20:09,611 --> 00:20:17,033
+Em alguns momentos, os Segundo Nature News: Universities must measure learning, both with and
 
 232
-00:17:47,355 --> 00:17:52,395
-variadas, incluindo a experiência de pilotar um drone utilizando apenas a concentração mental, em
+00:20:17,033 --> 00:20:18,623
+without AI assistance.
 
 233
-00:17:52,395 --> 00:17:55,275
-uma iniciativa que mistura ciência e inovação cultural.
+00:20:18,623 --> 00:20:29,413
+Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03559-1 Universities must measure learning, both with and
 
 234
-00:17:55,275 --> 00:18:00,184
-E nos Estados Unidos, segundo o portal The Verge, a Adobe firmou parceria com
+00:20:29,413 --> 00:20:40,204
+without AI assistance Segundo South China Morning Post: China-US AI investment gap narrower than
 
 235
-00:18:00,184 --> 00:18:05,093
-a Universal Music Group e a Warner Music Group para adicionar uma biblioteca de
+00:20:40,204 --> 00:20:42,516
+figures suggest: report.
 
 236
-00:18:05,093 --> 00:18:10,002
-músicas licenciadas de artistas de destaque ao aplicativo móvel de edição de vídeos Premiere,
+00:20:42,516 --> 00:20:47,827
+The AI investment race between China and the US is closer than headline figures
 
 237
-00:18:10,002 --> 00:18:13,858
-permitindo que usuários tenham acesso a canções populares em seus projetos.
+00:20:47,827 --> 00:20:53,137
+suggest, even though the technology is expected to make a greater contribution to economic
 
 238
-00:18:13,858 --> 00:18:18,323
-Continuamos acompanhando os desdobramentos culturais no Brasil e no mundo.
+00:20:53,137 --> 00:20:56,552
+growth in America, according to a Chinese think tank.
 
 239
-00:18:18,323 --> 00:18:23,501
-O boletim Brasil e Mundo Hoje retorna a qualquer momento com novas atualizações.
+00:20:56,552 --> 00:21:03,302
+The findings co Segundo Nature News: Will AI grant reviews make science more conservative?
 
 240
-00:18:26,644 --> 00:18:31,607
-Este foi o Brasil e Mundo Hoje de terça-feira, 3 de novembro de 2026.
+00:21:03,302 --> 00:21:14,780
+Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03340-4 Researchers are questioning whether outsourcing decisions about
 
 241
-00:18:31,557 --> 00:18:35,044
-O próximo boletim será publicado amanhã, às seis da manhã.
+00:21:14,780 --> 00:21:22,159
+research funding to artificial intelligence will reduce scientific novelty.
 
 242
-00:18:35,044 --> 00:18:36,389
+00:21:22,159 --> 00:21:29,054
+Segundo The Verge: Apple is all in on AI — its own and everyone else&#8217;s.
+
+243
+00:21:29,054 --> 00:21:35,490
+Apple's latest earnings show how it's continuing to capitalize on the AI boom without
+
+244
+00:21:35,490 --> 00:21:40,087
+busting its budget on the infrastructure spending consuming its competitors.
+
+245
+00:21:40,087 --> 00:21:45,953
+Overall, Apple posted its best-ever fiscal year for revenue and earnings per Segundo DW
+
+246
+00:21:45,953 --> 00:21:50,980
+(EN): How AI giants could raise the cost of borrowing in Europe.
+
+247
+00:21:50,980 --> 00:21:56,611
+France, Germany and Italy face a volatile bond market as war inflation bites.
+
+248
+00:21:56,611 --> 00:22:03,268
+With US tech giants now issuing billions in AI bonds, they are competing with
+
+249
+00:22:03,268 --> 00:22:04,694
+cash-strapped European governments.
+
+250
+00:22:04,694 --> 00:22:12,933
+Segundo MIT Technology Review: The Download: controlling AI agents and “Super Intelligence” loyalty tests.
+
+251
+00:22:12,933 --> 00:22:20,266
+This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily
+
+252
+00:22:20,266 --> 00:22:25,504
+dose of what&#8217;s going on in the world of technology.
+
+253
+00:22:25,504 --> 00:22:31,689
+How “reverse game theory” could keep AI agents in check A new approach known
+
+254
+00:22:31,689 --> 00:22:37,874
+as “reverse g Segundo South China Morning Post: China’s AI ‘shock’, EU ‘kill switch’,
+
+255
+00:22:37,874 --> 00:22:41,409
+Ukraine hope, Mbappe fiasco: 7 global relations reads.
+
+256
+00:22:41,409 --> 00:22:46,542
+We have selected seven of the most interesting and important news stories covering global
+
+257
+00:22:46,542 --> 00:22:48,742
+relations from the past few weeks.
+
+258
+00:22:48,742 --> 00:22:54,099
+If you would like to see more of our reporting, please consider subscribing.
+
+259
+00:22:54,099 --> 00:22:54,522
+1.
+
+260
+00:22:54,522 --> 00:22:57,480
+China warns EU not to ‘fantasise’ o
+
+261
+00:23:00,628 --> 00:23:05,221
+Seguimos com o boletim Brasil e Mundo Hoje, entrando agora na seção de Saúde.
+
+262
+00:23:05,171 --> 00:23:10,893
+Destacamos as principais movimentações na área sanitária, medidas regulatórias e impactos de crises globais
+
+263
+00:23:10,893 --> 00:23:13,754
+sobre o bem-estar e o atendimento médico.
+
+264
+00:23:13,754 --> 00:23:18,959
+Começamos pelo Brasil, onde a Agência Nacional de Vigilância Sanitária determinou a interdição parcial
+
+265
+00:23:18,959 --> 00:23:24,163
+do Brasil Terminal Portuário S.A., localizado no Porto de Santos, no litoral do estado
+
+266
+00:23:24,163 --> 00:23:25,278
+de São Paulo.
+
+267
+00:23:25,278 --> 00:23:30,520
+A medida foi adotada após a identificação de irregularidades sanitárias durante uma inspeção de
+
+268
+00:23:30,520 --> 00:23:32,766
+rotina baseada em análise de risco.
+
+269
+00:23:32,766 --> 00:23:37,939
+A resolução da Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados da agência foi
+
+270
+00:23:37,939 --> 00:23:42,373
+assinada em vinte e nove de outubro e publicada no Diário Oficial.
+
+271
+00:23:42,373 --> 00:23:47,586
+A ação visa proteger a saúde pública e garantir o rigoroso cumprimento das normas
+
+272
+00:23:47,586 --> 00:23:53,171
+sanitárias vigentes na área portuária, fundamental para a circulação de mercadorias e proteção da população.
+
+273
+00:23:53,171 --> 00:23:58,051
+Ainda no cenário nacional, o Congresso avança em pautas de grande relevância para os
+
+274
+00:23:58,051 --> 00:23:59,445
+usuários do sistema público.
+
+275
+00:23:59,445 --> 00:24:04,880
+Uma proposta aprovada por comissão define parâmetros essenciais para o atendimento de pacientes com
+
+276
+00:24:04,880 --> 00:24:08,373
+condições pós-Covid no âmbito do Sistema Único de Saúde.
+
+277
+00:24:08,373 --> 00:24:14,279
+O texto estabelece diretrizes para o diagnóstico precoce, o tratamento adequado e o acompanhamento
+
+278
+00:24:14,279 --> 00:24:18,076
+contínuo dos cidadãos afetados pelas sequelas prolongadas da doença.
+
+279
+00:24:18,076 --> 00:24:24,111
+A medida busca organizar a rede pública para oferecer suporte especializado a essa parcela da população.
+
+280
+00:24:24,111 --> 00:24:30,326
+A proposta continua em análise na Câmara dos Deputados antes de seguir para novas etapas legislativas.
+
+281
+00:24:30,326 --> 00:24:36,045
+Em paralelo, outra iniciativa em tramitação assegura a realização de exames periódicos no Sistema
+
+282
+00:24:36,045 --> 00:24:39,314
+Único de Saúde para pessoas diagnosticadas com diabetes.
+
+283
+00:24:39,314 --> 00:24:45,223
+O objetivo principal é garantir o monitoramento regular da condição de saúde dos pacientes,
+
+284
+00:24:45,223 --> 00:24:49,445
+facilitando o controle da doença e prevenindo complicações graves associadas.
+
+285
+00:24:49,445 --> 00:24:54,221
+Para que o texto possa virar lei efetiva no país, a proposta ainda precisa
+
+286
+00:24:54,221 --> 00:24:58,997
+ser formalmente aprovada tanto pela Câmara dos Deputados quanto pelo Senado Federal, ampliando a
+
+287
+00:24:58,997 --> 00:25:01,385
+rede de proteção na saúde pública brasileira.
+
+288
+00:25:01,385 --> 00:25:06,870
+Passando para o cenário internacional e na Europa, veículos como The Guardian, France 24
+
+289
+00:25:06,870 --> 00:25:12,356
+e RTP Notícias informam que intensos ataques russos recentes na Ucrânia causaram dezenas de
+
+290
+00:25:12,356 --> 00:25:14,707
+mortes e feriram centenas de pessoas.
+
+291
+00:25:14,707 --> 00:25:20,381
+Um centro humanitário e instalações hospitalares foram diretamente atingidos por bombardeios que também destruíram
+
+292
+00:25:20,381 --> 00:25:23,623
+usinas de energia em várias regiões do país.
+
+293
+00:25:23,623 --> 00:25:28,565
+O balanço de vítimas inclui dezenas de mortos e desaparecidos, além de mais de
+
+294
+00:25:28,565 --> 00:25:30,683
+setenta feridos em um hospital específico.
+
+295
+00:25:30,683 --> 00:25:35,773
+O presidente ucraniano Volodymyr Zelenskyy alertou sobre a gravidade da onda de ataques que
+
+296
+00:25:35,773 --> 00:25:40,864
+incluiu centenas de drones e mísseis balísticos e de cruzeiro, comprometendo gravemente a infraestrutura
+
+297
+00:25:40,864 --> 00:25:43,409
+hospitalar e de socorro médico na região.
+
+298
+00:25:43,409 --> 00:25:48,576
+Ainda na Europa e Austrália, de acordo com o jornal The Guardian, serviços internos
+
+299
+00:25:48,576 --> 00:25:53,005
+de patologia em um dos maiores hospitais de Queensland vão fechar permanentemente.
+
+300
+00:25:53,005 --> 00:25:58,060
+A decisão ocorre em meio a uma investigação sobre potencial exposição ao formaldeído e
+
+301
+00:25:58,060 --> 00:26:01,671
+devido à pressão financeira contínua sobre os negócios de patologia.
+
+302
+00:26:01,671 --> 00:26:07,740
+Cerca de quatrocentos funcionários foram afetados pelo encerramento das atividades nos hospitais Mater em
+
+303
+00:26:07,740 --> 00:26:13,808
+Brisbane e Springfield, gerando forte preocupação entre profissionais de saúde e trabalhadores locais afetados
+
+304
+00:26:13,808 --> 00:26:16,409
+pelas mudanças administrativas e de segurança.
+
+305
+00:26:16,409 --> 00:26:21,254
+Nos Estados Unidos, o setor enfrenta dilemas financeiros e sanitários expressivos.
+
+306
+00:26:21,254 --> 00:26:27,508
+Conforme reportado pelo New York Times, planos de saúde norte-americanos estão frequentemente retendo pagamentos
+
+307
+00:26:27,508 --> 00:26:31,528
+e recusando quitar contas médicas de atendimento de emergência.
+
+308
+00:26:31,528 --> 00:26:36,421
+A situação gera um conflito acirrado após a criação de uma lei destinada a
+
+309
+00:26:36,421 --> 00:26:41,314
+eliminar cobranças médicas surpresa, que havia gerado milhões de dólares em repasses para médicos.
+
+310
+00:26:41,314 --> 00:26:46,528
+As operadoras de saúde agora combatem judicialmente e por meio de arbitragem
+
+311
+00:26:46,540 --> 00:26:51,655
+esses altos valores, dificultando o reembolso e gerando intensa discussão no setor de saúde
+
+312
+00:26:51,655 --> 00:26:54,942
+sobre o acesso e os custos do atendimento emergencial.
+
+313
+00:26:54,892 --> 00:26:59,381
+Além disso, segundo o portal Ars Technica, foi registrada a terceira morte humana decorrente
+
+314
+00:26:59,381 --> 00:27:04,511
+da gripe aviária desde que o vírus começou a saltar para animais de criação e gado.
+
+315
+00:27:04,511 --> 00:27:10,368
+Embora as autoridades sanitárias ainda considerem a ameaça de transmissão generalizada para humanos como
+
+316
+00:27:10,368 --> 00:27:13,714
+baixa, o patógeno continua se espalhando entre animais.
+
+317
+00:27:13,714 --> 00:27:19,727
+O monitoramento rigoroso permanece ativo para evitar novos contágios e proteger trabalhadores do setor
+
+318
+00:27:19,727 --> 00:27:24,882
+agropecuário que mantêm contato direto com os animais infectados em território norte-americano.
+
+319
+00:27:24,882 --> 00:27:29,894
+Por fim, na Ásia, noticiado pelo South China Morning Post, um tribunal na China
+
+320
+00:27:29,894 --> 00:27:34,906
+iniciou audiências em um processo de difamação e indenização avaliado em cinquenta e três
+
+321
+00:27:34,906 --> 00:27:39,202
+bilhões e quinhentos milhões de dólares contra o estado norte-americano do Missouri.
+
+322
+00:27:39,202 --> 00:27:44,527
+A ação foi movida conjuntamente por autoridades e institutos de Pequim e Wuhan, incluindo
+
+323
+00:27:44,527 --> 00:27:46,428
+a Academia Chinesa de Ciências.
+
+324
+00:27:46,428 --> 00:27:52,088
+O processo discute acusações e repercussões ligadas ao início da pandemia de Covid-19, com
+
+325
+00:27:52,088 --> 00:27:55,726
+andamento jurídico em andamento na Vara Intermediária de Wuhan.
+
+326
+00:27:55,726 --> 00:28:01,157
+Continuamos acompanhando os desdobramentos de todas essas notícias ao longo do dia no Brasil
+
+327
+00:28:01,157 --> 00:28:02,321
+e Mundo Hoje.
+
+328
+00:28:05,452 --> 00:28:07,593
+Agora, Cultura.
+
+329
+00:28:07,543 --> 00:28:13,733
+Segundo Agência Senado: Romaria do Divino Pai Eterno como manifestação cultural vai à Câmara.
+
+330
+00:28:13,733 --> 00:28:19,571
+A Romaria do Divino Pai Eterno, realizada em Trindade (GO), poderá ser reconhecida como
+
+331
+00:28:19,571 --> 00:28:25,409
+manifestação da cultura nacional, de acordo com projeto aprovado em decisão terminativa na Comissão
+
+332
+00:28:25,409 --> 00:28:28,745
+de Educação e Cultura (CE) nesta terça-feira (3).
+
+333
+00:28:28,745 --> 00:28:34,647
+De Segundo Comissão Europeia: Speech by Commissioner Lahbib at the Opening of the European
+
+334
+00:28:34,647 --> 00:28:35,912
+Civil Protection Forum.
+
+335
+00:28:35,912 --> 00:28:43,043
+European Commission Speech Brussels, 03 Nov 2026 Allow me to start with a personal memory.
+
+336
+00:28:43,043 --> 00:28:48,912
+Twenty-five years ago, I was in Afghanistan as a young reporter for Belgian television.
+
+337
+00:28:48,912 --> 00:28:51,245
+It was autumn 2001.
+
+338
+00:28:51,245 --> 00:28:52,769
+The war ha...
+
+339
+00:28:52,769 --> 00:28:58,340
+Segundo PBS NewsHour: Live Results: Texas governor midterm election.
+
+340
+00:28:58,340 --> 00:29:04,830
+Texas has elected only Republican governors since 1994, but the most recent polls show
+
+341
+00:29:04,830 --> 00:29:06,221
+a tight race.
+
+342
+00:29:06,221 --> 00:29:13,650
+Segundo South China Morning Post: Mind-controlled drone-flying at Hong Kong’s Being Human Festival among varied programme.
+
+343
+00:29:13,650 --> 00:29:18,400
+Think you can steer a drone using nothing more than your own concentrated thoughts?
+
+344
+00:29:18,400 --> 00:29:23,742
+It may sound like science fiction, but mind-controlled drone-flying is one of the free
+
+345
+00:29:23,742 --> 00:29:29,085
+activities the public can take part in at the upcoming Being Human Fe Segundo
+
+346
+00:29:29,085 --> 00:29:32,138
+Agência Senado: Avança regulamentação da profissão de audiodescritor.
+
+347
+00:29:32,138 --> 00:29:38,343
+A Comissão de Educação e Cultura (CE) aprovou nesta terça-feira (3) projeto que regulamenta
+
+348
+00:29:38,343 --> 00:29:45,435
+a profissão de audiodescritor, profissional responsável por traduzir imagens em palavras para pessoas com deficiência visual.
+
+349
+00:29:45,435 --> 00:29:52,798
+A proposta estabelece Segundo France 24: 2026 Prix Goncourt: France's prestigious literary prize awarded
+
+350
+00:29:52,798 --> 00:29:54,376
+to Philippe Jaenada.
+
+351
+00:29:54,376 --> 00:30:00,328
+France’s prestigious literary prize “The Goncourt” was awarded on Monday to writer Philippe Jaenada.
+
+352
+00:30:00,328 --> 00:30:05,646
+The prize carries a symbolic reward of only 10 euros, but results in considerable
+
+353
+00:30:05,646 --> 00:30:08,685
+recognition and book sales for the winning author.
+
+354
+00:30:08,685 --> 00:30:15,388
+FRANCE Segundo The Verge: Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’.
+
+355
+00:30:15,388 --> 00:30:20,542
+Adobe is teaming up with Universal Music Group and Warner Music Group to add
+
+356
+00:30:20,542 --> 00:30:25,328
+a library of licensed music clips to the Premiere mobile video editing app.
+
+357
+00:30:25,328 --> 00:30:30,806
+No specific musicians have been announced with this partnership, but Adobe said it will
+
+358
+00:30:30,806 --> 00:30:37,066
+Segundo South China Morning Post: Beijing offers to boost China-Pakistan corridor safety as terror threat grows.
+
+359
+00:30:37,066 --> 00:30:42,607
+China has pledged to work with Pakistan to advance “high-level security cooperation” and ensure
+
+360
+00:30:42,607 --> 00:30:48,543
+the safety of a joint flagship infrastructure project that has become a target for terrorists.
+
+361
+00:30:48,543 --> 00:30:53,781
+That was the message Liu Haixing, head of the Com Segundo Agência Câmara: Comissão
+
+362
+00:30:53,781 --> 00:30:59,019
+aprova desconto na compra de livros para professores e alunos de cursos de licenciatura.
+
+363
+00:30:59,019 --> 00:31:04,799
+O projeto segue em análise na Câmara dos Deputados Segundo France 24: Americans to
+
+364
+00:31:04,799 --> 00:31:09,340
+vote in US midterms: Trump's Republicans scramble to stop Democratic wave.
+
+365
+00:31:09,340 --> 00:31:14,311
+Republicans made a final push to avoid a predicted thumping in the US midterm
+
+366
+00:31:14,311 --> 00:31:17,507
+elections, as Democrats seek to win control of Congress.
+
+367
+00:31:17,507 --> 00:31:23,191
+A Democratic-controlled House would impose the first real political constraints on President Donald Trump
+
+368
+00:31:23,191 --> 00:31:28,876
+Segundo Ars Technica: "At Home in Space" opens, caps Air and Space Museum renovation.
+
+369
+00:31:28,876 --> 00:31:34,221
+The Smithsonian's National Air and Space Museum has all of its "space" back open.
+
+370
+00:31:34,221 --> 00:31:39,912
+Segundo Al Jazeera: US conducts series of ‘defensive strikes’ against Iran.
+
+371
+00:31:39,912 --> 00:31:45,528
+The US has carried out a series of ‘defensive strikes’ on Iranian locations near
+
+372
+00:31:45,528 --> 00:31:47,935
+Hormuz, with explosions heard on Qeshm.
+
+373
+00:31:47,935 --> 00:31:54,745
+Segundo Agência Câmara: Comissão aprova projeto que prevê carteira de docente para professores aposentados.
+
+374
+00:31:54,745 --> 00:32:02,705
+Proposta continua em análise na Câmara Segundo The Guardian World: Snowy Hydro 2.0 executives
+
+375
+00:32:02,705 --> 00:32:06,685
+awarded bonuses totalling $751,925 despite cost blowout.
+
+376
+00:32:06,685 --> 00:32:11,909
+Annual reports show NSW renewable company’s CEO opted out of cash bonus, while CSIRO’s
+
+377
+00:32:11,909 --> 00:32:17,132
+chief received an extra $200,000 Get our breaking news email , free app or
+
+378
+00:32:17,132 --> 00:32:22,355
+daily news podcast Executives at the troubled Snowy Hydro company collectively Segundo NPR News:
+
+379
+00:32:22,355 --> 00:32:26,459
+Four types of House races to watch on election night to
+
+380
+00:32:26,572 --> 00:32:28,760
+know how it might go.
+
+381
+00:32:28,710 --> 00:32:33,124
+As polls close on Election Day and results start rolling in, these are some
+
+382
+00:32:33,124 --> 00:32:37,222
+of the House races that will help explain how the midterms are unfolding.
+
+383
+00:32:37,222 --> 00:32:44,532
+Segundo South China Morning Post: China tests wave-piercing stealth trimaran as unconventional naval fleet grows.
+
+384
+00:32:44,532 --> 00:32:49,585
+China appears to be testing a stealthy new trimaran at sea, according to a
+
+385
+00:32:49,585 --> 00:32:54,639
+photograph circulating on social media, in what could be a further effort to develop
+
+386
+00:32:54,639 --> 00:32:55,722
+unconventional naval platforms.
+
+387
+00:32:55,722 --> 00:33:00,742
+The image first emerged on Weibo on Sunday and a Segundo Agência Senado: CE
+
+388
+00:33:00,742 --> 00:33:04,686
+aprova piso salarial nacional para profissionais de apoio da educação básica.
+
+389
+00:33:04,686 --> 00:33:10,577
+A Comissão de Educação e Cultura (CE) aprovou nesta terça-feira (3) um piso salarial
+
+390
+00:33:10,577 --> 00:33:16,467
+nacional para os profissionais da educação básica pública que exercem funções de apoio, como
+
+391
+00:33:16,467 --> 00:33:19,413
+merendeiras, auxiliares de limpeza e secretários escolares.
+
+392
+00:33:19,413 --> 00:33:26,496
+O Segundo Euronews: InnoWeek 2026 showcases advances in robotics, aviation and clean energy.
+
+393
+00:33:26,496 --> 00:33:33,446
+From remotely operated firefighting equipment to agricultural drones and student-built electric vehicles, innovators in
+
+394
+00:33:33,446 --> 00:33:39,901
+Uzbekistan are developing practical solutions while exploring opportunities for commercial production and international
+
+395
+00:33:43,060 --> 00:33:48,023
+Este foi o Brasil e Mundo Hoje de terça-feira, 3 de novembro de 2026.
+
+396
+00:33:47,973 --> 00:33:51,460
+O próximo boletim será publicado amanhã, às seis da manhã.
+
+397
+00:33:51,460 --> 00:33:52,805
 Até lá!
 
