@@ -32,15 +32,15 @@ jobs:
     environment:
       name: github-pages
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
 
-      - name: Instalar ffmpeg e fontes
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+      - name: Instalar ffmpeg, fontes e bibliotecas do Manim
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core libpango1.0-dev libcairo2-dev pkg-config
 
       - name: Instalar dependências
         run: pip install -r requirements.txt

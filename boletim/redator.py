@@ -12,6 +12,7 @@ import json
 import os
 import re
 import time
+import urllib.error
 import urllib.request
 
 from .coletor import Noticia
@@ -83,6 +84,7 @@ class Redator:
     def __init__(self, cfg: dict):
         self.cfg = cfg
         self.provedor = cfg.get("provedor_ia", "github")
+        self.falhas_ia = 0
         self.cliente = None
         if self.provedor == "anthropic" and os.environ.get("ANTHROPIC_API_KEY"):
             import anthropic
@@ -107,9 +109,18 @@ class Redator:
                             "messages": [{"role": "system", "content": sistema},
                                          {"role": "user", "content": pedido}]}).encode()
         req = urllib.request.Request(url, data=corpo, headers={"Authorization": f"Bearer {token}",
-                                                               "Content-Type": "application/json"})
-        with urllib.request.urlopen(req, timeout=180) as r:
-            return json.loads(r.read())["choices"][0]["message"]["content"]
+                                                               "Content-Type": "application/json",
+                                                               "Accept": "application/json"})
+        try:
+            with urllib.request.urlopen(req, timeout=180) as r:
+                bruto = r.read().decode("utf-8", "replace")
+                status = r.status
+        except urllib.error.HTTPError as e:
+            raise RuntimeError(f"HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:400]}") from e
+        try:
+            return json.loads(bruto)["choices"][0]["message"]["content"]
+        except (json.JSONDecodeError, KeyError, IndexError) as e:
+            raise RuntimeError(f"Resposta inesperada (HTTP {status}): {bruto[:400]!r}") from e
 
     def _chamar(self, pedido: str, max_tokens: int = 4000) -> dict:
         sistema = SISTEMA.format(titulo=self.cfg["titulo"])
@@ -143,7 +154,7 @@ class Redator:
             if not itens:
                 log.warning("Seção %s sem notícias; pulando.", s["id"])
                 continue
-            if self.cliente:
+            if self.cliente and self.falhas_ia < 2:  # disjuntor: após 2 falhas, segue sem IA
                 if s["id"] == "destaques":
                     pedido = PEDIDO_ABERTURA.format(data=data_extenso, titulo=self.cfg["titulo"],
                                                     palavras=p_abertura, noticias=_json_noticias(itens))
@@ -151,8 +162,13 @@ class Redator:
                     pedido = PEDIDO_SECAO.format(data=data_extenso, secao=s["titulo"], n=len(itens),
                                                  palavras=p_secao, min_itens=5, max_itens=9,
                                                  noticias=_json_noticias(itens))
-                conteudo = self._chamar(pedido)
-                if self.cfg.get("revisao_ia", True):
+                try:
+                    conteudo = self._chamar(pedido)
+                except RuntimeError as e:
+                    log.error("IA indisponível na seção %s (%s); usando modo extrativo.", s["id"], e)
+                    self.falhas_ia += 1
+                    conteudo = self._extrativo(s, itens, data_extenso)
+                if self.cfg.get("revisao_ia", True) and not conteudo.get("_extrativo"):
                     try:
                         revisado = self._chamar(PEDIDO_REVISAO.format(
                             noticias=_json_noticias(itens), gerado=json.dumps(conteudo, ensure_ascii=False)))
@@ -167,12 +183,19 @@ class Redator:
 
         fim = next((s for s in secoes if s["id"] == "encerramento"), None)
         if fim:
-            if self.cliente:
+            if self.cliente and not self.falhas_ia:
                 resumos = "\n".join(f"[{seg['titulo']}] " + " | ".join(i["titulo"] + ": " + i["texto"]
                                                                        for i in seg["itens"]) for seg in segmentos)
-                conteudo = self._chamar(PEDIDO_ENCERRAMENTO.format(data=data_extenso, titulo=self.cfg["titulo"],
-                                                                   palavras=p_fim, resumos=resumos))
+                try:
+                    conteudo = self._chamar(PEDIDO_ENCERRAMENTO.format(data=data_extenso, titulo=self.cfg["titulo"],
+                                                                       palavras=p_fim, resumos=resumos))
+                except RuntimeError as e:
+                    log.error("IA indisponível no encerramento (%s).", e)
+                    self.falhas_ia += 1
+                    conteudo = None
             else:
+                conteudo = None
+            if conteudo is None:
                 conteudo = {"itens": [], "roteiro": f"Este foi o {self.cfg['titulo']} de {data_extenso}. "
                             "O próximo boletim será publicado amanhã, às seis da manhã. Até lá!"}
             segmentos.append({**fim, **conteudo})
@@ -188,4 +211,4 @@ class Redator:
         else:
             abertura = f"Agora, {s['titulo']}. "
         corpo = " ".join(f"Segundo {n.fonte}: {n.titulo}. {n.resumo[:240]}" for n in sel)
-        return {"itens": lista, "roteiro": abertura + corpo}
+        return {"itens": lista, "roteiro": abertura + corpo, "_extrativo": True}

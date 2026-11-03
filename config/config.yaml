@@ -23,6 +23,7 @@ voz_tts_secundaria: "pt-BR-FranciscaNeural"
 gerar_audio: true
 gerar_video: true
 resolucao_video: "1280x720"
+vinhetas_animadas: true         # abertura e transições animadas com Manim (gratuito)
 
 # Seções do boletim, na ordem de leitura. Cada seção tem identidade visual própria no vídeo.
 secoes:

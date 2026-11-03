@@ -13,7 +13,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-from . import audio, classificador, coletor, estado as memoria, publicador, video
+from . import audio, classificador, coletor, estado as memoria, publicador, video, vinhetas
 from .redator import Redator
 from .util import RAIZ, agora, carregar_yaml, data_extenso, log
 
@@ -61,7 +61,8 @@ def main(argv=None) -> int:
 
     # 2. Classificação e 3. Redação
     grupos = classificador.agrupar(noticias, [s["id"] for s in cfg["secoes"]], cfg["max_itens_por_secao"])
-    segmentos = Redator(cfg).escrever(data_ext, grupos)
+    redator = Redator(cfg)
+    segmentos = redator.escrever(data_ext, grupos)
     (pasta / "roteiro.json").write_text(json.dumps(segmentos, ensure_ascii=False, indent=1), encoding="utf-8")
     palavras = sum(len(s["roteiro"].split()) for s in segmentos)
     log.info("Roteiro com %d palavras (~%.0f min)", palavras, palavras / cfg["palavras_por_minuto"])
@@ -76,6 +77,8 @@ def main(argv=None) -> int:
         vin = trab / "vinheta.mp3"
         audio.vinheta(vin)
         dvin = audio.duracao(vin)
+        animadas = vinhetas.gerar_todas(segmentos, cfg["titulo"], data_ext, dvin, trab, cfg["resolucao_video"]) \
+            if gerar_video and cfg.get("vinhetas_animadas", True) else {}
         for i, s in enumerate(segmentos):
             voz = cfg["voz_tts"] if i % 2 == 0 else cfg.get("voz_tts_secundaria", cfg["voz_tts"])
             fala = trab / f"{i:02d}_{s['id']}_fala.mp3"
@@ -94,7 +97,8 @@ def main(argv=None) -> int:
             partes_audio.append(seg_mp3)
             if gerar_video:
                 mp4 = trab / f"{i:02d}_{s['id']}.mp4"
-                video.render_segmento(s, seg_mp3, srt, d, mp4, cfg["titulo"], data_ext, cfg["resolucao_video"])
+                video.render_segmento(s, seg_mp3, srt, d, mp4, cfg["titulo"], data_ext, cfg["resolucao_video"],
+                                     vinheta=animadas.get(s["id"]), dur_vinheta=dvin)
                 partes_video.append(mp4)
             t0 += d
         dur_total = t0
@@ -127,6 +131,7 @@ def main(argv=None) -> int:
         "fontes_pausadas": memoria.pausadas(est), "duracao_min": dur_min,
         "meta_duracao_ok": bool(dur_min and 30 <= dur_min <= 45), "palavras": palavras,
         "ppm_usado": cfg["palavras_por_minuto"], "provedor_ia": cfg.get("provedor_ia"),
+        "ia_ativa": bool(redator.cliente), "falhas_ia": redator.falhas_ia,
         "secoes": {s["id"]: len(s.get("itens") or []) for s in segmentos},
     }, ensure_ascii=False, indent=1), encoding="utf-8")
     if not a.fixture:

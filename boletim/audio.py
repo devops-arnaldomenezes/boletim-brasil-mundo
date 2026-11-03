@@ -82,7 +82,7 @@ def sintetizar(texto: str, voz: str, mp3: Path, ppm: int = 150) -> list[tuple[fl
         return _cues_estimados(texto, segundos)
 
 
-def vinheta(destino: Path, segundos: float = 2.0) -> None:
+def vinheta(destino: Path, segundos: float = 3.0) -> None:
     """Pequena vinheta sonora gerada (sem direitos autorais) para transição entre seções."""
     _ff("-f", "lavfi", "-i", f"sine=f=660:d={segundos}", "-f", "lavfi", "-i", f"sine=f=990:d={segundos}",
         "-filter_complex", f"[0][1]amix=2,afade=t=in:d=0.05,afade=t=out:st={segundos-0.8}:d=0.8,volume=0.25,"

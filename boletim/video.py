@@ -23,7 +23,8 @@ def _cor(hexa: str) -> str:
 
 
 def render_segmento(seg: dict, audio: Path, srt: Path, dur: float, destino: Path, titulo: str,
-                    data: str, resolucao: str = "1280x720", offset_fala: float = 0.0) -> None:
+                    data: str, resolucao: str = "1280x720", vinheta: Path | None = None,
+                    dur_vinheta: float = 3.0) -> None:
     w, h = map(int, resolucao.split("x"))
     tmp = destino.parent / f"_txt_{seg['id']}"
     tmp.mkdir(exist_ok=True)
@@ -45,8 +46,8 @@ def render_segmento(seg: dict, audio: Path, srt: Path, dur: float, destino: Path
         f"drawbox=x=0:y=0:w=iw:h=78:color=black@0.35:t=fill",
         f"drawtext=fontfile={FONTE_B}:textfile='{arq('marca.txt', titulo.upper())}':x=40:y=24:fontsize=28:fontcolor=white",
         f"drawtext=fontfile={FONTE}:textfile='{arq('data.txt', data)}':x=w-tw-40:y=30:fontsize=20:fontcolor=white@0.85",
-        # cartão de abertura da seção (primeiros 3 s)
-        f"drawtext=fontfile={FONTE_B}:textfile='{arq('secao.txt', seg['titulo'].upper())}':x=(w-tw)/2:y=(h-th)/2-30:"
+        # cartão de abertura da seção (primeiros 3 s) — substituído pela vinheta Manim quando houver
+        "null" if vinheta else f"drawtext=fontfile={FONTE_B}:textfile='{arq('secao.txt', seg['titulo'].upper())}':x=(w-tw)/2:y=(h-th)/2-30:"
         f"fontsize=64:fontcolor=white:alpha='if(lt(t,2.4),1,max(0,1-(t-2.4)/0.6))':enable='lt(t,3)'",
         # rótulo da seção no topo após o cartão
         f"drawbox=x=40:y=100:w=8:h=44:color=white@0.9:t=fill:enable='gte(t,3)'",
@@ -74,9 +75,15 @@ def render_segmento(seg: dict, audio: Path, srt: Path, dur: float, destino: Path
     estilo = ("FontName=DejaVu Sans,FontSize=15,PrimaryColour=&H00FFFFFF,OutlineColour=&H80000000,"
               "BorderStyle=3,Outline=1,Shadow=0,MarginV=24")
     passos.append(f"subtitles='{_esc(srt)}':force_style='{estilo}'")
-    filtros.append(f"{v}{','.join(passos)}[vout]")
+    if vinheta:
+        filtros.append(f"{v}{','.join(passos)}[vtx]")
+        filtros.append(f"[1:v]scale={w}:{h},setpts=PTS-STARTPTS,trim=0:{dur_vinheta:.2f}[vin]")
+        filtros.append("[vtx][vin]overlay=eof_action=pass[vout]")
+    else:
+        filtros.append(f"{v}{','.join(passos)}[vout]")
 
-    cmd = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(audio),
+    entradas = ["-i", str(audio)] + (["-i", str(vinheta)] if vinheta else [])
+    cmd = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", *entradas,
            "-filter_complex", ";".join(filtros), "-map", "[vout]", "-map", "[a2]",
            "-c:v", "libx264", "-preset", "veryfast", "-crf", "27", "-pix_fmt", "yuv420p", "-r", "24",
            "-c:a", "aac", "-b:a", "96k", "-ar", "44100", "-ac", "1", "-t", f"{dur:.2f}", str(destino)]

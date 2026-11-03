@@ -46,3 +46,14 @@ def test_estado_pausa_e_calibra():
     m.registrar_fonte(est, "X", True, 5, date(2026, 11, 4))
     assert not m.pausadas(est)
     assert m.registrar_ritmo(est, 1500, 600) == 150
+
+
+def test_vinheta_manim_renderiza(tmp_path):
+    import pytest
+
+    from boletim import vinhetas
+    if not vinhetas.disponivel():
+        pytest.skip("manim não instalado")
+    p = vinhetas.render("Transicao", {"duracao": 1, "cor": "#0B3D91", "cor2": "#1E88E5", "titulo": "Saúde"},
+                        tmp_path / "v.mp4", "640x360")
+    assert p and p.stat().st_size > 1000
