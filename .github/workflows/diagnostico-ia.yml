@@ -11,10 +11,9 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          for url in https://models.github.ai/inference/chat/completions; do
-            echo "== $url"
-            curl -sS -i "$url" -H "Authorization: Bearer $GH_TOKEN" -H "Content-Type: application/json" \
-              -H "Accept: application/json" -H "X-GitHub-Api-Version: 2022-11-28" \
-              -d '{"model":"openai/gpt-4.1","max_tokens":20,"messages":[{"role":"user","content":"Diga ola"}]}' | head -c 1500
-            echo
-          done
+          B='{"model":"openai/gpt-4.1","max_tokens":20,"messages":[{"role":"user","content":"Diga ola"}]}'
+          H=(-H "Authorization: Bearer $GH_TOKEN" -H "Content-Type: application/json" -H "Accept: application/vnd.github+json" -H "X-GitHub-Api-Version: 2022-11-28")
+          echo "== catalogo"; curl -sS -i https://models.github.ai/catalog/models "${H[@]}" | head -c 600; echo
+          echo "== inference"; curl -sS -i -X POST https://models.github.ai/inference/chat/completions "${H[@]}" -d "$B" | head -c 800; echo
+          echo "== org inference"; curl -sS -i -X POST https://models.github.ai/orgs/${{ github.repository_owner }}/inference/chat/completions "${H[@]}" -d "$B" | head -c 800; echo
+          echo "== azure legado"; curl -sS -i -X POST https://models.inference.ai.azure.com/chat/completions "${H[@]}" -d '{"model":"gpt-4o-mini","max_tokens":20,"messages":[{"role":"user","content":"Diga ola"}]}' | head -c 800; echo
