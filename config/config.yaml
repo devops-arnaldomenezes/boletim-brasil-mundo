@@ -13,7 +13,7 @@ max_itens_por_secao: 18     # itens enviados ao modelo por seção
 provedor_ia: "auto"
 modelos_ia:
   github: "openai/gpt-4.1"
-  gemini: "gemini-2.5-flash"
+  gemini: "gemini-3.8-flash"
   anthropic: "claude-sonnet-5-5"
 duracao_alvo_min: 38             # entre 30 e 45 minutos
 palavras_por_minuto: 150         # valor inicial; o agente mede o ritmo real da voz e se recalibra (estado/estado.json)
