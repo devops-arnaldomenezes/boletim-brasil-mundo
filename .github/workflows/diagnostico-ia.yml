@@ -19,3 +19,7 @@ jobs:
           echo "== org inference"; curl -sS -i -X POST https://models.github.ai/orgs/${{ github.repository_owner }}/inference/chat/completions "${H[@]}" -d "$B" | head -c 800; echo
           echo "== azure legado"; curl -sS -i -X POST https://models.inference.ai.azure.com/chat/completions "${H[@]}" -d '{"model":"gpt-4o-mini","max_tokens":20,"messages":[{"role":"user","content":"Diga ola"}]}' | head -c 800; echo
           echo "== gemini"; [ -n "$GEMINI_API_KEY" ] && curl -sS -X POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions -H "Authorization: Bearer $GEMINI_API_KEY" -H "Content-Type: application/json" -d '{"model":"gemini-3.8-flash","max_tokens":50,"messages":[{"role":"user","content":"Diga ola"}]}' | head -c 800 || echo "sem GEMINI_API_KEY"
+          echo "== gemini modelos"; curl -sS "https://generativelanguage.googleapis.com/v1beta/models?pageSize=200" -H "x-goog-api-key: $GEMINI_API_KEY" | grep -oE '"name": "models/[^"]+"' | head -60
+          for m in $(curl -sS "https://generativelanguage.googleapis.com/v1beta/models?pageSize=200" -H "x-goog-api-key: $GEMINI_API_KEY" | grep -oE '"name": "models/gemini[^"]*flash[^"]*"' | cut -d/ -f2 | tr -d '"' | head -8); do
+            echo "== teste $m"; curl -sS -o /dev/null -w "%{http_code}\n" -X POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions -H "Authorization: Bearer $GEMINI_API_KEY" -H "Content-Type: application/json" -d "{\"model\":\"$m\",\"max_tokens\":20,\"messages\":[{\"role\":\"user\",\"content\":\"ola\"}]}"
+          done
