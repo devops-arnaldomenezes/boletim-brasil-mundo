@@ -40,6 +40,17 @@ Selecione de {min_itens} a {max_itens} itens mais relevantes.
 Notícias:
 {noticias}"""
 
+PEDIDO_REVISAO = """Você é o revisor de checagem de fatos. Compare a seção gerada com as notícias-fonte.
+Remova ou corrija qualquer afirmação (número, nome, data, citação) que NÃO esteja nas fontes, corrija atribuições
+erradas e mantenha o tamanho aproximado do roteiro. Responda APENAS com o JSON corrigido, no mesmo formato.
+Se estiver tudo correto, devolva o JSON igual.
+
+Notícias-fonte:
+{noticias}
+
+Seção gerada:
+{gerado}"""
+
 PEDIDO_ABERTURA = """Data: {data}. Escreva a ABERTURA do boletim "{titulo}".
 Cumprimente o ouvinte (bom dia), diga a data por extenso e apresente as principais manchetes do dia em forma de
 escalada, com base nas notícias abaixo. Cerca de {palavras} palavras.
@@ -141,6 +152,14 @@ class Redator:
                                                  palavras=p_secao, min_itens=5, max_itens=9,
                                                  noticias=_json_noticias(itens))
                 conteudo = self._chamar(pedido)
+                if self.cfg.get("revisao_ia", True):
+                    try:
+                        revisado = self._chamar(PEDIDO_REVISAO.format(
+                            noticias=_json_noticias(itens), gerado=json.dumps(conteudo, ensure_ascii=False)))
+                        if revisado.get("roteiro") and len(revisado["roteiro"]) > 0.6 * len(conteudo["roteiro"]):
+                            conteudo = revisado
+                    except RuntimeError as e:
+                        log.warning("Revisão da seção %s falhou; mantendo versão original: %s", s["id"], e)
             else:
                 conteudo = self._extrativo(s, itens, data_extenso)
             log.info("Seção %-12s %4d palavras", s["id"], len(conteudo["roteiro"].split()))

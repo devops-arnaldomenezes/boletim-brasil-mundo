@@ -15,6 +15,7 @@ permissions:
   contents: write
   models: read      # GitHub Models (IA gratuita)
   pages: write
+  issues: write
   id-token: write
 
 concurrency:
@@ -70,7 +71,7 @@ jobs:
         run: |
           git config user.name "boletim-bot"
           git config user.email "boletim-bot@users.noreply.github.com"
-          git add edicoes
+          git add edicoes estado
           git commit -m "Edição $(date +%F)" || echo "Nada a commitar"
           git push
 
@@ -82,3 +83,18 @@ jobs:
           path: _site
 
       - uses: actions/deploy-pages@v4
+
+      - name: Abrir issue automática em caso de falha
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          ABERTA=$(gh issue list --label falha-boletim --state open --json number -q '.[0].number')
+          if [ -n "$ABERTA" ]; then
+            gh issue comment "$ABERTA" --body "Nova falha em $(date +%F): $URL"
+          else
+            gh label create falha-boletim --color B60205 --force
+            gh issue create --label falha-boletim --title "Falha no boletim de $(date +%F)" \
+              --body "A geração/publicação do boletim falhou. Log: $URL"
+          fi

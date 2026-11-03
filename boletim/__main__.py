@@ -13,7 +13,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-from . import audio, classificador, coletor, publicador, video
+from . import audio, classificador, coletor, estado as memoria, publicador, video
 from .redator import Redator
 from .util import RAIZ, agora, carregar_yaml, data_extenso, log
 
@@ -40,11 +40,20 @@ def main(argv=None) -> int:
     trab = midia / "_trabalho"
     trab.mkdir(exist_ok=True)
 
-    # 1. Coleta
+    est = memoria.carregar()
+    if est.get("ppm_medido"):
+        cfg["palavras_por_minuto"] = est["ppm_medido"]
+        log.info("Ritmo de locução calibrado: %.0f palavras/min", est["ppm_medido"])
+
+    # 1. Coleta (fontes pausadas por falhas repetidas são re-testadas semanalmente)
+    saude: dict = {}
     if a.fixture:
         noticias = coletor.carregar(Path(a.fixture))
     else:
-        noticias = coletor.coletar(fontes, cfg["janela_horas"], cfg["max_itens_por_fonte"])
+        ativas = [f for f in fontes if memoria.fonte_ativa(est, f["nome"], hoje.date())]
+        noticias = coletor.coletar(ativas, cfg["janela_horas"], cfg["max_itens_por_fonte"], saude)
+        for nome, (ok, qtd) in saude.items():
+            memoria.registrar_fonte(est, nome, ok, qtd, hoje.date())
     if len(noticias) < 10:
         log.error("Poucas notícias coletadas (%d). Abortando para não publicar edição vazia.", len(noticias))
         return 2
@@ -58,7 +67,7 @@ def main(argv=None) -> int:
     log.info("Roteiro com %d palavras (~%.0f min)", palavras, palavras / cfg["palavras_por_minuto"])
 
     # 4. Áudio por seção (vinheta + locução) e legendas
-    dur_total, partes_audio, srt_total, t0 = 0.0, [], [], 0.0
+    dur_total, partes_audio, srt_total, t0, dur_fala = 0.0, [], [], 0.0, 0.0
     gerar_audio = cfg.get("gerar_audio") and not a.sem_audio
     gerar_video = gerar_audio and cfg.get("gerar_video") and not a.sem_video
     cfg["gerar_audio"], cfg["gerar_video"] = gerar_audio, gerar_video
@@ -71,6 +80,7 @@ def main(argv=None) -> int:
             voz = cfg["voz_tts"] if i % 2 == 0 else cfg.get("voz_tts_secundaria", cfg["voz_tts"])
             fala = trab / f"{i:02d}_{s['id']}_fala.mp3"
             cues = audio.sintetizar(s["roteiro"], voz, fala, cfg["palavras_por_minuto"])
+            dur_fala += audio.duracao(fala)
             seg_mp3 = trab / f"{i:02d}_{s['id']}.mp3"
             lista = trab / "_l.txt"
             lista.write_text(f"file '{vin.resolve()}'\nfile '{fala.resolve()}'\n")
@@ -94,6 +104,8 @@ def main(argv=None) -> int:
         if gerar_video:
             video.concatenar(partes_video, midia / f"boletim-{data_iso}.mp4")
         log.info("Duração total: %.1f min", dur_total / 60)
+        if not a.fixture and dur_fala > 60:
+            log.info("Ritmo medido da voz: %.0f palavras/min", memoria.registrar_ritmo(est, palavras, dur_fala))
         if not 30 <= dur_total / 60 <= 45:
             log.warning("Duração fora da meta de 30–45 min. Ajuste duracao_alvo_min ou o número de fontes.")
 
@@ -109,6 +121,16 @@ def main(argv=None) -> int:
         "manchetes": manchetes, "bytes_mp3": mp3.stat().st_size if mp3.exists() else 0,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
     publicador.escrever_readme_ultima(cfg, data_ext, data_iso)
+    (pasta / "relatorio.json").write_text(json.dumps({
+        "fontes_ok": sorted(n for n, (ok, _) in saude.items() if ok),
+        "fontes_com_falha": sorted(n for n, (ok, _) in saude.items() if not ok),
+        "fontes_pausadas": memoria.pausadas(est), "duracao_min": dur_min,
+        "meta_duracao_ok": bool(dur_min and 30 <= dur_min <= 45), "palavras": palavras,
+        "ppm_usado": cfg["palavras_por_minuto"], "provedor_ia": cfg.get("provedor_ia"),
+        "secoes": {s["id"]: len(s.get("itens") or []) for s in segmentos},
+    }, ensure_ascii=False, indent=1), encoding="utf-8")
+    if not a.fixture:
+        memoria.salvar(est)
     log.info("Edição gerada em %s", pasta)
     return 0
 

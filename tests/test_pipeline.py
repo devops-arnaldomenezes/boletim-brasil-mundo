@@ -25,10 +25,24 @@ def test_extrair_json_tolera_texto_extra():
 
 
 def test_modo_extrativo_e_markdown(monkeypatch):
-    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    for k in ("ANTHROPIC_API_KEY", "GITHUB_TOKEN", "GEMINI_API_KEY"):
+        monkeypatch.delenv(k, raising=False)
     cfg = carregar_yaml("config.yaml")
     grupos = classificador.agrupar(coletor.carregar(FIX), [s["id"] for s in cfg["secoes"]], 18)
     segs = Redator(cfg).escrever("terça-feira, 3 de novembro de 2026", grupos)
     assert segs[0]["id"] == "destaques" and segs[-1]["id"] == "encerramento"
     md = publicador.markdown(cfg, "terça-feira", "2026-11-03", segs, 38)
     assert "## Política" in md and "releases/download/edicao-2026-11-03" in md
+
+
+def test_estado_pausa_e_calibra():
+    from datetime import date
+
+    from boletim import estado as m
+    est = {"fontes": {}, "ppm_medido": None}
+    for _ in range(7):
+        m.registrar_fonte(est, "X", False, 0, date(2026, 11, 3))
+    assert m.pausadas(est) == ["X"]
+    m.registrar_fonte(est, "X", True, 5, date(2026, 11, 4))
+    assert not m.pausadas(est)
+    assert m.registrar_ritmo(est, 1500, 600) == 150

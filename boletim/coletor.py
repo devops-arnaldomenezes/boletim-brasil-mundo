@@ -38,15 +38,16 @@ def _data(entry) -> datetime | None:
     return None
 
 
-def coletar_fonte(fonte: dict, desde: datetime, limite: int) -> list[Noticia]:
+def coletar_fonte(fonte: dict, desde: datetime, limite: int) -> tuple[list[Noticia], bool]:
+    """Retorna (notícias recentes, feed respondeu corretamente)."""
     try:
         feed = feedparser.parse(fonte["url"], agent=USER_AGENT)
     except Exception as e:  # noqa: BLE001
         log.warning("Falha em %s: %s", fonte["nome"], e)
-        return []
-    if feed.bozo and not feed.entries:
+        return [], False
+    if not feed.entries:
         log.warning("Feed sem itens: %s (%s)", fonte["nome"], getattr(feed, "bozo_exception", ""))
-        return []
+        return [], False
     itens = []
     for e in feed.entries[:limite]:
         dt = _data(e)
@@ -64,7 +65,7 @@ def coletar_fonte(fonte: dict, desde: datetime, limite: int) -> list[Noticia]:
             dicas=list(fonte.get("categorias", [])), id=chave(titulo),
         ))
     log.info("%-28s %3d itens", fonte["nome"], len(itens))
-    return itens
+    return itens, True
 
 
 def deduplicar(noticias: list[Noticia]) -> list[Noticia]:
@@ -83,11 +84,15 @@ def deduplicar(noticias: list[Noticia]) -> list[Noticia]:
     return [n for _, n in vistos]
 
 
-def coletar(fontes: list[dict], janela_horas: int, limite: int) -> list[Noticia]:
+def coletar(fontes: list[dict], janela_horas: int, limite: int, saude: dict | None = None) -> list[Noticia]:
+    """saude (opcional) recebe {nome_da_fonte: (ok, qtd_itens)} para o estado do agente."""
     desde = datetime.now(timezone.utc) - timedelta(hours=janela_horas)
     with ThreadPoolExecutor(max_workers=12) as ex:
-        lotes = ex.map(lambda f: coletar_fonte(f, desde, limite), fontes)
-    todas = [n for lote in lotes for n in lote]
+        lotes = list(ex.map(lambda f: coletar_fonte(f, desde, limite), fontes))
+    if saude is not None:
+        for f, (itens, ok) in zip(fontes, lotes):
+            saude[f["nome"]] = (ok, len(itens))
+    todas = [n for lote, _ in lotes for n in lote]
     unicas = deduplicar(todas)
     log.info("Coletadas %d notícias (%d após deduplicação)", len(todas), len(unicas))
     return unicas
