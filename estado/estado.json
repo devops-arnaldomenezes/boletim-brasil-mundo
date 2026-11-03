@@ -7,7 +7,7 @@
   },
   "Agência Câmara": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 6,
+   "itens_ultimo": 8,
    "ultimo_ok": "2026-11-03"
   },
   "Agência FAPESP": {
@@ -16,10 +16,10 @@
    "ultimo_ok": "2026-11-03"
   },
   "Agência Gov": {
-   "falhas_seguidas": 3
+   "falhas_seguidas": 4
   },
   "Agência IBGE": {
-   "falhas_seguidas": 3
+   "falhas_seguidas": 4
   },
   "Agência Senado": {
    "falhas_seguidas": 0,
@@ -33,7 +33,7 @@
   },
   "Ars Technica": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 10,
+   "itens_ultimo": 11,
    "ultimo_ok": "2026-11-03"
   },
   "BBC News Brasil": {
@@ -87,7 +87,7 @@
    "ultimo_ok": "2026-11-03"
   },
   "FMI / IMF": {
-   "falhas_seguidas": 3
+   "falhas_seguidas": 4
   },
   "Federal Reserve": {
    "falhas_seguidas": 0,
@@ -120,7 +120,7 @@
    "ultimo_ok": "2026-11-03"
   },
   "Korea Herald": {
-   "falhas_seguidas": 3
+   "falhas_seguidas": 4
   },
   "MIT Technology Review": {
    "falhas_seguidas": 0,
@@ -128,10 +128,10 @@
    "ultimo_ok": "2026-11-03"
   },
   "NHK World": {
-   "falhas_seguidas": 3
+   "falhas_seguidas": 4
   },
   "NIH News": {
-   "falhas_seguidas": 3
+   "falhas_seguidas": 4
   },
   "NPR News": {
    "falhas_seguidas": 0,
@@ -145,7 +145,7 @@
   },
   "New York Times": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 15,
+   "itens_ultimo": 16,
    "ultimo_ok": "2026-11-03"
   },
   "OMS / WHO": {
@@ -164,7 +164,7 @@
    "ultimo_ok": "2026-11-03"
   },
   "Parlamento Europeu": {
-   "falhas_seguidas": 3
+   "falhas_seguidas": 4
   },
   "RTP Notícias": {
    "falhas_seguidas": 0,
@@ -172,7 +172,7 @@
    "ultimo_ok": "2026-11-03"
   },
   "STF Notícias": {
-   "falhas_seguidas": 3
+   "falhas_seguidas": 4
   },
   "South China Morning Post": {
    "falhas_seguidas": 0,
@@ -181,12 +181,12 @@
   },
   "TechCrunch AI": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 14,
+   "itens_ultimo": 15,
    "ultimo_ok": "2026-11-03"
   },
   "Tecnoblog": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 24,
+   "itens_ultimo": 23,
    "ultimo_ok": "2026-11-03"
   },
   "The Guardian World": {
@@ -206,12 +206,12 @@
   },
   "UN News": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 0,
+   "itens_ultimo": 1,
    "ultimo_ok": "2026-11-03"
   },
   "UNESCO": {
-   "falhas_seguidas": 3
+   "falhas_seguidas": 4
   }
  },
- "ppm_medido": 142.5
+ "ppm_medido": 146.5
 }

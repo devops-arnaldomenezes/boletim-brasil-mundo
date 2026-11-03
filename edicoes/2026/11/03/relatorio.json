@@ -50,21 +50,21 @@
   "UNESCO"
  ],
  "fontes_pausadas": [],
- "duracao_min": 39.0,
- "meta_duracao_ok": true,
- "palavras": 5321,
- "ppm_usado": 144.5,
+ "duracao_min": 18.6,
+ "meta_duracao_ok": false,
+ "palavras": 2836,
+ "ppm_usado": 142.5,
  "provedor_ia": "gemini",
  "ia_ativa": true,
- "falhas_ia": 2,
+ "falhas_ia": 1,
  "secoes": {
-  "destaques": 13,
-  "politica": 18,
+  "destaques": 3,
+  "politica": 7,
   "economia": 16,
-  "tecnologia": 17,
-  "ia": 16,
-  "saude": 18,
-  "cultura": 17,
+  "tecnologia": 5,
+  "ia": 7,
+  "saude": 6,
+  "cultura": 7,
   "encerramento": 0
  }
 }

@@ -188,7 +188,7 @@
   "id": "eda9f6530c35"
  },
  {
-  "titulo": "Vídeo: Ao vivo: CE pode criar o Prêmio Nacional da Educação Brasileira – 03/11/26",
+  "titulo": "Vídeo: CE pode criar o Prêmio Nacional da Educação Brasileira – 03/11/26",
   "resumo": "",
   "link": "https://www12.senado.leg.br/noticias/videos/2026/11/ao-vivo-ce-pode-criar-o-premio-nacional-da-educacao-brasileira-2013-03-11-26",
   "fonte": "Agência Senado",
@@ -201,7 +201,7 @@
   ],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "ad11a871d1ca"
+  "id": "525c67aa68f5"
  },
  {
   "titulo": "Áudio: Projeto prevê prisão e multa de até 20% do faturamento por assédio eleitoral",
@@ -250,6 +250,38 @@
   "categorias": [],
   "relevancia": 0.0,
   "id": "849d5acf2ee2"
+ },
+ {
+  "titulo": "Comissão aprova desconto na compra de livros para professores e alunos de cursos de licenciatura",
+  "resumo": "O projeto segue em análise na Câmara dos Deputados",
+  "link": "https://www.camara.leg.br/noticias/1315102-comissao-aprova-desconto-na-compra-de-livros-para-professores-e-alunos-de-cursos-de-licenciatura",
+  "fonte": "Agência Câmara",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "oficial",
+  "publicado": "2026-11-03T15:49:00+00:00",
+  "dicas": [
+   "politica"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "0cf003212fc4"
+ },
+ {
+  "titulo": "Comissão aprova projeto que prevê carteira de docente para professores aposentados",
+  "resumo": "Proposta continua em análise na Câmara",
+  "link": "https://www.camara.leg.br/noticias/1315095-comissao-aprova-projeto-que-preve-carteira-de-docente-para-professores-aposentados",
+  "fonte": "Agência Câmara",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "oficial",
+  "publicado": "2026-11-03T15:42:00+00:00",
+  "dicas": [
+   "politica"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "081724cc9613"
  },
  {
   "titulo": "Comissão aprova diretrizes para atender pacientes com condições pós-Covid no SUS",
@@ -515,7 +547,7 @@
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T11:42:12+00:00",
+  "publicado": "2026-11-03T14:39:04+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
@@ -702,6 +734,20 @@
   "categorias": [],
   "relevancia": 0.0,
   "id": "d985c73e5281"
+ },
+ {
+  "titulo": "Por que a reunificação das Coreias parece mais distante do que nunca",
+  "resumo": "Trinta e cinco anos após a reunificação alemã, sul-coreanos e norte-coreanos têm cada vez menos interesse em viver sob um mesmo Estado. Diferenças políticas, econômicas e geopolíticas tornam a união um objetivo remoto.",
+  "link": "https://www.dw.com/pt-br/por-que-a-reunificação-das-coreias-parece-mais-distante-do-que-nunca/a-79840775?maca=bra-rss-br-all-1030-xml-mrss",
+  "fonte": "DW Brasil",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:52:00+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "e2b49166a264"
  },
  {
   "titulo": "Midterms podem trazer vitórias históricas para mulheres nos EUA",
@@ -914,354 +960,410 @@
   "id": "530de9eb665d"
  },
  {
-  "titulo": "Quem são as mulheres que atuarão no Congresso no ano que vem",
-  "resumo": "Congresso terá recorde de mulheres em 2027. Apesar de aumento, puxado pela direita, bancada não é homogênea e defende diferentes interesses.",
-  "link": "https://www.dw.com/pt-br/quem-são-as-mulheres-que-atuarão-no-congresso-no-ano-que-vem/a-79830444?maca=bra-rss-br-all-1030-xml-mrss",
-  "fonte": "DW Brasil",
-  "regiao": "brasil",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-02T12:32:00+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "9dfc6f149d31"
- },
- {
-  "titulo": "Campinas suspende licitação de R$ 224,6 milhões para contratar equipes de UPAs e Samu",
-  "resumo": "Profissionais do Samu de Campinas (SP); serviço está entre os contemplados por licitação de R$ 224,6 milhões suspensa pela Rede Mário Gatti Rogério Capela/Prefeitura de Caminas A Rede Municipal Dr. Mário Gatti suspendeu uma licitação de R$ 224,6 milhões para a contratação de serviços médicos e multiprofissionais em quatro Unidades de Pronto Atendimento (UPAs) e no Samu 192 de Campinas (SP). A decisão foi publicada no Diário Oficial desta terça-feira (3). Segundo a Rede Mário Gatti, a suspensão por tempo indeterminado ocorreu para a análise de impugnações e pedidos de esclarecimento apresentados por empresas interessadas em participar da licitação. O órgão não informou quais pontos do edital ",
-  "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/03/campinas-suspende-licitacao-de-r-2246-milhoes-para-contratar-equipes-de-upas-e-samu.ghtml",
+  "titulo": "Lei nº 15.377/2026: o que muda para empresas e trabalhadores",
+  "resumo": "Lei nº 15.377/2026: o que muda para empresas e trabalhadores Crédito: Corpmed. Desde 6 de abril de 2026, empresas brasileiras têm novos deveres de informação e conscientização em saúde. A Lei nº 15.377/2026 incluiu o artigo 169-A na Consolidação das Leis do Trabalho — CLT e acrescentou o parágrafo 3º ao artigo 473. O texto alcança campanhas oficiais de vacinação, papilomavírus humano — HPV e prevenção dos cânceres de mama, de colo do útero e de próstata. A mudança interessa diretamente a empresários, RH, Jurídico, Saúde Ocupacional, SST e Comunicação Interna. Não basta permitir que o empregado procure atendimento quando necessário: a empresa passa a ter o dever expresso de disponibilizar inf",
+  "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/corpmed-saude-no-trabalho-gestao-prevencao-e-futuro/noticia/2026/11/03/lei-no-153772026-o-que-muda-para-empresas-e-trabalhadores.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:25:16+00:00",
+  "publicado": "2026-11-03T14:54:50+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "fbb75b4200df"
+  "id": "792efbc4a310"
  },
  {
-  "titulo": "Incêndio atinge prédio comercial em construção em Montes Claros; VÍDEO",
-  "resumo": "Incêndio atinge prédio comercial em construção em Montes Claros Um incêndio atingiu uma edificação comercial em construção no bairro Doutor João Alves, em Montes Claros, na madrugada desta terça-feira (3). (Veja vídeo acima) O imóvel tinha dois pavimentos e, quando os bombeiros chegaram ao local, constataram que as chamas já haviam tomado grandes proporções e atingido o primeiro pavimento. 📲Clique aqui para seguir o canal do g1 Grande Minas no WhatsApp As equipes utilizaram equipamentos de proteção respiratória, linhas de mangueiras e ventilação de alta pressão para combater o incêndio. Após controlar as chamas, os militares realizaram o rescaldo e o resfriamento dos ambientes para eliminar ",
-  "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/03/incendio-atinge-predio-comercial-em-construcao-em-montes-claros-video.ghtml",
+  "titulo": "PF investiga ameaças e ataques racistas contra deputada federal na internet",
+  "resumo": "Sede da Polícia Federal, em Brasília Marcos Oliveira/Agência Senado A Polícia Federal (PF) deflagrou, nesta terça-feira (3), uma operação para investigar crimes de ameaça, injúria racial, racismo e violência política praticados na internet contra uma deputada federal e seus familiares. Um mandado de busca e apreensão expedido pela Justiça Eleitoral do Distrito Federal foi cumprido no município de Teresópolis (RJ). Segundo a PF, a investigação teve início em agosto de 2026, após o envio de mensagens eletrônicas com ameaças de morte e ataques racistas e misóginos direcionados à parlamentar e à sua família, além da divulgação não autorizada de dados pessoais da vítima. ✅ Clique aqui para seguir",
+  "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/03/pf-investiga-ameacas-e-ataques-racistas-contra-deputada-federal-na-internet.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:24:55+00:00",
+  "publicado": "2026-11-03T14:54:18+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "49c50546993f"
+  "id": "06c39d7da993"
  },
  {
-  "titulo": "Polícia aponta que casal entrou por engano em acesso ao Rio Ivinhema",
-  "resumo": "Caminhonete cai em rio de MS e mulher é encontrada morta; motorista está desaparecido A Polícia Civil considera que a entrada de uma caminhonete no Rio Ivinhema, entre Angélica e Nova Andradina (MS), foi um acidente. Segundo o delegado Gustavo Oliveira, responsável pela investigação, não há indícios de feminicídio ou suicídio. A principal hipótese é que o casal tenha entrado por engano em uma área de acesso ao rio, sem conhecer as características do local. O acidente aconteceu na noite deste domingo (1º). As vítimas foram identificadas como Estela Tomazetto, de 48 anos, e João Luiz dos Santos, de 56 anos. Os dois são do Paraná e trabalhavam em uma fazenda da região. O corpo de Estela foi enc",
-  "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/03/policia-aponta-que-casal-entrou-por-engano-em-acesso-ao-rio-ivinhema.ghtml",
+  "titulo": "Motociclista morre após perder controle de moto e bater em árvore em Campina Grande",
+  "resumo": "Motociclista morre após perder controle de moto e bater em árvore em Campina Grande Reprodução/TV Paraíba Um motociclista de 35 anos morreu na manhã desta terça-feira (3) após perder o controle da moto e bater em uma árvore no Centro de Campina Grande, no Agreste da Paraíba. O acidente aconteceu na Avenida Floriano Peixoto, nas proximidades do antigo Hospital Regional da Criança e do Adolescente. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp A vítima foi identificada como Cícero Alisson Pereira da Silva. Segundo apuração da TV Paraíba, ele usava tornozeleira eletrônica e era investigado por ameaça e violência doméstica. Equipes do Serviço de Atendimento Móvel de Urgência (Samu) fora",
+  "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/03/motociclista-morre-apos-perder-controle-de-moto-e-bater-em-arvore-em-campina-grande.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:24:49+00:00",
+  "publicado": "2026-11-03T14:54:11+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "d6e74632aa6b"
+  "id": "16efc6311c5b"
  },
  {
-  "titulo": "Casal que aparecia em fotos exibindo arma de fogo tem prisão preventiva decretada no oeste do Pará",
-  "resumo": "Revólver calibre 38 com numeração raspada, munições e aparelho celular apreendidos pela Polícia Militar são apresentados após cerco a casal em Santarém. Polícia Militar A Justiça de Santarém, no oeste do Pará, decretou a prisão preventiva do casal suspeito de porte ilegal de arma de fogo, abordado por equipes da Polícia Militar na noite de domingo (1º de novembro), na Avenida Engenheiro Fernando Guilhon. Com a decisão judicial, os suspeitos continuam presos. ✅ Siga o canal g1 Santarém e Região no WhatsApp O caso veio à tona após a Polícia Militar receber informações e registros fotográficos que mostravam o motorista de uma caminhonete se exibindo armado. Na noite do flagrante, a guarnição do",
-  "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/03/casal-que-aparecia-em-fotos-exibindo-arma-de-fogo-tem-prisao-preventiva-decretada-no-oeste-do-para.ghtml",
+  "titulo": "Tio esfaqueia sobrinha, se entrega à polícia, em BH, e diz se arrepender de 'não ter arrancando a cabeça dela'",
+  "resumo": "Local onde os fatos acontecederam, em BH Google Streetview Um homem de 52 anos foi preso suspeito de esfaquear a própria sobrinha, de 31 anos, no bairro Urca, na região Norte de Belo Horizonte. Segundo a Polícia Militar, o homem se entregou espontaneamente depois do ataque e a vítima foi levada em estado grave para o Hospital Risoleta Neves. Ainda segundo a PM, o homem foi até a casa da sobrinha com a intenção de matá-la, invadiu o espaço, a esfaqueou e fugiu de bicicleta. Familiares que presenciaram a movimentação acionaram o socorro médico. ✅Clique aqui para seguir o canal do g1 MG no WhatsApp Durante o atendimento da ocorrência, os policiais receberam a informação de que o suspeito havia ",
+  "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/03/tio-esfaqueia-sobrinha-se-entrega-a-policia-em-bh-e-diz-se-arrepender-de-nao-ter-arrancando-a-cabeca-dela.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:24:19+00:00",
+  "publicado": "2026-11-03T14:54:04+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "9fa4ad8cb0e3"
+  "id": "d2c68ca4b951"
  },
  {
-  "titulo": "Dupla é presa por tentar matar jovem a facadas por ciúmes de mulher em Boa Vista",
-  "resumo": "Dupla é presa por atacar jovem a facadas por ciúmes de mulher em Boa Vista Dois homens, de 27 e 29 anos, foram presos suspeitos de tentar matar um jovem, de 27 anos, por ciúmes de uma mulher. O crime foi na tarde desta segunda-feira (2), no bairro União, zona Oeste de Boa Vista. A vítima foi atacada com golpes de faca, madeira e uma barra de ferro em um terreno baldio. Ele se feriu gravemente e permanece internado no Hospital Geral de Roraima (HGR). A investigação da Delegacia Geral de Homicídios (DGH) aponta que o crime foi motivado por ciúmes e desentendimentos envolvendo uma mulher com quem um dos suspeitos mantinha um relacionamento. ✅ Clique aqui para seguir o canal do g1 RR no WhatsApp",
-  "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/03/dupla-e-presa-por-tentar-matar-jovem-a-facadas-por-ciumes-de-mulher-em-boa-vista.ghtml",
+  "titulo": "EPTV 1 Campinas ao vivo",
+  "resumo": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+  "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-1-ao-vivo.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:24:06+00:00",
+  "publicado": "2026-11-03T14:52:49+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "a29660194cdc"
+  "id": "17b33c5be3dd"
  },
  {
-  "titulo": "Jovem é perseguido e morto a tiros quando voltava para casa em distrito de Manhuaçu",
-  "resumo": "Jovem é perseguido e morto a tiros quando voltava para casa em distrito de Manhuaçu G1 Um jovem de 20 anos foi morto a tiros na noite desta segunda-feira (2), no distrito de Ponte do Silva, em Manhuaçu. Kauã Mota Gomes foi socorrido em estado grave, mas morreu após dar entrada no Hospital César Leite. Um homem de 25 anos, apontado pela Polícia Militar como um dos envolvidos no homicídio, foi preso. Moradores ouviram vários disparos e encontraram o jovem caído na rua, com ferimentos provocados por arma de fogo. A vítima teria sido atingida por cinco tiros. De acordo com a Polícia Militar, Kauã retornava para casa quando foi surpreendido por dois homens armados, que atiraram diversas vezes con",
-  "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/03/jovem-e-perseguido-e-morto-a-tiros-quando-voltava-para-casa-em-distrito-de-manhuacu.ghtml",
+  "titulo": "DF tem aulão gratuito de redação para o Enem nesta quinta-feira (5); veja como participar",
+  "resumo": "Cadernos de prova do Enem 2025 reprodução A Defensoria Pública do Distrito Federal vai realizar, nesta quinta-feira (5), a 9ª edição do Aulão Preparatório para a redação do Exame Nacional do Ensino Médio (Enem). O evento acontece no auditório da Câmara Legislativa do DF, das 14h às 18h, e tem ingressos limitados. ✅ Clique aqui para seguir o canal do g1 no WhatsApp. Além da aula de escrita e forma de redação do exame, o evento vai abordar análises de possíveis temas da redação nos eixos de relevância social, meio ambiente, economia, saúde, cidadania e tecnologia. ➡️ As inscrições são realizadas pela internet. Local de prova do Enem 2026 é divulgado Na edição de 2025, o evento atingiu cerca de",
+  "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/03/df-tem-aulao-gratuito-de-redacao-para-o-enem-nesta-quinta-feira-5-veja-como-participar.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:23:56+00:00",
+  "publicado": "2026-11-03T14:52:03+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "65f4e136dfb1"
+  "id": "8e5d46d65a3f"
  },
  {
-  "titulo": "AO VIVO: Assista ao GR1",
-  "resumo": "AO VIVO: Assista ao GR1 Acompanhe o GR1 desta terça-feira (3), com apresentação de Vanda Torres.",
-  "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr1.ghtml",
+  "titulo": "Nova norma define regras para manejo sustentável de madeira por comunidades tradicionais no AM",
+  "resumo": "Reserva extrativista do Médio Juruá no Amazonas Divulgação/ICMbio Comunidades tradicionais que vivem em unidades de conservação federais no Amazonas terão novas regras para a exploração sustentável de madeira. Uma instrução normativa conjunta do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) e do Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) definiu as responsabilidades de cada órgão na análise e fiscalização dos planos de manejo florestal comunitário. A mudança busca simplificar os processos de autorização, agilizar a análise dos projetos e garantir segurança jurídica a ribeirinhos e extrativistas que dependem da floresta para viver e tra",
+  "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/03/nova-norma-define-regras-para-manejo-sustentavel-de-madeira-por-comunidades-tradicionais-no-am.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:22:35+00:00",
+  "publicado": "2026-11-03T14:51:54+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "6036b127f121"
+  "id": "5565a07de7d7"
  },
  {
-  "titulo": "Mega-Sena premia apostas da Baixada Santista com mais de R$ 116 mil; veja os números",
-  "resumo": "G1 | Loterias - Mega-Sena 3080 Duas apostas registradas em Cubatão e Santos, na Baixada Santista, faturaram, juntas, R$ 116.635,98 no concurso 3080 da Mega-Sena, realizado no domingo (1º). Os dois jogos acertaram cinco das seis dezenas sorteadas. Os números sorteados foram 13 - 17 - 28 - 29 - 39 - 58. Ninguém acertou as seis dezenas, mas 29 apostas foram premiadas na faixa da quina. Com isso, o prêmio principal acumulou e está estimado em R$ 46 milhões para o próximo sorteio, previsto para esta quarta-feira (4), às 21h. ✅Clique aqui para seguir o canal do g1 Santos no WhatsApp. Prêmios na Baixada Santista Apostas registradas em Santos e Cubatão acertaram a quina da Mega-Sena no concurso 3080",
-  "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/03/mega-sena-premia-apostas-da-baixada-santista-com-mais-de-r-116-mil-veja-os-numeros.ghtml",
+  "titulo": "Feira no Piaget destaca IA, cultura e a Valorização da Vida",
+  "resumo": "Alunos do 2º Ano apresentam seu trabalho Divulgação/Colégio Jean Piaget O Colégio Jean Piaget realizou, no último sábado (31), mais uma edição da Feira da Valorização da Vida, evento que integra o calendário da instituição e reuniu alunos, professores e familiares em uma programação marcada por conhecimento, cultura, criatividade e consciência ambiental. A feira transformou os espaços do colégio em ambientes de exposição e troca de experiências, com projetos desenvolvidos por estudantes do 6º ano do Ensino Fundamental II à 2ª série do Ensino Médio. Entre os assuntos abordados estavam os impactos da Inteligência Artificial no cotidiano, a cultura pop das décadas de 1980, 1990 e 2000, o fenôme",
+  "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/especial-publicitario/colegio-jean-piaget/apontando-caminhos/noticia/2026/11/03/feira-no-piaget-destaca-ia-cultura-e-a-valorizacao-da-vida.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:22:09+00:00",
+  "publicado": "2026-11-03T14:51:24+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "8ebecb56118b"
+  "id": "c0c8e5c95980"
  },
  {
-  "titulo": "Farmácia é alvo de assalto e funcionária é rendida em Cuité, na PB; VÍDEO",
-  "resumo": "Dupla assalta farmácia em Cuité, na PB Um assalto foi registrado na noite desta segunda-feira (2) em uma farmácia localizada no Centro de Cuité, no Curimataú da Paraíba. Segundo a Polícia Militar, dois homens em uma motocicleta participaram do crime, que aconteceu na Rua 7 de Setembro. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp O crime aconteceu por volta das 21h. No momento do assalto, uma funcionária estava no balcão e foi rendida pelos criminosos. Apesar do susto, ninguém ficou ferido. (Veja no vídeo acima.) Ainda de acordo com a PM, foram levados cerca de R$ 1 mil em dinheiro. Farmácia é alvo de assalto e funcionária é rendida em Cuité, na PB Reprodução/Polícia Militar Ainda ",
-  "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/03/farmacia-e-alvo-de-assalto-e-funcionaria-e-rendida-em-cuite-na-pb-video.ghtml",
+  "titulo": "Colégio Jean Piaget abre matrículas e rematrículas para o ano letivo de 2027",
+  "resumo": "O Colégio Jean Piaget inicia nesta terça-feira (3) o período de matrículas e rematrículas para o ano letivo de 2027. Com uma trajetória de 37 anos dedicada à educação em Angra dos Reis, a instituição atende da Educação Infantil ao Ensino Médio, reunindo tradição, inovação, estrutura e uma proposta pedagógica que vai além do conteúdo em sala de aula: ensinar a pensar, a ser e a viver. Nossos Alunos do Terceirão se preparam para a formatura e para novos desafios nas universidades Divulgação/Colégio Jean Piaget Ao longo de quase quatro décadas, o Piaget construiu uma história marcada pelo compromisso com a formação acadêmica e humana de seus alunos. O trabalho desenvolvido pela equipe pedagógic",
+  "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/especial-publicitario/colegio-jean-piaget/apontando-caminhos/noticia/2026/11/03/colegio-jean-piaget-abre-matriculas-e-rematriculas-para-o-ano-letivo-de-2027.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:21:51+00:00",
+  "publicado": "2026-11-03T14:51:14+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "9ff9220e7bb1"
+  "id": "32e07e0f5e8c"
  },
  {
-  "titulo": "Cuidador de abrigo é preso por suspeita de estupro de vulnerável contra jovem com deficiência em Itupeva",
-  "resumo": "Delegacia de Itupeva (SP) Divulgação/Prefeitura de Itupeva Um cuidador foi preso em flagrante suspeito de vulnerável contra um jovem de 19 anos, na manhã de segunda-feira (2), no bairro Jardim Primavera, em Itupeva (SP). Segundo o registro policial, a equipe foi acionada para comparecer a um espaço voltado ao acolhimento de pessoas com deficiência após denúncia feita por uma pedagoga da instituição. 📲 Participe do canal do g1 Sorocaba e Jundiaí no WhatsApp A funcionária relatou aos policiais que o cuidador teria cometido atos sexuais contra o jovem no domingo (1º). A vítima apresenta limitações no desenvolvimento mental e reside no local. A coordenadora da entidade já havia procurado a Políc",
-  "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/03/cuidador-e-preso-suspeito-de-estupro-de-vulneravel-contra-jovem-com-deficiencia-em-itupeva.ghtml",
+  "titulo": "Ouriço-cacheiro aparece em cima de espelho do banheiro e surpreende moradores em MG; veja o vídeo",
+  "resumo": "Ouriço-cacheiro aparece em cima de espelho do banheiro e surpreende moradores em MG e Um ouriço-cacheiro foi resgatado dentro de um banheiro de uma casa, em Muriaé, na Zona da Mata, no domingo (1º). O animal silvestre estava sobre um espelho quando o Corpo de Bombeiros chegou à residência para resgatá-lo. Os moradores relataram à corporação que deixam as janelas da casa abertas com frequência e, apesar das grades de proteção, o ouriço pode ter passado entre elas. Apesar da suspeita, a forma como o animal entrou na casa não foi identificada. ✅ Clique aqui para seguir o canal do g1 Zona da Mata no WhatsApp Os bombeiros capturaram o ouriço, que não apresentava ferimentos ou sinais de lesão. Ele",
+  "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/03/ourico-cacheiro-aparece-em-cima-de-espelho-do-banheiro-e-surpreende-moradores-em-mg-veja-o-video.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:20:25+00:00",
+  "publicado": "2026-11-03T14:49:51+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "bdd2d6fe8f4d"
+  "id": "35d80151ab04"
  },
  {
-  "titulo": "Trump afirma que EUA deixarão de pagar Israel após o fim do ano",
-  "resumo": "O presidente dos EUA, Donald Trump, afirmou nesta terça-feira (3) que fechou um acordo com o primeiro-ministro israelense, Benjamin Netanyahu, e que Washington não fornecerá mais financiamento a Israel após o final deste ano. Em entrevista à rede de TV americana Fox News, Trump declarou que Israel não precisa mais de financiamento e que alguns democratas e políticos de esquerda estariam usando o apoio financeiro dos EUA a Israel como argumento para criticar os republicanos. Apesar do corte de cerca de US$ 4 bilhões, Trump afirmou que seguirá ajudando Israel, se necessário. “Agora, no que diz respeito aos pagamentos a Israel, Netanyahu e eu chegamos a um acordo de que daríamos a Israel US$ 4 ",
-  "link": "https://g1.globo.com/mundo/noticia/2026/11/03/trump-apoio-israel.ghtml",
+  "titulo": "Assista ao JAP1 desta terça (3)",
+  "resumo": "Assista ao JAP1 desta terça (3) O g1 transmite ao vivo, diariamente, os telejornais Bom Dia Amapá (7h), JAP1 (11h45) e JAP2 (19h05).",
+  "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-terca-3.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:19:16+00:00",
+  "publicado": "2026-11-03T14:48:04+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "657a0b59cd04"
+  "id": "16d0433d3c15"
  },
  {
-  "titulo": "Produtores indígenas conquistam cinco premiações em concurso estadual de café em MT",
-  "resumo": "O mercado brasileiro tem espaço para diferentes tipos de cafés e que a valorização da produção de qualidade vem crescendo em várias regiões do país Reprodução Produtores indígenas do povo Paiter Suruí conquistaram cinco premiações no 1º Concurso de Qualidade do Café de Mato Grosso e se destacaram entre os participantes da competição estadual. Representantes de Rondolândia, município localizado a cerca de 1.050 quilômetros de Cuiabá, foram reconhecidos pela qualidade dos grãos produzidos pela comunidade. O resultado colocou a produção indígena em evidência e reforçou a força da agricultura familiar no estado. A premiação ocorreu no último sábado (31), em Juína (MT), durante um evento que reun",
-  "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/03/produtores-indigenas-conquistam-cinco-premiacoes-em-concurso-estadual-de-cafe-em-mt.ghtml",
+  "titulo": "Filho de 6 anos e sobrinha de 11 viram mulher ser morta por ex-companheiro em Barretos, SP, diz delegada",
+  "resumo": "Alessandra Carolino da Silva, de 44 anos, foi morta pelo ex-companheiro, Euripedes Pinto de Carvalho, de 43, em Barretos, SP Redes sociais O filho de 6 anos de Alessandra Carolino da Silva e a sobrinha dela, de 11, presenciaram o momento em que ela foi atacada pelo ex-companheiro, Euripedes Pinto de Carvalho, no meio da rua, em Barretos (SP). A vítima, de 44 anos, levou pelo menos 21 facadas, chegou a ser socorrida, mas morreu no hospital. O suspeito, de 43, fugiu do local após o crime e, até a última atualização desta reportagem, não tinha sido encontrado. O caso aconteceu na manhã de domingo (1º), no bairro Cecap, quando Alessandra deixou a casa da mãe com as crianças. Segundo a delegada D",
+  "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/03/filho-de-6-anos-e-sobrinha-de-11-viram-mulher-ser-morta-por-ex-companheiro-em-barretos-sp-diz-delegada.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:18:48+00:00",
+  "publicado": "2026-11-03T14:47:37+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "54b09bdcbe12"
+  "id": "d3920b56ebfa"
  },
  {
-  "titulo": "Corpo de médica brasileira que morreu após meia maratona na Espanha está em translado e será velado no RS",
-  "resumo": "Médica brasileira de 29 anos morre durante viagem à Espanha após disputar meia maratona A família da oftalmologista gaúcha Victoria d'Azevedo Silveira, de 29 anos, que morreu durante uma viagem à Espanha após participar de uma meia maratona, informou que o translado do corpo começou nesta terça-feira (3). As homenagens ocorrerão nesta quarta-feira (4), no Angelus Memorial e Crematório, em Porto Alegre, das 11h às 19h. A cerimônia de despedida está marcada para as 18h30, no mesmo local. 📲 Acesse o canal do g1 RS no WhatsApp O laudo pericial sobre a morte da médica apontou que Victoria sofreu uma \"morte súbita\". 🔍 A morte súbita é uma morte inesperada que ocorre em uma pessoa que aparentava es",
-  "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/03/corpo-de-medica-brasileira-que-morreu-apos-meia-maratona-na-espanha-esta-em-translado-e-sera-velado-no-rs.ghtml",
+  "titulo": "Rio Tapajós tem nova oscilação e fica a 80 centímetros da cota de alerta em Santarém, no Pará",
+  "resumo": "Nível do Rio Tapajós voltou a baixar nesta terça-feira (3). Marcos Santos O nível do Rio Tapajós voltou a recuar em Santarém, no oeste do Pará, depois de apresentar uma sequência de pequenas elevações nos últimos dias. Nesta terça-feira (3), o rio atingiu a marca de 1,30 metro, ficando 80 centímetros abaixo da cota de alerta, que é de 2,10 metros. A oscilação ocorre em meio a um período de estiagem que já se aproxima de quatro meses no município. ✅ Clique aqui e siga o canal g1 Santarém e Região no WhatsApp Os dados são do boletim diário divulgado pela Defesa Civil Municipal. A medição é feita na régua da Agência Nacional de Águas (ANA), instalada no porto da Companhia Docas do Pará (CDP). N",
+  "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/03/rio-tapajos-tem-nova-oscilacao-e-fica-a-80-centimetros-da-cota-de-alerta-em-santarem-no-para.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:18:29+00:00",
+  "publicado": "2026-11-03T14:47:36+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "4b0e7afa657d"
+  "id": "ed9ce24a4ac2"
  },
  {
-  "titulo": "Com temperatura podendo chegar a 36ºC, Rio entra no nível 2 de calor",
-  "resumo": "A cidade do Rio de Janeiro entrou no nível 2 do Protocolo de Calor às 11h desta terça-feira (3), segundo o Sistema Alerta Rio. O índice de calor — que leva em conta temperatura e umidade — pode variar entre 36°C e 40°C por um ou dois dias consecutivos. A temperatura máxima prevista para o dia é de 34°C, de acordo com a Climatempo. Com o tempo abafado, há previsão de pancadas de chuva ao longo da tarde que se estendem até o início da noite. As chances são maiores no interior do estado, como nas cidades que fazem divisa com Minas Gerais, onde pode ter chuva mais volumosa. Agora no g1 O Calor 2 é o segundo de cinco níveis do Protocolo de Calor da cidade e é caracterizado pela previsão ou regist",
-  "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/03/cidade-do-rio-entra-em-protocolo-de-calor.ghtml",
+  "titulo": "Acidente entre carros deixa duas pessoas gravemente feridas na BR-393, em Barra Mansa",
+  "resumo": "Acidente deixa feridos na BR-393, em Barra Mansa Divulgação/Redes sociais Um acidente envolvendo dois carros deixou duas pessoas gravemente feridas na manhã desta terça-feira (3), na BR-393, em Barra Mansa (RJ). O caso aconteceu na altura do bairro Santa Rita. Equipes do Corpo de Bombeiros estão no local prestando atendimento as vítimas. De acordo com o Serviço de Atendimento Móvel de Urgência (SAMU), duas vítimas sofreram ferimentos graves e foram encaminhadas para um hospital da região, ainda não divulgado. O g1 entrou em contato com as autoridades para apurar as circunstâncias do ocorrido. Vídeos em alta no g1 ✅Clique aqui e entre no canal do g1 no WhatsApp Esta matéria está em atualizaçã",
+  "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/03/acidente-entre-carros-deixa-duas-pessoas-gravemente-feridas-na-br-393-em-barra-mansa.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:17:28+00:00",
+  "publicado": "2026-11-03T14:46:11+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "33a2a1806c89"
+  "id": "3cea16f91436"
  },
  {
-  "titulo": "Conheça a história da família que fundou o Plano América e agora criou a Novamed",
-  "resumo": "Família que fundou o América volta ao mercado com a Novamed. Leandro Vieira O América Planos de Saúde marcou a história da medicina goiana. Criado inicialmente para oferecer assistência médica aos colaboradores do Hospital Jardim América, o plano cresceu, conquistou cerca de 200 mil beneficiários e se tornou uma das marcas mais conhecidas do setor em Goiás. À frente dessa trajetória estava a família Ferro, que também participou da fundação do hospital e construiu uma relação de confiança com milhares de famílias goianas. Em 2019, o América foi vendido a uma operadora nacional. Pelo acordo, a família Ferro permaneceu cinco anos fora do mercado de planos de saúde, mas manteve sua ligação com a",
-  "link": "https://g1.globo.com/go/goias/especial-publicitario/novamed-planos-de-saude-plano-de-saude-em-goias/noticia/2026/11/03/conheca-a-historia-da-familia-que-fundou-o-plano-america-e-agora-criou-a-novamed.ghtml",
+  "titulo": "Ameaças de bomba em voos provocam desvios e fecham aeroporto na Europa; nenhum explosivo foi encontrado",
+  "resumo": "Boeing 767 da companhia polonesa LOT no aeroporto de Varsóvia. Reuters Pelo menos quatro voos na Europa foram alvo de ameaças de bomba nesta terça-feira (3), após outro caso registrado na segunda-feira (2). As ocorrências obrigaram algumas aeronaves a desviar suas rotas e provocaram o fechamento temporário de um aeroporto na Polônia. No entanto, nenhum artefato explosivo foi encontrado nas inspeções concluídas. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia As autoridades desviaram para o aeroporto de Modlin, próximo a Varsóvia, um voo da companhia aérea LOT que havia partido de Londres e deveria pousar no aeroporto Chopin, na capital polonesa. Veja os vídeos em alta do g",
+  "link": "https://g1.globo.com/mundo/noticia/2026/11/03/ameacas-de-bomba-em-voos-provocam-desvios-e-fecham-aeroporto-na-europa-nenhum-explosivo-foi-encontrado.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:17:28+00:00",
+  "publicado": "2026-11-03T14:45:37+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "725baf8539d9"
+  "id": "9f1ef3e0cd08"
  },
  {
-  "titulo": "Brigadistas que comemoraram chuva repentina que apagou incêndio suspeitam que velas em cemitério tenham iniciado fogo no PI",
-  "resumo": "Brigadista se ajoelha em vídeo após chuva repentina apagar incêndio no PI: 'Deus é bom' O incêndio em uma área de vegetação que foi apagado por uma chuva repentina na noite de segunda-feira (2), em Angical do Piauí, pode ter começado dentro de um cemitério. A suspeita é de que velas deixadas por visitantes durante o Dia de Finados, no domingo (1º), tenham provocado as chamas. A informação foi repassada ao g1 pelo secretário municipal de Meio Ambiente e chefe da Brigada Municipal de Combate a Incêndios Florestais, Francisco Alves. Segundo ele, a equipe acredita que o fogo tenha começado dentro do cemitério e avançado para a vegetação nas proximidades. ✅ Siga o canal do g1 Piauí no WhatsApp O ",
-  "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/03/chuva-apagou-incendio-velas.ghtml",
+  "titulo": "Assista aos telejornais da TV Liberal",
+  "resumo": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
+  "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:16:23+00:00",
+  "publicado": "2026-11-03T14:44:26+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "7d5ebeeb6108"
+  "id": "10121d06a9ba"
  },
  {
-  "titulo": "Com aproximação de ciclone, Paraná recebe alerta vermelho de tempestades em 78 cidades; veja quais e a previsão do tempo",
-  "resumo": "Alertas da Defesa Civil do Paraná: o que significam e o que fazer quando recebê-los Após um domingo (1) com temporais que causaram estragos em diversas cidades do estado, a semana deve continuar registrando tempestades em diferentes regiões do Paraná. Os motivos são a formação de um ciclone extratropical na costa da região Sul do Brasil, o aumento nas temperaturas e o choque com o avanço de uma nova frente fria, segundo o Sistema de Tecnologia e Monitoramento Ambiental (Simepar). O estado está sob alerta laranja de tempestades do Instituto Nacional de Meteorologia (Inmet) nesta terça-feira (3), mas a previsão é que os eventos climáticos fiquem ainda mais intensos nos dias seguintes. Para qua",
-  "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/03/ciclone-alerta-tempestades-parana-previsao-do-tempo.ghtml",
+  "titulo": "Assista ao JRO1 desta terça-feira 3",
+  "resumo": "Assista ao JRO1 desta terça-feira 3",
+  "link": "https://g1.globo.com/ro/rondonia/ao-vivo/assista-ao-jro1-desta-terca-feira-3.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:15:33+00:00",
+  "publicado": "2026-11-03T14:43:00+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "4fc5698665cf"
+  "id": "61cc58cfd0bb"
  },
  {
-  "titulo": "VÍDEOS: Bom Dia Amazonas desta terça-feira, 3 de novembro de 2026",
-  "resumo": "O telejornal é veiculado na Rede Amazônica.",
-  "link": "https://g1.globo.com/am/amazonas/playlist/videos-bom-dia-amazonas-desta-terca-feira-3-de-novembro-de-2026.ghtml",
+  "titulo": "Defeso da piracema começa no noroeste fluminense; veja as restrições à pesca",
+  "resumo": "Período de defeso da piracema começa no Noroeste Fluminense O período de defeso da piracema começou neste domingo (1º) e segue até 28 de fevereiro de 2027 em Cambuci, no Noroeste Fluminense. A medida estabelece restrições à pesca para proteger a reprodução natural dos peixes. As regras estão previstas na Instrução Normativa Ibama nº 195/2008, que abrange as bacias hidrográficas do Sudeste, com exceção das bacias dos rios Paraná e São Francisco, que possuem regulamentações específicas. Durante o período, a pesca fica proibida em lagoas marginais, ambientes que se comunicam permanentemente ou temporariamente com os rios. A proibição também vale em trechos de até mil metros acima e abaixo de ba",
+  "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/03/defeso-da-piracema-comeca-no-noroeste-fluminense-veja-as-restricoes-a-pesca.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:14:36+00:00",
+  "publicado": "2026-11-03T14:43:00+00:00",
   "dicas": [],
   "categorias": [],
-  "relevancia": 1.0,
-  "id": "7cd63dffc863"
+  "relevancia": 0.0,
+  "id": "75a67df6ca79"
  },
  {
-  "titulo": "Motociclista morre atropelado por caminhão após bater em carro em Indaiatuba",
-  "resumo": "Motociclista morre atropelado por caminhão após bater em carro em Indaiatuba Comando Notícia Um motociclista morreu na manhã desta terça-feira (3) após bater na traseira de um carro, cair na pista e ser atropelado por um caminhão. O acidente aconteceu na Avenida Presidente Vargas, no centro de Indaiatuba (SP). ✅ Clique aqui para seguir o canal do g1 Campinas no WhatsApp Segundo a Guarda Municipal, o Corpo de Bombeiros foi acionado, mas a vítima não resistiu aos ferimentos e morreu no local. A área foi isolada para o trabalho da perícia. Agora no g1 VÍDEOS: tudo sobre Campinas e região Veja mais notícias sobre a região no g1 Campinas",
-  "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/11/03/motociclista-morre-atropelado-por-caminhao-apos-bater-em-carro-em-indaiatuba.ghtml",
+  "titulo": "Jacaré gigante aparece na porta de casa durante a madrugada em cidade de MS; veja vídeo",
+  "resumo": "Moradores levam susto ao dar de cara com jacaré na calçada de casa em MS Uma visita inesperada chamou a atenção de moradores de Miranda(MS) na madrugada desta segunda-feira (2). Um jacaré de grande porte foi encontrado bem perto do portão de uma residência, na Rua Tiradentes, e mobilizou uma equipe do Corpo de Bombeiros. Veja o vídeo acima. A equipe foi acionada para atender à ocorrência envolvendo o animal silvestre. Ao chegar ao endereço, os militares encontraram o jacaré em frente à casa. Por causa do tamanho do animal e do risco de transtornos na área urbana, os bombeiros realizaram a captura. ✅ Clique aqui para seguir o canal do g1 MS no WhatsApp Depois do resgate, o jacaré foi levado p",
+  "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/03/jacare-gigante-aparece-na-porta-de-casa-durante-a-madrugada-em-cidade-de-ms-veja-video.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:14:27+00:00",
+  "publicado": "2026-11-03T14:40:46+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "26a9b585cef8"
+  "id": "42f495f68e85"
  },
  {
-  "titulo": "Suspeito de perseguir adolescente é preso após mãe da vítima segurá-lo no quintal de casa em Botucatu",
-  "resumo": "Homem preso em Botucatu (SP) após invadir uma residência e perseguir uma adolescente de 14 anos Guarda Civil Municipal (GCM) de Botucatu (SP) Um homem foi preso em Botucatu (SP) após invadir uma residência e perseguir uma adolescente de 14 anos. O crime aconteceu no bairro Jardim Brasil, no fim da noite de domingo (1º). De acordo com o boletim de ocorrência, a mãe da menor flagrou o homem no quintal da casa e conseguiu segurá-lo até a chegada da Guarda Civil Municipal (GCM). 📲 Participe do canal do g1 Bauru e Marília no WhatsApp A família relatou à polícia que o suspeito apresentava um comportamento possessivo e já rondava a casa e a escola da vítima, que possuía uma medida protetiva de urgê",
-  "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/03/suspeito-de-perseguir-adolescente-e-preso-apos-mae-da-vitima-segura-lo-no-quintal-de-casa-em-botucatu.ghtml",
+  "titulo": "Assista ao Link Vanguarda ao vivo no g1",
+  "resumo": "Assista ao Link Vanguarda ao vivo no g1 Assista diariamente aos telejornais da emissora no g1. De segunda a sexta-feira, assista ao Bom Dia Vanguarda, Link Vanguarda e Jornal Vanguarda. Aos sábados, acompanhe o Link Vanguarda e o Jornal Vanguarda",
+  "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-link-vanguarda-ao-vivo-no-g1.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:14:22+00:00",
+  "publicado": "2026-11-03T14:40:40+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "64ace1f8af63"
+  "id": "a6861423dfe1"
  },
  {
-  "titulo": "Passageira é arremessada contra para-brisa de ônibus e cai em rodovia após freada brusca",
-  "resumo": "Mulher de 52 anos arremessada de ônibus foi levada para o Hospital Unimed, em Olinda Reprodução/Google Street View Uma passageira de 52 anos ficou ferida após ser arremessada para fora de um ônibus na cidade de Paulista, no Grande Recife. O acidente aconteceu na segunda-feira (2), na rodovia PE-22, quando o motorista freou o veículo tão bruscamente que a mulher atravessou o para-brisa e caiu na pista. Ferida, a vítima foi levada por socorristas do Serviço de Atendimento Móvel de Urgência (Samu) para o Hospital Unimed III, em Olinda, no Grande Recife. Como o nome da mulher não foi divulgado, não foi possível obter informações sobre o estado de saúde da paciente. ✅ Receba no WhatsApp as notíci",
-  "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/03/passageira-e-arremessada-contra-para-brisa-de-onibus-e-cai-em-rodovia-apos-freada-brusca-do-motorista.ghtml",
+  "titulo": "Riscos psicossociais: como avaliar além da pesquisa de clima",
+  "resumo": "Riscos psicossociais: como avaliar além da pesquisa de clima Crédito: Corpmed. Uma pesquisa de clima pode revelar percepções importantes sobre liderança, comunicação e satisfação. Mas ela não responde, sozinha, às exigências de gerenciamento dos fatores de risco psicossociais relacionados ao trabalho. Desde 26 de maio de 2026, a nova redação do capítulo 1.5 da NR-1 exige que esses fatores sejam considerados no Gerenciamento de Riscos Ocupacionais, o GRO. A diferença é prática: clima organizacional descreve como as pessoas percebem o ambiente em determinado momento; avaliação de risco investiga perigos e fatores presentes na organização e na gestão do trabalho, estima riscos, define prioridad",
+  "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/corpmed-saude-no-trabalho-gestao-prevencao-e-futuro/noticia/2026/11/03/riscos-psicossociais-como-avaliar-alem-da-pesquisa-de-clima.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:12:43+00:00",
+  "publicado": "2026-11-03T14:40:32+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "3a7f273cc804"
+  "id": "61f7c5bead3b"
  },
  {
-  "titulo": "Inscrições para seleção de 17 escolas de tempo integral do Piauí começam nesta terça-feira (3)",
-  "resumo": "Seleção para 17 escolas de tempo integral do Piauí terá inscrições em novembro Ascom Seduc As inscrições para o processo seletivo de 17 escolas de tempo integral da rede estadual do Piauí começam nesta terça-feira (3). A seleção da Secretaria de Estado da Educação do Piauí (Seduc) oferece vagas para o 9º ano do Ensino Fundamental e para a 1ª série do Ensino Médio. As inscrições seguem abertas até 19 de novembro e devem ser feitas pelo site seduc.pi.gov.br/matricula. ✅ Siga o canal do g1 Piauí no WhatsApp As vagas estão distribuídas entre escolas localizadas nos municípios de Luís Correia, Parnaíba, Piripiri, Teresina, Floriano, Uruçuí, São Raimundo Nonato, Corrente e Altos. Ao todo, o proces",
-  "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/03/inscricoes-escolas-tempo-integral-piaui.ghtml",
+  "titulo": "VÍDEOS: Jornal da Manhã Alagoas de terça-feira, 3 de novembro de 2026",
+  "resumo": "",
+  "link": "https://g1.globo.com/al/alagoas/edicao/2026/11/03/videos-jornal-da-manha-alagoas-de-terca-feira-3-de-novembro-de-2026.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:12:04+00:00",
+  "publicado": "2026-11-03T14:40:15+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "96b91385aea5"
+  "id": "fd486b65b750"
  },
  {
-  "titulo": "Buscas por homem que caiu de moto aquática e desapareceu em rio de Sonora entram no segundo dia",
-  "resumo": "Hualisson Roberto desapareceu após cair de moto aquática em balneário de Sonora (MS). Reprodução O Corpo de Bombeiros Militar de Mato Grosso do Sul (CBBMS) confirmou que continua, nesta terça-feira (3), as buscas por Hualisson Roberto Cardozo de Jesus, de 29 anos. Ele desapareceu no rio Correntes, em Sonora, após cair de uma moto aquática. Segundo as informações, o caso aconteceu na manhã de segunda-feira (2). A dinâmica do acidente ainda é investigada e não há detalhes sobre o que aconteceu. ✅ Clique aqui para seguir o canal do g1 MS no WhatsApp O g1 apurou que Hualisson Roberto é de Coxim e pilotava a moto aquática em um balneário de Sonora. (Esta reportagem está em atualização) Agora no g",
-  "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/03/buscas-por-homem-que-caiu-de-moto-aquatica-e-desapareceu-em-rio-de-sonora-entram-no-segundo-dia.ghtml",
+  "titulo": "Preço da cesta básica sobe pelo 2º mês seguido e chega a quase R$ 3 mil no Vale do Paraíba",
+  "resumo": "Preço da cesta básica sobe pelo 2º mês seguido e chega a R$ 2.994 em outubro no Vale do Paraíba Valter Campanato / Agência Brasil O preço da cesta básica no Vale do Paraíba subiu 1,63% em outubro de 2026, na comparação com setembro, e ficou mais caro pelo segundo mês consecutivo na região. Os dados são do levantamento divulgado nesta terça-feira (3) pelo Núcleo de Pesquisas Econômico-Sociais (Nupes), da Universidade de Taubaté (Unitau). O valor médio da cesta passou de R$ 2.947,02 para R$ 2.994,93 — um acréscimo de R$ 47,91 no mês. Desse total, R$ 47,39 (98,9%) vieram apenas do grupo de alimentação, que representa 90,28% do peso total do índice. O levantamento considera uma cesta familiar co",
+  "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/03/preco-da-cesta-basica-sobe-pelo-2o-mes-seguido-e-chega-a-quase-r-3-mil-no-vale-do-paraiba.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:10:50+00:00",
+  "publicado": "2026-11-03T14:40:02+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "dfc01631e03d"
+  "id": "9bb7c7296077"
  },
  {
-  "titulo": "Assista ao EPTV1",
-  "resumo": "Assista ao EPTV1 Siga as notícias desta terça-feira, 3 de novembro.",
-  "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml",
+  "titulo": "Procurador é principal suspeito de mandar matar médica em bar no Acre",
+  "resumo": "Médica é assassinada a tiros dentro de bar no interior do Acre; suspeito fugiu O procurador do município de Brasiléia, ex-vereador e advogado Francisco Valadares Neto é o principal suspeito de mandar matar a médica Elyne de Assis Nogueira, de 39 anos, assassinada a tiros dentro de um bar em Brasiléia, interior do estado, na noite dessa segunda-feira (2). Na manhã desta terça (3), Francisco foi levado ao Hospital Regional do Alto Acre após ser encontrado desacordado em casa. A Polícia Civil confirmou ao g1 a possível participação dele no planejamento do crime, investigado como feminicídio. Francisco já tem histórico de condenação por violência doméstica contra a ex-prefeita da cidade, Fernand",
+  "link": "https://g1.globo.com/ac/acre/noticia/2026/11/03/ex-vereador-e-advogado-e-principal-suspeito-de-mandar-matar-medica-em-bar-no-acre.ghtml",
   "fonte": "G1",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:10:44+00:00",
+  "publicado": "2026-11-03T14:38:12+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "b0a8a3654e25"
+  "id": "8fb6ae254b8b"
+ },
+ {
+  "titulo": "AO VIVO: assista à programação da NSC TV",
+  "resumo": "AO VIVO: assista à programação da NSC TV Saiba telefones, endereços e sites das reportagens exibidas",
+  "link": "https://g1.globo.com/sc/santa-catarina/ao-vivo/assista-ao-vivo-aos-telejornais-da-nsc.ghtml",
+  "fonte": "G1",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:38:03+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "ffef78d0f204"
+ },
+ {
+  "titulo": "Justiça de SP penhora aeronave da Voepass por dívida de R$ 9 mil",
+  "resumo": "A Justiça de São Paulo mandou penhorar uma aeronave do grupo Voepass em razão de uma dívida de cerca de R$ 9 mil. Leia mais (11/03/2026 - 11h49)",
+  "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/justica-de-sp-penhora-aeronave-da-voepass-por-divida-de-r-9-mil.shtml",
+  "fonte": "Folha de S.Paulo",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:49:00+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "32fde7df036d"
+ },
+ {
+  "titulo": "Motociclista morre após ficar com pé preso a bueiro em alagamento em Belo Horizonte",
+  "resumo": "Um homem de 23 anos morreu após ficar preso em um bueiro em meio às fortes chuvas que atingiram em Belo Horizonte na noite de segunda-feira (2). Leia mais (11/03/2026 - 11h45)",
+  "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/motociclista-morre-apos-ficar-com-pe-preso-a-bueiro-em-alagamento-em-belo-horizonte.shtml",
+  "fonte": "Folha de S.Paulo",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:45:00+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "5d8fff81dea4"
+ },
+ {
+  "titulo": "Europa tem estoque mais baixo de gás desde 2013, alerta agência internacional",
+  "resumo": "A Europa está entrando no inverno com o menor nível de reservas de gás natural desde 2013, o que pode prolongar a pressão sobre o mercado internacional até 2027, alertou a AIE (Agência Internacional de Energia) nesta terça-feira (3). Leia mais (11/03/2026 - 11h33)",
+  "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/europa-tem-estoque-mais-baixo-de-gas-desde-2013-alerta-agencia-internacional.shtml",
+  "fonte": "Folha de S.Paulo",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:33:00+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "79bf223a8f61"
+ },
+ {
+  "titulo": "Noruega, Dinamarca e Suécia se recusam a enfrentar a Rússia no Mundial de Hóquei no Gelo",
+  "resumo": "Noruega , Dinamarca e Suécia se recusarão a enfrentar a Rússia no Campeonato Mundial masculino de Hóquei no Gelo do próximo ano, na Alemanha , devido a preocupações com a segurança e a tensões geopolíticas, informaram suas federações nacionais nesta terça-feira (3). Leia mais (11/03/2026 - 11h29)",
+  "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/noruega-dinamarca-e-suecia-se-recusam-a-enfrentar-a-russia-no-mundial-de-hoquei-no-gelo.shtml",
+  "fonte": "Folha de S.Paulo",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:29:00+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "2deeb44c81a5"
  },
  {
   "titulo": "Erin Brockovich critica gigantes da tecnologia e cobra Sam Altman: 'Tem um ser humano aí dentro?'",
@@ -1544,60 +1646,20 @@
   "id": "e61f46811bde"
  },
  {
-  "titulo": "Relembre jogadores que morreram devido a incidentes durante partidas",
-  "resumo": "Antes de Jesús de Miguel , jogador da segunda divisão espanhola que morreu nesta terça-feira (3) em decorrência de uma colisão durante uma partida, outros atletas morreram em campo ou em consequência de problemas sofridos durante o jogo: Leia mais (11/03/2026 - 10h11)",
-  "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/relembre-jogadores-que-morreram-devido-a-incidentes-durante-partidas.shtml",
-  "fonte": "Folha de S.Paulo",
+  "titulo": "Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes e afastar ministro do caso",
+  "resumo": "",
+  "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/defesa-de-flavio-tenta-derrubar-ordem-de-moraes-sobre-passaportes-e-afastar-ministro-do-caso/",
+  "fonte": "Estadão",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T13:11:00+00:00",
-  "dicas": [],
+  "publicado": "2026-11-03T14:40:43+00:00",
+  "dicas": [
+   "politica"
+  ],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "24377197ac55"
- },
- {
-  "titulo": "Empresas de call center precisam ter atendimento humano das 8h às 20h; veja as novas regras do SAC",
-  "resumo": "As novas regras do SAC (Serviço de Atendimento ao Consumidor), que obrigam empresas a manter atendimento humano por telefone e canais eletrônicos, das 8h às 20h, todos os dias, começaram a valer nesta segunda-feira (2). Leia mais (11/03/2026 - 10h06)",
-  "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/empresas-de-call-center-precisam-ter-atendimento-humano-das-8h-as-20h-veja-as-novas-regras-do-sac.shtml",
-  "fonte": "Folha de S.Paulo",
-  "regiao": "brasil",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T13:06:00+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "7abfd205a7f7"
- },
- {
-  "titulo": "Mineradora ganha mais dois meses para fechar aquisição de negócio de níquel no Brasil",
-  "resumo": "A MMG, empresa de mineração e metais listada na Bolsa de Hong Kong, informou nesta terça-feira (3) que chegou a um acordo com a Anglo American para prorrogar a data limite para a aquisição proposta do negócio de níquel da mineradora no Brasil para 31 de dezembro. Leia mais (11/03/2026 - 10h06)",
-  "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/mineradora-ganha-mais-dois-meses-para-fechar-aquisicao-de-negocio-de-niquel-no-brasil.shtml",
-  "fonte": "Folha de S.Paulo",
-  "regiao": "brasil",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T13:06:00+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "71c7907552db"
- },
- {
-  "titulo": "Governo deve enviar nesta terça (3) alíquota do Imposto Seletivo ao Congresso, diz ministro",
-  "resumo": "O ministro da Fazenda, Dario Durigan , afirmou que o governo deve enviar ainda nesta terça-feira (3) ao Congresso Nacional uma medida provisória prevendo as alíquotas do Imposto Seletivo , criado pela reforma tributária para sobretaxar produtos nocivos à saúde e também conhecido como \"imposto do pecado\". Leia mais (11/03/2026 - 10h01)",
-  "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-deve-enviar-nesta-terca-3-aliquota-do-imposto-seletivo-ao-congresso-diz-ministro.shtml",
-  "fonte": "Folha de S.Paulo",
-  "regiao": "brasil",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T13:01:00+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "db0a77ee990a"
+  "id": "3b3afc8c2144"
  },
  {
   "titulo": "Cleitinho critica políticos que incentivam boicote a comerciantes por voto: ‘Abram mão do salário’",
@@ -1728,22 +1790,6 @@
   "id": "ed61c0655644"
  },
  {
-  "titulo": "A ‘vergonha diferente’ do general Tomás, que o expôs ao risco da vingança, e a sucessão no Exército",
-  "resumo": "",
-  "link": "https://www.estadao.com.br/politica/marcelo-godoy/a-vergonha-diferente-do-general-tomas-que-o-expos-ao-risco-da-vinganca-e-a-sucessao-no-exercito/",
-  "fonte": "Estadão",
-  "regiao": "brasil",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-02T12:30:00+00:00",
-  "dicas": [
-   "politica"
-  ],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "24cb9a1e1ade"
- },
- {
   "titulo": "Janones se encontra com Cristina Kirchner na Argentina para discutir oposição a Milei",
   "resumo": "",
   "link": "https://www.estadao.com.br/politica/janones-se-encontra-com-cristina-kirchner-na-argentina-para-discutir-oposicao-a-milei-npr/",
@@ -1872,6 +1918,86 @@
   "id": "010350c48d27"
  },
  {
+  "titulo": "Trump pode mudar a Constituição dos EUA para disputar um terceiro mandato?",
+  "resumo": "Constituição limita presidente a duas eleições; alteração exige amplo apoio político e ratificação dos estados, enquanto analistas discutem limites institucionais The post Trump pode mudar a Constituição dos EUA para disputar um terceiro mandato? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/trump-pode-mudar-a-constituicao-dos-eua-para-disputar-um-terceiro-mandato/",
+  "fonte": "InfoMoney",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T15:00:00+00:00",
+  "dicas": [
+   "economia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "3215e2dc2ea4"
+ },
+ {
+  "titulo": "Embraer (EMBJ3) avança 5% nesta terça: dólar e acordo com Grécia impulsionam ações",
+  "resumo": "Bancos avaliaram positivamente a operação, destacando que o crescimento da carteira de pedidos deve sustentar a expansão da receita e das margens The post Embraer (EMBJ3) avança 5% nesta terça: dólar e acordo com Grécia impulsionam ações appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/embraer-embj3-avanca-5-nesta-terca-dolar-e-acordo-com-grecia-impulsionam-acoes/",
+  "fonte": "InfoMoney",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:59:09+00:00",
+  "dicas": [
+   "economia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "d575f36970b3"
+ },
+ {
+  "titulo": "Proibição das bets chega ao STF e mobiliza clubes e empresas; entenda",
+  "resumo": "Setor pede suspensão da proibição e alerta para avanço das apostas clandestinas The post Proibição das bets chega ao STF e mobiliza clubes e empresas; entenda appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/proibicao-das-bets-chega-ao-stf-e-mobiliza-clubes-e-empresas-entenda/",
+  "fonte": "InfoMoney",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:41:38+00:00",
+  "dicas": [
+   "economia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "419552705816"
+ },
+ {
+  "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com Focus e preocupação fiscal; PETR4 recua 4%",
+  "resumo": "Bolsas dos EUA operam mistas com eleições e balanço da Apple em foco The post Ibovespa Hoje Ao Vivo: Bolsa cai com Focus e preocupação fiscal; PETR4 recua 4% appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03112026/",
+  "fonte": "InfoMoney",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:36:35+00:00",
+  "dicas": [
+   "economia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "e12d16b8c13f"
+ },
+ {
+  "titulo": "Como o dólar protegeu investidor da hecatombe da Bolsa após o 2º turno",
+  "resumo": "Estudo mostra como a diversificação internacional amorteceu o tombo e melhorou o resultado de quem já estava cauteloso; veja resultados para investidor conservador, moderado e arrojado The post Como o dólar protegeu investidor da hecatombe da Bolsa após o 2º turno appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/como-o-dolar-protegeu-investidor-da-hecatombe-da-bolsa-apos-o-2o-turno/",
+  "fonte": "InfoMoney",
+  "regiao": "brasil",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:30:00+00:00",
+  "dicas": [
+   "economia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "19dfa8e0e31d"
+ },
+ {
   "titulo": "Taxas dos DIs avançam com preocupações sobre agenda econômica do novo governo",
   "resumo": "O plano do economista também propõe o uso de parte das reservas internacionais para conter pressões sobre o real The post Taxas dos DIs avançam com preocupações sobre agenda econômica do novo governo appeared first on InfoMoney .",
   "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-avancam-com-preocupacoes-sobre-agenda-economica-do-novo-governo/",
@@ -1952,84 +2078,20 @@
   "id": "9a0659d3866a"
  },
  {
-  "titulo": "Indústria segue em queda em outubro e empresas citam perturbações pelas eleições",
-  "resumo": "O PMI da indústria, compilado pela S&#038;P Global, avançou de 44,8 em setembro para 46,1 em outubro The post Indústria segue em queda em outubro e empresas citam perturbações pelas eleições appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/industria-segue-em-queda-em-outubro-e-empresas-citam-perturbacoes-pelas-eleicoes/",
-  "fonte": "InfoMoney",
+  "titulo": "Robô de entregas ignora sinal vermelho e é “atropelado” por ônibus",
+  "resumo": "Pelo menos nove passageiros se feriram em acidente na capital da Estônia. Robô de entregas ignora sinal vermelho e é “atropelado” por ônibus",
+  "link": "https://tecnoblog.net/noticias/robo-de-entregas-ignora-sinal-vermelho-e-e-atropelado-por-onibus/",
+  "fonte": "Tecnoblog",
   "regiao": "brasil",
   "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T14:16:52+00:00",
+  "publicado": "2026-11-03T14:42:14+00:00",
   "dicas": [
-   "economia"
+   "tecnologia"
   ],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "8470dee8c77f"
- },
- {
-  "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com Focus e preocupação fiscal; PETR4 recua 6%",
-  "resumo": "Índices futuros dos EUA operam mistos com eleições e balanço da Apple em foco The post Ibovespa Hoje Ao Vivo: Bolsa cai com Focus e preocupação fiscal; PETR4 recua 6% appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03112026/",
-  "fonte": "InfoMoney",
-  "regiao": "brasil",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T14:04:00+00:00",
-  "dicas": [
-   "economia"
-  ],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "2b8a61ec8abf"
- },
- {
-  "titulo": "Rússia x Ucrânia: por que ataques no Mar Negro preocupam a Otan",
-  "resumo": "Em outubro, drones atingiram ao menos nove navios mercantes perto da Romênia e da Bulgária The post Rússia x Ucrânia: por que ataques no Mar Negro preocupam a Otan appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/russia-x-ucrania-por-que-ataques-no-mar-negro-preocupam-a-otan/",
-  "fonte": "InfoMoney",
-  "regiao": "brasil",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T14:02:14+00:00",
-  "dicas": [
-   "economia"
-  ],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "7877d2928bc2"
- },
- {
-  "titulo": "Durigan: ideia de Lara Resende tem ‘deficiências’ e ‘não deve ser avaliada ainda’",
-  "resumo": "Ele afirmou que não há, inclusive, agenda marcada e defendeu um \"ajuste gradual\" nas contas públicas com já vêm fazendo, segundo ele The post Durigan: ideia de Lara Resende tem &#8216;deficiências&#8217; e &#8216;não deve ser avaliada ainda&#8217; appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/durigan-ideia-de-lara-resende-tem-deficiencias-e-nao-deve-avaliada-ainda/",
-  "fonte": "InfoMoney",
-  "regiao": "brasil",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T13:54:43+00:00",
-  "dicas": [
-   "economia"
-  ],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "ce58777f8293"
- },
- {
-  "titulo": "Lula: sociedade civil não pode permitir continuidade das bets",
-  "resumo": "Lula chamou a atenção de seus seguidores para uma audiência pública que será realizada nesta terça no Supremo Tribunal Federal (STF) sobre o assunto The post Lula: sociedade civil não pode permitir continuidade das bets appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-sociedade-civil-nao-pode-permitir-continuidade-das-bets/",
-  "fonte": "InfoMoney",
-  "regiao": "brasil",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T13:50:31+00:00",
-  "dicas": [
-   "economia"
-  ],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "6f09b108c3db"
+  "id": "104125f0f30a"
  },
  {
   "titulo": "Galaxy Watch 8 LTE sai com 55% OFF em até 10x sem juros no Mercado Livre",
@@ -2108,7 +2170,7 @@
    "tecnologia"
   ],
   "categorias": [],
-  "relevancia": 2.0,
+  "relevancia": 1.0,
   "id": "1587beaadd85"
  },
  {
@@ -2336,20 +2398,18 @@
   "id": "ab474fe0bbbb"
  },
  {
-  "titulo": "Black November: Galaxy S26 sai por quase metade do preço em oferta",
-  "resumo": "Galaxy S26 (256 GB) tem câmera wide de 50 MP e tela AMOLED de 120 Hz; celular Samsung fica 48% mais barato no mês da Black Friday no Mercado Livre Black November: Galaxy S26 sai por quase metade do preço em oferta",
-  "link": "https://tecnoblog.net/achados/black-november-galaxy-s26-sai-por-quase-metade-do-preco-em-oferta/",
-  "fonte": "Tecnoblog",
-  "regiao": "brasil",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-02T13:00:35+00:00",
-  "dicas": [
-   "tecnologia"
-  ],
+  "titulo": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+  "resumo": "Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.",
+  "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+  "fonte": "UN News",
+  "regiao": "global",
+  "idioma": "en",
+  "tipo": "multilateral",
+  "publicado": "2026-11-03T12:00:00+00:00",
+  "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "3d148c6029a1"
+  "id": "cd652284c269"
  },
  {
   "titulo": "Whence dragons?",
@@ -2582,6 +2642,20 @@
   "categorias": [],
   "relevancia": 0.0,
   "id": "91745787e1a4"
+ },
+ {
+  "titulo": "Libya's top religious authority rules against wearing Nike clothes",
+  "resumo": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+  "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+  "fonte": "BBC World",
+  "regiao": "europa",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:56:46+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "c3bf73b73a19"
  },
  {
   "titulo": "Indian tourist killed after two helicopters collide near Everest base camp",
@@ -2864,18 +2938,46 @@
   "id": "6f5b64468868"
  },
  {
-  "titulo": "Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
-  "resumo": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
-  "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
-  "fonte": "BBC World",
+  "titulo": "What's behind new India-China border tensions?",
+  "resumo": "Indian authorities have confirmed a new border \"face-off\" between Indian and Chinese troops in Arunachal Pradesh, raising questions about the still fragile thaw in relations between New Delhi and Beijing.",
+  "link": "https://www.dw.com/en/what-s-behind-new-india-china-border-tensions/a-79843273?maca=en-rss-en-all-1573-xml-mrss",
+  "fonte": "DW (EN)",
   "regiao": "europa",
   "idioma": "en",
   "tipo": "imprensa",
-  "publicado": "2026-11-02T20:54:44+00:00",
+  "publicado": "2026-11-03T14:48:00+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "c212448e0f4c"
+  "id": "f2158c454de8"
+ },
+ {
+  "titulo": "How Berlin's Arab queers are building their community",
+  "resumo": "As the co-founder of the ADIRA Drag Festival, Lebanese performance artist, drag performer, DJ and cultural organizer Hassandra has become an essential part of Berlin's queer artistic landscape.",
+  "link": "https://www.dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-all-1573-xml-mrss",
+  "fonte": "DW (EN)",
+  "regiao": "europa",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:37:00+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "650998cefa83"
+ },
+ {
+  "titulo": "From non-aligned to pro-Western: How Cyprus has loosened ties with Moscow, built partner-ship with the US",
+  "resumo": "The Republic of Cyprus long balanced ties between Russia and the West. Now it is phasing out Russian weapons, expanding defense cooperation with Washington and redefining its place in the Eastern Mediterranean.",
+  "link": "https://www.dw.com/en/from-non-aligned-to-pro-western-how-cyprus-has-loosened-ties-with-moscow-built-partner-ship-with-the-us/a-79841251?maca=en-rss-en-all-1573-xml-mrss",
+  "fonte": "DW (EN)",
+  "regiao": "europa",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:28:00+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "4dbe9937d44a"
  },
  {
   "titulo": "What US midterm elections mean for Ukraine, Iran and elsewhere",
@@ -2948,9 +3050,9 @@
   "id": "4d369a77bf7c"
  },
  {
-  "titulo": "Zelenskyy arrives in Berlin for talks with Merz on air defense and energy support ahead of US-led negotiations with Russia",
-  "resumo": "Ukrainian President Volodymyr Zelenskyy has arrived in Berlin for talks with German Chancellor Friedrich Merz. Kyiv is seeking more air defense missiles and help keeping its energy system running through winter.",
-  "link": "https://www.dw.com/en/zelenskyy-arrives-in-berlin-for-talks-with-merz-on-air-defense-and-energy-support-ahead-of-us-led-negotiations-with-russia/a-79836026?maca=en-rss-en-all-1573-xml-mrss",
+  "titulo": "Merz sees no sign Russia is serious about a ceasefire as he and Zelenskyy call for Europe to help shape a peace deal",
+  "resumo": "German Chancellor Friedrich Merz says he sees no sign Russia is serious about negotiating a ceasefire. He and Ukrainian President Volodymyr Zelenskyy say Europe must help shape any lasting peace in Ukraine.",
+  "link": "https://www.dw.com/en/merz-sees-no-sign-russia-is-serious-about-a-ceasefire-as-he-and-zelenskyy-call-for-europe-to-help-shape-a-peace-deal/a-79836026?maca=en-rss-en-all-1573-xml-mrss",
   "fonte": "DW (EN)",
   "regiao": "europa",
   "idioma": "en",
@@ -2959,7 +3061,7 @@
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "71ad996382ad"
+  "id": "7c97e9ccb4eb"
  },
  {
   "titulo": "Asian Cup postponed due to Middle East conflict",
@@ -3116,34 +3218,6 @@
   "id": "a517485183ba"
  },
  {
-  "titulo": "France: Petition to ban TV channel gets 500,000 signatures",
-  "resumo": "Support for the petition has surged since last month's shooting of a Black man by a reported avid viewer of CNews. Critics say the channel, often compared to Fox News, is a platform for anti-immigrant sentiments.",
-  "link": "https://www.dw.com/en/france-petition-to-ban-tv-channel-gets-500-000-signatures/a-79833215?maca=en-rss-en-all-1573-xml-mrss",
-  "fonte": "DW (EN)",
-  "regiao": "europa",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-02T18:05:00+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "11976d808709"
- },
- {
-  "titulo": "What might Trump have planned for Iran following the midterm election?",
-  "resumo": "While the US midterms could open a window for diplomacy with Iran, they could also unleash a new military escalation. DW spoke with analysts to identify eight factors that could tip the balance toward war or peace.",
-  "link": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-xml-mrss",
-  "fonte": "DW (EN)",
-  "regiao": "europa",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-02T15:41:00+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "ed9f8319cbd9"
- },
- {
   "titulo": "Ice hockey officials considering options after CAS order to reinstate Russia",
   "resumo": "Ice hockey's ruling body is deciding how to respond to a decision by the Court of Arbitration for Sport that allows Russia back into international competition. Germany hasn't ruled out pulling out as a tournament host.",
   "link": "https://www.dw.com/en/ice-hockey-officials-considering-options-after-cas-order-to-reinstate-russia/a-79831451?maca=en-rss-en-all-1573-xml-mrss",
@@ -3172,18 +3246,46 @@
   "id": "8de8ab09ddc2"
  },
  {
-  "titulo": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
-  "resumo": "Karl Bushby, a British man who traveled 50,000 km without transport over the past 28 years, has come home. Starting in Chile, he crossed the Americas, Russia and parts of Central Asia and Europe — almost all on foot.",
-  "link": "https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-xml-mrss",
-  "fonte": "DW (EN)",
+  "titulo": "Moldova suspects state actor behind major cyberattack, PM tells Euronews",
+  "resumo": "Moldova Prime Minister Vasile told Euronews that a foreign state is suspected of hacking government databases and extracting citizens’ personal identification data. He said the list of suspects was \"not very long\". The attacks come amid wider cyber incidents across Europe.",
+  "link": "https://www.euronews.com/2026/11/03/moldova-suspects-state-actor-behind-major-cyberattack-pm-tells-euronews",
+  "fonte": "Euronews",
   "regiao": "europa",
   "idioma": "en",
   "tipo": "imprensa",
-  "publicado": "2026-11-02T12:31:00+00:00",
+  "publicado": "2026-11-03T14:48:18+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "8742782c96cd"
+  "id": "ce16b6eccf67"
+ },
+ {
+  "titulo": "Flash floods devastate US Southwest, sweeping away homes and cars",
+  "resumo": "Flash floods sweep across the United States Southwest, destroying homes, stranding residents and forcing hundreds to evacuate.",
+  "link": "https://www.euronews.com/video/2026/11/03/flash-floods-devastate-us-southwest-sweeping-away-homes-and-cars",
+  "fonte": "Euronews",
+  "regiao": "europa",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:43:27+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "7febcf660d05"
+ },
+ {
+  "titulo": "Costa: Europe's experience demonstrates that enlargement benefits us all",
+  "resumo": "António Costa used his address to the Euronews EU Enlargement Summit to set out why enlargement is an investment rather than a burden, from the 26 million jobs created since 2004 to Montenegro’s push to join by 2028.",
+  "link": "https://www.euronews.com/2026/11/03/costa-europes-experience-demonstrates-that-enlargement-benefits-us-all",
+  "fonte": "Euronews",
+  "regiao": "europa",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:35:23+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "a87169681063"
  },
  {
   "titulo": "Armenia to apply for EU membership in 2027 or 2028 ‘realistic’, PM tells Euronews",
@@ -3494,46 +3596,60 @@
   "id": "00a3416993dc"
  },
  {
-  "titulo": "Cut down ‘outdated’ nitrate limit in drinking water, health and environmental groups tell WHO",
-  "resumo": "Health and environmental groups have urged the World Health Organization (WHO) to overhaul its decades-old nitrate limit for drinking water, saying that even low levels of nitrate can be linked to cancer and premature birth.",
-  "link": "https://www.euronews.com/2026/11/03/cut-down-outdated-nitrate-limit-in-drinking-water-health-and-environmental-groups-tell-who",
-  "fonte": "Euronews",
+  "titulo": "Trump says US will halt $4 billion in aid to Israel after end of this year",
+  "resumo": "President Donald Trump on Tuesday said that the United States will stop $4 billion in funding to Israel after the end of this year. While speaking to Fox News' Fox and Friends, the US president added that Israel no longer needed the aid from Washington, and that some politicians were using the funding to criticise Republicans.",
+  "link": "https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year",
+  "fonte": "France 24",
   "regiao": "europa",
   "idioma": "en",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T10:21:23+00:00",
+  "publicado": "2026-11-03T14:35:19+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "0b9f0aad581e"
+  "id": "916cf091fddf"
  },
  {
-  "titulo": "Iran warns of ‘new battlefield’ after reported US strike on Qeshm",
-  "resumo": "Parliament speaker Ghalibaf said “the ball is in America’s court to prevent war” as Iran reached its highest defensive readiness and Iranian outlets reported Tehran had updated its target bank to include US support bases in Europe under a “response without geographical limits”.",
-  "link": "https://www.euronews.com/2026/11/03/iran-warns-of-new-battlefield-after-reported-us-strike-on-qeshm",
-  "fonte": "Euronews",
+  "titulo": "2026 Prix Goncourt: France's prestigious literary prize awarded to Philippe Jaenada",
+  "resumo": "France’s prestigious literary prize “The Goncourt” was awarded on Monday to writer Philippe Jaenada. The prize carries a symbolic reward of only 10 euros, but results in considerable recognition and book sales for the winning author. FRANCE 24’s Culture reporter Olivia Salazar-Winspear reports from the Parisian restaurant where the jury made the call.",
+  "link": "https://www.france24.com/en/video/20261103-2026-prix-goncourt-france-s-prestigious-literary-prize-awarded-to-philippe-jaenada",
+  "fonte": "France 24",
   "regiao": "europa",
   "idioma": "en",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T10:19:19+00:00",
+  "publicado": "2026-11-03T14:21:07+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "42965fffb638"
+  "id": "73baf5ce77d7"
  },
  {
-  "titulo": "Which countries in Europe have been hit by supermarket fridge cyber incidents?",
-  "resumo": "A total of nine countries have been affected by suspected cyber attacks on 2 November that turned fridges onto defrost setting, including Belgium, Estonia, Finland, Ireland, and Italy.",
-  "link": "https://www.euronews.com/2026/11/03/which-countries-in-europe-have-been-hit-by-supermarket-fridge-cyber-incidents",
-  "fonte": "Euronews",
+  "titulo": "Americans vote in key midterms set to upend Trump presidency",
+  "resumo": "Americans voted on Tuesday in pivotal midterm elections with Democrats hoping to seize control of Congress and impose the first significant checks on Donald Trump's chaotic second term in the White House. Republicans losing the House would give Democrats the power to stall Trump's legislative agenda and launch sweeping investigations of his administration. FRANCE 24's Fraser Jackson reports from Washington, DC.",
+  "link": "https://www.france24.com/en/video/20261103-americans-vote-in-key-midterms-set-to-upend-trump-presidency",
+  "fonte": "France 24",
   "regiao": "europa",
   "idioma": "en",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T10:13:36+00:00",
+  "publicado": "2026-11-03T14:18:43+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "acbfc241e24f"
+  "id": "00d137726a57"
+ },
+ {
+  "titulo": "Israeli opposition leaders vow to remove Netanyahu quickly but path unclear",
+  "resumo": "The Israeli opposition bloc led by Gadi Eisenkot pledged Tuesday to form a government quickly to oust Prime Minister Benjamin Netanyahu but remained unclear on how, with divisions over whether to ally with Arab lawmakers. Arab-majority parties last week won 19 seats in the 120-member parliament. Eisenkot's diverse opposition bloc won 48 seats while Netanyahu's camp secured 53, of which 27 are from his Likud party.",
+  "link": "https://www.france24.com/en/video/20261103-israeli-opposition-leaders-vow-to-remove-netanyahu-quickly-but-path-unclear",
+  "fonte": "France 24",
+  "regiao": "europa",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:17:00+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "e8669e08ce86"
  },
  {
   "titulo": "US midterm elections: A referendum on President Donald Trump?",
@@ -3578,20 +3694,6 @@
   "id": "9b4f5c6c8723"
  },
  {
-  "titulo": "What could happen if Donald Trump loses US midterm elections?",
-  "resumo": "Americans head to the polls on Tuesday in pivotal midterm elections, with Democrats hoping to seize control of Congress and impose the first significant checks on Donald Trump's second term in the White House. But what could happen in the United States if Republicans lose control of Congress? FRANCE 24's International Affairs Editor Philip Turle has more.",
-  "link": "https://www.france24.com/en/video/20261103-what-could-happen-if-donald-trump-loses-us-midterm-elections",
-  "fonte": "France 24",
-  "regiao": "europa",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T13:24:32+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "ff4bab119efe"
- },
- {
   "titulo": "'I love giving debut novelists a chance': Shakespeare and Company's Adam Biles",
   "resumo": "The literary director of the English-language Paris bookshop Shakespeare and Company says that the shop has achieved such notoriety that invitations to authors to appear there are usually accepted. Adam Biles says the shop enjoys inviting both famous authors to speak there, as well as debut authors who deserve the exposure. Adam hosts the events himself, and over the years has interviewed hundreds of different literary figures of varying notoriety. Many of the shop's guests speak to us in Perspective before or after their appearances. We spoke to Adam in Perspective.",
   "link": "https://www.france24.com/en/tv-shows/perspective/20261103-i-love-giving-debut-novelists-a-chance-shakespeare-and-company-s-adam-biles",
@@ -3604,6 +3706,20 @@
   "categorias": [],
   "relevancia": 0.0,
   "id": "87dc726aa9fb"
+ },
+ {
+  "titulo": "What could happen if Donald Trump loses US midterm elections?",
+  "resumo": "Americans head to the polls on Tuesday in pivotal midterm elections, with Democrats hoping to seize control of Congress and impose the first significant checks on Donald Trump's second term in the White House. But what could happen in the United States if Republicans lose control of Congress? FRANCE 24's International Affairs Editor Philip Turle has more.",
+  "link": "https://www.france24.com/en/video/20261103-what-could-happen-if-donald-trump-loses-us-midterm-elections",
+  "fonte": "France 24",
+  "regiao": "europa",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T13:24:32+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "ff4bab119efe"
  },
  {
   "titulo": "US Midterms: Could a blue wave widen the centrist-progressive divide among Democrats ahead of 2028?",
@@ -3788,62 +3904,6 @@
   "id": "347e8268231a"
  },
  {
-  "titulo": "Could Texas turn blue? Democrat James Talarico takes on Republican establishment",
-  "resumo": "In a state that has long been a Republican stronghold, Democratic candidate for the US Senate, James Talaricois is carrying the hopes of what once seemed unlikely: Texas turning blue. The former schoolteacher and Presbyterian seminarian has been doing well in polls against Republican Ken Paxton, the longtime state attorney general whose legal troubles have cast a shadow over his campaign.",
-  "link": "https://www.france24.com/en/video/20261103-could-texas-turn-blue-democrat-james-talarico-takes-on-republican-establishment",
-  "fonte": "France 24",
-  "regiao": "europa",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T10:51:14+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "6f442f8fc871"
- },
- {
-  "titulo": "Californians vote on billionaire tax to replace federal cuts in healthcare funding",
-  "resumo": "California could become the first US state to tax the net worth of billionaires Tuesday under a ballot measure that has divided liberal leaders nationally and triggered one of the most expensive ballot fights in state history as the ultra-rich scramble to figure out whether they would pay the tax or flee. Proposition 40 would impose a one-time 5% tax on the wealth of Californians whose net worth exceeds $1 billion, with most of the revenue dedicated to replacing federal funding cuts to healthcare.",
-  "link": "https://www.france24.com/en/video/20261103-californians-vote-on-billionaire-tax-to-replace-federal-cuts-in-healthcare-funding",
-  "fonte": "France 24",
-  "regiao": "europa",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T10:49:23+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "1605d5f716ed"
- },
- {
-  "titulo": "Unclear what comes next as US strikes Iranian island in the Strait of Hormuz",
-  "resumo": "The United States on Monday attacked Iran's Qeshm Island, the Wall Street Journal reported, even as President Donald Trump signaled progress in negotiations with Tehran to end the eight-month-old conflict. The Journal, citing unnamed US officials, described the strike against Qeshm, the the largest island in the Strait of Hormuz, as the latest of a series of limited strikes Washington has secretly carried out against Iran in recent weeks.",
-  "link": "https://www.france24.com/en/video/20261103-unclear-what-comes-next-as-us-strikes-iranian-island-in-the-strait-of-hormuz",
-  "fonte": "France 24",
-  "regiao": "europa",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T10:47:37+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "0e77cec7f138"
- },
- {
-  "titulo": "Midterms: Trump uses final appeal to talk about troubled Reflecting Pool",
-  "resumo": "In his final major speech before midterm elections in which polls but the Democrats well ahead of the Republican Party, Donald Trump on Monday spent more than 20 minutes discussing pipes, joints and caulking as he touted his troubled renovations to the Lincoln Memorial Reflecting Pool in Washington. To many critics, the renovations have become a symbol of government incompetence and misplaced priorities after delays caused by peeling paint and algae growth ‌that turned the pool’s waters green.",
-  "link": "https://www.france24.com/en/video/20261103-midterms-trump-uses-final-appeal-to-talk-about-troubled-reflecting-pool",
-  "fonte": "France 24",
-  "regiao": "europa",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T10:29:12+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "4a39685cebec"
- },
- {
   "titulo": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
   "resumo": "Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing All countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit. Brazil, the host of last year’s UN climate conference , set out the world’s first global “roadmap” for phasing out fossil fuels on Tuesday, showing that countries could boost their economies and pull people out of poverty while breaking the link with coal, oil and gas. Continue reading...",
   "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
@@ -3956,8 +4016,36 @@
   "id": "7d4b3ac4ed39"
  },
  {
+  "titulo": "Bulgaria confirms bomb threats against flights from Bergamo and Dublin – Europe live",
+  "resumo": "Seven bomb threats have now been reported across Europe, all incidents have been confirmed as false alarms Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the London flight was parked remain closed and is being checked by security forces. Ukraine’s Zelenskyy has said his talks with Merz and Germany’s president Steinmeier will focus on “diplomatic coordination” on air defence and energy sector. “These will be the priorities of today’s talks. We all have an interest in security, stability, and protecting the rules-based international order. And we must work together to turn these principles into concrete decisi",
+  "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+  "fonte": "The Guardian World",
+  "regiao": "europa",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:47:47+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "d48f847d6de7"
+ },
+ {
+  "titulo": "True crime novel about 1949 murder of Paris life model wins France’s biggest literary prize",
+  "resumo": "Philippe Jaenada wins Prix Goncourt with novel that seeks to solve 77-year-old case and rehabilitates reputation of its victim A literary true-crime investigation that tries to solve a 77-year-old cold case and ends up rehabilitating the reputation of its life model victim has won France’s most prestigious literary prize. The author Philippe Jaenada was announced on Tuesday afternoon as the winner of the Prix Goncourt, for his book L’Inconnue du quai de Javel (The Unknown Woman of the Quai de Javel), a recreation of the murder of a 29-year-old Breton woman named Louise Cansot. Continue reading...",
+  "link": "https://www.theguardian.com/books/2026/nov/03/true-crime-novel-murdered-model-wins-france-literary-prize-prix-goncourt-philippe-jaenada",
+  "fonte": "The Guardian World",
+  "regiao": "europa",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:31:00+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "d40ba0c39479"
+ },
+ {
   "titulo": "Four planes flying across Europe targeted by bomb threats",
-  "resumo": "Flights from London, Manchester, Copenhagen and Israel affected but no explosives found after touchdown Europe live – latest updates Four planes have landed safely after bomb threats were made across Europe, including for two flights that departed from the UK, according to reports. Polish officials said they received bomb threats on Tuesday involving two Warsaw-bound flights, but the planes landed safely and no explosives were found. Continue reading...",
+  "resumo": "Flights from London, Manchester, Copenhagen and Israel affected but no explosives found after touchdown Europe live – latest updates Four planes have landed safely after bomb threats were made across Europe, including for two flights that departed from the UK, according to reports. Polish officials said they had received bomb threats involving two Warsaw-bound flights, but the planes landed safely and no explosives were found. Continue reading...",
   "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
   "fonte": "The Guardian World",
   "regiao": "europa",
@@ -3968,20 +4056,6 @@
   "categorias": [],
   "relevancia": 0.0,
   "id": "5bff25b20a60"
- },
- {
-  "titulo": "Four separate flights from London, Copenhagen, Manchester and Israel affected by bomb threats – Europe live",
-  "resumo": "Two false bomb threats reported on Ryanair flights from Lisbon and Dublin to Rome Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the London flight was parked remain closed and is being checked by security forces. Ukraine’s Zelenskyy has said his talks with Merz and Germany’s president Steinmeier will focus on “diplomatic coordination” on air defence and energy sector. “These will be the priorities of today’s talks. We all have an interest in security, stability, and protecting the rules-based international order. And we must work together to turn these principles into concrete decisions and actions.” Continu",
-  "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-  "fonte": "The Guardian World",
-  "regiao": "europa",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T14:12:25+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "8f53c4c8ca04"
  },
  {
   "titulo": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
@@ -4012,22 +4086,64 @@
   "id": "2e6e70553266"
  },
  {
-  "titulo": "Denmark pushes for EU ban on ‘turbo chickens’ as secret footage causes outrage",
-  "resumo": "Minister says government will work towards banning fast-growing breed across country and throughout EU The Danish government is pursuing a national ban on “turbo chickens” and is calling for the fast-growing breed to be prohibited across Europe. The move comes amid widespread outrage over allegations of lawbreaking by one of Denmark’s big chicken producers. Continue reading...",
-  "link": "https://www.theguardian.com/world/2026/nov/03/denmark-pushes-for-eu-ban-on-turbo-chickens-as-secret-footage-causes-outrage",
-  "fonte": "The Guardian World",
+  "titulo": "Sporting bate Shakhtar na Youth League",
+  "resumo": "O Sporting somou a segunda vitória na UEFA Youth League, ao impor-se na visita ao Shakhtar Donetsk (3-1), em jogo da quarta jornada, disputado em Londres, devido à guerra na Ucrânia.",
+  "link": "https://www.rtp.pt/noticias/sporting/sporting-bate-shakhtar-na-youth-league_d1776588",
+  "fonte": "RTP Notícias",
   "regiao": "europa",
-  "idioma": "en",
+  "idioma": "pt",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T06:00:39+00:00",
+  "publicado": "2026-11-03T14:43:30+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "89663cc56266"
+  "id": "1bf1659b4598"
+ },
+ {
+  "titulo": "Manifesto pela habitação. \"Os portugueses estão fartos de não conseguirem pagar uma casa\"",
+  "resumo": "&quot;Há demasiadas pessoas em Portugal que trabalham todos os dias e não conseguem pagar uma casa&quot;. Esta é a frase inicial de um manifesto que acaba de ser divulgado e que conta com a assinatura de várias figuras políticas, da esquerda à direita.",
+  "link": "https://www.rtp.pt/noticias/politica/manifesto-pela-habitacao-os-portugueses-estao-fartos-de-nao-conseguirem-pagar-uma-casa_n1776585",
+  "fonte": "RTP Notícias",
+  "regiao": "europa",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:36:58+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "b70df8db1db3"
+ },
+ {
+  "titulo": "Juan Muñoz em destaque numa exposição em Coimbra",
+  "resumo": "",
+  "link": "https://www.rtp.pt/noticias/cultura/juan-munoz-em-destaque-numa-exposicao-em-coimbra_v1776584",
+  "fonte": "RTP Notícias",
+  "regiao": "europa",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:30:47+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "aa68645bd3b7"
+ },
+ {
+  "titulo": "\"Espécies em Risco\" é a mais recente coleção de empresa que quer promover biodiversidade",
+  "resumo": "",
+  "link": "https://www.rtp.pt/noticias/cultura/especies-em-risco-e-a-mais-recente-colecao-de-empresa-que-quer-promover-biodiversidade_v1776583",
+  "fonte": "RTP Notícias",
+  "regiao": "europa",
+  "idioma": "pt",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:29:47+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "46e0257fef14"
  },
  {
   "titulo": "Clube Fluvial Portuense celebra 150 anos",
-  "resumo": "É a mais antiga associação desportiva do Porto e a terceira do país.",
+  "resumo": "",
   "link": "https://www.rtp.pt/noticias/desporto/clube-fluvial-portuense-celebra-150-anos_v1776581",
   "fonte": "RTP Notícias",
   "regiao": "europa",
@@ -4056,7 +4172,7 @@
  {
   "titulo": "Autossuficiência durante três dias, educação para a preparação e comunicação mais eficaz. Bruxelas apresenta novas indicações para situações de crise",
   "resumo": "A Comissão adota novas medidas para preparar os europeus para os crescentes riscos de crises e catástrofes",
-  "link": "https://www.rtp.pt/noticias/uniao-europeia/autossuficiencia-durante-3-dias-educacao-para-a-preparacao-e-comunicacao-mais-eficaz-bruxelas-apresenta-novas-indicacoes-para-a-resiliencia-em-situacoes-de-crise_n1776576",
+  "link": "https://www.rtp.pt/noticias/pais/autossuficiencia-durante-tres-dias-educacao-para-a-preparacao-e-comunicacao-mais-eficaz-bruxelas-apresenta-novas-indicacoes-para-situacoes-de-crise_n1776576",
   "fonte": "RTP Notícias",
   "regiao": "europa",
   "idioma": "pt",
@@ -4068,8 +4184,8 @@
   "id": "88d0d8103a78"
  },
  {
-  "titulo": "Temperatura vai baixar a partir de quarta-feira por causa de uma massa de ar polar",
-  "resumo": "As mínimas podem chegar aos zero graus em algumas regiões do país. No fim-de-semana, vem chuva.",
+  "titulo": "Temperatura cai a partir de quarta-feira devido a massa de ar polar",
+  "resumo": "As mínimas podem chegar aos zero graus em algumas regiões do país. No fim de semana, vem chuva.",
   "link": "https://www.rtp.pt/noticias/pais/temperatura-vai-baixar-a-partir-de-quarta-feira-por-causa-de-uma-massa-de-ar-polar_v1776578",
   "fonte": "RTP Notícias",
   "regiao": "europa",
@@ -4079,7 +4195,7 @@
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "6a96ebda28f1"
+  "id": "f8868bdcd063"
  },
  {
   "titulo": "Shakhtar não deu importância à mudança de treinador no Sporting",
@@ -4096,9 +4212,9 @@
   "id": "593cf584cd79"
  },
  {
-  "titulo": "Rússia lança nova ofensiva. Mais de 70 feridos em ataque a hospital na Ucrânia",
-  "resumo": "",
-  "link": "https://www.rtp.pt/noticias/mundo/russia-lanca-nova-ofensiva-mais-de-70-feridos-em-ataque-a-hospital-na-ucrania_v1776574",
+  "titulo": "Ofensiva russa. Mais de 70 feridos em ataque a hospital na Ucrânia",
+  "resumo": "Ataque violento da Rússia na Ucrânia, contra um hospital, numa altura em que são anunciadas novas conversações entre Moscovo e Kiev, mediadas pelos Estados Unidos.",
+  "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ofensiva-russa-mais-de-70-feridos-em-ataque-a-hospital-na-ucrania_v1776574",
   "fonte": "RTP Notícias",
   "regiao": "europa",
   "idioma": "pt",
@@ -4107,7 +4223,7 @@
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "48943b81dbb5"
+  "id": "b70714a24bc1"
  },
  {
   "titulo": "FC Porto quer primeiros pontos na Champions",
@@ -4153,7 +4269,7 @@
  },
  {
   "titulo": "Rendimento Social de Inserção. Setembro com valor mais baixo desde 2005",
-  "resumo": "O número de beneficiários do Rendimento Social de Inserção caiu para menos de 150 mil pessoas. É o valor mais baixo dos últimos 21 anos.&lt;br /&gt;",
+  "resumo": "O número de beneficiários do Rendimento Social de Inserção caiu para menos de 150 mil pessoas. É o valor mais baixo dos últimos 21 anos.",
   "link": "https://www.rtp.pt/noticias/economia/rendimento-social-de-insercao-setembro-com-valor-mais-baixo-desde-2005_v1776570",
   "fonte": "RTP Notícias",
   "regiao": "europa",
@@ -4320,62 +4436,6 @@
   "id": "ea348e8e553b"
  },
  {
-  "titulo": "Europeus devem ter kits de socorro para as 72 horas após emergências",
-  "resumo": "A Comissão Europeia recomendou hoje que os Estados-membros sensibilizem as populações para desenvolverem `kits` de socorro que lhes permitam subsistir autonomamente nas 72 horas após uma catástrofe natural ou situação de emergência.",
-  "link": "https://www.rtp.pt/noticias/mundo/europeus-devem-ter-kits-de-socorro-para-as-72-horas-apos-emergencias_n1776554",
-  "fonte": "RTP Notícias",
-  "regiao": "europa",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T13:03:56+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "ac2e14265f8f"
- },
- {
-  "titulo": "Internamentos por queimaduras em crianças aumentaram 35% este ano no Hospital D. Estefânia",
-  "resumo": "Quase uma centena de crianças foram internadas por queimaduras este ano no Hospital Dona Estefânia, em Lisboa, onde os casos aumentaram 35% face ao mesmo período de 2025, com os menores de quatro anos entre as principais vítimas.",
-  "link": "https://www.rtp.pt/noticias/pais/internamentos-por-queimaduras-em-criancas-aumentaram-35-este-ano-no-hospital-d-estefania_n1776548",
-  "fonte": "RTP Notícias",
-  "regiao": "europa",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T13:02:44+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "839451aacb10"
- },
- {
-  "titulo": "Condições de vida da comunidade cigana melhoram na UE",
-  "resumo": "As condições de vida das comunidades ciganas na União Europeia melhoraram entre 2023 e 2025, nomeadamente no acesso à saúde e educação, segundo um relatório hoje divulgado pela Comissão Europeia.",
-  "link": "https://www.rtp.pt/noticias/mundo/condicoes-de-vida-da-comunidade-cigana-melhoram-na-ue_n1776547",
-  "fonte": "RTP Notícias",
-  "regiao": "europa",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T13:02:23+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "0f22b54d993f"
- },
- {
-  "titulo": "12h30 Sporting, hoje Shakhtar, amanhã Paulo Fonseca",
-  "resumo": "",
-  "link": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-sporting-hoje-shakhtar-amanha-paulo-fonseca_a1_1776555",
-  "fonte": "RTP Notícias",
-  "regiao": "europa",
-  "idioma": "pt",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T13:02:03+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "bb9166a71fde"
- },
- {
   "titulo": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
   "resumo": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
   "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
@@ -4432,20 +4492,6 @@
   "id": "d431d7f680bf"
  },
  {
-  "titulo": "How NPR makes race calls in the 2026 election",
-  "resumo": "Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls. Here's how we do it.",
-  "link": "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026",
-  "fonte": "NPR News",
-  "regiao": "eua",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T10:00:00+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "05a1eb02cd67"
- },
- {
   "titulo": "From 'model minority' to target, anti-Indian hate on the rise",
   "resumo": "A massacre allegedly targeting Hindu Americans was recently thwarted, but researchers say it helps to illustrate a growing and increasingly mainstream hate directed at South Asians in the U.S.",
   "link": "https://www.npr.org/2026/11/03/nx-s1-6026418/from-model-minority-to-target-anti-indian-hate-on-the-rise",
@@ -4458,6 +4504,20 @@
   "categorias": [],
   "relevancia": 0.0,
   "id": "252f8c050f4d"
+ },
+ {
+  "titulo": "How NPR makes race calls in the 2026 election",
+  "resumo": "Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls. Here's how we do it.",
+  "link": "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026",
+  "fonte": "NPR News",
+  "regiao": "eua",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T10:00:00+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "05a1eb02cd67"
  },
  {
   "titulo": "'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day",
@@ -4474,20 +4534,6 @@
   "id": "b97905fe6277"
  },
  {
-  "titulo": "A new cold war: hackers target fridges across the globe",
-  "resumo": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.",
-  "link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
-  "fonte": "NPR News",
-  "regiao": "eua",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T10:00:00+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "c929fdead84d"
- },
- {
   "titulo": "It's Election Day. Control of Congress is on the line, and what else you need to know",
   "resumo": "There are a lot of variables for how things will go today. Results will start to come in at 6 p.m. ET in Kentucky and Indiana, and then it will be off to the races.",
   "link": "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races",
@@ -4502,6 +4548,20 @@
   "id": "9ab59a3354d5"
  },
  {
+  "titulo": "A new cold war: hackers target fridges across the globe",
+  "resumo": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.",
+  "link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
+  "fonte": "NPR News",
+  "regiao": "eua",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T10:00:00+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "c929fdead84d"
+ },
+ {
   "titulo": "Connect250 creates a time capsule of life in America",
   "resumo": "We hear some of the results of StoryCorps teaming up with Morning Edition to connect listeners across America for a series of conversations about the country on the 250th anniversary of its founding.",
   "link": "https://www.npr.org/2026/11/03/nx-s1-6026459/connect250-creates-a-time-capsule-of-life-in-america",
@@ -4514,6 +4574,62 @@
   "categorias": [],
   "relevancia": 0.0,
   "id": "14096855af7f"
+ },
+ {
+  "titulo": "Election Day underway after a surge in early voting, as Trump sows doubt on results",
+  "resumo": "Trump has spent months trying to use the power of the presidency to put his thumb on the scale of this year's elections, which will determine whether his party keeps control of Congress.",
+  "link": "https://www.pbs.org/newshour/politics/election-day-underway-after-a-surge-in-early-voting-as-trump-sows-on-results",
+  "fonte": "PBS NewsHour",
+  "regiao": "eua",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:48:30+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "6554be9398e0"
+ },
+ {
+  "titulo": "Live Results: Florida Senate midterm election",
+  "resumo": "In Florida's Senate race, Republican Sen. Ashley Moody defends her seat against Democratic state Rep. Angie Nixon as well as an independent candidate.",
+  "link": "https://www.pbs.org/newshour/politics/live-results-florida-senate-midterm-election",
+  "fonte": "PBS NewsHour",
+  "regiao": "eua",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:30:48+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 12.0,
+  "id": "8ff376a64067"
+ },
+ {
+  "titulo": "Live Results: Texas governor midterm election",
+  "resumo": "Texas has elected only Republican governors since 1994, but the most recent polls show a tight race.",
+  "link": "https://www.pbs.org/newshour/politics/live-results-texas-governor-midterm-election",
+  "fonte": "PBS NewsHour",
+  "regiao": "eua",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:30:02+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 2.0,
+  "id": "91ce0664e331"
+ },
+ {
+  "titulo": "Trump says U.S. will stop giving $4 billion in aid to Israel next year",
+  "resumo": "The Republican president told Fox News Channel during a phone call on Tuesday that Israeli Prime Minister Benjamin Netanyahu had approached him about the idea and that they have been talking about it for a couple years.",
+  "link": "https://www.pbs.org/newshour/world/trump-says-u-s-will-stop-giving-4-billion-in-aid-to-israel-next-year",
+  "fonte": "PBS NewsHour",
+  "regiao": "eua",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:28:39+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 1.0,
+  "id": "d1a13638b234"
  },
  {
   "titulo": "Midterm elections come to a close in referendum on Trump's presidency",
@@ -4544,118 +4660,6 @@
   "id": "c34b9468feb5"
  },
  {
-  "titulo": "Live Results: New Hampshire Senate midterm election",
-  "resumo": "Democratic Rep. Chris Pappas and former Republican Sen. John E. Sununu compete Tuesday to succeed New Hampshire's retiring Sen. Jeanne Shaheen.",
-  "link": "https://www.pbs.org/newshour/politics/live-results-new-hampshire-senate-midterm-election",
-  "fonte": "PBS NewsHour",
-  "regiao": "eua",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T10:00:54+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 7.0,
-  "id": "ed0f8f3a4081"
- },
- {
-  "titulo": "Live Results: Nevada governor midterm election",
-  "resumo": "Nevada Gov. Joe Lombardo, a Republican, will face Democratic Attorney General Aaron Ford in a battle to hold onto his seat.",
-  "link": "https://www.pbs.org/newshour/politics/live-results-nevada-governor-midterm-election",
-  "fonte": "PBS NewsHour",
-  "regiao": "eua",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T10:00:53+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 3.0,
-  "id": "ca1f39eb9f09"
- },
- {
-  "titulo": "U.S. strikes Iranian targets in Strait of Hormuz, U.S. official tells AP",
-  "resumo": "A U.S. official says the U.S. has conducted defensive strikes on some Iranian targets in the Strait of Hormuz. Iranian state television reported that explosions were heard on Qeshm Island.",
-  "link": "https://www.pbs.org/newshour/world/u-s-strikes-iranian-targets-in-strait-of-hormuz-u-s-official-tells-ap",
-  "fonte": "PBS NewsHour",
-  "regiao": "eua",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T02:59:26+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "04f686a29e28"
- },
- {
-  "titulo": "Where the battle for Congress stands heading into Election Day",
-  "resumo": "Candidates spent the day making their final pitches to voters following a weekend of last-minute rallies and a high-profile Democratic defection in Michigan. President Trump delivered his closing message in Washington at the Lincoln Memorial Reflecting Pool after days of campaigning in mostly red states. Lisa Desjardins reports.",
-  "link": "https://www.pbs.org/newshour/show/where-the-battle-for-congress-stands-heading-into-election-day",
-  "fonte": "PBS NewsHour",
-  "regiao": "eua",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-02T23:55:15+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "e419c0210f3c"
- },
- {
-  "titulo": "News Wrap: Parts of jet may have broken off before crash in Florida",
-  "resumo": "In our news wrap Monday, investigators believe parts of a private jet may have broken off before it crashed in Florida, a federal judge dismissed the Trump administration's lawsuit against Harvard University over whether it uses race as a factor in its admissions and supermarkets across Europe reported a new wave of cyberattacks targeting their refrigeration systems.",
-  "link": "https://www.pbs.org/newshour/show/news-wrap-parts-of-jet-may-have-broken-off-before-crash-in-florida",
-  "fonte": "PBS NewsHour",
-  "regiao": "eua",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-02T23:50:30+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "ab4e7745051f"
- },
- {
-  "titulo": "Zelenskyy on his 'emotional' relationship with Trump and fighting Russia",
-  "resumo": "A Russian strike on an aid station and shelter killed at least 26 people in southern Ukraine on Monday. It was the latest in an unceasing series of Russian attacks on Ukrainian cities and the civilians living there. Before the bombing, Amna Nawaz spoke with Ukrainian President Volodymyr Zelenskyy as the war remains at a stalemate both on the battlefield and at the negotiating table.",
-  "link": "https://www.pbs.org/newshour/show/zelenskyy-on-his-emotional-relationship-with-trump-and-fighting-russia",
-  "fonte": "PBS NewsHour",
-  "regiao": "eua",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-02T23:45:25+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "2fd376d9981a"
- },
- {
-  "titulo": "Advocates warn Afghans deported by U.S. will face 'certain death' under Taliban",
-  "resumo": "The Trump administration is preparing to deport at least 150 Afghans over the next 48 hours, first to Pakistan and then to Taliban-controlled Afghanistan. Many of those facing deportation are relatives of those who worked alongside the United States. They could face severe retaliation from the Taliban upon their return. Nick Schifrin discussed more with Shawn VanDiver of Afghan Evac.",
-  "link": "https://www.pbs.org/newshour/show/advocates-warn-afghans-deported-by-u-s-will-face-certain-death-under-taliban",
-  "fonte": "PBS NewsHour",
-  "regiao": "eua",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-02T23:40:28+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "560797688395"
- },
- {
-  "titulo": "Surprise endorsement in Michigan Senate race a 'huge distraction,' says Rep. Dingell",
-  "resumo": "Michigan Rep. Haley Stevens' decision to back Republican Mike Rogers in the U.S. Senate race has sent shockwaves through the Democratic Party. To discuss the shifting dynamics in the Senate race, Amna Nawaz spoke with Michigan Democratic Congresswoman Debbie Dingell.",
-  "link": "https://www.pbs.org/newshour/show/surprise-endorsement-in-michigan-senate-race-a-huge-distraction-says-rep-dingell",
-  "fonte": "PBS NewsHour",
-  "regiao": "eua",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-02T23:35:57+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "dc486f4bda60"
- },
- {
   "titulo": "What’s at Stake in Today’s Elections",
   "resumo": "Though President Trump’s name is not on the ballot, voters are weighing the effects of his agenda in Tuesday’s midterm elections. Lisa Lerer, a national political reporter for The New York Times, describes how three crucial issues are affecting their decisions.",
   "link": "https://www.nytimes.com/video/us/politics/100000011228221/whats-at-stake-in-todays-elections.html",
@@ -4670,18 +4674,18 @@
   "id": "d9537077014c"
  },
  {
-  "titulo": "6 Themes to Watch for in the Midterms Elections Results",
-  "resumo": "Republicans are bracing for losses amid a backlash to the president’s economic leadership and the Iran war. Whether that means giving up control of the Senate is Tuesday’s biggest question.",
-  "link": "https://www.nytimes.com/2026/11/03/us/midterm-elections-trump-democrats-republicans-key-themes.html",
+  "titulo": "Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far",
+  "resumo": "Just 236 people have been charged with voting-fraud-related offenses by the Trump administration, despite its unsubstantiated claims that fraud is widespread.",
+  "link": "https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html",
   "fonte": "New York Times",
   "regiao": "eua",
   "idioma": "en",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T12:43:55+00:00",
+  "publicado": "2026-11-03T10:03:12+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "173fb3db03b1"
+  "id": "6864578afbda"
  },
  {
   "titulo": "What to Expect on Election Night, and Trump’s $1 Million Voter Fraud Reward",
@@ -4738,6 +4742,20 @@
   "categorias": [],
   "relevancia": 0.0,
   "id": "d58363317c31"
+ },
+ {
+  "titulo": "Investigators Looking for Cause of Learjet Crash Say Ice Was ‘Certainly a Factor’",
+  "resumo": "Ice, experts said, can change the shape of a plane’s wing, disrupting its aerodynamics.",
+  "link": "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html",
+  "fonte": "New York Times",
+  "regiao": "eua",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:51:50+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "1b3829125323"
  },
  {
   "titulo": "Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers",
@@ -4864,6 +4882,22 @@
   "categorias": [],
   "relevancia": 0.0,
   "id": "e54d4bea6fc3"
+ },
+ {
+  "titulo": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+  "resumo": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
+  "link": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+  "fonte": "Ars Technica",
+  "regiao": "eua",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:00:07+00:00",
+  "dicas": [
+   "tecnologia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "c7f2237516b3"
  },
  {
   "titulo": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
@@ -5128,6 +5162,22 @@
   "id": "f471e69ebd5e"
  },
  {
+  "titulo": "OpenAI is quietly renaming data centers ‘compute campuses’",
+  "resumo": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely, right? OpenAI seems to be gambling that a quiet rebrand could be all it takes to defuse the growing [&#8230;]",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+  "fonte": "The Verge",
+  "regiao": "eua",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T15:00:44+00:00",
+  "dicas": [
+   "tecnologia"
+  ],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "8a77d8ac5262"
+ },
+ {
   "titulo": "A truck-sized NASA space telescope is about to crash to Earth",
   "resumo": "Almost 22 years after it was launched, NASA's Swift Observatory is now about to fall back to Earth on Wednesday after attempts to push it back into a higher orbit failed. NASA announced that the aging space telescope is anticipated to re-enter Earth's atmosphere at approximately 3:30AM ET (give or take 11 hours), and that [&#8230;]",
   "link": "https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth",
@@ -5272,20 +5322,20 @@
   "id": "647190d73551"
  },
  {
-  "titulo": "Apple set an iPhone sales record even without a new standard iPhone",
-  "resumo": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in revenue follows the launch of Apple's [&#8230;]",
-  "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
-  "fonte": "The Verge",
+  "titulo": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+  "resumo": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+  "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+  "fonte": "TechCrunch AI",
   "regiao": "eua",
   "idioma": "en",
   "tipo": "imprensa",
-  "publicado": "2026-11-02T22:02:36+00:00",
+  "publicado": "2026-11-03T14:30:00+00:00",
   "dicas": [
-   "tecnologia"
+   "ia"
   ],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "dbdd50a6e09b"
+  "id": "cea1717667af"
  },
  {
   "titulo": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
@@ -5510,6 +5560,20 @@
   "categorias": [],
   "relevancia": 0.0,
   "id": "24e2bbbfcb82"
+ },
+ {
+  "titulo": "Indonesian police arrest 3 for tapping Prabowo’s phone",
+  "resumo": "Indonesian authorities have arrested three people for allegedly tapping President Prabowo Subianto’s phone, according to police on Tuesday, with media reports suggesting one of the suspects may be a senior official. Prabowo, who took office in 2024, has come under increasing pressure for his government’s handling of the economy and destructive wildfires in the Southeast Asian archipelago. Top detective Asep Safrudin identified the suspects only by their initials, LSP, ASN, and EH, and said they...",
+  "link": "https://www.scmp.com/news/asia/southeast-asia/article/3373180/indonesian-police-arrest-3-tapping-prabowos-phone",
+  "fonte": "South China Morning Post",
+  "regiao": "asia",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:46:32+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "4c9376500333"
  },
  {
   "titulo": "Hong Kong BN(O) visa holders exempt from UK’s proposed 10-year settlement wait",
@@ -5834,18 +5898,18 @@
   "id": "d8d9b99f4168"
  },
  {
-  "titulo": "Hong Kong homeowners prompt government rethink on proxy vote proposals",
-  "resumo": "Hong Kong homeowners’ pushback against proposals to limit proxy votes and restrict meeting attendance to relatives has prompted authorities to study alternatives to resolve estate management issues behind the deadly Tai Po fire. In a paper submitted to the Legislative Council on Tuesday, the Home and Youth Affairs Bureau revealed the findings of its month-long public consultation on amendments to the Building Management Ordinance, part of proposed reforms after the Wang Fuk Court fire that...",
-  "link": "https://www.scmp.com/news/hong-kong/society/article/3373145/hong-kong-homeowners-prompt-government-rethink-proxy-vote-proposals",
-  "fonte": "South China Morning Post",
+  "titulo": "Binance says hackers used fake job interview to compromise computer before $6.3 billion attack",
+  "resumo": "",
+  "link": "https://www.channelnewsasia.com/business/binance-says-hackers-used-fake-job-interview-compromise-computer-63-billion-attack-6517421",
+  "fonte": "Channel NewsAsia",
   "regiao": "asia",
   "idioma": "en",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T10:04:10+00:00",
+  "publicado": "2026-11-03T14:51:53+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "3d54797dce36"
+  "id": "9ab1b952867d"
  },
  {
   "titulo": "Former Indonesian national police chief among three arrested for the alleged illegal wiretapping of Prabowo",
@@ -5981,7 +6045,7 @@
   "regiao": "asia",
   "idioma": "en",
   "tipo": "imprensa",
-  "publicado": "2026-11-03T12:17:04+00:00",
+  "publicado": "2026-11-03T12:17:00+00:00",
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
@@ -6044,9 +6108,9 @@
   "id": "9f93f50d571d"
  },
  {
-  "titulo": "Apple shares slide as higher memory costs fuel margin concerns",
+  "titulo": "Apple shares slide as Ternus sounds alarm on memory costs",
   "resumo": "",
-  "link": "https://www.channelnewsasia.com/business/apple-shares-slide-higher-memory-costs-fuel-margin-concerns-6516726",
+  "link": "https://www.channelnewsasia.com/business/apple-shares-slide-ternus-sounds-alarm-memory-costs-6516726",
   "fonte": "Channel NewsAsia",
   "regiao": "asia",
   "idioma": "en",
@@ -6055,7 +6119,7 @@
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "f87936e87fbf"
+  "id": "9f4fecfef129"
  },
  {
   "titulo": "South Korea, Türkiye agree to deepen nuclear energy, defence ties",
@@ -6112,20 +6176,6 @@
   "categorias": [],
   "relevancia": 0.0,
   "id": "45131859fc32"
- },
- {
-  "titulo": "Man on trial for attacking then-girlfriend, biting her finger and fracturing it",
-  "resumo": "The alleged victim described the alleged attack at the condominium unit they shared, where her then-boyfriend picked her up by the hair.",
-  "link": "https://www.channelnewsasia.com/singapore/man-trial-attack-girlfriend-bite-finger-6516526",
-  "fonte": "Channel NewsAsia",
-  "regiao": "asia",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T11:04:00+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "3059a8e7a27c"
  },
  {
   "titulo": "Bomb threats disrupt operations at Warsaw airports",
@@ -6478,7 +6528,77 @@
   "id": "7b594dfb21b2"
  },
  {
-  "titulo": "Who is goalkeeper Jesus Owono and will he be punished after Miguel’s death?",
+  "titulo": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+  "resumo": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
+  "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+  "fonte": "Al Jazeera",
+  "regiao": "asia",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T15:00:10+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "1b07b47bc650"
+ },
+ {
+  "titulo": "Global food security is under threat",
+  "resumo": "Attacks on grain shipments from Russia and Ukraine may drive up food prices, hitting import-dependent countries hardest.",
+  "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+  "fonte": "Al Jazeera",
+  "regiao": "asia",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:58:10+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "54388fa7610d"
+ },
+ {
+  "titulo": "US midterm voting begins in high-stakes test of Trump’s presidency",
+  "resumo": "Voting is under way across the US in midterm elections that could strip Trump’s Republicans of control of Congress.",
+  "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss",
+  "fonte": "Al Jazeera",
+  "regiao": "asia",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:42:41+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "266245d3f5f2"
+ },
+ {
+  "titulo": "From Italy to Canada, how the UK’s Palestine Action group went global",
+  "resumo": "The banned UK group, which targets Israel&#039;s war machine, has inspired activists in Europe and beyond.",
+  "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+  "fonte": "Al Jazeera",
+  "regiao": "asia",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:30:24+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "83ec1f96697a"
+ },
+ {
+  "titulo": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
+  "resumo": "Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit.",
+  "link": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
+  "fonte": "Al Jazeera",
+  "regiao": "asia",
+  "idioma": "en",
+  "tipo": "imprensa",
+  "publicado": "2026-11-03T14:17:29+00:00",
+  "dicas": [],
+  "categorias": [],
+  "relevancia": 0.0,
+  "id": "8011b3d98901"
+ },
+ {
+  "titulo": "Who is goalkeeper Owono and will he be punished after De Miguel’s death?",
   "resumo": "Andorra goalkeeper Jesus Owono is at the centre of a social media storm after the death of Tenerife&#039;s Jesus de Miguel.",
   "link": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss",
   "fonte": "Al Jazeera",
@@ -6489,21 +6609,7 @@
   "dicas": [],
   "categorias": [],
   "relevancia": 0.0,
-  "id": "bbd1a14066fb"
- },
- {
-  "titulo": "Trump says that US will stop paying Israel aid after year-end",
-  "resumo": "Military aid to Israel and campaign contributions from Israel&#039;s backers to US candidates has animated political debate.",
-  "link": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-  "fonte": "Al Jazeera",
-  "regiao": "asia",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T13:42:05+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "bcaf471e7244"
+  "id": "e3d5b560ce8f"
  },
  {
   "titulo": "Iran commander sets out five conditions for regional security",
@@ -6756,75 +6862,5 @@
   "categorias": [],
   "relevancia": 0.0,
   "id": "d73c1eb255d5"
- },
- {
-  "titulo": "Lebanon cuts power to public bodies as electricity crisis deepens",
-  "resumo": "Political disputes and war worsen Lebanon&#039;s electricity crisis, as experts say deeper reforms are necessary.",
-  "link": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss",
-  "fonte": "Al Jazeera",
-  "regiao": "asia",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T10:17:27+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "549a68c85f94"
- },
- {
-  "titulo": "US midterm elections live: Polls open in test for Trump",
-  "resumo": "First results are expected on Tuesday after polls begin to close at 23:00 GMT, but final results might take days.",
-  "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-elections-live-polls-due-to-open-in-test-for-trump?traffic_source=rss",
-  "fonte": "Al Jazeera",
-  "regiao": "asia",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T10:10:48+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "fd97e1d979d2"
- },
- {
-  "titulo": "Tenerife’s Jesus de Miguel dies after on-field collision with goalkeeper",
-  "resumo": "Tenerife forward Jesus de Miguel suffered a cardiac arrest after a keeper&#039;s challenge in Spanish second division match.",
-  "link": "https://www.aljazeera.com/sports/2026/11/3/footballer-dies-after-on-field-collision?traffic_source=rss",
-  "fonte": "Al Jazeera",
-  "regiao": "asia",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T09:59:03+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "9a5c069d411b"
- },
- {
-  "titulo": "‘It gets better’: Olympic president’s advice for bullying victims",
-  "resumo": "Tell bullies to ‘sod off’. That’s the advice IOC President Kirsty Coventry has for young athletes facing bullying.",
-  "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/it-gets-better-olympic-presidents-advice-for-bullying-victims?traffic_source=rss",
-  "fonte": "Al Jazeera",
-  "regiao": "asia",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T09:45:09+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "218f8643bd26"
- },
- {
-  "titulo": "Cyclone Murasu makes landfall on India’s eastern coast",
-  "resumo": "Severe cyclonic storm uproots trees and downs power lines, days after another cyclone battered the same region.",
-  "link": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss",
-  "fonte": "Al Jazeera",
-  "regiao": "asia",
-  "idioma": "en",
-  "tipo": "imprensa",
-  "publicado": "2026-11-03T09:33:18+00:00",
-  "dicas": [],
-  "categorias": [],
-  "relevancia": 0.0,
-  "id": "9cd312e7a2c4"
  }
 ]
