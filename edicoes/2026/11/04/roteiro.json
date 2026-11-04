@@ -1,0 +1,642 @@
+[
+ {
+  "id": "destaques",
+  "titulo": "Manchetes do dia",
+  "cor": "#0B3D91",
+  "cor2": "#1E88E5",
+  "itens": [
+   {
+    "titulo": "Senado aprova PEC da Segurança Pública",
+    "texto": "O plenário do Senado Federal aprovou a Proposta de Emenda à Constituição da Segurança Pública sem a redução da maioridade penal, com amplo apoio dos parlamentares.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal"
+    ]
+   },
+   {
+    "titulo": "Democratas conquistam maioria no Congresso dos Estados Unidos",
+    "texto": "Projeções indicam que a oposição democrata obteve maioria na Câmara dos Representantes e no Senado, impondo uma derrota aos republicanos e a Donald Trump.",
+    "regiao": "brasil",
+    "fontes": [
+     "DW Brasil"
+    ],
+    "links": [
+     "https://www.dw.com/pt-br/democratas-obtêm-maioria-no-congresso-e-impõem-derrota-a-trump/live-79849879?maca=bra-rss-br-all-1030-xml-mrss"
+    ]
+   },
+   {
+    "titulo": "Ministro dos Transportes da Espanha renuncia após acidente ferroviário",
+    "texto": "A decisão ocorre dias após uma colisão de trens ao sul de Madri que deixou dezenas de mortos e feridos.",
+    "regiao": "europa",
+    "fontes": [
+     "BBC World"
+    ],
+    "links": [
+     "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
+    ]
+   },
+   {
+    "titulo": "Mercado financeiro e cautela fiscal no Brasil",
+    "texto": "O dólar fechou próximo de cinco reais e cinquenta centavos em um dia de cautela fiscal, enquanto a Instituição Fiscal Independente apontou que juros podem subir sem um ajuste nas contas públicas.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil",
+     "Agência Senado"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-074-e-aproxima-se-de-r-550-em-dia-de-cautela-fiscal",
+     "https://www12.senado.leg.br/noticias/audios/2026/11/sem-ajuste-juros-podem-subir-aponta-instituicao-fiscal-independente"
+    ]
+   }
+  ],
+  "roteiro": "Bom dia. Hoje é quarta-feira, quatro de novembro de dois mil e vinte e seis. Sejam bem-vindos ao Brasil e Mundo Hoje. Destacamos as principais notícias de agora. O Senado Federal aprovou a Proposta de Emenda à Constituição da Segurança Pública, reorganizando as forças policiais sem incluir a redução da maioridade penal, segundo a Agência Brasil. Nos Estados Unidos, projeções da agência AP divulgadas pela DW Brasil apontam que a oposição democrata conquistou maioria na Câmara dos Representantes e no Senado, impondo uma derrota aos republicanos. Na Espanha, o ministro dos Transportes renunciou ao cargo dias após uma colisão de trens ao sul de Madri que resultou em dezenas de mortes, conforme informou a BBC World. Na economia brasileira, segundo a Agência Brasil, o dólar encerrou cotado próximo de cinco reais e cinquenta centavos em um dia de cautela fiscal, enquanto a Instituição Fiscal Independente alertou para o risco de alta nos juros caso o país não realize um forte ajuste nas contas públicas, de acordo com a Agência Senado. Acompanhem os detalhes dessas e de outras notícias ao longo do nosso boletim."
+ },
+ {
+  "id": "politica",
+  "titulo": "Política",
+  "cor": "#5E1A1A",
+  "cor2": "#C62828",
+  "itens": [
+   {
+    "titulo": "Senado aprova PEC da Segurança Pública",
+    "texto": "O plenário do Senado Federal aprovou em dois turnos a Proposta de Emenda à Constituição da Segurança Pública, que reorganiza as forças públicas para ampliar o combate ao crime organizado no país. Segundo a Agência Brasil, a proposta obteve apoio unânime dos senadores votantes, sem redução da maioridade penal, após votações expressivas que registraram dezenas de votos favoráveis e nenhum contrário na última terça-feira.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal"
+    ]
+   },
+   {
+    "titulo": "Eduardo Braga relator do Orçamento 2027",
+    "texto": "O senador Eduardo Braga foi escolhido para atuar como o relator-geral do projeto de lei do Orçamento para o ano de dois mil e vinte e sete. De acordo com a Agência Senado, o anúncio ocorreu após uma reunião de líderes com o presidente do Senado Davi Alcolumbre, sendo que o texto da Lei Orçamentária Anual e a Lei de Diretrizes Orçamentárias estão atualmente sob análise na Comissão Mista.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/materias/2026/11/03/eduardo-braga-sera-o-relator-geral-do-projeto-de-lei-do-orcamento-2027"
+    ]
+   },
+   {
+    "titulo": "Desafios de governabilidade no Brasil",
+    "texto": "A governabilidade do presidente Luiz Inácio Lula da Silva exigirá intensa negociação e acordos políticos além da Esplanada dos Ministérios. Conforme divulgou a Agência Brasil, embora o chefe do executivo tenha obtido um número expressivo de votos na eleição de outubro, a oposição fortalecida no Congresso Nacional exigirá a construção de alianças amplas para superar os desafios do novo mandato.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/governabilidade-de-lula-exigira-negociacao-e-acordos-alem-da-esplanada"
+    ]
+   },
+   {
+    "titulo": "Democratas vencem eleições de meio de mandato nos Estados Unidos",
+    "texto": "Projeções indicam que a oposição democrata conquistou a maioria na Câmara dos Representantes e no Senado durante as eleições de meio de mandato nos Estados Unidos. Segundo a DW Brasil e o South China Morning Post, os eleitores puniram o presidente Donald Trump devido à inflação, corrupção e custos de saúde, resultando em uma derrota expressiva para os republicanos semanas antes de um encontro com Xi Jinping.",
+    "regiao": "eua",
+    "fontes": [
+     "DW Brasil",
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.dw.com/pt-br/democratas-obtêm-maioria-no-congresso-e-impõem-derrota-a-trump/live-79849879?maca=bra-rss-br-all-1030-xml-mrss"
+    ]
+   },
+   {
+    "titulo": "Abdul El-Sayed eleito para o Senado dos Estados Unidos",
+    "texto": "O democrata Abdul El-Sayed derrotou o republicano Mike Rogers em uma disputa acirrada no estado de Michigan para garantir uma vaga no Senado. De acordo com a NPR News e a France 24, ele fará história ao se tornar o primeiro legislador muçulmano americano a servir na câmara alta do Congresso dos Estados Unidos, após uma campanha marcada por forte polarização e ataques islamofóbicos.",
+    "regiao": "eua",
+    "fontes": [
+     "NPR News",
+     "France 24"
+    ],
+    "links": [
+     "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers"
+    ]
+   },
+   {
+    "titulo": "Renúncia de ministro na Espanha após acidente ferroviário",
+    "texto": "O ministro dos Transportes da Espanha renunciou ao cargo poucos dias após um grave acidente ferroviário ocorrido ao sul da capital, Madrid. Segundo informações da BBC World, a tragédia deixou pelo menos sessenta e nove pessoas mortas e dezenas de feridos, gerando forte repercussão política no país europeu.",
+    "regiao": "europa",
+    "fontes": [
+     "BBC World"
+    ],
+    "links": [
+     "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
+    ]
+   },
+   {
+    "titulo": "Corte da Coreia do Sul mantém condenação de ex-presidente",
+    "texto": "Um tribunal em Seul manteve a condenação eleitoral do ex-presidente sul-coreano Yoon Suk Yeol. Conforme noticiou a Channel NewsAsia, a decisão relembra os desdobramentos de quando o ex-mandatário declarou lei marcial em dezembro de dois mil e vinte e quatro, ordenando tropas a fecharem o parlamento antes de ser barrado por parlamentares.",
+    "regiao": "asia",
+    "fontes": [
+     "Channel NewsAsia"
+    ],
+    "links": [
+     "https://www.channelnewsasia.com/east-asia/south-korea-court-yoon-suk-yeol-election-conviction-6523166"
+    ]
+   },
+   {
+    "titulo": "Ataques contra a educação na Ucrânia",
+    "texto": "O Fundo das Nações Unidas para a Infância informou que a Ucrânia sofreu quase dois mil ataques contra a educação desde o início da invasão russa em dois mil e vinte e dois. Segundo a ONU News, foram cerca de duzentos e setenta incidentes somente neste ano, incluindo um bombardeio recente contra uma escola utilizada para distribuir ajuda humanitária.",
+    "regiao": "global",
+    "fontes": [
+     "UN News"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/en/story/2026/11/1168724"
+    ]
+   }
+  ],
+  "roteiro": "Seguindo com a nossa edição do Brasil e Mundo Hoje, entramos agora na seção de Política para detalhar os principais fatos que movimentam os poderes no país e no exterior nesta quarta-feira, quatro de novembro de dois mil e vinte e seis. Começamos pelo cenário legislativo nacional. O plenário do Senado Federal aprovou em dois turnos a Proposta de Emenda à Constituição da Segurança Pública, que reorganiza as forças públicas para ampliar o combate ao crime organizado no país. Segundo a Agência Brasil, a proposta obteve apoio unânime dos senadores votantes, sem redução da maioridade penal, após votações expressivas que registraram setenta e três votos favoráveis e nenhum contrário no primeiro turno, e setenta e cinco votos favoráveis no segundo turno, realizados na noite da última terça-feira. A medida é considerada estratégica para fortalecer as ações integradas de segurança em território nacional. Mudando para a pauta econômica e administrativa do Congresso, o senador Eduardo Braga foi escolhido para atuar como o relator-geral do projeto de lei do Orçamento para o ano de dois mil e vinte e sete. De acordo com a Agência Senado, o anúncio ocorreu após uma reunião de líderes com o presidente do Senado Davi Alcolumbre. O texto da Lei Orçamentária Anual chegou ao Congresso em agosto e os parlamentares precisarão votar antes a Lei de Diretrizes Orçamentárias, sendo que ambas as propostas estão atualmente sob análise na Comissão Mista. O planejamento fiscal é visto por analistas como crucial para a previsibilidade das contas públicas no próximo ano. Ainda no âmbito interno, a governabilidade do presidente Luiz Inácio Lula da Silva exigirá intensa negociação e acordos políticos além da Esplanada dos Ministérios. Conforme divulgou a Agência Brasil, embora o chefe do executivo tenha obtido sessenta e four milhões de votos na eleição de outubro, o maior número absoluto da história das eleições presidenciais do país, a oposição fortalecida no Congresso Nacional exigirá a construção de alianças amplas e diálogo permanente para superar os desafios do novo mandato e aprovar pautas de interesse do governo. Cruzando o continente americano, um terremoto político sacudiu os Estados Unidos nas eleições de meio de mandato. Projeções indicam que a oposição democrata conquistou a maioria tanto na Câmara dos Representantes quanto no Senado. Segundo a DW Brasil e o South China Morning Post, os eleitores puniram o presidente Donald Trump devido à inflação, corrupção e custos crescentes de saúde, resultando em uma derrota expressiva para os republicanos, que perderam redutos históricos e viram sua bancada minguar semanas antes de um importante encontro diplomático com o líder chinês Xi Jinping. Dentro destas disputas legislativas nos Estados Unidos, um marco histórico foi registrado em Michigan. O democrata Abdul El-Sayed derrotou o republicano Mike Rogers em uma disputa acirrada por uma vaga no Senado. De acordo com a NPR News e a France 24, ele fará história ao se tornar o primeiro legislador muçulmano americano a servir na câmara alta do Congresso dos Estados Unidos, superando uma campanha marcada por forte polarização e ataques islamofóbicos durante a corrida eleitoral no estado de Michigan. Passando para a Europa, a crise política atinge a Espanha após uma tragédia nos trilhos. O ministro dos Transportes do país renunciou ao cargo poucos dias depois de um grave acidente ferroviário ocorrido ao sul da capital, Madrid. Informações da BBC World apontam que a colisão deixou pelo menos sessenta e nove pessoas mortas e dezenas de feridos, desencadeando forte pressão política sobre a gestão dos transportes públicos e resultando na imediata saída do ministro do cargo oficial. Na Ásia, a justiça sul-coreana confirmou decisões contra figuras de proa do poder. Um tribunal em Seul manteve a condenação eleitoral do ex-presidente sul-coreano Yoon Suk Yeol. Conforme noticiou a Channel NewsAsia, a decisão judicial relembra os desdobramentos de quando o ex-mandatário declarou lei marcial em dezembro de dois mil e vinte e quatro, ordenando tropas a fecharem o parlamento antes de ser barrado pela coragem dos parlamentares que votaram contra o decreto militar. Por fim, em pautas globais monitoradas pelas Nações Unidas, o Fundo das Nações Unidas para a Infância informou que a Ucrânia sofreu quase dois mil ataques contra a educação desde o início da invasão russa em dois mil e vinte e dois. Segundo a ONU News, foram cerca de duzentos e setenta incidentes somente neste ano, incluindo um bombardeio recente contra uma escola que vinha sendo utilizada justamente para distribuir ajuda humanitária à população afetada pelo conflito armado. Continuaremos acompanhando todos os desdobramentos desses acontecimentos ao longo do dia na programação da nossa emissora."
+ },
+ {
+  "id": "economia",
+  "titulo": "Economia e Mercados",
+  "cor": "#0D4D2B",
+  "cor2": "#2E7D32",
+  "itens": [
+   {
+    "titulo": "Dólar sobe e bolsa cai em dia de cautela fiscal no Brasil",
+    "texto": "O mercado financeiro brasileiro encerrou esta terça-feira em queda, com o dólar em alta e a bolsa de valores ampliando as perdas após a reeleição do presidente Luiz Inácio Lula da Silva. Segundo a Agência Brasil, a moeda norte-americana avançou cerca de um por cento, fechando próxima de cinco reais e cinquenta centavos, enquanto o Índice Bovespa recuou pela sexta vez seguida e atingiu o menor nível desde janeiro.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-074-e-aproxima-se-de-r-550-e-dia-de-cautela-fiscal"
+    ]
+   },
+   {
+    "titulo": "IFI aponta que sem ajuste fiscal juros podem subir",
+    "texto": "A Instituição Fiscal Independente publicou um novo Relatório de Acompanhamento Fiscal para analisar os impactos das políticas públicas vigentes e das promessas de campanha do governo eleito sobre as contas públicas. De acordo com a Agência Senado, o estudo argumenta que, sem um forte ajuste fiscal, pode ocorrer alta de juros e inflação, cenário capaz de comprometer o crescimento sustentável da economia brasileira.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/audios/2026/11/sem-ajuste-fiscal-juros-podem-subir-aponta-instituicao-fiscal-independente"
+    ]
+   },
+   {
+    "titulo": "Relatório da ONU aponta dois bilhões de pessoas fora da internet",
+    "texto": "Apesar de setenta e seis por cento dos cidadãos globais estarem online, a desigualdade digital ainda persiste no mundo. Segundo a ONU News, a União Internacional de Telecomunicações realça que noventa e três por cento das populações mais ricas acessam a rede, enquanto apenas trinta e dois por cento o fazem em economias de baixa renda.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854826"
+    ]
+   },
+   {
+    "titulo": "África Austral lança plataforma para monitorar mercado de trabalho",
+    "texto": "Dados de uma nova iniciativa na África Austral reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero na região. De acordo com a ONU News, a meta da plataforma regional é apoiar a formulação de políticas públicas baseadas estritamente em estatísticas oficiais do mercado de trabalho.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854812"
+    ]
+   },
+   {
+    "titulo": "Casa Branca destaca expansão da manufatura americana",
+    "texto": "O setor de manufatura nos Estados Unidos registrou forte crescimento, expandindo-se pelo décimo mês consecutivo com a produção no ritmo mais rápido em quase cinco anos. Segundo a Casa Branca, fábricas estão expandindo suas atividades, postos de trabalho estão retornando e os salários estão subindo em ritmo superior à inflação.",
+    "regiao": "eua",
+    "fontes": [
+     "Casa Branca"
+    ],
+    "links": [
+     "https://www.whitehouse.gov/releases/2026/11/president-trump-is-powering-an-american-manufacturing-renaissance/"
+    ]
+   },
+   {
+    "titulo": "Mercado acionário dos Estados Unidos reage às eleições de meio de mandato",
+    "texto": "Os contratos futuros de ações dos Estados Unidos registraram queda inicial com a apuração das eleições legislativas, mas voltaram a operar em alta posteriormente. De acordo com o jornal New York Times, os investidores avaliaram as perspectivas para o setor de inteligência artificial e outras áreas estratégicas com a mudança na correlação de forças em Washington.",
+    "regiao": "eua",
+    "fontes": [
+     "New York Times"
+    ],
+    "links": [
+     "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
+    ]
+   },
+   {
+    "titulo": "Baidu desenvolve simulador de inteligência artificial para robotaxis",
+    "texto": "A gigante tecnológica chinesa Baidu criou um novo simulador orientado por inteligência artificial para preparar seus veículos autônomos para situações extremas no trânsito. Segundo o jornal South China Morning Post, a tecnologia visa treinar os robotaxis para lidar com riscos raros, como ciclistas cruzando o sinal vermelho ou animais surgindo repentinamente.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/tech/big-tech/article/3373173/baidus-new-ai-simulator-gives-robotaxis-crash-course-rare-road-hazards"
+    ]
+   },
+   {
+    "titulo": "Ex-vice-presidente da bolsa de Hong Kong é acusado por acesso a dados",
+    "texto": "Um ex-vice-presidente da operadora da bolsa de valores de Hong Kong e sua mãe foram formalmente acusados pelo órgão anticorrupção da cidade. De acordo com o South China Morning Post, eles são suspeitos de acessar informações confidenciais de empresas listadas para obter lucros expressivos em investimentos financeiros.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373255/ex-hkex-vice-president-and-mother-charged-over-alleged-confidential-data-access"
+    ]
+   }
+  ],
+  "roteiro": "Seguimos agora com a nossa cobertura detalhada em Economia e Mercados, trazendo os principais acontecimentos que movimentam o cenário financeiro nacional e internacional nesta quarta-feira. O mercado financeiro brasileiro encerrou esta terça-feira em forte queda, com o dólar em alta e a bolsa de valores ampliando as perdas após a reeleição do presidente Luiz Inácio Lula da Silva. Segundo a Agência Brasil, a moeda norte-americana avançou cerca de um por cento, fechando próxima de cinco reais e cinquenta centavos, enquanto o Índice Bovespa recuou pela sexta vez seguida e atingiu o menor patamar desde o mês de janeiro. Essa reação dos ativos reflete diretamente a cautela dos investidores em relação aos rumos da política fiscal do país nos próximos anos. Ainda sobre as contas públicas do país, a Instituição Fiscal Independente publicou um novo Relatório de Acompanhamento Fiscal para analisar os impactos das políticas públicas vigentes e das promessas de campanha do governo eleito. De acordo com a Agência Senado, o estudo argumenta de maneira clara que, sem a implementação de um forte ajuste fiscal, o país poderá enfrentar uma nova alta de juros e da inflação, um cenário econômico adverso capaz de comprometer seriamente o crescimento sustentável da economia brasileira a médio e longo prazo. Mudando o foco para o cenário global e digital, um novo relatório divulgado pela Organização das Nações Unidas revela que o mundo ainda tem cerca de dois bilhões de pessoas totalmente fora da internet. Segundo a ONU News, apesar de setenta e seis por cento dos cidadãos de todo o planeta estarem online, a desigualdade digital persiste de forma profunda entre as nações. A União Internacional de Telecomunicações realça que noventa e três por cento das populações residentes nas economias mais ricas acessam a rede global, ao passo que apenas trinta e dois por cento o fazem em países classificados como de baixa renda, evidenciando lacunas urgentes de infraestrutura. No continente africano, dados de uma nova iniciativa para a África Austral reúnem indicadores cruciais sobre emprego, qualificação profissional e a persistente desigualdade de gênero na região. De acordo com a ONU News, a meta dessa plataforma regional recém-lançada é apoiar governos e formuladores de políticas públicas na criação de estratégias baseadas estritamente em estatísticas confiáveis do mercado de trabalho. Indo para os Estados Unidos, a Casa Branca divulgou dados apontando que o setor de manufatura americana registra uma fase de forte expansão sob a gestão do presidente Donald Trump. Segundo o governo norte-americano, a indústria local expandiu-se pelo décimo mês consecutivo, alcançando o ritmo de produção mais acelerado em quase cinco anos, com fábricas ampliando operações, o retorno de postos de trabalho e salários crescendo acima da inflação. Em contrapartida, as recentes eleições de meio de mandato trouxeram reflexos diretos para os mercados financeiros e para a confiança dos investidores locais. De acordo com o jornal New York Times, os contratos futuros de ações dos Estados Unidos registraram queda inicial assim que os primeiros resultados da apuração foram divulgados, mas os negócios voltaram a se recuperar e operaram em alta posteriormente, à medida que investidores avaliaram as perspectivas para o setor de inteligência artificial e outras indústrias chave após a mudança na correlação de forças políticas em Washington. Por fim, olhando para o mercado asiático de tecnologia e inovação, a gigante chinesa Baidu desenvolveu um novo simulador orientado por inteligência artificial para treinar seus veículos autônomos. Segundo o jornal South China Morning Post, a tecnologia foi projetada para preparar os robotaxis da empresa para situações extremas e raras no trânsito urbano, como ciclistas cruzando sinais vermelhos ou animais silvestres surgindo de repente atrás de esquinas. Ainda na Ásia, o mesmo South China Morning Post relata que um ex-vice-presidente da operadora da bolsa de valores de Hong Kong e sua mãe foram formalmente acusados pelo órgão anticorrupção da cidade. As autoridades locais apontam que eles são suspeitos de acessar de forma irregular informações confidenciais de empresas listadas, gerando lucros consideráveis em operações financeiras. Continuaremos acompanhando todos esses desdobramentos econômicos ao longo do dia para manter você, ouvinte, devidamente informado sobre os rumos dos mercados no Brasil e no mundo."
+ },
+ {
+  "id": "tecnologia",
+  "titulo": "Tecnologia",
+  "cor": "#1A237E",
+  "cor2": "#3949AB",
+  "itens": [
+   {
+    "titulo": "Acordo de Cooperação Espacial Brasil e Venezuela",
+    "texto": "O Plenário do Senado aprovou em votação simbólica o texto do acordo de cooperação em ciência e tecnologia espacial entre Brasil e Venezuela. O projeto prevê a exploração e utilização pacífica do espaço, com foco na observação e monitoramento dos territórios dos dois países. A matéria segue agora para promulgação.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/materias/2026/11/03/vai-a-promulgacao-acordo-de-cooperacao-espacial-entre-brasil-e-venezuela"
+    ]
+   },
+   {
+    "titulo": "Justiça Brasileira Proíbe Meta de Usar Conteúdos da Imprensa para Treinar IA",
+    "texto": "A Justiça brasileira proibiu a empresa Meta de recolher conteúdos de meios de comunicação vinculados a três associações de imprensa para o treinamento de modelos de inteligência artificial. A decisão foi destacada por veículos internacionais ao debater os limites legais para o uso de dados na tecnologia.",
+    "regiao": "europa",
+    "fontes": [
+     "RTP Notícias"
+    ],
+    "links": [
+     "https://www.rtp.pt/noticias/mundo/justica-brasileira-proibe-meta-de-utilizar-conteudos-da-imprensa-para-treinar-ia_n1776731"
+    ]
+   },
+   {
+    "titulo": "Rússia Planeja Centros de Dados Subterrâneos após Ataques com Drones",
+    "texto": "A Rússia busca alternativas para proteger sua infraestrutura digital após ataques de drones ucranianos atingirem centros de dados. O país estuda planos para transferir instalações para o subsolo e blindar o setor tecnológico contra ações bélicas.",
+    "regiao": "eua",
+    "fontes": [
+     "Ars Technica"
+    ],
+    "links": [
+     "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
+    ]
+   },
+   {
+    "titulo": "Teoria dos Jogos Reversa para Controle de Agentes de Inteligência Artificial",
+    "texto": "Pesquisadores de segurança desenvolveram uma nova abordagem chamada teoria dos jogos reversa para monitorar modelos avançados de inteligência artificial. O método busca criar incentivos sistêmicos para que agentes autônomos sigam as regras e permaneçam alinhados aos interesses humanos.",
+    "regiao": "eua",
+    "fontes": [
+     "MIT Technology Review"
+    ],
+    "links": [
+     "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+    ]
+   },
+   {
+    "titulo": "Ataques Cibernéticos a Supermercados na Europa Afetam Lojas na Itália",
+    "texto": "Uma onda de ataques cibernéticos atingiu dezenas de supermercados em seis países europeus, elevando a temperatura de refrigeradores e estragando toneladas de alimentos. Na Itália, quatro lojas da rede Coop na Sicília sofreram danos nos sistemas.",
+    "regiao": "europa",
+    "fontes": [
+     "Euronews"
+    ],
+    "links": [
+     "https://www.euronews.com/2026/11/04/supermarket-cyberattacks-in-europe-hit-italys-coop-stores-in-catania-and-palermo"
+    ]
+   },
+   {
+    "titulo": "Nexus Mods Torna Obrigatória a Declaração de Uso de Inteligência Artificial",
+    "texto": "O Nexus Mods, principal repositório de modificações para jogos de computador, anunciou que os autores deverão declarar obrigatoriamente se utilizaram inteligência artificial em seus trabalhos. A medida busca trazer transparência sobre o conteúdo gerado por ferramentas automatizadas na plataforma.",
+    "regiao": "eua",
+    "fontes": [
+     "The Verge"
+    ],
+    "links": [
+     "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+    ]
+   },
+   {
+    "titulo": "Google Permite Desativação de IA em Escolas mas Restringe Busca",
+    "texto": "O Google informou que permitirá que escolas desativem ferramentas de inteligência artificial, mas alertou que instituições que optarem por bloquear totalmente os recursos perderão o acesso ao mecanismo de busca, uma vez que as funções de IA agora estão integradas ao sistema.",
+    "regiao": "eua",
+    "fontes": [
+     "TechCrunch AI"
+    ],
+    "links": [
+     "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+    ]
+   },
+   {
+    "titulo": "Google Anuncia Investimento Bilionário em Centros de Dados na Malásia",
+    "texto": "De acordo com o canal Channel NewsAsia, o Google planeja investir quinze bilhões de dólares na Malásia entre os anos de dois mil e vinte e sete e dois mil e vinte e oito. O projeto prevê a abertura de novos campi de centros de dados, gerando milhares de empregos locais anualmente.",
+    "regiao": "asia",
+    "fontes": [
+     "Channel NewsAsia"
+    ],
+    "links": [
+     "https://www.channelnewsasia.com/asia/google-invest-15-billion-malaysia-2027-2028-6523436"
+    ]
+   }
+  ],
+  "roteiro": "Sejam bem-vindos ao boletim Brasil e Mundo Hoje. Entramos agora na seção de tecnologia, trazendo as principais atualizações sobre ciência, inovação e o impacto digital na sociedade e na geopolítica global. Vamos iniciar com os desdobramentos diplomáticos e científicos envolvendo o Brasil. O Plenário do Senado aprovou em votação simbólica o texto do acordo de cooperação em ciência e tecnologia espacial entre Brasil e Venezuela. Segundo a Agência Senado, o projeto prevê a exploração e utilização pacífica do espaço, com foco na observação e monitoramento dos territórios dos dois países. A matéria segue agora para promulgação. Essa medida reforça a integração científica regional na América do Sul e demonstra o esforço dos governos em utilizar a tecnologia satelital para o mapeamento e a preservação ambiental das fronteiras sul-americanas, consolidando parcerias estratégicas na área espacial. Seguindo com as notícias de impacto internacional, a justiça brasileira determinou uma proibição severa à empresa Meta. De acordo com a emissora RTP Notícias, a Justiça do Brasil proibiu a companhia de recolher conteúdos de meios de comunicação vinculados a três associações de imprensa para o treinamento de modelos de inteligência artificial. A decisão ganhou repercussão internacional e é vista como um marco regulatório importante na proteção de direitos autorais e de propriedade intelectual diante do avanço desregulado de ferramentas de aprendizado de máquina pelas grandes empresas de tecnologia conhecidas como big techs. No cenário de conflitos e infraestrutura digital, a guerra na Europa traz consequências diretas para a segurança de dados. Conforme noticiou o portal Ars Technica, a Rússia busca alternativas urgentes para proteger sua infraestrutura digital após ataques de drones ucranianos atingirem centros de dados sensíveis. O governo russo estuda planos para transferir instalações vitais para o subsolo, em uma tentativa de blindar o setor tecnológico contra ações bélicas e evitar colapsos em redes de computadores estratégicas. A medida ilustra como a guerra moderna afeta diretamente a espinha dorsal da internet e da computação em nuvem. Ainda no campo da inteligência artificial, pesquisadores buscam novas formas de controle para evitar falhas em sistemas autônomos. Segundo o MIT Technology Review, cientistas desenvolveram uma nova abordagem chamada teoria dos jogos reversa para monitorar modelos avançados de inteligência artificial. O método busca criar incentivos sistêmicos para que agentes autônomos sigam as regras e permaneçam alinhados aos interesses humanos, combatendo riscos associados a comportamentos indesejados ou autônomos que possam violar normas de segurança. A segurança cibernética também esteve sob os holofotes na Europa devido a ataques coordenados contra o setor comercial. De acordo com a Euronews, uma onda de ataques cibernéticos atingiu dezenas de supermercados em seis países europeus, elevando a temperatura de refrigeradores e estragando toneladas de alimentos. Na Itália, quatro lojas da rede Coop na Sicília sofreram danos severos em seus sistemas operacionais. O incidente expõe a vulnerabilidade de sistemas industriais interconectados e a urgência de defesas cibernéticas mais robustas em redes de varejo e infraestrutura crítica. No universo dos jogos eletrônicos e plataformas digitais, novas regras começam a ser impostas sobre a criação de conteúdos automatizados. O portal The Verge informou que o Nexus Mods, principal repositório de modificações para jogos de computador, anunciou que os autores deverão declarar obrigatoriamente se utilizaram inteligência artificial em seus trabalhos. A medida busca trazer transparência sobre o conteúdo gerado por ferramentas automatizadas na plataforma, garantindo que a comunidade saiba a origem exata do material compartilhado. Na área educacional e de ferramentas de busca, o Google fez novos anúncios sobre o uso de inteligência artificial em escolas. Segundo o TechCrunch AI, a empresa informou que permitirá que escolas desativem ferramentas de inteligência artificial, mas alertou que instituições que optarem por bloquear totalmente os recursos perderão o acesso ao mecanismo de busca tradicional, uma vez que as funções de inteligência artificial agora estão profundamente integradas ao sistema de pesquisa da companhia. A exigência gerou debates entre educadores sobre autonomia tecnológica e o acesso a ferramentas educacionais básicas. Por fim, na Ásia, os investimentos em infraestrutura digital continuam em ritmo acelerado. Conforme relatado pelo canal Channel NewsAsia, o Google planeja investir quinze bilhões de dólares na Malásia entre os anos de dois mil e vinte e sete e dois mil e vinte e oito. O projeto prevê a abertura de novos campi de centros de dados no país asiático, um movimento que projeta sustentar milhares de empregos locais anualmente e consolidar a região como um polo tecnológico fundamental para o mercado global de tecnologia. Continuamos acompanhando de perto todos os desdobramentos da editoria de tecnologia. Permaneça conosco para mais atualizações no próximo boletim Brasil e Mundo Hoje."
+ },
+ {
+  "id": "ia",
+  "titulo": "Inteligência Artificial",
+  "cor": "#311B92",
+  "cor2": "#7E57C2",
+  "itens": [
+   {
+    "titulo": "Justiça brasileira proíbe Meta de usar conteúdos da imprensa para IA",
+    "texto": "Segundo a emissora RTP Notícias, a Justiça brasileira proibiu a Meta de recolher conteúdos de meios de comunicação vinculados a três associações de imprensa para treinar modelos de inteligência artificial. A decisão protege os direitos autorais dos veículos jornalísticos nacionais. A medida repercute internacionalmente sobre os limites éticos e legais no uso de dados por grandes empresas de tecnologia.",
+    "regiao": "brasil",
+    "fontes": [
+     "RTP Notícias"
+    ],
+    "links": [
+     "https://www.rtp.pt/noticias/mundo/justica-brasileira-proibe-meta-de-utilizar-conteudos-da-imprensa-para-ia_n1776731"
+    ]
+   },
+   {
+    "titulo": "Brave é processado por coleta de dados e ferramentas anti-paywall",
+    "texto": "De acordo com o portal Tecnoblog, a ferramenta de busca e navegador Brave é alvo de um processo judicial envolvendo a coleta de dados para inteligência artificial e funções desenvolvidas contra sistemas de pagamento por conteúdo. A ação questiona as práticas de raspagem de informações e o modelo operacional da ferramenta. O caso destaca o escrutínio crescente sobre as tecnologias de busca baseadas em inteligência artificial.",
+    "regiao": "brasil",
+    "fontes": [
+     "Tecnoblog"
+    ],
+    "links": [
+     "https://tecnoblog.net/noticias/navegador-brave-e-processado-por-coleta-de-dados-para-ia-e-ferramentas-anti-paywall/"
+    ]
+   },
+   {
+    "titulo": "Motores de aviões aposentados viram fonte de energia para data centers",
+    "texto": "Segundo o jornal Folha de S.Paulo, motores de aviões aposentados armazenados em cemitérios de metal no deserto de Sonora, no Arizona, estão se tornando uma alternativa para abastecer data centers. A iniciativa busca suprir a demanda energética massiva gerada pela corrida da inteligência artificial. A solução criativa ilustra os desafios de infraestrutura e sustentabilidade enfrentados pelo setor tecnológico.",
+    "regiao": "brasil",
+    "fontes": [
+     "Folha de S.Paulo"
+    ],
+    "links": [
+     "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/motores-de-avioes-aposentados-viram-alternativa-para-abastecer-data-centers-em-meio-a-corrida-da-ia.shtml"
+    ]
+   },
+   {
+    "titulo": "ONU alerta para rápida disseminação de desinformação sobre migrantes impulsionada por IA",
+    "texto": "De acordo com a ONU News, a Organização Internacional para as Migrações afirmou que uma onda de desinformação está aprofundando a polarização e a desconfiança nas comunidades. Informações enganosas circulam nas redes sociais com o impulso da inteligência artificial, agravando o cenário global. O alerta reforça a urgência de regulação e combate a conteúdos falsos em larga escala.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854820"
+    ]
+   },
+   {
+    "titulo": "Boom da IA pode encarecer empréstimos na Europa, aponta DW",
+    "texto": "Segundo a rede DW, a emissão de bilhões de dólares em títulos de dívida por gigantes de tecnologia americanos para financiar a inteligência artificial está competindo diretamente com governos europeus em um mercado de títulos volátil. França, Alemanha e Itália enfrentam custos de empréstimo mais elevados em meio às pressões inflacionárias. A situação demonstra os reflexos econômicos globais do setor tecnológico.",
+    "regiao": "europa",
+    "fontes": [
+     "DW (EN)"
+    ],
+    "links": [
+     "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-all-1573-xml-mrss"
+    ]
+   },
+   {
+    "titulo": "Apple inicia testes de ferramentas de inteligência artificial na China com a Alibaba",
+    "texto": "De acordo com a Euronews, a Apple começou a testar suas ferramentas de inteligência artificial com desenvolvedores na China, utilizando o modelo Qwen da Alibaba para cumprir as rígidas regulamentações de Pequim. A iniciativa ocorre quase dois anos após o lançamento dos recursos nos Estados Unidos. A parceria estratégica marca a adaptação da empresa às exigências do mercado chinês.",
+    "regiao": "europa",
+    "fontes": [
+     "Euronews"
+    ],
+    "links": [
+     "https://www.euronews.com/2026/11/04/apple-begins-ai-trial-in-china-powered-by-alibaba"
+    ]
+   },
+   {
+    "titulo": "Tencent lança modelo Hy4 para acirrar corrida de inteligência artificial na Ásia",
+    "texto": "Segundo o jornal South China Morning Post, a gigante tecnológica Tencent Holdings lançou seu mais recente modelo de inteligência artificial de código aberto, chamado Hy4, voltado para softwares corporativos. A tecnologia introduz capacidades avançadas de compreensão visual e raciocínio matemático para competir com rivais como DeepSeek e Alibaba. O lançamento consolida a intensa concorrência no mercado asiático.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats"
+    ]
+   },
+   {
+    "titulo": "Abordagem de teoria dos jogos reversa busca controlar agentes de inteligência artificial",
+    "texto": "De acordo com o MIT Technology Review, pesquisadores de segurança estão testando uma nova abordagem conhecida como teoria dos jogos reversa para controlar modelos avançados de inteligência artificial. O sistema foi desenhado para incentivar os agentes a seguirem regras e se manterem alinhados aos desejos humanos. A medida visa prevenir comportamentos indesejados à medida que os sistemas ganham autonomia.",
+    "regiao": "eua",
+    "fontes": [
+     "MIT Technology Review"
+    ],
+    "links": [
+     "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
+    ]
+   }
+  ],
+  "roteiro": "Seguindo com o boletim Brasil e Mundo Hoje, passamos agora para a seção de Inteligência Artificial, onde acompanhamos os principais desdobramentos tecnológicos, regulatórios e econômicos do setor em todo o planeta. Começamos pelo Brasil, onde a Justiça brasileira proibiu a Meta de recolher conteúdos de meios de comunicação vinculados a três associações de imprensa para treinar modelos de inteligência artificial. Segundo a emissora RTP Notícias, a decisão protege os direitos autorais dos veículos jornalísticos nacionais. A medida repercute internacionalmente sobre os limites éticos e legais no uso de dados por grandes empresas de tecnologia, levantando debates sobre a justa remuneração e o consentimento na era digital. Ainda no cenário nacional e de acordo com o portal Tecnoblog, a ferramenta de busca e navegador Brave é alvo de um processo judicial envolvendo a coleta de dados para inteligência artificial e funções desenvolvidas contra sistemas de pagamento por conteúdo. A ação questiona as práticas de raspagem de informações e o modelo operacional da ferramenta. O caso destaca o escrutínio crescente sobre as tecnologias de busca baseadas em inteligência artificial e como os tribunais começam a frear certas práticas comerciais no país. Na economia ligada à infraestrutura tecnológica, segundo o jornal Folha de S.Paulo, motores de aviões aposentados armazenados em cemitérios de metal no deserto de Sonora, no Arizona, estão se tornando uma alternativa para abastecer data centers. A iniciativa busca suprir a demanda energética massiva gerada pela corrida da inteligência artificial. A solução criativa ilustra os desafios profundos de infraestrutura e sustentabilidade enfrentados pelo setor tecnológico globalmente. Mudando para a editoria global, de acordo com a ONU News, a Organização Internacional para das Migrações afirmou que uma onda de desinformação está aprofundando a polarização e a desconfiança nas comunidades. Informações enganosas circulam nas redes sociais com o impulso da inteligência artificial, agravando o cenário global de instabilidade social. O alerta reforça a urgência de regulação e combate a conteúdos falsos em larga escala por parte de governos e plataformas digitais. No continente europeu, segundo a rede DW, a emissão de bilhões de dólares em títulos de dívida por gigantes de tecnologia americanos para financiar a inteligência artificial está competindo diretamente com governos europeus em um mercado de títulos volátil. França, Alemanha e Itália enfrentam custos de empréstimo mais elevados em meio às pressões inflacionárias decorrentes de conflitos e da alta demanda por capital. A situação demonstra os reflexos econômicos diretos do setor tecnológico sobre as finanças soberanas. Ainda na Europa, de acordo com a Euronews, a Apple começou a testar suas ferramentas de inteligência artificial com desenvolvedores na China, utilizando o modelo Qwen da Alibaba para cumprir as rígidas regulamentações de Pequim. A iniciativa ocorre quase dois anos após o lançamento dos recursos nos Estados Unidos. A parceria estratégica marca a adaptação necessária da empresa norte-americana às exigências legais do mercado chinês. Olhando para a Ásia, segundo o jornal South China Morning Post, a gigante tecnológica Tencent Holdings lançou seu mais recente modelo de inteligência artificial de código aberto, chamado Hy4, voltado para softwares corporativos. A tecnologia introduz capacidades avançadas de compreensão visual e raciocínio matemático para competir com rivais como DeepSeek e Alibaba. O lançamento consolida a intensa e contínua concorrência no mercado asiático de modelos de linguagem. Por fim, nos Estados Unidos, de acordo com o MIT Technology Review, pesquisadores de segurança estão testando uma nova abordagem conhecida como teoria dos jogos reversa para controlar modelos avançados de inteligência artificial. O sistema foi desenhado para incentivar os agentes a seguirem regras e se manterem alinhados aos desejos humanos. A medida visa prevenir comportamentos indesejados à medida que os sistemas ganham autonomia e capacidade de decisão independente no ambiente corporativo e público."
+ },
+ {
+  "id": "saude",
+  "titulo": "Saúde",
+  "cor": "#004D40",
+  "cor2": "#00897B",
+  "itens": [
+   {
+    "titulo": "Senado aprova Setembro em Flor contra câncer ginecológico",
+    "texto": "O Senado Federal aprovou o projeto que oficializa a campanha Setembro em Flor para conscientizar a população sobre a prevenção e o diagnóstico precoce dos cânceres ginecológicos. A proposta, de autoria da deputada federal Renilce Nicodemos, do Movimento Democrático Brasileiro do Pará, segue agora para a sanção presidencial. Segundo a Agência Senado, o objetivo é estimular a busca por atendimento médico e reduzir a mortalidade e a necessidade de tratamentos invasivos.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-setembro-em-flor-campanha-contra-o-cancer-ginecologico"
+    ]
+   },
+   {
+    "titulo": "Sessão especial no Senado homenageará biomédicos",
+    "texto": "O Plenário do Senado aprovou requerimento para a realização de uma sessão especial em homenagem aos profissionais da biomedicina, marcada para o dia três de dezembro. A iniciativa partiu do senador Izalci Lucas, do Partido Liberal do Distrito Federal, e de outros parlamentares. De acordo com a Agência Senado, a cerimônia reconhece a importância da categoria para a saúde pública e o desenvolvimento científico do país.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-sessoes-especiais-em-homenagem-a-sindicos-e-biomedicos"
+    ]
+   },
+   {
+    "titulo": "Queda nos preços de medicamentos nos Estados Unidos",
+    "texto": "De acordo com publicações da Casa Branca baseadas em análises do periódico City Journal, os preços dos medicamentos prescritos nos Estados Unidos estão registrando uma queda recorde sob a liderança do presidente Donald Trump. O governo aponta que a redução traz alívio financeiro para milhões de americanos. A medida reflete os esforços da administração em negociar descontos diretamente com o setor farmacêutico.",
+    "regiao": "eua",
+    "fontes": [
+     "Casa Branca"
+    ],
+    "links": [
+     "https://www.whitehouse.gov/releases/2026/11/icymi-drug-prices-are-falling-at-the-fastest-rate-in-over-60-years-under-president-trump/"
+    ]
+   },
+   {
+    "titulo": "Nova morte por sarampo e alerta de saúde retido nos Estados Unidos",
+    "texto": "Uma nova morte de uma criança em decorrência do sarampo foi registrada nos Estados Unidos, enquanto o Centro de Controle e Prevenção de Doenças, o CDC, teria retido um alerta sanitário oficial. Conforme informações do portal Ars Technica, autoridades de saúde locais apontam a relutância em campanhas de vacinação como fator impulsionador dos surtos da doença no país.",
+    "regiao": "eua",
+    "fontes": [
+     "Ars Technica"
+    ],
+    "links": [
+     "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/"
+    ]
+   },
+   {
+    "titulo": "Eleição histórica e impacto na saúde na Flórida",
+    "texto": "Nas eleições estaduais americanas, a disputa pela governadoria da Flórida mobilizou o debate político e de saúde pública com a vitória do republicano Byron Donalds, apoiado pelo presidente Donald Trump. A disputa ocorreu em um cenário de profundas discussões sobre políticas de saúde e econômicas no estado. A informação foi veiculada pela rede britânica BBC World.",
+    "regiao": "europa",
+    "fontes": [
+     "BBC World"
+    ],
+    "links": [
+     "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss"
+    ]
+   },
+   {
+    "titulo": "Eleição para o governo em Ohio destaca saúde e política",
+    "texto": "O candidato apoiado por Trump, Vivek Ramaswamy, foi derrotado na disputa pelo governo do estado americano de Ohio por Amy Acton, que se tornou a primeira mulher eleita para o cargo. Segundo o jornal The Hindu, o pleito foi marcado por intensos debates sobre gestão pública e políticas sanitárias regionais, consolidando uma mudança significativa no cenário político local.",
+    "regiao": "asia",
+    "fontes": [
+     "The Hindu"
+    ],
+    "links": [
+     "https://www.thehindu.com/news/international/trump-backed-indian-american-ramaswamy-losses-ohio-governors-race/article71664147.ece"
+    ]
+   },
+   {
+    "titulo": "Eleição nos Estados Unidos elege primeira governadora negra",
+    "texto": "A democrata Keisha Lance Bottoms fez história ao se tornar a primeira mulher negra a ocupar o cargo de governadora nos Estados Unidos, após derrotar o executivo da área de saúde Rick Jackson na disputa eleitoral. A transição ocorre em um momento de forte debate sobre o acesso a serviços médicos e reformas estruturais no país, conforme noticiou o jornal The Hindu.",
+    "regiao": "asia",
+    "fontes": [
+     "The Hindu"
+    ],
+    "links": [
+     "https://www.thehindu.com/news/international/democrat-keisha-lance-bottoms-becomes-first-black-woman-governor-in-us/article71663892.ece"
+    ]
+   }
+  ],
+  "roteiro": "Seja muito bem-vindo, ouvinte e telespectador, ao boletim Brasil e Mundo Hoje. Dando continuidade à nossa cobertura diária, entramos agora na seção de Saúde, trazendo os fatos mais relevantes que impactam o bem-estar da população no Brasil e no exterior. Vamos aos detalhes das principais notícias do setor.\n\nComeçamos pelo Congresso Nacional, onde o Plenário do Senado Federal aprovou o projeto que oficializa a campanha nacional Setembro em Flor. A iniciativa tem como objetivo principal conscientizar a população sobre a importância fundamental da prevenção e do diagnóstico precoce dos cânceres ginecológicos, a exemplo do câncer de colo do útero, de ovário e de endométrio. De acordo com informações divulgadas pela Agência Senado, a proposta é de autoria da deputada federal Renilce Nicodemos, do Movimento Democrático Brasileiro do Pará, e agora segue diretamente para a sanção da Presidência da República. A intenção do projeto é estimular as mulheres a buscarem informações qualificadas e atendimento médico regular. Com isso, o governo e os parlamentares esperam reduzir consideravelmente a necessidade de tratamentos invasivos no futuro, além de diminuir os índices de mortalidade associados a essas doenças no país.\n\nAinda nas movimentações do Poder Legislativo federal voltadas para a área da saúde, o Senado aprovou um requerimento para a realização de uma sessão especial dedicada a homenagear os profissionais da biomedicina. Conforme os dados repassados pela Agência Senado, a cerimônia solene foi solicitada pelo senador Izalci Lucas, do Partido Liberal do Distrito Federal, em conjunto com outros parlamentares, e está agendada para o dia três de dezembro. A proposta destaca o papel essencial que os biomédicos desempenham no sistema de saúde brasileiro, atuando desde exames laboratoriais de alta complexidade até pesquisas científicas que sustentam o diagnóstico e o tratamento de inúmeras patologias em hospitais e clínicas de todo o território nacional.\n\nCruzando as fronteiras e olhando para o cenário internacional, passamos para os Estados Unidos, onde a Casa Branca divulgou dados econômicos apontando que os preços dos medicamentos prescritos estão registrando a maior queda em mais de sessenta anos. Segundo as publicações oficiais do governo norte-americano, baseadas em análises do periódico City Journal, a gestão do presidente Donald J. Trump tem conseguido entregar um alívio financeiro real e mensurável para milhões de cidadãos que dependem de remédios de uso contínuo. A medida reflete o foco da atual administração em pressionar a indústria farmacêutica por descontos e facilitar o acesso a tratamentos essenciais para a população dos Estados Unidos.\n\nAinda nos Estados Unidos, a situação sanitária preocupa autoridades e especialistas com a confirmação de mais uma morte infantil em decorrência do sarampo. De acordo com reportagem do portal Ars Technica, o caso ocorre em meio a críticas de que o Centro de Controle e Prevenção de Doenças, conhecido pela sigla CDC, teria retido a publicação de um alerta de saúde pública importante. Especialistas locais apontam que a relutância em relação a campanhas de vacinação tem sido o principal fator impulsionador do ressurgimento de surtos da doença em diferentes regiões do país americano.\n\nContinuando a acompanhar os reflexos políticos e sociais nos Estados Unidos, as recentes eleições estaduais trouxeram mudanças expressivas na liderança de governos locais que influenciam diretamente políticas de saúde pública. Na Flórida, o republicano Byron Donalds garantiu a vitória com o apoio do presidente Donald Trump, tornando-se o primeiro governador negro do estado. A informação foi veiculada pela rede britânica BBC World, destacando que a disputa ocorreu em um ambiente de intensos debates sobre a gestão de recursos de saúde e bem-estar social na região sudeste do país.\n\nEm outra disputa de grande apelo político nos estados americanos, o candidato apoiado por Trump, Vivek Ramaswamy, acabou derrotado na corrida pelo governo de Ohio. Quem venceu o pleito foi Amy Acton, que faz história ao se tornar a primeira mulher a ser eleita governadora do estado. Segundo as informações publicadas pelo jornal The Hindu, a campanha em Ohio foi fortemente pautada por discussões sobre saúde pública, acesso a serviços médicos e a condução de políticas sociais para a população local, resultando em uma reviravolta no comando do executivo estadual.\n\nFechando este bloco de destaques internacionais da seção de saúde e política dos Estados Unidos, a democrata Keisha Lance Bottoms também marcou a história eleitoral americana ao derrotar o executivo da área de saúde Rick Jackson, tornando-se a primeira mulher negra a governar um estado americano. A notícia, também detalhada pelo jornal The Hindu, ressalta que a transição de poder ocorre em um momento em que as pautas ligadas à saúde e aos direitos sociais ocupam o centro das prioridades dos eleitores, redesenhando o mapa político norte-americano para os próximos anos. Continuaremos monitorando todos esses desdobramentos ao longo do dia para manter você, ouvinte, plenamente informado sobre os fatos que movimentam o Brasil e o mundo."
+ },
+ {
+  "id": "cultura",
+  "titulo": "Cultura",
+  "cor": "#6A1B4D",
+  "cor2": "#D81B60",
+  "itens": [
+   {
+    "titulo": "Circuito Concertos EPTV 2026 leva música chinesa e Schubert ao interior paulista",
+    "texto": "De acordo com o portal G1, as cidades de Ribeirão Preto e Franca recebem em dezembro apresentações gratuitas pelo circuito Concertos EPTV 2026. O evento cultural vai levar ao público músicas tradicionais chinesas e uma obra-prima do compositor austríaco Franz Schubert. Os concertos serão conduzidos pelo Trio León-Schaefer-Ring, grupo que celebra vinte e cinco anos de carreira e acumula mais de oitocentas exibições. A iniciativa é importante para descentralizar o acesso à música clássica e internacional no interior do estado de São Paulo.",
+    "regiao": "brasil",
+    "fontes": [
+     "G1"
+    ],
+    "links": [
+     "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/04/circuito-concertos-eptv-2026-leva-musica-chinesa-e-obra-prima-de-schubert-a-ribeirao-preto-e-franca.ghtml"
+    ]
+   },
+   {
+    "titulo": "Novo filme do diretor Ryusuke Hamaguchi busca proporcionar experiência existencial",
+    "texto": "Segundo o jornal Folha de S.Paulo, o novo longa-metragem intitulado O Sentido da Vida explora o contato em vários níveis, mantendo a característica de obras anteriores do cineasta Ryusuke Hamaguchi. A trama aborda relações entre o teatro e a vida cotidiana, interações entre enfermeiros e pacientes, além da troca entre diferentes línguas. A crítica cultural aponta que o filme constrói uma rede complexa de significados. A produção se destaca no cenário cinematográfico por buscar uma conexão profunda e existencial com o espectador.",
+    "regiao": "brasil",
+    "fontes": [
+     "Folha de S.Paulo"
+    ],
+    "links": [
+     "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/filme-o-sentido-da-vida-quer-dar-experiencia-existencial-o-espectador.shtml"
+    ]
+   },
+   {
+    "titulo": "Prêmio de jornalismo no México denuncia impunidade em casos de abuso militar",
+    "texto": "Conforme divulgado pela ONU News, a entrega do Prêmio Breach Valdez de Jornalismo e Direitos Humanos de 2026 coincidiu com o Dia Internacional pelo Fim da Impunidade dos Crimes contra Jornalistas. A jornalista premiada Zorayda Gallegos conduziu uma investigação durante doze anos, acompanhando mais de quinhentas e vinte mulheres que denunciaram abusos sexuais cometidos por militares no país. O trabalho jornalístico expõe graves casos de impunidade e retaliações sofridas tanto pelas vítimas quanto pelos profissionais da imprensa na região.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854823"
+    ]
+   },
+   {
+    "titulo": "Skoda Auto avalia participação em campeonato de hóquei se Rússia for incluída",
+    "texto": "Segundo a agência Channel NewsAsia, a empresa Skoda Auto declarou que vai reavaliar o seu papel de patrocínio e envolvimento no campeonato mundial de hóquei no gelo caso a Rússia venha a participar do evento esportivo. A decisão empresarial reflete o alinhamento das marcas corporativas com sanções e diretrizes internacionais decorrentes do cenário geopolítico envolvendo o país euro-asiático. O posicionamento repercute fortemente no meio esportivo e comercial internacional ligado às federações da modalidade.",
+    "regiao": "asia",
+    "fontes": [
+     "Channel NewsAsia"
+    ],
+    "links": [
+     "https://www.channelnewsasia.com/sport/skoda-auto-reassess-ice-hockey-championship-role-if-russia-takes-part-6523256"
+    ]
+   },
+   {
+    "titulo": "Comissão Europeia debate proteção civil e recorda passado de repórter em crise",
+    "texto": "De acordo com informações da Comissão Europeia, a comissária Lahbib abriu o Fórum Europeu de Proteção Civil relembrando sua trajetória de vinte e cinco anos atrás, quando atuava como jovem repórter de televisão na cobertura do outono de dois mil e um no Afeganistão. O discurso contextualizou os desafios humanitários e de segurança enfrentados ao longo de décadas na política internacional e na gestão de crises. O evento reúne autoridades para discutir estratégias conjuntas de resposta a emergências na Europa e no mundo.",
+    "regiao": "europa",
+    "fontes": [
+     "Comissão Europeia"
+    ],
+    "links": [
+     "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2320"
+    ]
+   },
+   {
+    "titulo": "Netflix testa aba de descoberta por Inteligência Artificial baseada no humor",
+    "texto": "Segundo o portal TechCrunch AI, a plataforma de streaming Netflix lançou um recurso experimental chamado aba de descoberta por inteligência artificial, projetado para ajudar os usuários a encontrarem conteúdos com base no estado de espírito atual. A ferramenta utiliza algoritmos avançados para sugerir filmes e séries de acordo com o humor momentâneo do espectador. A novidade representa um passo importante na personalização da experiência de entretenimento digital por meio de tecnologias recentes.",
+    "regiao": "eua",
+    "fontes": [
+     "TechCrunch AI"
+    ],
+    "links": [
+     "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+    ]
+   },
+   {
+    "titulo": "Apple Watch recebe recursos de inteligência audiofônica em versão beta para desenvolvedores",
+    "texto": "Conforme noticiado pelo site The Verge, a Apple liberou a versão beta de desenvolvimento do sistema operacional watchOS vinte e sete ponto três, que inclui ferramentas de inteligência em áudio para os relógios inteligentes Apple Watch Series doze e Ultra quatro. Os novos recursos foram pensados para o uso cotidiano dos consumidores, permitindo interações avançadas com os assistentes de voz e revisões rápidas de áudio. A tecnologia busca aprimorar a acessibilidade e a autonomia dos dispositivos vestíveis da marca.",
+    "regiao": "eua",
+    "fontes": [
+     "The Verge"
+    ],
+    "links": [
+     "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch"
+    ]
+   }
+  ],
+  "roteiro": "Seguindo com a nossa programação do boletim Brasil e Mundo Hoje, entramos agora na seção de Cultura e Variedades. Vamos aos principais destaques do setor cultural, da mídia e da tecnologia nas últimas vinte e quatro horas. De acordo com o portal G1, as cidades de Ribeirão Preto e Franca recebem em dezembro apresentações gratuitas pelo circuito Concertos EPTV 2026. O evento cultural vai levar ao público músicas tradicionais chinesas e uma obra-prima do compositor austríaco Franz Schubert. Os concertos serão conduzidos pelo Trio León-Schaefer-Ring, grupo que celebra vinte e cinco anos de carreira e acumula mais de oitocentas exibições. A iniciativa é importante para descentralizar o acesso à música clássica e internacional no interior do estado de São Paulo, promovendo a integração artística regional por meio de parcerias com o poder público e privado. Seguindo no cenário das artes visuais e do cinema, segundo o jornal Folha de S.Paulo, o novo longa-metragem intitulado O Sentido da Vida explora o contato em vários níveis, mantendo a característica de obras anteriores do cineasta Ryusuke Hamaguchi. A trama aborda relações entre o teatro e a vida cotidiana, interações entre enfermeiros e pacientes, além da troca entre diferentes línguas. A crítica cultural aponta que o filme constrói uma rede complexa de significados. A produção se destaca no cenário cinematográfico por buscar uma conexão profunda e existencial com o espectador, consolidando a carreira internacional do diretor japonês em festivais e exibições comerciais. Passando para o jornalismo e os direitos humanos globalmente, conforme divulgado pela ONU News, a entrega do Prêmio Breach Valdez de Jornalismo e Direitos Humanos de 2026 coincidiu com o Dia Internacional pelo Fim da Impunidade dos Crimes contra Jornalistas. A jornalista premiada Zorayda Gallegos conduziu uma investigação durante doze anos, acompanhando mais de quinhentas e vinte mulheres que denunciaram abusos sexuais cometidos por militares no país. O trabalho jornalístico expõe graves casos de impunidade e retaliações sofridas tanto pelas vítimas quanto pelos profissionais da imprensa na região, reforçando a importância da proteção aos comunicadores que investigam abusos de poder estatais. No esporte internacional e sua relação com a cultura e o entretenimento de massas, segundo a agência Channel NewsAsia, a empresa Skoda Auto declarou que vai reavaliar o seu papel de patrocínio e envolvimento no campeonato mundial de hóquei no gelo caso a Rússia venha a participar do evento esportivo. A decisão empresarial reflete o alinhamento das marcas corporativas com sanções e diretrizes internacionais decorrentes do cenário geopolítico envolvendo o país euro-asiático. O posicionamento repercute fortemente no meio esportivo e comercial internacional ligado às federações da modalidade, que debatem constantemente a neutralidade em grandes competições globais. Indo para a Europa, de acordo com informações da Comissão Europeia, a comissária Lahbib abriu o Fórum Europeu de Proteção Civil relembrando sua trajetória de vinte e cinco anos atrás, quando atuava como jovem repórter de televisão na cobertura do outono de dois mil e um no Afeganistão. O discurso contextualizou os desafios humanitários e de segurança enfrentados ao longo de décadas na política internacional e na gestão de crises. O evento reúne autoridades para discutir estratégias conjuntas de resposta a emergências na Europa e no mundo, destacando o papel da comunicação e da imprensa em zonas de conflito e catástrofes. No setor de tecnologia aplicada ao entretenimento e à mídia, segundo o portal TechCrunch AI, a plataforma de streaming Netflix lançou um recurso experimental chamado aba de descoberta por inteligência artificial, projetado para ajudar os usuários a encontrarem conteúdos com base no estado de espírito atual. A ferramenta utiliza algoritmos avançados para sugerir filmes e séries de acordo com o humor momentâneo do espectador. A novidade representa um passo importante na personalização da experiência de entretenimento digital por meio de tecnologias recentes, alterando a forma como o público consome catálogos online de produções audiovisuais. Para encerrar esta edição da seção de cultura, conforme noticiado pelo site The Verge, a Apple liberou a versão beta de desenvolvimento do sistema operacional watchOS vinte e sete ponto três, que inclui ferramentas de inteligência em áudio para os relógios inteligentes Apple Watch Series doze e Ultra quatro. Os novos recursos foram pensados para o uso cotidiano dos consumidores, permitindo interações avançadas com os assistentes de voz e revisões rápidas de áudio. A tecnologia busca aprimorar a acessibilidade e a autonomia dos dispositivos vestíveis da marca, marcando mais um avanço nos eletrônicos de uso pessoal e na integração de inteligência artificial em hardwares de pulso. Continuaremos acompanhando todos esses desdobramentos ao longo do dia na programação da nossa emissora. Fique agora com as próximas notícias do boletim Brasil e Mundo Hoje."
+ },
+ {
+  "id": "encerramento",
+  "titulo": "Resumo e agenda",
+  "cor": "#212121",
+  "cor2": "#546E7A",
+  "itens": [
+   {
+    "titulo": "Encerramento do Boletim Brasil e Mundo Hoje",
+    "texto": "Chegamos ao fim de mais uma edição do boletim Brasil e Mundo Hoje. Acompanhe a seguir a recapitulação dos cinco pontos mais importantes desta quarta-feira, quatro de novembro de dois mil e vinte e seis. Em primeiro lugar, o plenário do Senado Federal aprovou a Proposta de Emenda à Constituição da Segurança Pública sem a redução da maioridade penal e com apoio unânime dos senadores votantes, segundo a Agência Brasil. Em segundo lugar, projeções indicam que a oposição democrata conquistou a maioria na Câmara dos Representantes e no Senado dos Estados Unidos durante as eleições de meio de mandato, impondo uma derrota aos republicanos e a Donald Trump, conforme divulgaram a DW Brasil e o South China Morning Post. Em terceiro lugar, o ministro dos Transportes da Espanha renunciou ao cargo após o grave acidente ferroviário ao sul de Madri que deixou sessenta e nove mortos e dezenas de feridos, de acordo com a rede BBC World. Em quarto lugar, o mercado financeiro brasileiro registrou cautela fiscal com o dólar próximo de cinco reais e cinquenta centavos e a Bolsa em queda, enquanto a Instituição Fiscal Independente apontou que os juros podem subir sem um forte ajuste nas contas públicas, segundo a Agência Brasil e a Agência Senado. Em quinto lugar, a Justiça brasileira proibiu a Meta de recolher conteúdos de meios de comunicação vinculados a três associações de imprensa para o treinamento de modelos de inteligência artificial, conforme destacou a emissora RTP Notícias. Nas próximas horas, acompanhe o desdobramento da tramitação do Orçamento de dois mil e sete sob a relatoria do senador Eduardo Braga e os reflexos políticos e econômicos das eleições legislativas nos Estados Unidos. O boletim Brasil e Mundo Hoje é publicado todos os dias, às seis horas da manhã. Obrigado pela sua companhia e até amanhã.",
+    "regiao": "global",
+    "fontes": [
+     "Agência Brasil",
+     "Agência Senado",
+     "DW Brasil",
+     "South China Morning Post",
+     "BBC World",
+     "RTP Notícias"
+    ],
+    "links": []
+   }
+  ],
+  "roteiro": "Chegamos ao fim de mais uma edição do boletim Brasil e Mundo Hoje. Acompanhe a seguir a recapitulação dos cinco pontos mais importantes desta quarta-feira, quatro de novembro de dois mil e vinte e seis. Em primeiro lugar, o plenário do Senado Federal aprovou a Proposta de Emenda à Constituição da Segurança Pública sem a redução da maioridade penal e com apoio unânime dos senadores votantes, segundo a Agência Brasil. Em segundo lugar, projeções indicam que a oposição democrata conquistou a maioria na Câmara dos Representantes e no Senado dos Estados Unidos durante as eleições de meio de mandato, impondo uma derrota aos republicanos e a Donald Trump, conforme divulgaram a DW Brasil e o South China Morning Post. Em terceiro lugar, o ministro dos Transportes da Espanha renunciou ao cargo após o grave acidente ferroviário ao sul de Madri que deixou sessenta e nove mortos e dezenas de feridos, de acordo com a rede BBC World. Em quarto lugar, o mercado financeiro brasileiro registrou cautela fiscal com o dólar próximo de cinco reais e cinquenta centavos e a Bolsa em queda, enquanto a Instituição Fiscal Independente apontou que os juros podem subir sem um forte ajuste nas contas públicas, segundo a Agência Brasil e a Agência Senado. Em quinto lugar, a Justiça brasileira proibiu a Meta de recolher conteúdos de meios de comunicação vinculados a três associações de imprensa para o treinamento de modelos de inteligência artificial, conforme destacou a emissora RTP Notícias. Nas próximas horas, acompanhe o desdobramento da tramitação do Orçamento de dois mil e sete sob a relatoria do senador Eduardo Braga e os reflexos políticos e econômicos das eleições legislativas nos Estados Unidos. O boletim Brasil e Mundo Hoje é publicado todos os dias, às seis horas da manhã. Obrigado pela sua companhia e até amanhã."
+ }
+]
