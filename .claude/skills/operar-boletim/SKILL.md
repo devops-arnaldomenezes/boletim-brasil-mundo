@@ -33,6 +33,13 @@ Saudável = run com sucesso, Release com `.mp3` e `.mp4`, `meta_duracao_ok: true
 - Seção com 0–2 itens → use a skill `curar-fontes` para reforçar aquela seção.
 - `fontes_pausadas` não vazia → use `curar-fontes` para substituir os feeds mortos.
 
-## 4. Relato
+## 4. Particularidades conhecidas
+- Dispare workflows via REST: `gh api -X POST repos/OWNER/REPO/actions/workflows/boletim-diario.yml/dispatches -f ref=main -F 'inputs[publicar_imediatamente]=true'`.
+- Gemini 503/429 em parte das seções é normal na cota grátis (`falhas_ia` no relatorio.json). Só aja se `ia_ativa`
+  for false ou todas as seções caírem no modo extrativo: rode `diagnostico-ia.yml` e atualize `modelos_ia.gemini`.
+- Deploy do Pages com 404 = Pages não habilitado pelo dono; não é falha da edição (passo com continue-on-error).
+- Não faça push enquanto o workflow do boletim roda.
+
+## 5. Relato
 Termine com um resumo de 3 linhas: status da edição, o que foi corrigido, o que precisa do dono (se algo).
 Nunca publique conteúdo inventado e nunca desative testes para "ficar verde".
