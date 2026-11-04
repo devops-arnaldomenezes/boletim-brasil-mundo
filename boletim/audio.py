@@ -4,6 +4,7 @@ from __future__ import annotations
 import asyncio
 import re
 import subprocess
+import time
 from pathlib import Path
 
 from .util import log
@@ -38,9 +39,9 @@ def _frases(texto: str) -> list[str]:
     return out
 
 
-async def _edge(texto: str, voz: str, mp3: Path) -> list[tuple[float, float, str]]:
+async def _edge(texto: str, voz: str, mp3: Path, rate: str) -> list[tuple[float, float, str]]:
     import edge_tts
-    com = edge_tts.Communicate(texto, voz, rate="+5%", boundary="SentenceBoundary")
+    com = edge_tts.Communicate(texto, voz, rate=rate, boundary="SentenceBoundary")
     cues = []
     with open(mp3, "wb") as f:
         async for chunk in com.stream():
@@ -63,18 +64,75 @@ def _cues_estimados(texto: str, total: float) -> list[tuple[float, float, str]]:
     return cues
 
 
-def sintetizar(texto: str, voz: str, mp3: Path, ppm: int = 150) -> list[tuple[float, float, str]]:
-    """Gera MP3 do texto. Retorna legendas (inicio, fim, texto) em segundos."""
+def blocos(texto: str, max_palavras: int = 90) -> list[str]:
+    """Divide o roteiro em blocos de respiração: um por parágrafo; parágrafos longos são agrupados por frases.
+    Entre os blocos entra uma pausa curta, como um locutor que respira entre uma notícia e outra."""
+    out = []
+    for par in re.split(r"\n\s*\n|\n", texto.strip()):
+        frases, atual = re.split(r"(?<=[.!?])\s+", par.strip()), []
+        for f in frases:
+            if not f:
+                continue
+            atual.append(f)
+            if sum(len(x.split()) for x in atual) >= max_palavras:
+                out.append(" ".join(atual))
+                atual = []
+        if atual:
+            out.append(" ".join(atual))
+    return out or [texto.strip()]
+
+
+# Tratamento de locução: corta graves de ruído, comprime de leve e normaliza a -16 LUFS (padrão de podcast).
+MASTER = ("highpass=f=70,acompressor=threshold=-20dB:ratio=2.5:attack=10:release=250:makeup=2,"
+          "loudnorm=I=-16:TP=-1.5:LRA=9")
+
+
+def _tts_bloco(texto: str, vozes: list[str], mp3: Path, rate: str) -> list[tuple[float, float, str]]:
+    erro = None
+    for voz in list(vozes):  # se a voz principal falhar, passa à reserva (e não insiste nela nos próximos blocos)
+        for tentativa in range(3):
+            try:
+                cues = asyncio.run(_edge(texto, voz, mp3, rate))
+                if mp3.stat().st_size < 1000:
+                    raise RuntimeError("áudio vazio")
+                return cues
+            except Exception as e:  # noqa: BLE001
+                erro = e
+                log.warning("TTS falhou (%s, tentativa %d): %s", voz, tentativa + 1, str(e)[:150])
+                time.sleep(2 * (tentativa + 1))
+        if len(vozes) > 1:
+            vozes.remove(voz)
+    raise RuntimeError(f"TTS indisponível: {erro}")
+
+
+def sintetizar(texto: str, voz: str, mp3: Path, ppm: int = 150, rate: str = "+0%", pausa: float = 0.5,
+               voz_reserva: str | None = None) -> list[tuple[float, float, str]]:
+    """Gera MP3 do texto (bloco a bloco, com pausas naturais e tratamento de voz).
+    Retorna legendas (inicio, fim, texto) em segundos."""
+    vozes = [voz] + ([voz_reserva] if voz_reserva and voz_reserva != voz else [])
+    partes, cues, t = [], [], 0.0
     try:
-        cues = asyncio.run(_edge(texto, voz, mp3))
-        if mp3.stat().st_size < 1000:
-            raise RuntimeError("áudio vazio")
-        # legendas de frase muito longas são re-fatiadas proporcionalmente
-        finos = []
-        for ini, fim, t in cues:
-            sub = _cues_estimados(t, fim - ini)
-            finos += [(ini + a, ini + b, s) for a, b, s in sub]
-        return finos or _cues_estimados(texto, duracao(mp3))
+        silencio = mp3.with_name(f"{mp3.stem}_pausa.mp3")
+        _ff("-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", f"{pausa:.2f}", "-c:a", "libmp3lame",
+            "-b:a", "48k", str(silencio))
+        for i, b in enumerate(blocos(texto)):
+            p = mp3.with_name(f"{mp3.stem}_{i:03d}.mp3")
+            cb = _tts_bloco(b, vozes, p, rate)
+            if partes:
+                partes.append(silencio)
+                t += pausa
+            d = duracao(p)
+            for ini, fim, frase in cb:  # legendas de frase muito longas são re-fatiadas proporcionalmente
+                cues += [(t + ini + a, t + ini + z, s) for a, z, s in _cues_estimados(frase, fim - ini)]
+            partes.append(p)
+            t += d
+        lista = mp3.with_name(f"{mp3.stem}_lista.txt")
+        lista.write_text("".join(f"file '{x.resolve()}'\n" for x in partes), encoding="utf-8")
+        _ff("-f", "concat", "-safe", "0", "-i", str(lista), "-af", MASTER, "-ar", "24000", "-ac", "1",
+            "-c:a", "libmp3lame", "-b:a", "64k", str(mp3))
+        for x in {*partes, silencio, lista}:
+            x.unlink(missing_ok=True)
+        return cues or _cues_estimados(texto, duracao(mp3))
     except Exception as e:  # noqa: BLE001
         log.warning("TTS indisponível (%s). Gerando áudio silencioso de contingência.", e)
         segundos = max(len(texto.split()) / ppm * 60, 3)
@@ -83,10 +141,15 @@ def sintetizar(texto: str, voz: str, mp3: Path, ppm: int = 150) -> list[tuple[fl
 
 
 def vinheta(destino: Path, segundos: float = 3.0) -> None:
-    """Pequena vinheta sonora gerada (sem direitos autorais) para transição entre seções."""
-    _ff("-f", "lavfi", "-i", f"sine=f=660:d={segundos}", "-f", "lavfi", "-i", f"sine=f=990:d={segundos}",
-        "-filter_complex", f"[0][1]amix=2,afade=t=in:d=0.05,afade=t=out:st={segundos-0.8}:d=0.8,volume=0.25,"
-        "aresample=24000,pan=mono|c0=c0", "-q:a", "4", str(destino))
+    """Vinheta sonora gerada (sem direitos autorais) para transição entre seções: acorde suave com entrada
+    gradual e cauda de eco, em vez de bipes."""
+    notas = (261.63, 329.63, 392.0, 523.25)  # dó maior
+    entradas = [x for f in notas for x in ("-f", "lavfi", "-i", f"sine=f={f}:d={segundos}")]
+    _ff(*entradas, "-filter_complex",
+        f"{''.join(f'[{i}]' for i in range(len(notas)))}amix={len(notas)},"
+        f"afade=t=in:d=0.35,afade=t=out:st={segundos - 1.6}:d=1.6,aecho=0.8:0.5:90|180:0.25|0.15,"
+        "volume=0.5,aresample=24000,pan=mono|c0=c0", "-t", f"{segundos}", "-c:a", "libmp3lame", "-b:a", "64k",
+        str(destino))
 
 
 def montar_podcast(partes: list[Path], destino: Path, titulo: str, data: str) -> None:

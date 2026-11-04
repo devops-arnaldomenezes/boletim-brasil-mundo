@@ -26,7 +26,11 @@ Regras inegociáveis:
 - Tom jornalístico, sóbrio e imparcial; diferencie fato de opinião; evite adjetivos de juízo.
 - Agrupe notícias sobre o mesmo assunto; priorize impacto para o público brasileiro, depois Europa, EUA e Ásia.
 - Texto do roteiro é para ser LIDO EM VOZ ALTA: frases curtas, números por extenso quando ajudar a leitura,
-  sem markdown, sem listas, sem URLs, sem emojis. Siglas na primeira menção devem ser explicadas."""
+  sem markdown, sem listas, sem URLs, sem emojis. Siglas na primeira menção devem ser explicadas.
+- Escreva como um apresentador de rádio conversando com o ouvinte: linguagem simples e fluida, frases de 8 a 20
+  palavras com ritmo variado, transições naturais e diferentes entre as notícias. Não comece frases seguidas
+  do mesmo jeito, não repita o nome do programa nem a data a cada seção e prefira "segundo a fonte" no fim da frase.
+- No roteiro, cada notícia fica em um parágrafo próprio, separado por uma linha em branco (\\n\\n no JSON)."""
 
 PEDIDO_SECAO = """Data: {data}. Seção: "{secao}".
 A seguir, {n} notícias coletadas nas últimas 24 horas (JSON). Produza a seção do boletim.

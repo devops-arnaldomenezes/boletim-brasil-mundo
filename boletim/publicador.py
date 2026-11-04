@@ -91,13 +91,21 @@ def atualizar_indice(cfg: dict, raiz_edicoes: Path, destino_site: Path) -> None:
                   f' <span class="meta">· {m.get("duracao_min") or "?"} min · '
                   f'<a href="{url_midia(m["data"], f"boletim-{m["data"]}.mp3")}">MP3</a> · '
                   f'<a href="{url_midia(m["data"], f"boletim-{m["data"]}.mp4")}">MP4</a></span></li>' for m in metas)
+    # player da edição mais recente direto na página inicial: ouvir e assistir sem baixar
+    player = ""
+    if metas:
+        u = metas[0]["data"]
+        player = (f'<h2>Última edição: {e(metas[0]["data_extenso"])}</h2>'
+                  f'<video controls preload="metadata" src="{url_midia(u, f"boletim-{u}.mp4")}"></video>'
+                  f'<audio controls preload="metadata" src="{url_midia(u, f"boletim-{u}.mp3")}"></audio>'
+                  '<h2>Todas as edições</h2>')
     destino_site.mkdir(parents=True, exist_ok=True)
     (destino_site / "index.html").write_text(
         f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" '
         f'content="width=device-width,initial-scale=1"><title>{e(cfg["titulo"])}</title>'
         f'<link rel="alternate" type="application/rss+xml" href="feed.xml"><style>{CSS}</style></head><body><main>'
         f'<h1>{e(cfg["titulo"])}</h1><p>Boletim diário de notícias do Brasil e do mundo, publicado todos os dias às 6h '
-        f'(Brasília). Assine o <a href="feed.xml">feed do podcast</a>.</p><ul class="ed">{lis}</ul></main></body></html>',
+        f'(Brasília). Assine o <a href="feed.xml">feed do podcast</a>.</p>{player}<ul class="ed">{lis}</ul></main></body></html>',
         encoding="utf-8")
 
     itens = []

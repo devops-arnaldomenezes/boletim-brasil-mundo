@@ -76,6 +76,7 @@ def main(argv=None) -> int:
     gerar_video = gerar_audio and cfg.get("gerar_video") and not a.sem_video
     cfg["gerar_audio"], cfg["gerar_video"] = gerar_audio, gerar_video
     partes_video = []
+    legendas = bool(cfg.get("legendas", False))
     if gerar_audio:
         vin = trab / "vinheta.mp3"
         audio.vinheta(vin)
@@ -85,7 +86,10 @@ def main(argv=None) -> int:
         for i, s in enumerate(segmentos):
             voz = cfg["voz_tts"] if i % 2 == 0 else cfg.get("voz_tts_secundaria", cfg["voz_tts"])
             fala = trab / f"{i:02d}_{s['id']}_fala.mp3"
-            cues = audio.sintetizar(s["roteiro"], voz, fala, cfg["palavras_por_minuto"])
+            cues = audio.sintetizar(s["roteiro"], voz, fala, cfg["palavras_por_minuto"],
+                                    rate=cfg.get("velocidade_voz", "+0%"),
+                                    pausa=float(cfg.get("pausa_entre_blocos_s", 0.5)),
+                                    voz_reserva=cfg.get("voz_tts_reserva"))
             dur_fala += audio.duracao(fala)
             seg_mp3 = trab / f"{i:02d}_{s['id']}.mp3"
             lista = trab / "_l.txt"
@@ -94,8 +98,9 @@ def main(argv=None) -> int:
                       str(seg_mp3))
             d = audio.duracao(seg_mp3)
             cues_seg = [(a_ + dvin, b_ + dvin, t) for a_, b_, t in cues]
-            srt = trab / f"{i:02d}_{s['id']}.srt"
-            audio.escrever_srt(cues_seg, srt)
+            srt = trab / f"{i:02d}_{s['id']}.srt" if legendas else None
+            if srt:
+                audio.escrever_srt(cues_seg, srt)
             srt_total += [(a_ + t0, b_ + t0, t) for a_, b_, t in cues_seg]
             partes_audio.append(seg_mp3)
             if gerar_video:
@@ -107,7 +112,8 @@ def main(argv=None) -> int:
         dur_total = t0
         mp3_final = midia / f"boletim-{data_iso}.mp3"
         audio.montar_podcast(partes_audio, mp3_final, cfg["titulo"], data_ext)
-        audio.escrever_srt(srt_total, pasta / "legendas.srt")
+        if legendas:
+            audio.escrever_srt(srt_total, pasta / "legendas.srt")
         if gerar_video:
             video.concatenar(partes_video, midia / f"boletim-{data_iso}.mp4")
         log.info("Duração total: %.1f min", dur_total / 60)

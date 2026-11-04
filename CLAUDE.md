@@ -11,6 +11,9 @@ configurações do repositório, cobrança).
   Manim → publicação). Configuração em `config/config.yaml` e `config/fontes.yaml`.
 - Publicação: texto em `edicoes/AAAA/MM/DD/` (`boletim.md`, `relatorio.json`, `noticias.json`, `roteiro.json`);
   MP3/MP4 nas Releases `edicao-AAAA-MM-DD`; site + feed de podcast no GitHub Pages; atalho `edicoes/ULTIMA.md`.
+- Áudio/vídeo: locução em blocos com pausas, ritmo natural, vozes alternadas (Antonio e Thalita Multilingual,
+  reserva Francisca) e tratamento a -16 LUFS. Sem legendas nem `.srt` desde 05/11/2026 (`legendas: false`).
+  Para ouvir mudanças de voz sem refazer a edição: workflow `amostra-voz.yml` (pré-release `amostra-voz`).
 - Memória do agente: `estado/estado.json` (saúde das fontes, ritmo de voz medido, fator de extensão da IA).
 
 ## Agendamento (camadas de redundância)

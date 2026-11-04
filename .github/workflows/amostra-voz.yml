@@ -1,0 +1,28 @@
+name: Amostra de voz
+
+# Gera ~2 min de locução com as configurações atuais (trechos reais da última edição) e publica na
+# pré-release "amostra-voz", para ouvir mudanças de áudio antes da próxima edição.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  amostra:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg && pip install edge-tts pyyaml
+      - run: python -m boletim.amostra_voz amostra-voz.mp3
+      - name: Publicar na pré-release amostra-voz
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view amostra-voz >/dev/null 2>&1 || gh release create amostra-voz --prerelease \
+            --title "Amostra de voz (teste, não é edição)" --notes "Trecho de teste da locução gerado a partir da última edição publicada."
+          gh release upload amostra-voz amostra-voz.mp3 --clobber

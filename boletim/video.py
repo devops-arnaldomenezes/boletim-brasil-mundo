@@ -1,5 +1,5 @@
 """Versão em vídeo: cada seção ganha identidade visual própria (paleta, fundo animado, vinheta),
-com manchetes em destaque, forma de onda animada da voz, barra de progresso e legendas.
+com manchetes em destaque, forma de onda animada da voz, barra de progresso e, opcionalmente, legendas.
 Tudo renderizado com ffmpeg, sem dependências pagas."""
 from __future__ import annotations
 
@@ -22,7 +22,7 @@ def _cor(hexa: str) -> str:
     return "0x" + hexa.lstrip("#")
 
 
-def render_segmento(seg: dict, audio: Path, srt: Path, dur: float, destino: Path, titulo: str,
+def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destino: Path, titulo: str,
                     data: str, resolucao: str = "1280x720", vinheta: Path | None = None,
                     dur_vinheta: float = 3.0) -> None:
     w, h = map(int, resolucao.split("x"))
@@ -74,7 +74,8 @@ def render_segmento(seg: dict, audio: Path, srt: Path, dur: float, destino: Path
             ]
     estilo = ("FontName=DejaVu Sans,FontSize=15,PrimaryColour=&H00FFFFFF,OutlineColour=&H80000000,"
               "BorderStyle=3,Outline=1,Shadow=0,MarginV=24")
-    passos.append(f"subtitles='{_esc(srt)}':force_style='{estilo}'")
+    if srt:  # legendas queimadas no vídeo só se config.yaml → legendas: true
+        passos.append(f"subtitles='{_esc(srt)}':force_style='{estilo}'")
     if vinheta:
         filtros.append(f"{v}{','.join(passos)}[vtx]")
         filtros.append(f"[1:v]scale={w}:{h},setpts=PTS-STARTPTS,trim=0:{dur_vinheta:.2f}[vin]")
