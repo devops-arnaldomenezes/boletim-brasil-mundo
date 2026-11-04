@@ -82,6 +82,28 @@ def _extrair_json(texto: str) -> dict:
     return json.loads(m.group(0))
 
 
+def _normalizar(conteudo) -> dict:
+    """Garante o formato esperado da resposta da IA (itens com titulo/texto/regiao/fontes/links e roteiro).
+
+    A IA às vezes omite campos (04/11/2026: item sem "texto" derrubou a edição). Itens sem título nem texto
+    são descartados; nada é inventado, apenas os campos ausentes ficam vazios."""
+    if not isinstance(conteudo, dict):
+        raise RuntimeError("Resposta da IA não é um objeto JSON")
+    itens = []
+    for i in conteudo.get("itens") or []:
+        if not isinstance(i, dict):
+            continue
+        titulo, texto = str(i.get("titulo") or "").strip(), str(i.get("texto") or "").strip()
+        if not titulo and not texto:
+            continue
+        fontes, links = i.get("fontes") or [], i.get("links") or []
+        itens.append({**i, "titulo": titulo or texto[:80], "texto": texto, "regiao": i.get("regiao") or "global",
+                      "fontes": fontes if isinstance(fontes, list) else [str(fontes)],
+                      "links": links if isinstance(links, list) else [str(links)]})
+    roteiro = conteudo.get("roteiro")
+    return {**conteudo, "itens": itens, "roteiro": roteiro.strip() if isinstance(roteiro, str) else ""}
+
+
 class Redator:
     def __init__(self, cfg: dict):
         self.cfg = cfg
@@ -190,7 +212,9 @@ class Redator:
                                                  palavras=pedir, min_itens=7, max_itens=10,
                                                  por_item=max(60, pedir // 9), noticias=_json_noticias(itens))
                 try:
-                    conteudo = self._chamar(pedido)
+                    conteudo = _normalizar(self._chamar(pedido))
+                    if not conteudo["roteiro"]:
+                        raise RuntimeError("resposta sem roteiro")
                 except RuntimeError as e:
                     log.error("IA indisponível na seção %s (%s); usando modo extrativo.", s["id"], e)
                     self.falhas_ia += 1
@@ -202,8 +226,8 @@ class Redator:
                 revisar = (self.provedor == "anthropic") if revisar == "auto" else bool(revisar)
                 if revisar and not conteudo.get("_extrativo"):
                     try:
-                        revisado = self._chamar(PEDIDO_REVISAO.format(
-                            noticias=_json_noticias(itens), gerado=json.dumps(conteudo, ensure_ascii=False)))
+                        revisado = _normalizar(self._chamar(PEDIDO_REVISAO.format(
+                            noticias=_json_noticias(itens), gerado=json.dumps(conteudo, ensure_ascii=False))))
                         if revisado.get("roteiro") and len(revisado["roteiro"]) > 0.6 * len(conteudo["roteiro"]):
                             conteudo = revisado
                     except RuntimeError as e:
@@ -217,11 +241,13 @@ class Redator:
         fim = next((s for s in secoes if s["id"] == "encerramento"), None)
         if fim:
             if self.cliente and not self.falhas_ia:
-                resumos = "\n".join(f"[{seg['titulo']}] " + " | ".join(i["titulo"] + ": " + i["texto"]
+                resumos = "\n".join(f"[{seg['titulo']}] " + " | ".join(i.get("titulo", "") + ": " + i.get("texto", "")
                                                                        for i in seg["itens"]) for seg in segmentos)
                 try:
-                    conteudo = self._chamar(PEDIDO_ENCERRAMENTO.format(data=data_extenso, titulo=self.cfg["titulo"],
-                                                                       palavras=p_fim, resumos=resumos))
+                    conteudo = _normalizar(self._chamar(PEDIDO_ENCERRAMENTO.format(
+                        data=data_extenso, titulo=self.cfg["titulo"], palavras=p_fim, resumos=resumos)))
+                    if not conteudo["roteiro"]:
+                        conteudo = None
                 except RuntimeError as e:
                     log.error("IA indisponível no encerramento (%s).", e)
                     self.falhas_ia += 1

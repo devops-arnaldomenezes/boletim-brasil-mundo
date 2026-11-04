@@ -2,6 +2,9 @@ name: Boletim diário (6h Brasília)
 
 on:
   schedule:
+    # 04:45 UTC = 01:45 em Brasília: tentativa antecipada, pois o GitHub tem atrasado/descartado os crons
+    # deste repositório (03 e 04/11/2026). A edição espera até 06:00 para publicar.
+    - cron: "45 4 * * *"
     # 06:30 UTC = 03:30 em Brasília. O cron do GitHub pode atrasar; a margem garante a publicação às 6h.
     - cron: "30 6 * * *"
     # Reserva: o GitHub às vezes descarta o agendamento (03/11/2026 não disparou). Se a edição já saiu, nada é refeito.
@@ -48,7 +51,7 @@ jobs:
     # manual: sempre gera (refaz a edição do dia); agendado: só se ainda não publicada
     if: github.event_name == 'workflow_dispatch' || needs.verificar.outputs.ja_publicada != 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 240
+    timeout-minutes: 300
     environment:
       name: github-pages
     steps:

@@ -1,7 +1,7 @@
 from pathlib import Path
 
 from boletim import classificador, coletor, publicador
-from boletim.redator import Redator, _extrair_json
+from boletim.redator import Redator, _extrair_json, _normalizar
 from boletim.util import carregar_yaml
 
 FIX = Path(__file__).parent / "fixtures" / "noticias.json"
@@ -22,6 +22,14 @@ def test_deduplicacao():
 
 def test_extrair_json_tolera_texto_extra():
     assert _extrair_json('Aqui está:\n{"itens": [], "roteiro": "ok"}\nFim')["roteiro"] == "ok"
+
+
+def test_normalizar_tolera_campos_ausentes_da_ia():
+    c = _normalizar({"itens": [{"titulo": "Só título"}, {"texto": "Só texto"}, {}, "lixo"], "roteiro": " ok "})
+    assert [i["titulo"] for i in c["itens"]] == ["Só título", "Só texto"]
+    assert all(set(i) >= {"titulo", "texto", "regiao", "fontes", "links"} for i in c["itens"])
+    assert c["roteiro"] == "ok"
+    assert _normalizar({"itens": None})["roteiro"] == ""
 
 
 def test_modo_extrativo_e_markdown(monkeypatch):
