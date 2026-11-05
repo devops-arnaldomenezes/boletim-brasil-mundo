@@ -14,6 +14,8 @@ configurações do repositório, cobrança).
 - Áudio/vídeo: locução em blocos com pausas, ritmo natural, vozes alternadas (Antonio e Thalita Multilingual,
   reserva Francisca) e tratamento a -16 LUFS. Sem legendas nem `.srt` desde 05/11/2026 (`legendas: false`).
   Para ouvir mudanças de voz sem refazer a edição: workflow `amostra-voz.yml` (pré-release `amostra-voz`).
+- Identidade visual: `marca/GUIA.md` (símbolo globo + órbita âmbar das 6h, azul-noite `#0B1F3A`, âmbar `#F5A623`,
+  fonte Inter). Código em `boletim/marca.py`; PNGs por `marca/gerar_imagens.py`. Capa do podcast no feed.
 - Memória do agente: `estado/estado.json` (saúde das fontes, ritmo de voz medido, fator de extensão da IA).
 
 ## Agendamento (camadas de redundância)

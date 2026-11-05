@@ -8,7 +8,8 @@ import shutil
 import subprocess
 from pathlib import Path
 
-from .util import log
+from . import marca
+from .util import RAIZ, log
 
 CENAS = Path(__file__).with_name("cenas_manim.py")
 
@@ -47,7 +48,9 @@ def gerar_todas(segmentos: list[dict], titulo: str, data: str, duracao: float, p
     for i, s in enumerate(segmentos):
         cena = "Abertura" if i == 0 else "Transicao"
         params = {"duracao": duracao, "cor": s["cor"], "cor2": s["cor2"], "titulo": titulo if i == 0 else s["titulo"],
-                  "data": data, "marca": titulo.upper()}
+                  "data": data, "marca": titulo.upper(), "fonte": marca.fonte_manim(), "ambar": marca.AMBAR,
+                  "noite": marca.AZUL_NOITE, "verde": marca.VERDE,
+                  "simbolo_png": str(RAIZ / "marca" / "simbolo-512.png")}
         p = render(cena, params, pasta / f"vinheta_{i:02d}_{s['id']}.mp4", resolucao)
         if p:
             saida[s["id"]] = p

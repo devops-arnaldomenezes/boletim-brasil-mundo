@@ -7,10 +7,14 @@ import subprocess
 import textwrap
 from pathlib import Path
 
-from .util import log
+from . import marca
+from .util import RAIZ, log
 
-FONTE = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-FONTE_B = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+FONTE = marca.fonte("Regular")
+FONTE_M = marca.fonte("Medium")
+FONTE_B = marca.fonte("ExtraBold")
+SIMBOLO = RAIZ / "marca" / "simbolo-96.png"
+AMBAR = marca.AMBAR.lstrip("#")
 REGIAO = {"brasil": "BRASIL", "europa": "EUROPA", "eua": "ESTADOS UNIDOS", "asia": "ÁSIA", "global": "MUNDO"}
 
 
@@ -20,6 +24,17 @@ def _esc(caminho: Path) -> str:
 
 def _cor(hexa: str) -> str:
     return "0x" + hexa.lstrip("#")
+
+
+def _largura(texto: str, tamanho: int) -> int:
+    """Largura aproximada do texto em Inter ExtraBold (para posicionar a palavra em âmbar ao lado do nome)."""
+    if not texto:
+        return 0
+    try:
+        from PIL import ImageFont
+        return int(ImageFont.truetype(FONTE_B, tamanho).getlength(texto + " "))
+    except Exception:  # noqa: BLE001
+        return int(len(texto + " ") * tamanho * 0.66)
 
 
 def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destino: Path, titulo: str,
@@ -42,19 +57,25 @@ def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destin
         f"[bg][wav]overlay=80:{h - 250}:shortest=1[v0]",
     ]
     v = "[v0]"
+    nome, _, ultima = titulo.upper().rpartition(" ")  # "BRASIL E MUNDO" em branco, "HOJE" em âmbar
     passos = [
-        f"drawbox=x=0:y=0:w=iw:h=78:color=black@0.35:t=fill",
-        f"drawtext=fontfile={FONTE_B}:textfile='{arq('marca.txt', titulo.upper())}':x=40:y=24:fontsize=28:fontcolor=white",
-        f"drawtext=fontfile={FONTE}:textfile='{arq('data.txt', data)}':x=w-tw-40:y=30:fontsize=20:fontcolor=white@0.85",
+        # cabeçalho da marca: faixa azul-noite, símbolo, nome e fio âmbar
+        f"drawbox=x=0:y=0:w=iw:h=78:color={_cor(marca.AZUL_NOITE)}@0.82:t=fill",
+        f"drawbox=x=0:y=78:w=iw:h=3:color=0x{AMBAR}:t=fill",
+        f"drawtext=fontfile={FONTE_B}:textfile='{arq('marca.txt', nome or titulo.upper())}':x=92:y=25:fontsize=28:"
+        "fontcolor=white",
+        f"drawtext=fontfile={FONTE_B}:textfile='{arq('marca2.txt', ultima if nome else '')}':x=92+{_largura(nome, 28)}:"
+        f"y=25:fontsize=28:fontcolor=0x{AMBAR}",
+        f"drawtext=fontfile={FONTE_M}:textfile='{arq('data.txt', data)}':x=w-tw-40:y=30:fontsize=20:fontcolor=white@0.85",
         # cartão de abertura da seção (primeiros 3 s) — substituído pela vinheta Manim quando houver
         "null" if vinheta else f"drawtext=fontfile={FONTE_B}:textfile='{arq('secao.txt', seg['titulo'].upper())}':x=(w-tw)/2:y=(h-th)/2-30:"
         f"fontsize=64:fontcolor=white:alpha='if(lt(t,2.4),1,max(0,1-(t-2.4)/0.6))':enable='lt(t,3)'",
         # rótulo da seção no topo após o cartão
-        f"drawbox=x=40:y=100:w=8:h=44:color=white@0.9:t=fill:enable='gte(t,3)'",
+        f"drawbox=x=40:y=104:w=8:h=40:color=0x{AMBAR}:t=fill:enable='gte(t,3)'",
         f"drawtext=fontfile={FONTE_B}:textfile='{arq('secao2.txt', seg['titulo'].upper())}':x=60:y=106:fontsize=30:"
         f"fontcolor=white:enable='gte(t,3)'",
         # barra de progresso
-        f"drawbox=x=0:y=ih-6:w='iw*t/{dur:.2f}':h=6:color=white@0.9:t=fill",
+        f"drawbox=x=0:y=ih-6:w='iw*t/{dur:.2f}':h=6:color=0x{AMBAR}:t=fill",
     ]
     itens = seg.get("itens") or []
     if itens:
@@ -66,16 +87,20 @@ def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destin
             en = f"enable='between(t,{a:.2f},{b:.2f})'"
             fade = f"alpha='min(1,(t-{a:.2f})/0.5)'"
             passos += [
-                f"drawbox=x=40:y=170:w={w - 80}:h=200:color=black@0.28:t=fill:{en}",
+                f"drawbox=x=40:y=170:w={w - 80}:h=200:color={_cor(marca.AZUL_NOITE)}@0.55:t=fill:{en}",
+                f"drawbox=x=40:y=170:w=6:h=200:color=0x{AMBAR}:t=fill:{en}",
                 f"drawtext=fontfile={FONTE}:textfile='{arq(f'm{i}.txt', meta)}':x=64:y=188:fontsize=20:"
                 f"fontcolor=white@0.8:{fade}:{en}",
                 f"drawtext=fontfile={FONTE_B}:textfile='{arq(f't{i}.txt', manchete)}':x=64:y=226:fontsize=38:"
                 f"line_spacing=8:fontcolor=white:{fade}:{en}",
             ]
-    estilo = ("FontName=DejaVu Sans,FontSize=15,PrimaryColour=&H00FFFFFF,OutlineColour=&H80000000,"
+    estilo = ("FontName=Inter,FontSize=15,PrimaryColour=&H00FFFFFF,OutlineColour=&H80000000,"
               "BorderStyle=3,Outline=1,Shadow=0,MarginV=24")
     if srt:  # legendas queimadas no vídeo só se config.yaml → legendas: true
         passos.append(f"subtitles='{_esc(srt)}':force_style='{estilo}'")
+    if SIMBOLO.exists():  # símbolo da marca no canto do cabeçalho
+        filtros.append(f"movie='{_esc(SIMBOLO)}',scale=54:54,format=rgba[lg]")
+        passos.append("null[vlg];[vlg][lg]overlay=24:12")
     if vinheta:
         filtros.append(f"{v}{','.join(passos)}[vtx]")
         filtros.append(f"[1:v]scale={w}:{h},setpts=PTS-STARTPTS,trim=0:{dur_vinheta:.2f}[vin]")

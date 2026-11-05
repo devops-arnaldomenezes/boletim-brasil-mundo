@@ -149,3 +149,19 @@ def test_vozes_configuradas_existem():
     cfg = carregar_yaml("config.yaml")
     for chave in ("voz_tts", "voz_tts_secundaria", "voz_tts_reserva"):
         assert cfg[chave] in vozes, f"{chave}={cfg[chave]} não existe no edge-tts"
+
+
+def test_marca_svg_valido_e_site_com_capa(tmp_path, monkeypatch):
+    import xml.dom.minidom
+
+    from boletim import marca, site
+    for svg in (marca.simbolo_svg(), marca.logo_svg(), marca.logo_svg(claro=True)):
+        xml.dom.minidom.parseString(svg)
+    assert marca.fonte("ExtraBold").endswith((".otf", ".ttf"))
+    monkeypatch.setenv("GITHUB_REPOSITORY", "dono/boletim-brasil-mundo")
+    site.main(str(tmp_path / "_site"))
+    feed = (tmp_path / "_site" / "feed.xml").read_text(encoding="utf-8")
+    xml.dom.minidom.parseString(feed)
+    assert "marca/capa-podcast.png" in feed
+    assert (tmp_path / "_site" / "marca" / "capa-podcast.png").exists()
+    assert marca.AMBAR in (tmp_path / "_site" / "index.html").read_text(encoding="utf-8")

@@ -31,16 +31,17 @@ gerar_video: true
 resolucao_video: "1280x720"
 vinhetas_animadas: true         # abertura e transições animadas com Manim (gratuito)
 
-# Seções do boletim, na ordem de leitura. Cada seção tem identidade visual própria no vídeo.
+# Seções do boletim, na ordem de leitura. Cada seção tem identidade visual própria no vídeo, numa família de tons
+# profundos que conversa com a marca (azul-noite e âmbar; ver marca/GUIA.md).
 secoes:
-  - {id: destaques,  titulo: "Manchetes do dia",          cor: "#0B3D91", cor2: "#1E88E5"}
-  - {id: politica,   titulo: "Política",                  cor: "#5E1A1A", cor2: "#C62828"}
-  - {id: economia,   titulo: "Economia e Mercados",       cor: "#0D4D2B", cor2: "#2E7D32"}
-  - {id: tecnologia, titulo: "Tecnologia",                cor: "#1A237E", cor2: "#3949AB"}
-  - {id: ia,         titulo: "Inteligência Artificial",   cor: "#311B92", cor2: "#7E57C2"}
-  - {id: saude,      titulo: "Saúde",                     cor: "#004D40", cor2: "#00897B"}
-  - {id: cultura,    titulo: "Cultura",                   cor: "#6A1B4D", cor2: "#D81B60"}
-  - {id: encerramento, titulo: "Resumo e agenda",         cor: "#212121", cor2: "#546E7A"}
+  - {id: destaques,  titulo: "Manchetes do dia",          cor: "#0B1F3A", cor2: "#1F4E8C"}
+  - {id: politica,   titulo: "Política",                  cor: "#4A1D2B", cor2: "#A23B4F"}
+  - {id: economia,   titulo: "Economia e Mercados",       cor: "#0E3B2E", cor2: "#1E7A5A"}
+  - {id: tecnologia, titulo: "Tecnologia",                cor: "#14254A", cor2: "#2F5DA8"}
+  - {id: ia,         titulo: "Inteligência Artificial",   cor: "#2A1B4A", cor2: "#6A4FB3"}
+  - {id: saude,      titulo: "Saúde",                     cor: "#0B3B3F", cor2: "#1C8C8C"}
+  - {id: cultura,    titulo: "Cultura",                   cor: "#4A2410", cor2: "#C2612B"}
+  - {id: encerramento, titulo: "Resumo e agenda",         cor: "#0B1F3A", cor2: "#3A4A63"}
 
 regioes:
   brasil: "Brasil"
