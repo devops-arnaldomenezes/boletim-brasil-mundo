@@ -9,3 +9,6 @@ jobs:
         with: {python-version: "3.12"}
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core fonts-inter libpango1.0-dev libcairo2-dev pkg-config && pip install -r requirements.txt pytest
       - run: python -m pytest -q
+      - name: Diagnóstico das APIs de números e agenda (não bloqueia)
+        continue-on-error: true
+        run: timeout 120 python -m boletim.dados

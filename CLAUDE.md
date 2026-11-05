@@ -1,7 +1,7 @@
 # Boletim "Brasil e Mundo Hoje"
 
 Agente que publica todo dia às 6h (Brasília) um boletim de notícias do Brasil e do mundo (ênfase em tecnologia,
-IA, política, saúde, economia, cultura e mercado de seguros/corretoras; Brasil, Europa, EUA e Ásia) em texto, podcast (30–45 min) e vídeo.
+IA, política, saúde, economia, cultura, clima, seguros/corretoras e checagem; Brasil, Europa, EUA, Ásia e América Latina) em texto, podcast (30–45 min) e vídeo.
 Comunique-se sempre em português do Brasil. Opere com autonomia: diagnostique, corrija, teste e publique sem
 pedir confirmação para mudanças pequenas e reversíveis; peça ao dono só o que exige a conta dele (segredos,
 configurações do repositório, cobrança).
@@ -14,6 +14,12 @@ configurações do repositório, cobrança).
 - Áudio/vídeo: locução em blocos com pausas, ritmo natural, vozes alternadas (Antonio e Thalita Multilingual,
   reserva Francisca) e tratamento a -16 LUFS. Sem legendas nem `.srt` desde 05/11/2026 (`legendas: false`).
   Para ouvir mudanças de voz sem refazer a edição: workflow `amostra-voz.yml` (pré-release `amostra-voz`).
+- Números e agenda do dia (`boletim/dados.py`): dólar, euro, Selic e IPCA do Banco Central (SGS) e sessões do
+  plenário da Câmara e do Senado, sem IA, inseridos depois das manchetes. Diagnóstico: `python -m boletim.dados`
+  (roda também no workflow Testes; o contêiner da nuvem não alcança as APIs).
+- Ilustrações do vídeo (`boletim/ilustracoes.py`, `ilustracoes: true`): ícone da seção, globo com a região (ou gráfico
+  do indicador) e cartão de citação (trecho curto do RSS em português, veículo, data e QR code; nada de captura de tela
+  ou foto de imprensa, Lei 9.610 art. 46). Ícones e globos são PNGs fixos gerados por `marca/gerar_ilustracoes.py`.
 - Identidade visual: `marca/GUIA.md` (símbolo globo + órbita âmbar das 6h, azul-noite `#0B1F3A`, âmbar `#F5A623`,
   fonte Inter). Código em `boletim/marca.py`; PNGs por `marca/gerar_imagens.py`. Capa do podcast no feed.
 - Memória do agente: `estado/estado.json` (saúde das fontes, ritmo de voz medido, fator de extensão da IA).

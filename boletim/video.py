@@ -3,11 +3,12 @@ com manchetes em destaque, forma de onda animada da voz, barra de progresso e, o
 Tudo renderizado com ffmpeg, sem dependências pagas."""
 from __future__ import annotations
 
+import shutil
 import subprocess
 import textwrap
 from pathlib import Path
 
-from . import marca
+from . import ilustracoes, marca
 from .util import RAIZ, log
 
 FONTE = marca.fonte("Regular")
@@ -15,7 +16,7 @@ FONTE_M = marca.fonte("Medium")
 FONTE_B = marca.fonte("ExtraBold")
 SIMBOLO = RAIZ / "marca" / "simbolo-96.png"
 AMBAR = marca.AMBAR.lstrip("#")
-REGIAO = {"brasil": "BRASIL", "europa": "EUROPA", "eua": "ESTADOS UNIDOS", "asia": "ÁSIA", "global": "MUNDO"}
+REGIAO = {"brasil": "BRASIL", "latam": "AMÉRICA LATINA", "europa": "EUROPA", "eua": "ESTADOS UNIDOS", "asia": "ÁSIA", "global": "MUNDO"}
 
 
 def _esc(caminho: Path) -> str:
@@ -39,7 +40,7 @@ def _largura(texto: str, tamanho: int) -> int:
 
 def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destino: Path, titulo: str,
                     data: str, resolucao: str = "1280x720", vinheta: Path | None = None,
-                    dur_vinheta: float = 3.0) -> None:
+                    dur_vinheta: float = 3.0, ilustrar: bool = False) -> None:
     w, h = map(int, resolucao.split("x"))
     tmp = destino.parent / f"_txt_{seg['id']}"
     tmp.mkdir(exist_ok=True)
@@ -57,6 +58,9 @@ def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destin
         f"[bg][wav]overlay=80:{h - 250}:shortest=1[v0]",
     ]
     v = "[v0]"
+    # com ilustrações, o cartão da manchete encolhe para dar lugar ao globo/gráfico à direita
+    larg_cartao = (ilustracoes.CARTAO_X1 - 40) if ilustrar else (w - 80)
+    quebra = 36 if ilustrar else 44
     nome, _, ultima = titulo.upper().rpartition(" ")  # "BRASIL E MUNDO" em branco, "HOJE" em âmbar
     passos = [
         # cabeçalho da marca: faixa azul-noite, símbolo, nome e fio âmbar
@@ -72,22 +76,24 @@ def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destin
         f"fontsize=64:fontcolor=white:alpha='if(lt(t,2.4),1,max(0,1-(t-2.4)/0.6))':enable='lt(t,3)'",
         # rótulo da seção no topo após o cartão
         f"drawbox=x=40:y=104:w=8:h=40:color=0x{AMBAR}:t=fill:enable='gte(t,3)'",
-        f"drawtext=fontfile={FONTE_B}:textfile='{arq('secao2.txt', seg['titulo'].upper())}':x=60:y=106:fontsize=30:"
+        f"drawtext=fontfile={FONTE_B}:textfile='{arq('secao2.txt', seg['titulo'].upper())}':x={104 if ilustrar else 60}:y=106:fontsize=30:"
         f"fontcolor=white:enable='gte(t,3)'",
         # barra de progresso
         f"drawbox=x=0:y=ih-6:w='iw*t/{dur:.2f}':h=6:color=0x{AMBAR}:t=fill",
     ]
     itens = seg.get("itens") or []
+    janelas: list[tuple[float, float] | None] = []
     if itens:
         janela = max(dur - 3, 1) / len(itens)
         for i, it in enumerate(itens):
             a, b = 3 + i * janela, 3 + (i + 1) * janela
-            manchete = textwrap.fill(it.get("titulo", ""), 44)
+            janelas.append((a, b))
+            manchete = textwrap.fill(it.get("titulo", ""), quebra)
             meta = f"{REGIAO.get(it.get('regiao', ''), 'MUNDO')}  ·  {', '.join(it.get('fontes', [])[:2])}"
             en = f"enable='between(t,{a:.2f},{b:.2f})'"
             fade = f"alpha='min(1,(t-{a:.2f})/0.5)'"
             passos += [
-                f"drawbox=x=40:y=170:w={w - 80}:h=200:color={_cor(marca.AZUL_NOITE)}@0.55:t=fill:{en}",
+                f"drawbox=x=40:y=170:w={larg_cartao}:h=200:color={_cor(marca.AZUL_NOITE)}@0.55:t=fill:{en}",
                 f"drawbox=x=40:y=170:w=6:h=200:color=0x{AMBAR}:t=fill:{en}",
                 f"drawtext=fontfile={FONTE}:textfile='{arq(f'm{i}.txt', meta)}':x=64:y=188:fontsize=20:"
                 f"fontcolor=white@0.8:{fade}:{en}",
@@ -101,6 +107,13 @@ def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destin
     if SIMBOLO.exists():  # símbolo da marca no canto do cabeçalho
         filtros.append(f"movie='{_esc(SIMBOLO)}',scale=54:54,format=rgba[lg]")
         passos.append("null[vlg];[vlg][lg]overlay=24:12")
+    entradas = ["-i", str(audio)] + (["-i", str(vinheta)] if vinheta else [])
+    lista_camada = ilustracoes.camada(seg, janelas, dur, tmp / "camada", resolucao) if ilustrar else None
+    if lista_camada:  # ícone, globo/gráfico e cartão de citação: uma camada transparente por notícia
+        filtros.append(f"[{len(entradas) // 2}:v]format=rgba[cam]")
+        filtros.append(f"{v}[cam]overlay=0:0:eof_action=repeat:format=auto[vil]")
+        v = "[vil]"
+        entradas += ["-f", "concat", "-safe", "0", "-i", str(lista_camada)]
     if vinheta:
         filtros.append(f"{v}{','.join(passos)}[vtx]")
         filtros.append(f"[1:v]scale={w}:{h},setpts=PTS-STARTPTS,trim=0:{dur_vinheta:.2f}[vin]")
@@ -108,16 +121,13 @@ def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destin
     else:
         filtros.append(f"{v}{','.join(passos)}[vout]")
 
-    entradas = ["-i", str(audio)] + (["-i", str(vinheta)] if vinheta else [])
     cmd = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", *entradas,
            "-filter_complex", ";".join(filtros), "-map", "[vout]", "-map", "[a2]",
            "-c:v", "libx264", "-preset", "veryfast", "-crf", "27", "-pix_fmt", "yuv420p", "-r", "24",
            "-c:a", "aac", "-b:a", "96k", "-ar", "44100", "-ac", "1", "-t", f"{dur:.2f}", str(destino)]
     log.info("Renderizando vídeo da seção %s (%.0fs)", seg["id"], dur)
     subprocess.run(cmd, check=True)
-    for p in tmp.iterdir():
-        p.unlink()
-    tmp.rmdir()
+    shutil.rmtree(tmp, ignore_errors=True)
 
 
 def concatenar(partes: list[Path], destino: Path) -> None:

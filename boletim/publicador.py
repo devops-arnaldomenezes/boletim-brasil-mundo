@@ -11,7 +11,7 @@ from pathlib import Path
 from . import marca
 from .util import RAIZ
 
-REGIAO = {"brasil": "🇧🇷 Brasil", "europa": "🇪🇺 Europa", "eua": "🇺🇸 EUA", "asia": "🌏 Ásia", "global": "🌐 Mundo"}
+REGIAO = {"brasil": "🇧🇷 Brasil", "latam": "🌎 América Latina", "europa": "🇪🇺 Europa", "eua": "🇺🇸 EUA", "asia": "🌏 Ásia", "global": "🌐 Mundo"}
 
 
 def url_midia(data_iso: str, arquivo: str) -> str:

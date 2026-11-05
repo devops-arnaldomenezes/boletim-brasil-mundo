@@ -3,3 +3,4 @@ anthropic>=0.40
 edge-tts>=7.0
 PyYAML>=6.0
 manim>=0.18   # vinhetas animadas (requer libpango1.0-dev e libcairo2-dev)
+qrcode>=7.4       # QR code do cartão de citação no vídeo

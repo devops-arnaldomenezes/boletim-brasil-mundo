@@ -38,6 +38,10 @@ base = [
     ("brasil", "Susep divulga arrecadação do mercado de seguros no trimestre", "Seguradoras ampliam prêmios; corretores de seguros puxam vendas de seguro de vida.", ["seguros"]),
     ("brasil", "Fenacor discute regras para corretoras de seguros", "Federação dos corretores debate norma da Susep sobre intermediação.", ["seguros"]),
     ("europa", "Reinsurers renew contracts as catastrophe losses rise", "Reinsurance prices climb after insurers report higher claims.", ["seguros"]),
+    ("brasil", "Desmatamento na Amazônia cai, aponta Inpe", "Queda no desmatamento é levada pelo governo à COP31.", ["clima"]),
+    ("global", "Climate summit negotiators debate emissions targets", "Countries discuss carbon cuts at COP31.", ["clima"]),
+    ("brasil", "É falso que vacina altera o DNA", "Checagem mostra que boato circula em redes sociais.", ["checagem"]),
+    ("latam", "Paraguai vive crise política após renúncia do presidente", "Congresso paraguaio discute sucessão.", ["politica"]),
     ("asia", "Festival de cinema de Busan premia filmes", "Filmes asiáticos são destaque do festival.", ["cultura"]),
 ]
 agora = datetime.now(timezone.utc)
