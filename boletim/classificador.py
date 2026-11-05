@@ -5,6 +5,14 @@ from .coletor import Noticia
 from .util import normalizar
 
 PALAVRAS = {
+    # mercado de seguros e corretoras (Brasil e exterior). Evita "seguro" isolado, que também é adjetivo ("ambiente seguro").
+    "seguros": ["seguros", "seguradora", "segurador", "corretor de seguro", "corretora de seguro", "corretores de seguro",
+                "corretoras de seguro", "seguro de", "seguro auto", "seguro rural", "seguro garantia", "segurado",
+                "susep", "cnseg", "fenacor", "fenseg", "fenaprevi", "fenacap", "fenasaude", "ibracor", "sincor",
+                "resseguro", "ressegurador", " irb ", "previdencia privada", "previdencia complementar",
+                "capitalizacao", "sinistro", "apolice", "open insurance", "insurtech", "saude suplementar",
+                "insurance", "insurer", "reinsurance", "reinsurer", "underwriting", "insurance broker",
+                "catastrophe bond", "cat bond", "lloyd s", "munich re", "swiss re", "eiopa", " naic "],
     "ia": ["inteligencia artificial", " ia ", "artificial intelligence", " ai ", "openai", "anthropic", "claude",
            "chatgpt", "gemini", "llm", "machine learning", "aprendizado de maquina", "deepmind", "nvidia",
            "generative", "generativa", "chatbot", "deepseek", "modelo de linguagem"],
@@ -60,7 +68,7 @@ def agrupar(noticias: list[Noticia], secoes: list[str], max_por_secao: int) -> d
     grupos: dict[str, list[Noticia]] = {s: [] for s in secoes}
     usados = set()
     # seções mais específicas escolhem primeiro, para não serem "engolidas" pelas genéricas
-    especificidade = ["ia", "saude", "cultura", "economia", "tecnologia", "politica"]
+    especificidade = ["seguros", "ia", "saude", "cultura", "economia", "tecnologia", "politica"]
     for s in sorted(secoes, key=lambda x: especificidade.index(x) if x in especificidade else 99):
         if s in ("destaques", "encerramento"):
             continue

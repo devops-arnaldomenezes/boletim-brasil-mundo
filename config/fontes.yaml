@@ -21,6 +21,18 @@ fontes:
   - {nome: "InfoMoney", url: "https://www.infomoney.com.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [economia]}
   - {nome: "Tecnoblog", url: "https://tecnoblog.net/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [tecnologia]}
 
+  # ---------------- SEGUROS E CORRETORAS ----------------
+  # SUSEP, CNseg e Fenacor não publicam RSS (testado em 05/11/2026 no Actions); as notas delas chegam pela imprensa do
+  # setor abaixo, que as reproduz no mesmo dia. Sem fonte asiática de seguros com feed válido por enquanto.
+  - {nome: "Sonho Seguro", url: "https://www.sonhoseguro.com.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [seguros]}
+  - {nome: "Revista Apólice", url: "https://revistaapolice.com.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [seguros]}
+  - {nome: "Revista Cobertura", url: "https://www.revistacobertura.com.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [seguros]}
+  - {nome: "CQCS", url: "https://cqcs.com.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [seguros]}
+  - {nome: "InfoMoney Seguros", url: "https://www.infomoney.com.br/tudo-sobre/seguros/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [seguros]}
+  - {nome: "Insurance Journal", url: "https://www.insurancejournal.com/rss/news/", regiao: eua, idioma: en, tipo: imprensa, categorias: [seguros]}
+  - {nome: "Reinsurance News", url: "https://www.reinsurancene.ws/feed/", regiao: europa, idioma: en, tipo: imprensa, categorias: [seguros]}
+  - {nome: "Artemis", url: "https://www.artemis.bm/feed/", regiao: global, idioma: en, tipo: imprensa, categorias: [seguros]}
+
   # ---------------- MULTILATERAIS / GLOBAL ----------------
   - {nome: "ONU News (PT)", url: "https://news.un.org/feed/subscribe/pt/news/all/rss.xml", regiao: global, idioma: pt, tipo: multilateral}
   - {nome: "UN News", url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml", regiao: global, idioma: en, tipo: multilateral}

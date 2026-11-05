@@ -26,7 +26,7 @@ Os SVGs são gerados por `boletim/marca.py`; os PNGs, por `python marca/gerar_im
 | Cinza | `#5B6675` | texto secundário |
 
 Seções do vídeo (família de tons profundos, definida em `config/config.yaml`): Manchetes azul, Política vinho,
-Economia esmeralda, Tecnologia cobalto, IA violeta, Saúde petróleo, Cultura terracota, Encerramento azul-noite.
+Economia esmeralda, Seguros e Corretoras ouro-velho, Tecnologia cobalto, IA violeta, Saúde petróleo, Cultura terracota, Encerramento azul-noite.
 
 ## Tipografia
 **Inter** (licença livre OFL): ExtraBold para o nome e títulos, Medium/Regular para textos. No vídeo vem do pacote

@@ -1,7 +1,7 @@
 # Boletim "Brasil e Mundo Hoje"
 
 Agente que publica todo dia às 6h (Brasília) um boletim de notícias do Brasil e do mundo (ênfase em tecnologia,
-IA, política, saúde, economia e cultura; Brasil, Europa, EUA e Ásia) em texto, podcast (30–45 min) e vídeo.
+IA, política, saúde, economia, cultura e mercado de seguros/corretoras; Brasil, Europa, EUA e Ásia) em texto, podcast (30–45 min) e vídeo.
 Comunique-se sempre em português do Brasil. Opere com autonomia: diagnostique, corrija, teste e publique sem
 pedir confirmação para mudanças pequenas e reversíveis; peça ao dono só o que exige a conta dele (segredos,
 configurações do repositório, cobrança).

@@ -35,6 +35,9 @@ base = [
     ("asia", "Índia lança satélite de observação", "Agência espacial indiana conclui lançamento.", ["tecnologia"]),
     ("asia", "Cúpula da ASEAN discute comércio regional", "Líderes asiáticos tratam de tarifas e cooperação.", ["politica", "economia"]),
     ("asia", "Surto de doença respiratória monitorado na Ásia", "Autoridades de saúde reforçam vigilância.", ["saude"]),
+    ("brasil", "Susep divulga arrecadação do mercado de seguros no trimestre", "Seguradoras ampliam prêmios; corretores de seguros puxam vendas de seguro de vida.", ["seguros"]),
+    ("brasil", "Fenacor discute regras para corretoras de seguros", "Federação dos corretores debate norma da Susep sobre intermediação.", ["seguros"]),
+    ("europa", "Reinsurers renew contracts as catastrophe losses rise", "Reinsurance prices climb after insurers report higher claims.", ["seguros"]),
     ("asia", "Festival de cinema de Busan premia filmes", "Filmes asiáticos são destaque do festival.", ["cultura"]),
 ]
 agora = datetime.now(timezone.utc)

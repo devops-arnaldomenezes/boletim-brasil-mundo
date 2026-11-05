@@ -10,8 +10,17 @@ FIX = Path(__file__).parent / "fixtures" / "noticias.json"
 def test_classificacao_cobre_todas_as_secoes():
     cfg = carregar_yaml("config.yaml")
     grupos = classificador.agrupar(coletor.carregar(FIX), [s["id"] for s in cfg["secoes"]], 18)
-    for s in ("destaques", "politica", "economia", "tecnologia", "ia", "saude", "cultura"):
+    for s in ("destaques", "politica", "economia", "tecnologia", "ia", "saude", "cultura", "seguros"):
         assert grupos[s], f"seção {s} vazia"
+
+
+def test_seguro_adjetivo_nao_vai_para_seguros():
+    n = coletor.Noticia(titulo="Governo promete ambiente seguro para investimento", resumo="", link="", fonte="X",
+                        regiao="brasil", idioma="pt", tipo="imprensa", publicado="")
+    assert "seguros" not in classificador.classificar(n).categorias
+    n2 = coletor.Noticia(titulo="Seguradora e corretora de seguros fecham parceria", resumo="Apólice cobre sinistro",
+                         link="", fonte="X", regiao="brasil", idioma="pt", tipo="imprensa", publicado="")
+    assert classificador.classificar(n2).categorias[0] == "seguros"
 
 
 def test_deduplicacao():

@@ -37,6 +37,7 @@ secoes:
   - {id: destaques,  titulo: "Manchetes do dia",          cor: "#0B1F3A", cor2: "#1F4E8C"}
   - {id: politica,   titulo: "Política",                  cor: "#4A1D2B", cor2: "#A23B4F"}
   - {id: economia,   titulo: "Economia e Mercados",       cor: "#0E3B2E", cor2: "#1E7A5A"}
+  - {id: seguros,    titulo: "Seguros e Corretoras",      cor: "#3A3010", cor2: "#8C7426"}
   - {id: tecnologia, titulo: "Tecnologia",                cor: "#14254A", cor2: "#2F5DA8"}
   - {id: ia,         titulo: "Inteligência Artificial",   cor: "#2A1B4A", cor2: "#6A4FB3"}
   - {id: saude,      titulo: "Saúde",                     cor: "#0B3B3F", cor2: "#1C8C8C"}
