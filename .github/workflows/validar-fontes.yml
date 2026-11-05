@@ -1,0 +1,21 @@
+name: Validar fontes
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "URLs separadas por espaço (vazio = todas as fontes de config/fontes.yaml)"
+        required: false
+        default: ""
+permissions:
+  contents: read
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: {python-version: "3.12"}
+      - run: pip install -q feedparser PyYAML
+      - env:
+          URLS: ${{ inputs.urls }}
+        run: python scripts/validar_fontes.py $URLS
