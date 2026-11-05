@@ -45,8 +45,10 @@ configurações do repositório, cobrança).
   GraphQL do GitHub é bloqueado — dispare workflows com `gh api -X POST repos/.../actions/workflows/<arq>/dispatches`.
 - Falhas abrem issue com o rótulo `falha-boletim`; feche-a quando a edição sair.
 
-## Pendências do dono
-- GitHub Pages ainda não habilitado (deploy 404): Settings → Pages → Source: GitHub Actions.
+## Site
+- GitHub Pages ativo desde 05/11/2026: https://devops-arnaldomenezes.github.io/boletim-brasil-mundo/ (deploy no fim do
+  `boletim-diario.yml`; para republicar só o site, sem refazer a edição: workflow `site.yml`).
+- Feeds: workflow `validar-fontes.yml` testa URLs no Actions (o contêiner do Claude não alcança sites de notícias).
 
 Skills do projeto: `operar-boletim` (checagem diária e correção), `revisar-edicao` (qualidade editorial),
 `curar-fontes` (manutenção dos feeds).

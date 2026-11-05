@@ -37,7 +37,7 @@ Saudável = run com sucesso, Release com `.mp3` e `.mp4`, `meta_duracao_ok: true
 - Dispare workflows via REST: `gh api -X POST repos/OWNER/REPO/actions/workflows/boletim-diario.yml/dispatches -f ref=main -F 'inputs[publicar_imediatamente]=true'`.
 - Gemini 503/429 em parte das seções é normal na cota grátis (`falhas_ia` no relatorio.json). Só aja se `ia_ativa`
   for false ou todas as seções caírem no modo extrativo: rode `diagnostico-ia.yml` e atualize `modelos_ia.gemini`.
-- Deploy do Pages com 404 = Pages não habilitado pelo dono; não é falha da edição (passo com continue-on-error).
+- Pages está ativo; se o deploy falhar no boletim (passo com continue-on-error), republique com `site.yml`.
 - Não faça push enquanto o workflow do boletim roda.
 
 ## 5. Relato
