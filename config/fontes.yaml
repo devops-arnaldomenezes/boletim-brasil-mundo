@@ -26,12 +26,14 @@ fontes:
   - {nome: "UN News", url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml", regiao: global, idioma: en, tipo: multilateral}
   - {nome: "OMS / WHO", url: "https://www.who.int/rss-feeds/news-english.xml", regiao: global, idioma: en, tipo: multilateral, categorias: [saude]}
   - {nome: "FMI / IMF", url: "https://www.imf.org/en/News/RSS?language=eng", regiao: global, idioma: en, tipo: multilateral, categorias: [economia]}
-  - {nome: "UNESCO", url: "https://www.unesco.org/en/rss.xml", regiao: global, idioma: en, tipo: multilateral, categorias: [cultura]}
+  # UNESCO (unesco.org/en/rss.xml) responde 503 desde out/2026; substituída pelo canal de cultura e educação da ONU News.
+  - {nome: "ONU News Cultura e Educação", url: "https://news.un.org/feed/subscribe/en/news/topic/culture-and-education/feed/rss.xml", regiao: global, idioma: en, tipo: multilateral, categorias: [cultura]}
   - {nome: "Nature News", url: "https://www.nature.com/nature.rss", regiao: global, idioma: en, tipo: ciencia, categorias: [saude, tecnologia]}
 
   # ---------------- EUROPA ----------------
   - {nome: "Comissão Europeia", url: "https://ec.europa.eu/commission/presscorner/api/rss?language=en", regiao: europa, idioma: en, tipo: oficial}
-  - {nome: "Parlamento Europeu", url: "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", regiao: europa, idioma: en, tipo: oficial, categorias: [politica]}
+  # Parlamento Europeu (europarl.europa.eu/rss) bloqueia robôs (403/202) desde out/2026; substituído por Politico Europe.
+  - {nome: "Politico Europe", url: "https://www.politico.eu/feed/", regiao: europa, idioma: en, tipo: imprensa, categorias: [politica]}
   - {nome: "BCE / ECB", url: "https://www.ecb.europa.eu/rss/press.html", regiao: europa, idioma: en, tipo: oficial, categorias: [economia]}
   - {nome: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml", regiao: europa, idioma: en, tipo: imprensa}
   - {nome: "DW (EN)", url: "https://rss.dw.com/xml/rss-en-all", regiao: europa, idioma: en, tipo: imprensa}
@@ -43,7 +45,8 @@ fontes:
   # ---------------- ESTADOS UNIDOS ----------------
   - {nome: "Casa Branca", url: "https://www.whitehouse.gov/news/feed/", regiao: eua, idioma: en, tipo: oficial, categorias: [politica]}
   - {nome: "Federal Reserve", url: "https://www.federalreserve.gov/feeds/press_all.xml", regiao: eua, idioma: en, tipo: oficial, categorias: [economia]}
-  - {nome: "NIH News", url: "https://www.nih.gov/news-events/news-releases/feed.xml", regiao: eua, idioma: en, tipo: oficial, categorias: [saude]}
+  # NIH News: URL antiga dá 404 e a nova (nih.gov/news-releases/feed.xml) vem sem datas; substituído por STAT News.
+  - {nome: "STAT News", url: "https://www.statnews.com/feed/", regiao: eua, idioma: en, tipo: imprensa, categorias: [saude]}
   - {nome: "NPR News", url: "https://feeds.npr.org/1001/rss.xml", regiao: eua, idioma: en, tipo: imprensa}
   - {nome: "PBS NewsHour", url: "https://www.pbs.org/newshour/feeds/rss/headlines", regiao: eua, idioma: en, tipo: imprensa}
   - {nome: "New York Times", url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", regiao: eua, idioma: en, tipo: imprensa}
@@ -53,9 +56,10 @@ fontes:
   - {nome: "TechCrunch AI", url: "https://techcrunch.com/category/artificial-intelligence/feed/", regiao: eua, idioma: en, tipo: imprensa, categorias: [ia]}
 
   # ---------------- ÁSIA ----------------
-  - {nome: "NHK World", url: "https://www3.nhk.or.jp/nhkworld/en/news/feeds/", regiao: asia, idioma: en, tipo: imprensa}
+  # NHK World: feed retirado (404); substituído por The Japan Times.
+  - {nome: "The Japan Times", url: "https://www.japantimes.co.jp/feed/", regiao: asia, idioma: en, tipo: imprensa}
   - {nome: "South China Morning Post", url: "https://www.scmp.com/rss/91/feed", regiao: asia, idioma: en, tipo: imprensa}
   - {nome: "Channel NewsAsia", url: "https://www.channelnewsasia.com/rssfeeds/8395986", regiao: asia, idioma: en, tipo: imprensa}
   - {nome: "The Hindu", url: "https://www.thehindu.com/news/international/feeder/default.rss", regiao: asia, idioma: en, tipo: imprensa}
-  - {nome: "Korea Herald", url: "https://www.koreaherald.com/common/rss_xml.php?ct=102", regiao: asia, idioma: en, tipo: imprensa}
+  - {nome: "Korea Herald", url: "https://www.koreaherald.com/rss/newsAll", regiao: asia, idioma: en, tipo: imprensa}
   - {nome: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml", regiao: asia, idioma: en, tipo: imprensa}
