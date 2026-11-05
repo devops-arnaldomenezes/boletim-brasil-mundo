@@ -1,218 +1,218 @@
 {
- "fator_extensao": 1.16,
+ "fator_extensao": 2.35,
  "fontes": {
   "Agência Brasil": {
    "falhas_seguidas": 0,
    "itens_ultimo": 10,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "Agência Câmara": {
-   "falhas_seguidas": 1,
-   "itens_ultimo": 8,
-   "ultimo_ok": "2026-11-03"
+   "falhas_seguidas": 0,
+   "itens_ultimo": 20,
+   "ultimo_ok": "2026-11-05"
   },
   "Agência FAPESP": {
    "falhas_seguidas": 0,
    "itens_ultimo": 0,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "Agência Gov": {
-   "falhas_seguidas": 6
+   "falhas_seguidas": 7
   },
   "Agência IBGE": {
-   "falhas_seguidas": 6
+   "falhas_seguidas": 7
   },
   "Agência Senado": {
    "falhas_seguidas": 0,
    "itens_ultimo": 15,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "Al Jazeera": {
    "falhas_seguidas": 0,
    "itens_ultimo": 25,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "Ars Technica": {
    "falhas_seguidas": 0,
    "itens_ultimo": 12,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "BBC News Brasil": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 19,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 15,
+   "ultimo_ok": "2026-11-05"
   },
   "BBC World": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 20,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 18,
+   "ultimo_ok": "2026-11-05"
   },
   "BCE / ECB": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 1,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 0,
+   "ultimo_ok": "2026-11-05"
   },
   "Casa Branca": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 7,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 2,
+   "ultimo_ok": "2026-11-05"
   },
   "Channel NewsAsia": {
    "falhas_seguidas": 0,
    "itens_ultimo": 20,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "Comissão Europeia": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 6,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 7,
+   "ultimo_ok": "2026-11-05"
   },
   "DW (EN)": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 20,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 23,
+   "ultimo_ok": "2026-11-05"
   },
   "DW Brasil": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 15,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 12,
+   "ultimo_ok": "2026-11-05"
   },
   "Estadão": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 20,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 18,
+   "ultimo_ok": "2026-11-05"
   },
   "Euronews": {
    "falhas_seguidas": 0,
    "itens_ultimo": 25,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "FMI / IMF": {
-   "falhas_seguidas": 6
+   "falhas_seguidas": 7
   },
   "Federal Reserve": {
    "falhas_seguidas": 0,
    "itens_ultimo": 0,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "Fiocruz": {
    "falhas_seguidas": 0,
    "itens_ultimo": 0,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "Folha de S.Paulo": {
    "falhas_seguidas": 0,
    "itens_ultimo": 25,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "France 24": {
    "falhas_seguidas": 0,
    "itens_ultimo": 24,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "G1": {
    "falhas_seguidas": 0,
    "itens_ultimo": 25,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "InfoMoney": {
    "falhas_seguidas": 0,
    "itens_ultimo": 10,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "Korea Herald": {
-   "falhas_seguidas": 6
+   "falhas_seguidas": 7
   },
   "MIT Technology Review": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 2,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 5,
+   "ultimo_ok": "2026-11-05"
   },
   "NHK World": {
-   "falhas_seguidas": 6
+   "falhas_seguidas": 7
   },
   "NIH News": {
-   "falhas_seguidas": 6
+   "falhas_seguidas": 7
   },
   "NPR News": {
    "falhas_seguidas": 0,
    "itens_ultimo": 10,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "Nature News": {
    "falhas_seguidas": 0,
    "itens_ultimo": 0,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "New York Times": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 13,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 14,
+   "ultimo_ok": "2026-11-05"
   },
   "OMS / WHO": {
    "falhas_seguidas": 0,
    "itens_ultimo": 0,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "ONU News (PT)": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 5,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 6,
+   "ultimo_ok": "2026-11-05"
   },
   "PBS NewsHour": {
    "falhas_seguidas": 0,
    "itens_ultimo": 20,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "Parlamento Europeu": {
-   "falhas_seguidas": 6
+   "falhas_seguidas": 7
   },
   "RTP Notícias": {
    "falhas_seguidas": 0,
    "itens_ultimo": 25,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "STF Notícias": {
-   "falhas_seguidas": 6
+   "falhas_seguidas": 7
   },
   "South China Morning Post": {
    "falhas_seguidas": 0,
    "itens_ultimo": 25,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "TechCrunch AI": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 11,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 13,
+   "ultimo_ok": "2026-11-05"
   },
   "Tecnoblog": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 13,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 22,
+   "ultimo_ok": "2026-11-05"
   },
   "The Guardian World": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 14,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 16,
+   "ultimo_ok": "2026-11-05"
   },
   "The Hindu": {
    "falhas_seguidas": 0,
    "itens_ultimo": 25,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "The Verge": {
    "falhas_seguidas": 0,
    "itens_ultimo": 10,
-   "ultimo_ok": "2026-11-04"
+   "ultimo_ok": "2026-11-05"
   },
   "UN News": {
    "falhas_seguidas": 0,
-   "itens_ultimo": 6,
-   "ultimo_ok": "2026-11-04"
+   "itens_ultimo": 8,
+   "ultimo_ok": "2026-11-05"
   },
   "UNESCO": {
-   "falhas_seguidas": 6
+   "falhas_seguidas": 7
   }
  },
- "ppm_medido": 150.3
+ "ppm_medido": 147.6
 }
