@@ -108,7 +108,11 @@ def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destin
         filtros.append(f"movie='{_esc(SIMBOLO)}',scale=54:54,format=rgba[lg]")
         passos.append("null[vlg];[vlg][lg]overlay=24:12")
     entradas = ["-i", str(audio)] + (["-i", str(vinheta)] if vinheta else [])
-    lista_camada = ilustracoes.camada(seg, janelas, dur, tmp / "camada", resolucao) if ilustrar else None
+    try:
+        lista_camada = ilustracoes.camada(seg, janelas, dur, tmp / "camada", resolucao) if ilustrar else None
+    except Exception as e:  # noqa: BLE001
+        log.warning("Camada de ilustrações indisponível na seção %s: %s", seg["id"], e)
+        lista_camada = None
     if lista_camada:  # ícone, globo/gráfico e cartão de citação: uma camada transparente por notícia
         filtros.append(f"[{len(entradas) // 2}:v]format=rgba[cam]")
         filtros.append(f"{v}[cam]overlay=0:0:eof_action=repeat:format=auto[vil]")
@@ -126,7 +130,16 @@ def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destin
            "-c:v", "libx264", "-preset", "veryfast", "-crf", "27", "-pix_fmt", "yuv420p", "-r", "24",
            "-c:a", "aac", "-b:a", "96k", "-ar", "44100", "-ac", "1", "-t", f"{dur:.2f}", str(destino)]
     log.info("Renderizando vídeo da seção %s (%.0fs)", seg["id"], dur)
-    subprocess.run(cmd, check=True)
+    try:
+        subprocess.run(cmd, check=True)
+    except subprocess.CalledProcessError:
+        shutil.rmtree(tmp, ignore_errors=True)
+        if not lista_camada:
+            raise
+        # a edição não pode cair por causa das ilustrações: refaz o segmento sem a camada
+        log.warning("Ilustrações falharam na seção %s; renderizando sem elas.", seg["id"])
+        render_segmento(seg, audio, srt, dur, destino, titulo, data, resolucao, vinheta, dur_vinheta, ilustrar=False)
+        return
     shutil.rmtree(tmp, ignore_errors=True)
 
 

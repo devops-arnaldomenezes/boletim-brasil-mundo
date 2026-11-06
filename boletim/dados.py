@@ -53,7 +53,9 @@ def indicadores() -> dict[str, list[tuple[date, float]]]:
     saida = {}
     for chave, (codigo, nome, _, _) in SERIES.items():
         try:
-            pontos = serie(codigo, 30 if chave in ("dolar", "euro") else 2)
+            # séries diárias aceitam no máximo 20 "últimos" valores (mais que isso dá HTTP 400);
+            # a meta da Selic é publicada até a próxima reunião do Copom, então descartamos datas futuras
+            pontos = [p for p in serie(codigo, 20 if chave in ("dolar", "euro") else 5) if p[0] <= date.today()]
             if pontos:
                 saida[chave] = pontos
         except Exception as e:  # noqa: BLE001
@@ -92,7 +94,11 @@ def _senado(dia: date) -> list[str]:
                 busca(v)
 
     busca(dados)
-    return [f"Senado: sessão {t.lower()} às {h.replace(':', 'h')}" for h, t in sessoes[:3]]
+    def tipo(t: str) -> str:  # "Sessão Não Deliberativa " → "sessão não deliberativa"
+        t = " ".join(t.split()).lower()
+        return t if t.startswith("sessão") else f"sessão {t}"
+
+    return [f"Senado: {tipo(t)} às {h.replace(':', 'h')}" for h, t in sessoes[:3]]
 
 
 def agenda(dia: date) -> list[str]:
@@ -166,7 +172,7 @@ def segmento(cfg: dict, hoje: date, pasta: Path, ind: dict | None = None, ag: li
         texto = f"{nome} a {un} {_num(v, 4)} na cotação de venda de {_data_curta(dia)}{sentido}."
         item = {"titulo": f"{nome}: {un} {_num(v, 4)}", "texto": texto, "regiao": "brasil", "fontes": [fonte],
                 "links": [PAGINA_SGS]}
-        png = grafico(pts, f"{nome} em 30 dias", pasta / f"grafico_{chave}.png", un)
+        png = grafico(pts, f"{nome}, últimos pregões", pasta / f"grafico_{chave}.png", un)
         if png:
             item["imagem"] = str(png)
         itens.append(item)
@@ -176,7 +182,7 @@ def segmento(cfg: dict, hoje: date, pasta: Path, ind: dict | None = None, ag: li
             continue
         _, nome, un, fonte = SERIES[chave]
         dia, v = ind[chave][-1]
-        quando = f"referente a {dia:%m/%Y}" if chave == "ipca12" else f"em vigor desde {_data_curta(dia)}"
+        quando = f"referente a {dia:%m/%Y}" if chave == "ipca12" else f"dado de {_data_curta(dia)}"
         itens.append({"titulo": f"{nome}: {_num(v)}%", "texto": f"{nome} em {_num(v)}% ({quando}).",
                       "regiao": "brasil", "fontes": [fonte], "links": [PAGINA_SGS]})
         falas.append(f"A meta da taxa Selic está em {_num(v)} por cento ao ano, segundo o Banco Central."
