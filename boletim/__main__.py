@@ -13,7 +13,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-from . import audio, classificador, coletor, estado as memoria, publicador, video, vinhetas
+from . import audio, classificador, coletor, dados, estado as memoria, ilustracoes, publicador, video, vinhetas
 from .redator import Redator
 from .util import RAIZ, agora, carregar_yaml, data_extenso, log
 
@@ -64,6 +64,12 @@ def main(argv=None) -> int:
     grupos = classificador.agrupar(noticias, [s["id"] for s in cfg["secoes"]], cfg["max_itens_por_secao"])
     redator = Redator(cfg)
     segmentos = redator.escrever(data_ext, grupos)
+    try:  # extras não podem derrubar a edição
+        if not a.fixture:  # números e agenda do dia (APIs oficiais, sem IA); a fixture roda offline
+            dados.inserir(segmentos, dados.segmento(cfg, hoje.date(), trab))
+        ilustracoes.citacoes(segmentos, noticias)
+    except Exception as e:  # noqa: BLE001
+        log.warning("Números do dia/citações indisponíveis: %s", e)
     if not a.fixture and redator.palavras_ia[0]:
         log.info("Fator de extensão da IA: %.2f", memoria.registrar_extensao(est, *redator.palavras_ia))
     (pasta / "roteiro.json").write_text(json.dumps(segmentos, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -112,7 +118,8 @@ def main(argv=None) -> int:
                 tempos = video.tempos_itens(s.get("itens") or [], [(a_ + dvin, b_ + dvin, t) for a_, b_, t in marcas],
                                             d, inicio=dvin)
                 video.render_segmento(s, seg_mp3, srt, d, mp4, cfg["titulo"], data_ext, cfg["resolucao_video"],
-                                     vinheta=animadas.get(s["id"]), dur_vinheta=dvin, tempos=tempos)
+                                     vinheta=animadas.get(s["id"]), dur_vinheta=dvin, tempos=tempos,
+                                     ilustrar=bool(cfg.get("ilustracoes", True)))
                 partes_video.append(mp4)
             t0 += d
         dur_total = t0

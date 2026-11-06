@@ -32,7 +32,9 @@ legendas: false                  # desde 05/11/2026 o vídeo sai sem legenda e s
 gerar_audio: true
 gerar_video: true
 resolucao_video: "1280x720"
-vinhetas_animadas: true         # abertura e transições animadas com Manim (gratuito)
+vinhetas_animadas: true          # abertura e transições animadas com Manim (gratuito)
+ilustracoes: true                # globo com a região, ícone da seção e cartão de citação (trecho + QR code) no vídeo
+numeros_do_dia: {ativo: true, titulo: "Números e agenda do dia", cor: "#0B1F3A", cor2: "#7A5A12"}  # BCB, IBGE, Câmara, Senado
 
 # Seções do boletim, na ordem de leitura. Cada seção tem identidade visual própria no vídeo, numa família de tons
 # profundos que conversa com a marca (azul-noite e âmbar; ver marca/GUIA.md).
@@ -40,14 +42,18 @@ secoes:
   - {id: destaques,  titulo: "Manchetes do dia",          cor: "#0B1F3A", cor2: "#1F4E8C"}
   - {id: politica,   titulo: "Política",                  cor: "#4A1D2B", cor2: "#A23B4F"}
   - {id: economia,   titulo: "Economia e Mercados",       cor: "#0E3B2E", cor2: "#1E7A5A"}
+  - {id: seguros,    titulo: "Seguros e Corretoras",      cor: "#3A3010", cor2: "#8C7426"}
+  - {id: clima,      titulo: "Clima e Meio Ambiente",     cor: "#12361F", cor2: "#3E8E4F"}
   - {id: tecnologia, titulo: "Tecnologia",                cor: "#14254A", cor2: "#2F5DA8"}
   - {id: ia,         titulo: "Inteligência Artificial",   cor: "#2A1B4A", cor2: "#6A4FB3"}
   - {id: saude,      titulo: "Saúde",                     cor: "#0B3B3F", cor2: "#1C8C8C"}
   - {id: cultura,    titulo: "Cultura",                   cor: "#4A2410", cor2: "#C2612B"}
+  - {id: checagem,   titulo: "Checagem de fatos",         cor: "#2B2F38", cor2: "#5E6778"}
   - {id: encerramento, titulo: "Resumo e agenda",         cor: "#0B1F3A", cor2: "#3A4A63"}
 
 regioes:
   brasil: "Brasil"
+  latam: "América Latina"
   europa: "Europa"
   eua: "Estados Unidos"
   asia: "Ásia"

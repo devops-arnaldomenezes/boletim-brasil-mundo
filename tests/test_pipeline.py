@@ -10,8 +10,17 @@ FIX = Path(__file__).parent / "fixtures" / "noticias.json"
 def test_classificacao_cobre_todas_as_secoes():
     cfg = carregar_yaml("config.yaml")
     grupos = classificador.agrupar(coletor.carregar(FIX), [s["id"] for s in cfg["secoes"]], 18)
-    for s in ("destaques", "politica", "economia", "tecnologia", "ia", "saude", "cultura"):
+    for s in ("destaques", "politica", "economia", "tecnologia", "ia", "saude", "cultura", "seguros", "clima", "checagem"):
         assert grupos[s], f"seção {s} vazia"
+
+
+def test_seguro_adjetivo_nao_vai_para_seguros():
+    n = coletor.Noticia(titulo="Governo promete ambiente seguro para investimento", resumo="", link="", fonte="X",
+                        regiao="brasil", idioma="pt", tipo="imprensa", publicado="")
+    assert "seguros" not in classificador.classificar(n).categorias
+    n2 = coletor.Noticia(titulo="Seguradora e corretora de seguros fecham parceria", resumo="Apólice cobre sinistro",
+                         link="", fonte="X", regiao="brasil", idioma="pt", tipo="imprensa", publicado="")
+    assert classificador.classificar(n2).categorias[0] == "seguros"
 
 
 def test_deduplicacao():
@@ -165,3 +174,44 @@ def test_marca_svg_valido_e_site_com_capa(tmp_path, monkeypatch):
     assert "marca/capa-podcast.png" in feed
     assert (tmp_path / "_site" / "marca" / "capa-podcast.png").exists()
     assert marca.AMBAR in (tmp_path / "_site" / "index.html").read_text(encoding="utf-8")
+
+
+def test_numeros_do_dia_sem_rede(tmp_path):
+    from datetime import date
+
+    from boletim import dados
+    ind = {"dolar": [(date(2026, 10, d), 5.30 + d / 100) for d in range(1, 31)],
+           "selic": [(date(2026, 9, 18), 15.0)], "ipca12": [(date(2026, 9, 1), 4.68)]}
+    seg = dados.segmento({}, date(2026, 11, 6), tmp_path, ind, ["Senado: sessão deliberativa às 14h00"])
+    assert seg["id"] == "numeros" and "5,60 reais" in seg["roteiro"] and "no Senado" in seg["roteiro"]
+    assert "15,00 por cento" in seg["roteiro"] and "4,68 por cento" in seg["roteiro"]
+    segs = dados.inserir([{"id": "destaques"}, {"id": "politica"}], seg)
+    assert [s["id"] for s in segs] == ["destaques", "numeros", "politica"]
+    assert dados.segmento({}, date(2026, 11, 6), tmp_path, {}, []) is None
+
+
+def test_citacao_e_camada_de_ilustracoes(tmp_path):
+    from boletim import ilustracoes
+    ns = coletor.carregar(FIX)
+    ns[0].resumo = "Primeira frase curta. Segunda frase também curta. " + "Terceira frase longa " * 20
+    seg = {"id": "politica", "itens": [{"titulo": "x", "regiao": "brasil", "links": [ns[0].link]},
+                                       {"titulo": "y", "regiao": "latam", "links": ["sem-correspondencia"]}]}
+    ilustracoes.citacoes([seg], ns)
+    cit = seg["itens"][0]["citacao"]
+    assert cit["trecho"] == "Primeira frase curta. Segunda frase também curta." and cit["veiculo"] == ns[0].fonte
+    assert "citacao" not in seg["itens"][1]
+    lista = ilustracoes.camada(seg, [(3.0, 8.0), (8.0, 12.0)], 12.0, tmp_path)
+    linhas = lista.read_text().splitlines()
+    duracoes = [float(l.split()[1]) for l in linhas if l.startswith("duration")]
+    assert abs(sum(duracoes) - 12.0) < 0.01 and len(duracoes) == 3
+
+
+def test_classificador_novas_secoes():
+    def cats(titulo):
+        n = coletor.Noticia(titulo=titulo, resumo="", link="", fonte="X", regiao="brasil", idioma="pt",
+                            tipo="imprensa", publicado="")
+        return classificador.classificar(n).categorias
+    assert "clima" in cats("Desmatamento na Amazônia cai e governo leva metas à COP31")
+    assert "checagem" in cats("É falso que vacina altere o DNA, mostra checagem")
+    assert "clima" not in cats("Google amplia demissões para investir em IA")
+    assert "checagem" not in cats("Trump ataca a imprensa e fala em the fake news")

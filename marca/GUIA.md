@@ -26,7 +26,13 @@ Os SVGs são gerados por `boletim/marca.py`; os PNGs, por `python marca/gerar_im
 | Cinza | `#5B6675` | texto secundário |
 
 Seções do vídeo (família de tons profundos, definida em `config/config.yaml`): Manchetes azul, Política vinho,
-Economia esmeralda, Tecnologia cobalto, IA violeta, Saúde petróleo, Cultura terracota, Encerramento azul-noite.
+Números do dia azul-noite/ouro, Economia esmeralda, Seguros e Corretoras ouro-velho, Clima verde-floresta, Tecnologia cobalto, IA violeta, Saúde petróleo, Cultura terracota, Checagem grafite, Encerramento azul-noite.
+
+## Ilustrações do vídeo
+- Ícone branco por seção (Lucide, licença ISC, em `fontes-ilustracao/icones/`) → `icones/<seção>.png`.
+- Globo da marca centrado na região da notícia, com pino âmbar e a órbita das 6h (Natural Earth, domínio público)
+  → `mapas/<região>.png`. Regere com `python marca/gerar_ilustracoes.py` (precisa de cairosvg).
+- Cartão de citação: faixa azul-noite, trecho em branco entre aspas, assinatura em âmbar, QR code para a matéria.
 
 ## Tipografia
 **Inter** (licença livre OFL): ExtraBold para o nome e títulos, Medium/Regular para textos. No vídeo vem do pacote

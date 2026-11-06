@@ -5,6 +5,21 @@ from .coletor import Noticia
 from .util import normalizar
 
 PALAVRAS = {
+    # mercado de seguros e corretoras (Brasil e exterior). Evita "seguro" isolado, que também é adjetivo ("ambiente seguro").
+    "seguros": ["seguros", "seguradora", "segurador", "corretor de seguro", "corretora de seguro", "corretores de seguro",
+                "corretoras de seguro", "seguro de", "seguro auto", "seguro rural", "seguro garantia", "segurado",
+                "susep", "cnseg", "fenacor", "fenseg", "fenaprevi", "fenacap", "fenasaude", "ibracor", "sincor",
+                "resseguro", "ressegurador", " irb ", "previdencia privada", "previdencia complementar",
+                "capitalizacao", "sinistro", "apolice", "open insurance", "insurtech", "saude suplementar",
+                "insurance", "insurer", "reinsurance", "reinsurer", "underwriting", "insurance broker",
+                "catastrophe bond", "cat bond", "lloyd s", "munich re", "swiss re", "eiopa", " naic "],
+    "clima": ["mudanca climatica", "mudancas climaticas", "crise climatica", "climate", "aquecimento global", "global warming", "desmatamento", "deforestation",
+              "queimada", "wildfire", "incendio florestal", " emissoes", " emissions", "carbono", " carbon ", "cop31",
+              "cop30", "meio ambiente", "environment", "amazonia", "amazon rainforest", "biodiversidade",
+              "biodiversity", " seca ", "drought", "enchente", "flood", "onda de calor", "heatwave", "el nino",
+              "energia renovavel", "renewable", "ibama", "inpe", "icmbio", "unfccc", "ipcc"],
+    "checagem": [" e falso", " e fake", " e  fake", "checagem", "fact check", "fact-check", "desinformacao",
+                 "disinformation", "boato", "enganoso", "misleading", "nao e verdade", "golpe circula"],
     "ia": ["inteligencia artificial", " ia ", "artificial intelligence", " ai ", "openai", "anthropic", "claude",
            "chatgpt", "gemini", "llm", "machine learning", "aprendizado de maquina", "deepmind", "nvidia",
            "generative", "generativa", "chatbot", "deepseek", "modelo de linguagem"],
@@ -33,7 +48,7 @@ PALAVRAS = {
 }
 
 PESO_TIPO = {"oficial": 1.5, "multilateral": 1.5, "ciencia": 1.2, "imprensa": 1.0}
-PESO_REGIAO = {"brasil": 1.4, "europa": 1.1, "eua": 1.1, "asia": 1.1, "global": 1.2}
+PESO_REGIAO = {"brasil": 1.4, "latam": 1.15, "europa": 1.1, "eua": 1.1, "asia": 1.1, "global": 1.2}
 
 
 def classificar(n: Noticia) -> Noticia:
@@ -60,7 +75,7 @@ def agrupar(noticias: list[Noticia], secoes: list[str], max_por_secao: int) -> d
     grupos: dict[str, list[Noticia]] = {s: [] for s in secoes}
     usados = set()
     # seções mais específicas escolhem primeiro, para não serem "engolidas" pelas genéricas
-    especificidade = ["ia", "saude", "cultura", "economia", "tecnologia", "politica"]
+    especificidade = ["checagem", "seguros", "clima", "ia", "saude", "cultura", "economia", "tecnologia", "politica"]
     for s in sorted(secoes, key=lambda x: especificidade.index(x) if x in especificidade else 99):
         if s in ("destaques", "encerramento"):
             continue
@@ -72,7 +87,7 @@ def agrupar(noticias: list[Noticia], secoes: list[str], max_por_secao: int) -> d
             por_regiao.setdefault(n.regiao, []).append(n)
         escolhidos = []
         while len(escolhidos) < max_por_secao and any(por_regiao.values()):
-            for r in ["brasil", "global", "europa", "eua", "asia"]:
+            for r in ["brasil", "global", "latam", "europa", "eua", "asia"]:
                 if por_regiao.get(r) and len(escolhidos) < max_por_secao:
                     escolhidos.append(por_regiao[r].pop(0))
         grupos[s] = escolhidos

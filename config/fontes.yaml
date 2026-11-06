@@ -21,6 +21,41 @@ fontes:
   - {nome: "InfoMoney", url: "https://www.infomoney.com.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [economia]}
   - {nome: "Tecnoblog", url: "https://tecnoblog.net/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [tecnologia]}
 
+  # ---------------- SEGUROS E CORRETORAS ----------------
+  # SUSEP, CNseg e Fenacor não publicam RSS (testado em 05/11/2026 no Actions); as notas delas chegam pela imprensa do
+  # setor abaixo, que as reproduz no mesmo dia. Sem fonte asiática de seguros com feed válido por enquanto.
+  - {nome: "Sonho Seguro", url: "https://www.sonhoseguro.com.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [seguros]}
+  - {nome: "Revista Apólice", url: "https://revistaapolice.com.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [seguros]}
+  - {nome: "Revista Cobertura", url: "https://www.revistacobertura.com.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [seguros]}
+  - {nome: "CQCS", url: "https://cqcs.com.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [seguros]}
+  - {nome: "InfoMoney Seguros", url: "https://www.infomoney.com.br/tudo-sobre/seguros/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [seguros]}
+  - {nome: "Insurance Journal", url: "https://www.insurancejournal.com/rss/news/", regiao: eua, idioma: en, tipo: imprensa, categorias: [seguros]}
+  - {nome: "Reinsurance News", url: "https://www.reinsurancene.ws/feed/", regiao: europa, idioma: en, tipo: imprensa, categorias: [seguros]}
+  - {nome: "Artemis", url: "https://www.artemis.bm/feed/", regiao: global, idioma: en, tipo: imprensa, categorias: [seguros]}
+
+  # ---------------- CLIMA, MEIO AMBIENTE E AGRO ----------------
+  # Testados no Actions em 05/11/2026. INPE (RSS parado em 2021), UNEP (404), Observatório do Clima (403),
+  # Conab, Embrapa e Notícias Agrícolas (sem RSS válido) ficaram de fora.
+  - {nome: "((o))eco", url: "https://oeco.org.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [clima]}
+  - {nome: "Mongabay Brasil", url: "https://brasil.mongabay.com/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [clima]}
+  - {nome: "Canal Rural", url: "https://www.canalrural.com.br/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [economia]}
+  - {nome: "Globo Rural", url: "https://globorural.globo.com/rss/globorural/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [economia]}
+  - {nome: "ONU News Clima", url: "https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml", regiao: global, idioma: en, tipo: multilateral, categorias: [clima]}
+  - {nome: "Climate Home News", url: "https://www.climatechangenews.com/feed/", regiao: global, idioma: en, tipo: imprensa, categorias: [clima]}
+  - {nome: "Carbon Brief", url: "https://www.carbonbrief.org/feed/", regiao: europa, idioma: en, tipo: imprensa, categorias: [clima]}
+  - {nome: "Inside Climate News", url: "https://insideclimatenews.org/feed/", regiao: eua, idioma: en, tipo: imprensa, categorias: [clima]}
+
+  # ---------------- AMÉRICA LATINA ----------------
+  # BBC Mundo vem sem data (0 aproveitados), MercoPress e Cepal sem RSS válido em 05/11/2026.
+  - {nome: "El País América", url: "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada", regiao: latam, idioma: es, tipo: imprensa}
+  - {nome: "France 24 América Latina", url: "https://www.france24.com/es/am%C3%A9rica-latina/rss", regiao: latam, idioma: es, tipo: imprensa}
+  - {nome: "Buenos Aires Times", url: "https://www.batimes.com.ar/feed", regiao: latam, idioma: en, tipo: imprensa}
+
+  # ---------------- CHECAGEM DE FATOS ----------------
+  # Signatárias da IFCN. Aos Fatos (404), AFP Checamos (403) e Comprova (feed parado) sem RSS válido em 05/11/2026.
+  - {nome: "Agência Lupa", url: "https://lupa.uol.com.br/feed", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [checagem]}
+  - {nome: "G1 Fato ou Fake", url: "https://g1.globo.com/rss/g1/fato-ou-fake/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [checagem]}
+
   # ---------------- MULTILATERAIS / GLOBAL ----------------
   - {nome: "ONU News (PT)", url: "https://news.un.org/feed/subscribe/pt/news/all/rss.xml", regiao: global, idioma: pt, tipo: multilateral}
   - {nome: "UN News", url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml", regiao: global, idioma: en, tipo: multilateral}
