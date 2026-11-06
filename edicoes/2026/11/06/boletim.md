@@ -1,0 +1,551 @@
+# Brasil e Mundo Hoje — sexta-feira, 6 de novembro de 2026
+
+🎧 [Podcast (MP3)](https://github.com/devops-arnaldomenezes/boletim-brasil-mundo/releases/download/edicao-2026-11-06/boletim-2026-11-06.mp3) · 🎬 [Vídeo (MP4)](https://github.com/devops-arnaldomenezes/boletim-brasil-mundo/releases/download/edicao-2026-11-06/boletim-2026-11-06.mp4) · ⏱️ 47 min
+
+> Resumo gerado automaticamente a partir de fontes oficiais, organismos internacionais e imprensa reconhecida. Confira sempre a fonte original nos links.
+
+## Manchetes do dia
+
+**Criação do Ministério da Segurança Pública** · 🇧🇷 Brasil  
+O presidente Luiz Inácio Lula da Silva anunciou que vai editar uma medida provisória para criar o Ministério da Segurança Pública.  
+<sub>Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-vai-criar-ministerio-da-seguranca-publica-com-medida-provisoria), [Estadão](https://www.estadao.com.br/politica/lula-anuncia-que-editara-mp-para-criar-ministerio-da-seguranca-publica/)</sub>
+
+**Renúncia no Paraguai** · 🇧🇷 Brasil  
+O presidente do Paraguai, Santiago Peña, renunciou ao cargo após a abertura de um processo de impeachment.  
+<sub>Fonte: [Agência Senado](https://www12.senado.leg.br/noticias/materias/2026/11/05/comissao-de-relacoes-exteriores-segue-com-atencao-crise-no-paraguai)</sub>
+
+**Aposentadoria de Cristiano Ronaldo** · 🇪🇺 Europa  
+O jogador Cristiano Ronaldo anunciou a sua aposentadoria da seleção portuguesa de futebol.  
+<sub>Fonte: [DW (EN)](https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-xml-mrss)</sub>
+
+## Números e agenda do dia
+
+**Dólar comercial: R$ 5,4621** · 🇧🇷 Brasil  
+Dólar comercial a R$ 5,4621 na cotação de venda de 05/11, queda de 0,29% sobre o dia anterior.  
+<sub>Fonte: [Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries)</sub>
+
+**Euro: R$ 6,1323** · 🇧🇷 Brasil  
+Euro a R$ 6,1323 na cotação de venda de 05/11, queda de 0,37% sobre o dia anterior.  
+<sub>Fonte: [Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries)</sub>
+
+**Meta da Selic: 13,75%** · 🇧🇷 Brasil  
+Meta da Selic em 13,75% (dado de 06/11).  
+<sub>Fonte: [Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries)</sub>
+
+**Inflação (IPCA) em 12 meses: 4,58%** · 🇧🇷 Brasil  
+Inflação (IPCA) em 12 meses em 4,58% (referente a 09/2026).  
+<sub>Fonte: [IBGE, via Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries)</sub>
+
+**Senado: sessão não deliberativa às 10h00** · 🇧🇷 Brasil  
+Senado: sessão não deliberativa às 10h00.  
+<sub>Fonte: [Senado Federal](https://www25.senado.leg.br/web/atividade/agenda)</sub>
+
+## Política
+
+**Lula criará Ministério da Segurança Pública por MP** · 🇧🇷 Brasil  
+O presidente Luiz Inácio Lula da Silva anunciou que vai editar uma medida provisória para criar o Ministério da Segurança Pública. A medida tem como objetivo ampliar o combate às ações de organizações criminosas. A ideia vinha sendo discutida desde fevereiro e ganhou força durante a campanha eleitoral, segundo a Agência Brasil e o Estadão.  
+<sub>Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-vai-criar-ministerio-da-seguranca-publica-com-medida-provisoria), [Estadão](https://www.estadao.com.br/politica/lula-anuncia-que-editara-mp-criar-ministerio-da-seguranca-publica/)</sub>
+
+**Apoio à reeleição de Motta na Câmara** · 🇧🇷 Brasil  
+Os partidos que declararam apoio à reeleição de Motta representam setenta por cento dos parlamentares eleitos para o próximo mandato no Legislativo brasileiro. O dado consolida a articulação política em torno da mesa diretora. A informação foi divulgada pelo jornal Estadão.  
+<sub>Fonte: [Estadão](https://www.estadao.com.br/politica/partidos-que-declararam-apoio-a-reeleicao-de-motta-representam-70-dos-eleitos-do-proximo-mandato-nprp/)</sub>
+
+**Juízo político contra presidente do Paraguai** · 🌎 América Latina  
+Deputados opositores apresentaram ao Congresso do Paraguai um pedido de julgamento político para destituir o presidente Santiago Peña e o vice-presidente. A crise decorre de problemas em um dos maiores bancos do país, que congelou os depósitos de cerca de três milhões de pessoas. O tema é intensamente debatido, conforme a France 24 América Latina.  
+<sub>Fonte: [France 24 América Latina](https://www.france24.com/es/am%C3%A9rica-latina/20261105-crisis-pol%C3%ADtica-en-paraguay-el-presidente-santiago-pe%C3%B1a-ad-portas-de-un-juicio-pol%C3%ADtico-por-crisis-bancaria)</sub>
+
+**Ex-ministro vai a julgamento no Equador** · 🌎 América Latina  
+Sete pessoas, incluindo o ex-ministro do Interior José Serrano, irão a julgamento pelo assassinato do candidato presidencial Fernando Villavicencio. O político foi morto a tiros durante a campanha eleitoral em dois mil e vinte e três. Serrano foi deportado dos Estados Unidos após detenção, segundo a France 24 América Latina.  
+<sub>Fonte: [France 24 América Latina](https://www.france24.com/es/am%C3%A9rica-latina/20261105-ecuador-a-juicio-siete-personas-entre-ellas-un-exministro-corre%C3%ADsta-por-el-asesinato-de-fernando-villavicencio)</sub>
+
+**Trump transforma Salão Oval em monumento nacional** · 🇺🇸 EUA  
+O presidente dos Estados Unidos, Donald Trump, assinou uma proclamação para transformar o Salão Oval da Casa Branca em um monumento nacional. A medida busca garantir a preservação, o cuidado e a gestão histórica do local para futuras gerações, reforçando o foco em reformas na residência oficial, de acordo com o New York Times e a Casa Branca.  
+<sub>Fonte: [New York Times](https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html), [Casa Branca](https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/)</sub>
+
+**Orçamento do Canadá busca independência econômica** · 🌏 Ásia  
+O primeiro-ministro do Canadá, Mark Carney, apresentou ao Parlamento um orçamento focado na busca por independência econômica. O plano aponta para uma redução gradual na dependência em relação aos Estados Unidos. A mudança ocorre dias após as eleições de meio de mandato norte-americanas, conforme informou o South China Morning Post.  
+<sub>Fonte: [South China Morning Post](https://www.scmp.com/news/world/united-states-canada/article/3373484/canada-budget-charts-economic-independence-decisive-shift-us)</sub>
+
+**Comissão Europeia repassa bilhões para a Ucrânia** · 🇪🇺 Europa  
+A Comissão Europeia desembolsou quatro bilhões e trezentos e sessenta milhões de euros para a Ucrânia por meio de um empréstimo de apoio. O montante inclui assistência macrofinanceira e recursos direcionados à área de defesa ucraniana. A informação foi divulgada pela Comissão Europeia em Bruxelas.  
+<sub>Fonte: [Comissão Europeia](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2349)</sub>
+
+**Ataques a serviços de água em zonas de conflito** · 🌐 Mundo  
+O Fundo das Nações Unidas para a Infância denunciou o avanço de ataques contra a infraestrutura de água em áreas de conflito ao redor do mundo. A pesquisa examinou vinte e três países e territórios, revelando que equipes humanitárias precisam adotar soluções alternativas para manter o abastecimento local. O alerta foi repercutido pela ONU News.  
+<sub>Fonte: [ONU News (PT)](https://news.un.org/feed/view/pt/story/2026/11/1854853)</sub>
+
+## Economia e Mercados
+
+**André Lara Resende nega conversa com Lula sobre proposta para taxa Selic** · 🇧🇷 Brasil  
+O economista André Lara Resende afirmou que não conversou com o presidente Luiz Inácio Lula da Silva sobre a criação de um conselho para reduzir a taxa Selic a longo prazo. A proposta repercutiu fortemente no mercado financeiro e gerou debates intensos em Brasília. Segundo o economista, a repercussão foi plantada para desgastar quem apresentou a ideia.  
+<sub>Fonte: [BBC News Brasil](https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss)</sub>
+
+**Governo brasileiro define regras e alíquotas do Imposto Seletivo para dois mil e vinte e sete** · 🇧🇷 Brasil  
+Uma medida provisória publicada no Diário Oficial da União estabeleceu as regras do chamado imposto do pecado, aprovado na reforma tributária. O tributo incide sobre produtos prejudiciais à saúde e ao meio ambiente e começa a ser cobrado em primeiro de fevereiro de dois mil e vinte e sete. De acordo com a Agência Senado, as alíquotas gerais foram definidas pelo governo federal.  
+<sub>Fonte: [Agência Senado](https://www12.senado.leg.br/noticias/materias/2026/11/05/mp-define-as-aliquotas-do-imposto-seletivo-for-2027)</sub>
+
+**Preço do tomate dispara no Brasil após forte queda registrada em agosto** · 🇧🇷 Brasil  
+O consumidor brasileiro enfrenta uma alta repentina no preço do tomate nos mercados de todo o país. O produto havia registrado uma queda de quase onze por cento em agosto, mas reverteu a tendência com uma alta expressiva de trinta e sete por cento em setembro. A informação foi destacada pelo Índice Nacional de Preços ao Consumidor Amplo, segundo o portal Globo Rural.  
+<sub>Fonte: [Globo Rural](https://globorural.globo.com/economia/noticia/2026/11/por-que-o-preco-do-tomate-disparou-entenda-alta-repentina.ghtml)</sub>
+
+**Senado brasileiro discute impactos da mudança política nos Estados Unidos na indústria nacional** · 🇧🇷 Brasil  
+A Comissão de Relações Exteriores do Senado vai promover uma audiência pública para avaliar os reflexos da nova configuração política estadunidense na indústria do Brasil. O debate busca identificar oportunidades para ampliar mercados diante da mudança na composição do Congresso dos Estados Unidos. Conforme a Agência Senado, a iniciativa é liderada pelo senador Nelsinho Trad.  
+<sub>Fonte: [Agência Senado](https://www12.senado.leg.br/noticias/audios/2026/11/cre-discutira-impacto-do-cenario-politico-dos-eua-na-industria-brasileira)</sub>
+
+**Fundo de Câmbio de Hong Kong registra queda drástica nos ganhos trimestrais** · 🌏 Ásia  
+O Fundo de Câmbio de Hong Kong reportou uma queda de setenta e quatro por cento nos ganhos do terceiro trimestre deste ano. A retração foi impulsionada pela incerteza generalizada nos mercados financeiros globais. A autoridade monetária local emitiu alertas sobre a possibilidade de novos episódios de turbulência econômica, segundo o jornal South China Morning Post.  
+<sub>Fonte: [South China Morning Post](https://www.scmp.com/business/banking-finance/article/3373507/hong-kongs-exchange-fund-earnings-tumble-74-hkma-warns-more-market-turbulence)</sub>
+
+**Canadá apresenta orçamento focado em independência econômica em afastamento dos Estados Unidos** · 🌏 Ásia  
+O governo canadense apresentou um novo orçamento que busca consolidar a independência econômica do país e reduzir a dependência comercial em relação aos Estados Unidos. A medida ocorre em um momento de transformações políticas na América do Norte. A estratégia de transição foi detalhada pelo primeiro-ministro Mark Carney, de acordo com o South China Morning Post.  
+<sub>Fonte: [South China Morning Post](https://www.scmp.com/news/world/united-states-canada/article/3373484/canada-budget-charts-economic-independence-decisive-shift-us)</sub>
+
+**União Europeia adota proposta de oportunidades de pesca para o ano de dois mil e vinte e sete** · 🇪🇺 Europa  
+A Comissão Europeia adotou a proposta oficial com as oportunidades de pesca para onze estoques de peixes gerenciados pelo bloco no Oceano Atlântico e nas regiões de Kattegat e Skagerrak. As cotas estabelecidas buscam garantir a sustentabilidade dos recursos marinhos no próximo ano. As diretrizes foram divulgadas em comunicado oficial do órgão em Bruxelas, segundo a Comissão Europeia.  
+<sub>Fonte: [Comissão Europeia](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2353)</sub>
+
+## Seguros e Corretoras
+
+**Porto registra lucro líquido recorrente de R$ 713 milhões no 3º tri de 2026** · 🇧🇷 Brasil  
+O Grupo Porto manteve crescimento em duplo dígito nas receitas totais, que atingiram onze bilhões de reais no terceiro trimestre de 2026, representando um aumento de dez por cento na comparação com o mesmo período do ano anterior. O lucro líquido da companhia foi de oitocentos e trinta e nove milhões de reais, enquanto o resultado recorrente somou setecentos e treze milhões de reais. Segundo a Revista Apólice, o desempenho entregou um retorno sobre o patrimônio líquido médio de vinte vírgula sete por cento.  
+<sub>Fonte: [Revista Apólice](https://revistaapolice.com.br/2026/11/porto-registra-lucro-liquido-recorrente-de-r-713-milhoes-no-3o-tri-de-2026/)</sub>
+
+**Icatu Seguros supera R$ 60 bilhões em reservas de previdência** · 🇧🇷 Brasil  
+A Icatu Seguros ultrapassou a marca de sessenta bilhões de reais em reservas de previdência privada. A empresa conta com um portfólio robusto que reúne cerca de quatrocentos e setenta fundos de cento e cinquenta gestores, tendo registrado quatro bilhões e cento e cinquenta milhões de reais em captação líquida no primeiro semestre de 2026. Conforme o portal Sonho Seguro, esse avanço é apoiado na expansão dos canais de distribuição e na captação de novos clientes.  
+<sub>Fonte: [Sonho Seguro](https://www.sonhoseguro.com.br/2026/11/icatu-seguros-supera-r-60-bilhoes-em-reservas-de-previdencia/)</sub>
+
+**CNseg cria taxonomia para definir critérios de sustentabilidade** · 🇧🇷 Brasil  
+A Confederação Nacional das Seguradoras desenvolveu uma metodologia para estabelecer parâmetros comuns na identificação de produtos sustentáveis no mercado brasileiro. A Taxonomia Sustentável do Mercado Segurador cria critérios para avaliar o impacto ambiental, social e climático de seguros, previdência complementar aberta e capitalização. De acordo com o portal Sonho Seguro, a iniciativa busca ampliar a transparência e direcionar investimentos para práticas corporativas mais responsáveis no país.  
+<sub>Fonte: [Sonho Seguro](https://www.sonhoseguro.com.br/2026/11/cnseg-cria-taxonomia-para-definir-criterios-de-sustentabilidade-nos-seguros-brasileiros/)</sub>
+
+**Global InsurTech funding fell 44.6% to $1.36bn in Q3’26** · 🇪🇺 Europa  
+O financiamento global para empresas de tecnologia de seguros caiu quarenta e quatro vírgula seis por cento no terceiro trimestre de dois mil e vinte e seis, somando um bilhão e trezentos e sessenta milhões de dólares. A retração foi impulsionada por uma redução nas rodadas de investimentos expressivos, conhecidas como mega-rounds. Segundo a Reinsurance News, os aportes acima de cem milhões de dólares despencaram para seiscentos e sessenta milhões de dólares no período analisado.  
+<sub>Fonte: [Reinsurance News](https://www.reinsurancene.ws/global-insurtech-funding-fell-44-6-to-1-36bn-in-q326-gallagher-re/)</sub>
+
+**Swiss Re’s P&C reinsurance result delivers** · 🌐 Mundo  
+A resseguradora Swiss Re divulgou resultados dentro do esperado para a sua divisão de resseguros de danos patrimoniais e de responsabilidade civil nos primeiros nove meses do ano. Perdas inferiores às previstas com catástrofes naturais e um forte desempenho de subscrição ajudaram a compensar os efeitos de um mercado competitivo e suavizado. A informação foi veiculada pelo portal Artemis.  
+<sub>Fonte: [Artemis](https://www.artemis.bm/news/swiss-res-pc-reinsurance-result-delivers-despite-competitive-market-weighing/?utm_source=rss&utm_medium=rss&utm_campaign=swiss-res-pc-reinsurance-result-delivers-despite-competitive-market-weighing)</sub>
+
+**SMI proposes Commonwealth Mutual reinsurance vehicle** · 🇪🇺 Europa  
+A Iniciativa de Mercados Sustentáveis concluiu um estudo de viabilidade para a criação de um veículo soberano de resseguro mútuo voltado para países da Commonwealth. O projeto visa ajudar nações a gerenciarem a exposição financeira a eventos climáticos extremos e desastres naturais. De acordo com a Reinsurance News, a proposta foi estruturada por uma coalizão do setor privado estabelecida em dois mil e vinte.  
+<sub>Fonte: [Reinsurance News](https://www.reinsurancene.ws/smi-proposes-commonwealth-mutual-reinsurance-vehicle-for-climate-risks/)</sub>
+
+**Aon Client Treaty Facility Expands to 35% Co-Insurance** · 🇺🇸 EUA  
+A corretora de resseguros Aon anunciou a renovação bem-sucedida de seu acordo de facilidade de tratados com expansão para o próximo ano. A partir de primeiro de janeiro de dois mil e vinte e sete, a estrutura permitirá trinta e cinco por cento de co-seguro em negócios elegíveis alocados no centro global de corretagem da empresa. A notícia foi publicada pela Insurance Journal.  
+<sub>Fonte: [Insurance Journal](https://www.insurancejournal.com/news/international/2026/11/05/891661.htm)</sub>
+
+**AI-Powered Insurance Startup Kalepa Valued at $470M** · 🇺🇸 EUA  
+A startup de seguros Kalepa levantou setenta e cinco milhões de dólares em uma nova rodada de investimentos, alcançando um valor de mercado de quatrocentos e setenta milhões de dólares. O aporte reflete a aposta de investidores em soluções de inteligência artificial para acelerar a precificação de riscos e a emissão de apólices. Segundo a Insurance Journal, a rodada foi liderada pela empresa de capital de crescimento Updata Partners.  
+<sub>Fonte: [Insurance Journal](https://www.insurancejournal.com/news/national/2026/11/05/891679.htm)</sub>
+
+## Clima e Meio Ambiente
+
+**Estatuto do Ribeirinho na CMA** · 🇧🇷 Brasil  
+A Comissão de Meio Ambiente poderá debater o projeto que cria o Estatuto do Ribeirinho antes de sua votação oficial. A proposta busca estabelecer diretrizes para a proteção dos direitos dessas comunidades tradicionais em todo o país. Segundo o Senado Federal, parlamentares defendem definir com precisão quem são os ribeirinhos para garantir a preservação ambiental e social.  
+<sub>Fonte: [Agência Senado](https://www12.senado.leg.br/noticias/audios/2026/11/estatuto-do-ribeirinho-deve-ter-debate-na-comissao-de-meio-ambiente)</sub>
+
+**Orientações da Fiocruz sobre Queimadas** · 🇧🇷 Brasil  
+A Fundação Oswaldo Cruz publicou uma nota técnica com recomendações para reduzir os riscos da exposição à fumaça das queimadas na Amazônia. O documento reúne orientações práticas para residências, escolas, locais de trabalho e unidades de saúde. De acordo com veículos especializados, a medida visa proteger a população vulnerável diante da poluição do ar.  
+<sub>Fonte: [((o))eco](https://oeco.org.br/salada-verde/queimadas-na-amazonia-fiocruz-recomenda-medidas-para-reduzir-riscos-a-saude/)</sub>
+
+**Expansão de Data Centers sem Garantias Ambientais** · 🇧🇷 Brasil  
+O governo brasileiro busca atrair investimentos em centros de dados e inteligência artificial, mas a expansão ocorre sem garantias ambientais consolidadas. Em São Paulo, um dos maiores data centers do país surge sem exigências claras de proteção aos recursos hídricos. Conforme análises recentes, o crescimento digital exige maior atenção ao uso energético sustentável.  
+<sub>Fonte: [((o))eco](https://oeco.org.br/analises/lula-quer-atrair-data-centers-mas-expansao-ocorre-sem-garantias-ambientais/)</sub>
+
+**Deslocados Globais em Zonas de Risco Climático** · 🌐 Mundo  
+Cerca de noventa milhões de pessoas deslocadas à força no mundo vivem em países altamente expostos a perigos climáticos. A informação foi divulgada pela agência da Organização das Nações Unidas para Refugiados, que alerta sobre o impacto de secas e inundações. Segundo a imprensa internacional, o cenário dificulta soluções duradouras para essas populações vulneráveis.  
+<sub>Fonte: [France 24](https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks)</sub>
+
+**Expectativas para a COP31 na Turquia** · 🌐 Mundo  
+Governos de todo o mundo se preparam para a Conferência das Nações Unidas sobre Mudanças Climáticas, a COP trinta e um, sediada na Turquia. Eletrificação, transição dos combustíveis fósseis e adaptação aos impactos globais são os temas centrais do evento. De acordo com portais de notícias climáticas, o encontro busca construir consensos entre economias desenvolvidas e em desenvolvimento.  
+<sub>Fonte: [Climate Home News](https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-antalya-climate-summit/)</sub>
+
+**Queda Histórica nas Emissões da China** · 🇪🇺 Europa  
+As emissões de dióxido de carbono na China registraram queda de mais de três por cento no terceiro trimestre do ano. Trata-se da maior redução desde o período da pandemia de Covid-19, impulsionada por fatores econômicos e energéticos globais. Segundo análises especializadas, a retração reflete mudanças importantes na matriz industrial do país asiático.  
+<sub>Fonte: [Carbon Brief](https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid)</sub>
+
+**Impacto do Fenômeno El Niño na Coreia do Sul** · 🌏 Ásia  
+A Administração Meteorológica da Coreia do Sul informou que o fenômeno El Niño mais forte já registrado deve afetar o inverno no país. A previsão indica condições mais amenas e úmidas, com fluxo de ar quente e maior volume de precipitações. Conforme veículos locais, o cenário pode trazer variações bruscas com a entrada temporária de massas de ar frio.  
+<sub>Fonte: [Korea Herald](https://www.koreaherald.com/article/10928548)</sub>
+
+**Eleições nos Estados Unidos e Políticas Climáticas** · 🇺🇸 EUA  
+Resultados eleitorais recentes nos Estados Unidos mostraram vitórias democratas em estados como o Arizona, impulsionadas por pautas de água e energia. Analistas apontam que a mudança no controle de legislaturas estaduais pode transformar políticas ambientais locais. De acordo com a imprensa especializada, essas regiões enfrentam desafios crescentes com calor extremo e seca prolongada.  
+<sub>Fonte: [Inside Climate News](https://insideclimatenews.org/news/05112026/arizona-democrats-victory-energy-water-issues/)</sub>
+
+## Tecnologia
+
+**Avança projeto que pune registro não autorizado de intimidade sexual** · 🇧🇷 Brasil  
+O projeto de lei que estabelece punições para quem registra sem autorização a intimidade sexual de outra pessoa avançou no Senado. A proposta recebeu parecer favorável da Comissão de Ciência e Tecnologia e segue para análise na Comissão de Constituição e Justiça e Cidadania, segundo a Agência Senado.  
+<sub>Fonte: [Agência Senado](https://www12.senado.leg.br/noticias/audios/2026/11/avanca-projeto-que-pune-quem-registra-intimidade-sexual-de-outra-pessoa)</sub>
+
+**Conselho Europeu de Inovação destina 1 bilhão e 800 milhões de euros para 2027** · 🇪🇺 Europa  
+A Comissão Europeia adotou o programa de trabalho do Conselho Europeu de Inovação para o próximo ano. A iniciativa vai liberar um bilhão e oitocentos milhões de euros para apoiar pesquisadores e empreendedores de tecnologia de ponta na Europa, de acordo com a Comissão Europeia.  
+<sub>Fonte: [Comissão Europeia](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2352)</sub>
+
+**Processo contra o Google nos Estados Unidos após crise de saúde mental de adolescente** · 🇺🇸 EUA  
+Pais na Carolina do Norte abriram um processo contra o Google após a filha de treze anos discutir pensamentos suicidas com ferramentas de inteligência artificial em um notebook escolar. O caso destaca os riscos da tecnologia na educação, segundo o Insurance Journal.  
+<sub>Fonte: [Insurance Journal](https://www.insurancejournal.com/news/national/2026/11/06/891769.htm)</sub>
+
+**Corte de ajuda militar dos Estados Unidos a Israel foca em cooperação tecnológica** · 🌏 Ásia  
+A relação de defesa entre Estados Unidos e Israel deve ser reestruturada nos próximos dois anos. Bilhões de dólares em ajuda militar direta serão substituídos gradualmente por programas conjuntos de tecnologia de armas, conforme o South China Morning Post.  
+<sub>Fonte: [South China Morning Post](https://www.scmp.com/week-asia/politics/article/3373487/trumps-israel-aid-cut-reveals-push-trade-grants-tech-cooperation)</sub>
+
+**Queda em ações de tecnologia na Ásia após vitória democrata nos Estados Unidos** · 🇪🇺 Europa  
+As bolsas asiáticas registraram fortes quedas lideradas por Seul e Tóquio após uma onda de vendas em Wall Street. A retração foi impulsionada pelo temor de regras mais rígidas para a inteligência artificial após a vitória dos democratas nas eleições de meio de mandato, segundo a France 24.  
+<sub>Fonte: [France 24](https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules)</sub>
+
+**Meta alerta que oposição política a centros de dados pode dificultar expansão da inteligência artificial** · 🇺🇸 EUA  
+A Meta advertiu que a crescente oposição política contra centros de dados pode ameaçar futuros investimentos em inteligência artificial. Comunidades têm resistido a grandes projetos de infraestrutura necessários para sustentar o setor, de acordo com o TechCrunch Artificial Intelligence.  
+<sub>Fonte: [TechCrunch AI](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/)</sub>
+
+**Estreia da Agility Robotics na Nasdaq atrai escrutínio sobre mercado de robôs humanoides** · 🇺🇸 EUA  
+A empresa líder em implantação de robôs humanoides nos Estados Unidos realizou sua abertura de capital na bolsa de valores Nasdaq. A estreia atrai nova atenção e escrutínio sobre o mercado global de robótica, segundo o portal Ars Technica.  
+<sub>Fonte: [Ars Technica](https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-initites-scrutiny-of-humanoid-robot-market/)</sub>
+
+**Parlamento britânico aponta dependência perigosa da China em minerais críticos** · 🇪🇺 Europa  
+Uma investigação parlamentar no Reino Unido concluiu que o país depende de forma perigosa da China para obter minerais críticos essenciais para a defesa, transição energética e inteligência artificial. Deputados pediram uma política centralizada e novos fundos de financiamento, conforme o jornal The Guardian.  
+<sub>Fonte: [The Guardian World](https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy)</sub>
+
+## Inteligência Artificial
+
+**IA e Estratégia no Setor de Seguros no Brasil** · 🇧🇷 Brasil  
+A inteligência artificial já está presente em diferentes operações do mercado de seguros brasileiro, mas especialistas apontam que sua adoção isolada não garante uma transformação real. Para aproveitar todo o potencial tecnológico, as companhias precisam organizar dados, integrar sistemas e rever processos de tomada de decisão. O debate ocorreu durante o painel sobre inteligência artificial no seguro, conforme divulgado pelo portal CQCS e pela Revista Apólice.  
+<sub>Fonte: [CQCS](https://cqcs.com.br/noticia/ia-so-transforma-seguradoras-quando-e-integrada-a-estrategia-e-aos-processos/), [Revista Apólice](https://revistaapolice.com.br/2026/11/15/ia-avanca-nos-seguros-setor-enfrenta-desafio-de-adaptacao/)</sub>
+
+**Google Anuncia Ferramenta para Criação de Vídeos curtos** · 🇧🇷 Brasil  
+A gigante da tecnologia Google anunciou o lançamento do modelo Gemini Omni 1.2 Flash, voltado para a criação de vídeos de até quinze segundos. A novidade tecnológica oferece maior qualidade visual, além de controle aprimorado de tempo e ajustes rápidos por meio de comandos de texto ou voz, segundo informações do portal Tecnoblog.  
+<sub>Fonte: [Tecnoblog](https://tecnoblog.net/noticias/google-anuncia-gemini-omni-1-2-flash-para-criar-videos-de-ate-15-segundos/)</sub>
+
+**Cultura Ibero-Americana como Escudo Diante da Inteligência Artificial** · 🌐 Mundo  
+Durante uma cimeira regional realizada em Madri, o secretário-geral das Nações Unidas, António Guterres, destacou a cultura ibero-americana como uma verdadeira superpotência cultural diante do avanço da inteligência artificial. Segundo a ONU News, Guterres ressaltou que a arte, a empatia e as humanidades representam a maior força para o futuro no ambiente digital.  
+<sub>Fonte: [ONU News (PT)](https://news.un.org/feed/view/pt/story/2026/11/1854848)</sub>
+
+**Impacto Político nos Estados Unidos Atinge Mercado de Data Centers** · 🇺🇸 EUA  
+A recente vitória dos democratas nas eleições de meio de mandato nos Estados Unidos gerou forte repercussão nos mercados financeiros globais e nas empresas de tecnologia. De acordo com a agência France 24 e publicações do South China Morning Post, analistas e investidores temem que uma onda de regulamentações mais rígidas e moratórias possa paralisar cerca de trinta por cento dos projetos de infraestrutura de centros de dados voltados para inteligência artificial no país.  
+<sub>Fonte: [France 24](https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules), [South China Morning Post](https://www.scmp.com/tech/big-tech/article/3373506/does-democratic-midterm-victory-spell-end-us-ai-data-centre-boom)</sub>
+
+**Queda nas Bolsas Asiáticas após Temores Regulatórios nos Estados Unidos** · 🌏 Ásia  
+As bolsas de valores de Tóquio e Seul registraram quedas acentuadas na Ásia, refletindo o pessimismo vindo de Wall Street sobre os investimentos em inteligência artificial. Segundo o South China Morning Post e a Deutsche Welle, o índice Nikkei caiu mais de cinco por cento, enquanto o Kospi sul-coreano despencou mais de oito por cento, acionando mecanismos de interrupção temporária das negociações após os temores gerados pelo cenário político norte-americano.  
+<sub>Fonte: [South China Morning Post](https://www.scmp.com/news/asia/east-asia/article/3373478/post-us-midterms-ai-worries-pummel-shares-japan-south-korea), [DW (EN)](https://www.dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-all-1573-xml-mrss)</sub>
+
+**Investimentos em Inteligência Artificial Podem Enarecer Crédito na Europa** · 🇪🇺 Europa  
+Gigantes tecnológicas dos Estados Unidos estão emitindo bilhões em títulos financeiros, inclusive na moeda europeia, para financiar a corrida tecnológica da inteligência artificial. De acordo com a DW Brasil, essa movimentação acirra a competição com governos europeus que já enfrentam dificuldades financeiras, elevando os custos gerais para a obtenção de crédito e capital de investimento na região.  
+<sub>Fonte: [DW Brasil](https://www.dw.com/pt-br/como-onda-de-investimentos-na-ia-pode-encarecer-crédito-na-europa/a-79857746?maca=bra-rss-br-all-1030-xml-mrss)</sub>
+
+**Processo Judicial contra o Google nos Estados Unidos por IA em Escolas** · 🇺🇸 EUA  
+Pais de uma adolescente de treze anos na Carolina do Norte abriram um processo judicial contra a empresa Google nos Estados Unidos. Conforme noticiado pelo Insurance Journal, a jovem passou meses discutindo pensamentos suicidas com ferramentas de inteligência artificial disponíveis em um computador portátil fornecido pela própria escola, o que reacendeu o debate sobre os riscos e os limites da tecnologia na educação.  
+<sub>Fonte: [Insurance Journal](https://www.insurancejournal.com/news/national/2026/11/06/891769.htm)</sub>
+
+**Empresas de Seguros Registram Crescimento Impulsionado por Tecnologia** · 🇪🇺 Europa  
+A empresa de seguros Lemonade divulgou um lucro bruto trimestral recorde de cento e dezoito milhões e cem mil dólares no terceiro trimestre de dois mil e vinte e seis, representando um crescimento expressivo impulsionado por operações automatizadas. Paralelamente, no mercado europeu, a seguradora britânica MS Amlin lançou uma ferramenta interna baseada em inteligência artificial para revisar contratos com maior rapidez, segundo os portais Reinsurance News.  
+<sub>Fonte: [Reinsurance News](https://www.reinsurancene.ws/lemonade-posts-record-gross-profit-of-118-1m-in-q326-as-growth-accelerates/)</sub>
+
+## Saúde
+
+**Câmara aprova ações de educação em saúde no SUS com foco na família** · 🇧🇷 Brasil  
+A Câmara dos Deputados aprovou medidas para fortalecer a educação em saúde no Sistema Único de Saúde, com foco especial no núcleo familiar. A proposta agora segue para análise do Senado Federal. A iniciativa busca prevenir doenças e promover o bem-estar diretamente nas comunidades.  
+<sub>Fonte: [Agência Câmara](https://www.camara.leg.br/noticias/1316367-camara-aprova-acoes-de-educacao-em-saude-no-sus-com-foco-na-família)</sub>
+
+**Comissão aprova criação de programa de atendimento domiciliar de saúde para idosos pelo SUS** · 🇧🇷 Brasil  
+Uma comissão da Câmara aprovou a criação de um programa voltado ao atendimento domiciliar de saúde para a população idosa pelo Sistema Único de Saúde. A medida pretende desafogar os hospitais e garantir assistência mais humanizada. O texto continua em tramitação na Casa.  
+<sub>Fonte: [Agência Câmara](https://www.camara.leg.br/noticias/1316336-comissao-aprova-criacao-de-programa-de-atendimento-domiciliar-de-saude-para-idosos-pelo-sus)</sub>
+
+**Mpox: casos aumentam no Rio e Ministério da Saúde autoriza compra de vacinas** · 🇧🇷 Brasil  
+Os casos de mpox registraram forte alta na cidade do Rio de Janeiro nos meses de setembro e outubro, segundo levantamento. Diante do cenário, o Ministério da Saúde autorizou a compra de até vinte mil doses de vacinas para reforçar os estoques do Sistema Único de Saúde. A medida visa conter a disseminação do vírus na capital fluminense.  
+<sub>Fonte: [G1](https://g1.globo.com/saude/noticia/2026/11/06/mpox-casos-aumentam-no-rio-doenca-mata-passa-pelo-beijo-veja-respostas-as-principais-duvidas.ghtml)</sub>
+
+**Remédio falso contra câncer: investigados movimentam milhões** · 🇧🇷 Brasil  
+O Ministério Público apontou que uma distribuidora investigada por vender medicamentos falsificados contra o câncer repassou quase três milhões de reais para a empresa de um dos suspeitos presos. O investigado ainda abriu uma holding patrimonial após o início das investigações. O caso revela esquema criminoso que atinge tratamentos oncológicos.  
+<sub>Fonte: [G1](https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/06/remedio-falso-contra-cancer-distribuidora-repassou-r-29-milhoes-a-empresa-de-preso-que-abriu-holding-de-r-500-mil-diz-mp.ghtml)</sub>
+
+**Novas vacinas contra Ebola serão testadas na República Democrática do Congo** · 🌐 Mundo  
+Duas novas vacinas candidatas contra o Ebola serão integradas a um ensaio clínico na República Democrática do Congo. O país enfrenta um surto mortal causado pela espécie Bundibugyo do vírus. A informação foi divulgada pela Organização das Nações Unidas através da ONU News.  
+<sub>Fonte: [UN News](https://news.un.org/feed/view/en/story/2026/11/1168742)</sub>
+
+**Ataques a sistemas de água em zonas de conflito triplicam e ameaçam crianças** · 🌐 Mundo  
+Dados da ONU News apontam que ataques que danificaram ou destruíram sistemas de água e saneamento em zonas de conflito triplicaram entre dois mil e vinte um e dois mil e vinte cinco. A situação aumenta drasticamente o risco de exposição a surtos de doenças e desnutrição entre crianças. A comunidade internacional alerta para a gravidade da crise humanitária.  
+<sub>Fonte: [UN News](https://news.un.org/feed/view/en/story/2026/11/1168743)</sub>
+
+**Uso de chatbots de inteligência artificial por médicos gera debate nos Estados Unidos** · 🇺🇸 EUA  
+Centenas de milhares de médicos têm consultado inteligência artificial para auxiliar em decisões clínicas, levantando preocupações sobre a segurança de dados de pacientes. Sistemas de saúde americanos avaliam se devem bloquear essas ferramentas ou adquirir licenças oficiais. Segundo o portal STAT News, o cenário impõe novos desafios regulatórios e de privacidade.  
+<sub>Fonte: [STAT News](https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/?utm_campaign=rss)</sub>
+
+**Startup de Singapura expande tratamentos biomédicos para a China** · 🌏 Ásia  
+Empresas biomédicas de Singapura estão expandindo suas operações para a China em busca de redes hospitalares e mercados amplos para acelerar o desenvolvimento de terapias contra câncer e diabetes. Segundo o Channel NewsAsia, as startups precisam navegar por um cenário regulatório em constante evolução para alcançar sucesso.  
+<sub>Fonte: [Channel NewsAsia](https://www.channelnewsasia.com/singapore/singapore-biomedical-startups-expand-china-cancer-diabetes-treatments-6516196)</sub>
+
+## Cultura
+
+**Câmara aprova artesanato do Maranhão como cultura nacional** · 🇧🇷 Brasil  
+A Câmara dos Deputados aprovou um projeto de lei que reconhece o artesanato do Maranhão como manifestação da cultura nacional. O texto agora segue para a análise do Senado Federal, segundo a Agência Câmara.  
+<sub>Fonte: [Agência Câmara](https://www.camara.leg.br/noticias/1316407-camara-aprova-projeto-que-reconhece-artesanato-do-maranhao-como-cultura-nacional)</sub>
+
+**Exílio venezuelano ganha experiência imersiva na França** · 🌎 América Latina  
+O desarraigo e a memória do exílio venezuelano viraram uma instalação artística em Normandia. A obra combina fotografia e música para evocar as tradições e identidades do país, de acordo com a France 24 América Latina.  
+<sub>Fonte: [France 24 América Latina](https://www.france24.com/es/programas/carrusel-de-las-artes/20261105-el-exilio-venezolano-cobra-vida-en-un-recorrido-sensorial-en-francia)</sub>
+
+**Astronauta da Lua apoia projeto imobiliário em Madri** · 🌎 América Latina  
+O astronauta canadense Jeremy Hansen, que participou da missão Artemis 2, apoia um projeto urbanístico em Madri. A iniciativa envolve doze mil residências de luxo em torno de uma grande réplica do satélite, segundo o jornal El País América.  
+<sub>Fonte: [El País América](https://elpais.com/ciencia/20261105-el-canadiense-que-fue-a-la-luna-abandera-un-proyecto-urbanistico-en-madrid-con-12000-viviendas-de-lujo-va-a-ser-algo-extraordinario.html)</sub>
+
+**Euronews destaca panorama cultural europeu em boletim** · 🇪🇺 Europa  
+A emissora Euronews divulgou seu boletim diário abordando os principais destaques culturais e de entretenimento na Europa. O material reúne as principais histórias da atualidade no continente, conforme informou a Euronews.  
+<sub>Fonte: [Euronews](https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-morning)</sub>
+
+**Incheon exibe tecnologia aeroportuária na Ásia** · 🌏 Ásia  
+A operadora do Aeroporto Internacional de Incheon apresentou tecnologias inteligentes em uma feira na Ásia. O objetivo é expandir os negócios internacionais e conquistar novos mercados globais, de acordo com o Korea Herald.  
+<sub>Fonte: [Korea Herald](https://www.koreaherald.com/article/10928342)</sub>
+
+**Expansão global da beleza coreana enfrenta desafios** · 🌏 Ásia  
+As exportações de produtos de beleza da Coreia do Sul mantêm forte alta internacionalmente. No entanto, as grandes empresas enfrentam dores de crescimento com resultados mistos no terceiro trimestre, segundo o Korea Herald.  
+<sub>Fonte: [Korea Herald](https://www.koreaherald.com/article/10928690)</sub>
+
+**Startup investe em desafios de ciência dos materiais para inteligência artificial** · 🇺🇸 EUA  
+Uma startup ligada à aceleradora Y Combinator destinou um milhão de dólares para resolver problemas em aberto na ciência dos materiais voltada para a inteligência artificial, segundo o portal TechCrunch AI.  
+<sub>Fonte: [TechCrunch AI](https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/)</sub>
+
+## Checagem de fatos
+
+**Mulheres defendem articulação em rede para ampliar participação** · 🇧🇷 Brasil  
+Na conferência internacional Mulheres que movem a justiça, comunicadoras defenderam a articulação de redes de apoio para combater o machismo. O evento, realizado em Brasília, promove debates sobre uma justiça mais igualitária. Segundo as participantes, os profissionais de informação devem atuar ativamente na construção de parcerias.  
+<sub>Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/mulheres-defendem-articulacao-em-rede-para-ampliar-participacao)</sub>
+
+**Pacote de Educação e Habilidades na Europa** · 🇪🇺 Europa  
+A Comissão Europeia destacou que a Europa passa por uma grande transformação impulsionada pela inteligência artificial. A vice-presidente executiva Roxana Mînzatu apresentou um pacote voltado para educação e capacitação técnica. O objetivo é preparar os cidadãos para os desafios tecnológicos e combater a desinformação na região.  
+<sub>Fonte: [Comissão Europeia](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2351)</sub>
+
+**Vídeo de pessoas pegando comida em caminhão de lixo é de 2021** · 🇧🇷 Brasil  
+Circula nas redes sociais um vídeo antigo que mostra pessoas coletando alimentos de um caminhão de lixo com legendas falsas. A gravação foi realizada em outubro de dois mil e vinte e um, durante a pandemia, na gestão de Jair Bolsonaro. De acordo com o G1 Fato ou Fake e a Agência Lupa, é falso que a cena tenha ocorrido durante o governo atual de Luiz Inácio Lula da Silva.  
+<sub>Fonte: [G1 Fato ou Fake](https://g1.globo.com/fato-ou-fake/noticia/2026/11/05/e-fake-que-cena-de-pessoas-pegando-comida-em-caminhao-de-lixo-ocorreu-durante-governo-lula-video-foi-gravado-in-2021.ghtml), [Agência Lupa](https://www.agencialupa.org/verificacao/2026-11-05/e-de-2021-video-de-pessoas-procurando-comida-em-caminhao-de-lixo-no-ceara/)</sub>
+
+**Mensagem falsa sobre Auxílio Reconstrução 2026** · 🇧🇷 Brasil  
+Voltou a circular no WhatsApp uma mensagem falsa que imita os canais oficiais do governo federal. O texto divulga um suposto benefício chamado Auxílio Reconstrução dois mil e vinte e seis, no valor de mil e cinquenta reais, liberado após clique em link suspeito. Segundo o G1 Fato ou Fake, trata-se de um golpe para roubar dados dos cidadãos.  
+<sub>Fonte: [G1 Fato ou Fake](https://g1.globo.com/fato-ou-fake/noticia/2026/11/05/e-fake-mensagem-sobre-auxilio-reconstrucao-2026-golpe-voltou-a-circular.ghtml)</sub>
+
+**INSS não vai bloquear pagamentos por falta de biometria** · 🇧🇷 Brasil  
+Publicações nas redes sociais alegam que o Instituto Nacional do Seguro Social vai bloquear pagamentos de beneficiários que não atualizarem a biometria até novembro de dois mil e vinte e seis. Conforme apurou o G1 Fato ou Fake, a informação é falsa. O órgão não cancela benefícios já concedidos exclusivamente por falta de cadastramento biométrico.  
+<sub>Fonte: [G1 Fato ou Fake](https://g1.globo.com/fato-ou-fake/noticia/2026/11/05/e-fake-que-inss-vai-bloquear-pagamentos-de-beneficios-a-quem-nao-cadastrar-biometria-ate-novembro-de-2026.ghtml)</sub>
+
+**Republicanos não conquistaram maioria na Câmara dos EUA** · 🇺🇸 EUA  
+Circula na internet a informação de que o Partido Republicano teria conquistado a maioria da Câmara dos Deputados dos Estados Unidos em dois mil e vinte e seis. De acordo com a Agência Lupa, o dado é falso. O Partido Democrata garantiu mais de duzentos e dezoito assentos na Casa, assegurando o número necessário para a maioria.  
+<sub>Fonte: [Agência Lupa](https://www.agencialupa.org/noticias/2026/11/05/e-falso-que-republicanos-conquistaram-maioria-da-camara-dos-deputados-dos-eua-em-2026/)</sub>
+
+**Votos sem biometria não comprovam fraude nas eleições** · 🇧🇷 Brasil  
+Publicações afirmam que oito milhões de votos sem biometria comprovariam fraude nas eleições brasileiras. Segundo a Agência Lupa, a alegação é totalmente falsa. A falta de biometria não invalida o voto, e a rigorosa checagem de documentos impede qualquer tentativa de votação em nome de pessoas falecidas.  
+<sub>Fonte: [Agência Lupa](https://www.agencialupa.org/eleicoes/2026/11/05/e-falso-que-8-milhoes-de-votos-sem-biometria-comprovam-fraude-nas-eleicoes/)</sub>
+
+## Resumo e agenda
+
+**Encerramento e Recapitulação do Boletim** · 🌐 Mundo  
+Nesta edição, destacamos o anúncio do presidente Luiz Inácio Lula da Silva sobre a criação do Ministério da Segurança Pública por medida provisória, segundo a Agência Brasil e o Estadão. No cenário internacional, o presidente do Paraguai, Santiago Peña, renunciou após um pedido de julgamento político no Congresso, conforme a France 24 América Latina. Na economia, o Grupo Porto registrou lucro líquido recorrente de setecentos e treze milhões de reais no terceiro trimestre de dois mil e vinte e seis, de acordo com a Revista Apólice. No esporte, o jogador Cristiano Ronaldo anunciou a sua aposentadoria da seleção portuguesa de futebol. Por fim, na saúde, o Ministério da Saúde autorizou a compra de vacinas contra a mpox diante do aumento de casos na cidade do Rio de Janeiro. Nas próximas horas, acompanhe os desdobramentos da articulação política em torno da mesa diretora na Câmara dos Deputados e a repercussão da renúncia presidencial no Paraguai. O Brasil e Mundo Hoje é publicado todos os dias, às seis horas da manhã. Obrigado pela sua audiência e até amanhã.  
+<sub>Fonte: Agência Brasil, Estadão, France 24 América Latina, Revista Apólice</sub>
+
+---
+
+<details><summary>Roteiro completo da locução</summary>
+
+### Manchetes do dia
+
+Bom dia! Hoje é sexta-feira, seis de novembro de dois mil e vinte e seis. Sejam bem-vindos ao boletim Brasil e Mundo Hoje, o seu resumo diário de notícias.
+
+Para começar os nossos destaques de hoje, o presidente Luiz Inácio Lula da Silva anunciou que vai editar uma medida provisória para criar o Ministério da Segurança Pública, segundo a Agência Brasil.
+
+No cenário internacional, o presidente do Paraguai, Santiago Peña, renunciou ao cargo após a abertura de um processo de impeachment, conforme informou a Agência Senado.
+
+E no esporte, o jogador Cristiano Ronaldo anunciou a sua aposentadoria da seleção portuguesa de futebol, de acordo com a rede alemã DW.
+
+### Números e agenda do dia
+
+Agora, os números do dia. O dólar comercial fechou a 5,46 reais, queda de 0,29% sobre o dia anterior, segundo o Banco Central. O euro fechou a 6,13 reais, queda de 0,37% sobre o dia anterior, segundo o Banco Central. A meta da taxa Selic está em 13,75 por cento ao ano, segundo o Banco Central. A inflação oficial, medida pelo IPCA, acumula 4,58 por cento em doze meses, segundo o IBGE. Na agenda de hoje em Brasília: sessão não deliberativa às 10h00 no Senado.
+
+### Política
+
+Seguimos agora com os principais destaques da política no Brasil e no mundo, começando pelas decisões do governo federal na capital brasileira. O presidente Luiz Inácio Lula da Silva anunciou nesta quinta-feira que vai editar uma medida provisória para criar o Ministério da Segurança Pública. A informação foi confirmada pela Agência Brasil e pelo jornal Estadão. O principal objetivo dessa nova pasta ministerial é ampliar de forma coordenada o combate às ações de organizações criminosas em todo o território nacional. Essa ideia de reestruturação na área de segurança já vinha sendo debatida pelo chefe do Executivo desde o mês de fevereiro e ganhou força definitiva durante o período da campanha eleitoral. A criação do ministério reflete a prioridade dada pelo governo federal ao enfrentamento da criminalidade organizada. A medida provisória deve detalhar as atribuições do novo órgão e como ele vai atuar em conjunto com os estados e municípios brasileiros nos próximos meses, segundo as fontes oficiais.
+
+Mudando de assunto e olhando para o Poder Legislativo brasileiro, a articulação política na Câmara dos Deputados ganha novos contornos com as recentes adesões partidárias. De acordo com o jornal Estadão, os partidos políticos que já declararam apoio formal à reeleição de Motta representam impressionantes setenta por cento dos parlamentares que foram eleitos para ocupar uma cadeira no próximo mandato legislativo. Esse percentual expressivo demonstra a força da base de sustentação articulada em torno da mesa diretora da Casa. A consolidação desse apoio maciço antecipa um cenário de maior previsibilidade para a votação de pautas prioritárias do governo e da própria instituição no início da próxima legislatura. A articulação envolve diferentes legendas do espectro político nacional, que decidiram marchar juntas na composição de forças para o comando da Câmara dos Deputados, segundo o noticiário político.
+
+Cruzando as fronteiras e chegando aos acontecimentos da América Latina, a instabilidade institucional atinge o Paraguai neste final de semana. Conforme os veículos internacionais de imprensa, como a France 24 América Latina, deputados da oposição apresentaram formalmente perante o Congresso um pedido de julgamento político para destituir o presidente Santiago Peña e o vice-presidente. A crise política que ameaça a continuidade da atual gestão foi motivada por graves problemas econômicos que envolveram diretamente um dos maiores bancos do país sul-americano. A situação financeira da instituição resultou no congelamento de depósitos bancários de aproximadamente três milhões de pessoas, gerando revolta popular e forte pressão parlamentar. As discussões sobre a admissibilidade do pedido de destituição têm sido intensas no Congresso paraguaio, colocando o governo sob forte cerco institucional, segundo os relatos da imprensa internacional.
+
+Ainda na América Latina, mas com foco nos desdobramentos judiciais no Equador, o sistema de Justiça avança em um caso de grande repercussão internacional. Sete pessoas, entre as quais figura o ex-ministro do Interior José Serrano, serão submetidas a julgamento pelo assassinato do candidato presidencial Fernando Villavicencio. A vítima foi crivada de balas e morta a tiros quando saía de um evento de campanha, justamente na semana que antecedeu o primeiro turno das eleições equatorianas em anos anteriores. Segundo as informações divulgadas pela France 24 América Latina, o ex-ministro correísta foi deportado dos Estados Unidos depois de ter sido detido pelas autoridades de imigração norte-americanas no ano passado. O processo judicial busca responsabilizar os mandantes e executores do crime que chocou a política equatoriana, de acordo com as investigações locais.
+
+Passando agora para os Estados Unidos, o presidente Donald Trump tomou mais uma decisão voltada para a preservação histórica da residência oficial da presidência. De acordo com o jornal New York Times e com comunicados oficiais da Casa Branca, o mandatário norte-americano assinou uma proclamação oficial para estabelecer o Salão Oval como um monumento nacional. A medida tem como objetivo formal assegurar a devida preservação, o cuidado adequado e a gestão rigorosa do espaço mais famoso da política americana para as futuras gerações. O anúncio reforça a grande preocupação demonstrada pelo presidente com projetos de remodelação e valorização histórica dos edifícios da sede do governo em Washington, após os recentes embates e calendários eleitorais no país, segundo os órgãos de imprensa.
+
+No norte do continente americano, a economia e a geopolítica também registram importantes movimentações institucionais. Conforme noticiado pelo South China Morning Post, o Canadá apresentou oficialmente o seu novo orçamento nacional com fortes apelos em direção a uma independência econômica gradual. O primeiro-ministro Mark Carney declarou perante o Parlamento que, embora a redução da dependência comercial em relação aos Estados Unidos vá exigir tempo e planejamento, a mudança de rumo já está em andamento. Essa guinada estratégica no orçamento canadense ocorre logo após episódios de reveses políticos enfrentados por lideranças americanas, sinalizando um reposicionamento comercial de Ottawa no cenário internacional, de acordo com as análises econômicas publicadas.
+
+Na Europa, o apoio financeiro e militar à Ucrânia continua sendo prioridade para as instituições da União Europeia. A Comissão Europeia anunciou o repasse de quatro bilhões e trezentos e sessenta milhões de euros para o governo ucraniano, utilizando os recursos previstos no programa de empréstimos de apoio ao país. Desse total bilionário, cerca de três bilhões e setecentos milhões de euros correspondem à segunda parcela da assistência macrofinanceira acordada para o ano de dois mil e vinte e seis, enquanto o restante é direcionado especificamente para o setor de defesa. O repasse financeiro foi formalizado em Bruxelas e visa manter a estabilidade econômica e a capacidade de resistência da Ucrânia frente ao conflito em curso, segundo a Comissão Europeia.
+
+Por fim, olhando para os desafios globais monitorados pelas Nações Unidas, um alerta grave foi emitido em relação à proteção de civis em zonas de conflito armado. O Fundo das Nações Unidas para a Infância denunciou o avanço sistemático de ataques direcionados especificamente contra serviços e infraestruturas de fornecimento de água potável em vinte e três países e territórios afetados por guerras. Diante da destruição dos sistemas tradicionais, equipes humanitárias e as próprias comunidades locais têm corrido contra o tempo para adotar soluções alternativas que garantam o abastecimento mínimo de água para a sobrevivência das populações vulneráveis. A agência internacional apelou por maior respeito ao direito internacional e proteção rigorosa da infraestrutura civil, conforme divulgou o portal ONU News.
+
+### Economia e Mercados
+
+Seguimos agora para a nossa editoria de Economia e Mercados, trazendo os principais acontecimentos que movimentam o cenário financeiro no Brasil e ao redor do planeta.
+
+Começamos pelo cenário nacional com a repercussão em torno de propostas para a política monetária brasileira. O economista André Lara Resende declarou que não teve nenhuma conversa com o presidente Luiz Inácio Lula da Silva sobre a criação de um conselho voltado para a redução da taxa básica de juros a longo prazo. A ideia havia gerado intenso debate nos bastidores da política e entre os agentes do mercado financeiro em Brasília. Segundo o economista, a circulação dessa informação foi plantada de propósito com o objetivo de queimar a reputação de quem elaborou a proposta, conforme relatou a BBC News Brasil.
+
+Ainda no âmbito da economia brasileira, o governo definiu as diretrizes e as alíquotas do novo Imposto Seletivo, conhecido popularmente como imposto do pecado. O texto foi estabelecido por meio de uma medida provisória publicada no Diário Oficial da União após aprovação no contexto da reforma tributária. O tributo vai incidir sobre produtos considerados nocivos à saúde e ao meio ambiente, com cobrança efetiva prevista para começar a partir de primeiro de fevereiro de dois mil e vinte e sete. De acordo com a Agência Senado, o primeiro ano terá regras gerais específicas para a arrecadação.
+
+O bolso do consumidor brasileiro também sente o peso de oscilações recentes no setor de hortifrúti. O preço do tomate registrou uma disparada considerável nos mercados e feiras de todo o país após uma forte queda observada no mês de agosto. O índice oficial de inflação apontou uma alta expressiva de quase trinta e oito por cento em setembro, revertendo completamente o cenário anterior. A diferença de preços chamou a atenção da população e foi detalhada pelo portal de notícias Globo Rural.
+
+O impacto de cenários externos na economia interna também ganha destaque no Poder Legislativo federal. A Comissão de Relações Exteriores do Senado brasileiro vai realizar uma audiência pública para debater como as mudanças recentes na política dos Estados Unidos podem afetar o parque industrial nacional. O objetivo do colegiado é analisar novas oportunidades para o comércio exterior brasileiro diante da nova maioria no Congresso norte-americano. A iniciativa do debate foi confirmada pela presidência da comissão, segundo a Agência Senado.
+
+Olhando para o cenário internacional, os mercados asiáticos registram apreensão com o desempenho de fundos soberanos de investimento. O Fundo de Câmbio de Hong Kong apresentou uma queda de setenta e quatro por cento em seus ganhos durante o terceiro trimestre, na comparação com o mesmo período do ano anterior. A autoridade monetária local alertou que a retração é reflexo de um ambiente global marcado por forte instabilidade e volatilidade financeira. Os dados oficiais foram divulgados pela administração do território, segundo o jornal South China Morning Post.
+
+Ainda na América do Norte, o governo canadense deu um passo decisivo rumo ao que chama de independência econômica. O país apresentou um plano orçamentário focado em diminuir gradualmente sua dependência comercial em relação aos Estados Unidos, em um movimento político e econômico de longo prazo. A estratégia econômica foi apresentada pelo governo do primeiro-ministro Mark Carney logo após importantes definições eleitorais na vizina superpotência, de acordo com publicações do South China Morning Post.
+
+Por fim, na Europa, a Comissão Europeia adotou formalmente sua proposta de diretrizes para as oportunidades de pesca no Atlântico e em outras regiões marítimas do continente para o ano de dois mil e vinte e sete. O pacote estabelece limites de captura para estoques pesqueiros administrados em conjunto pelos países membros, buscando equilibrar a atividade econômica e a preservação ambiental. Os detalhes técnicos foram tornados públicos pelas autoridades de Bruxelas, segundo a Comissão Europeia.
+
+### Seguros e Corretoras
+
+Vamos agora seguir para o noticiário do mercado de seguros e corretoras, acompanhando os principais balanços, investimentos e tendências do setor no Brasil e no exterior.
+
+O Grupo Porto manteve crescimento em duplo dígito nas receitas totais, que atingiram onze bilhões de reais no terceiro trimestre de dois mil e vinte e seis, representando um aumento de dez por cento na comparação com o mesmo período do ano anterior. O lucro líquido da companhia foi de oitocentos e trinta e nove milhões de reais, enquanto o resultado recorrente somou setecentos e treze milhões de reais. Com esse desempenho, a organização entregou um retorno sobre o patrimônio líquido médio de vinte vírcula sete por cento, demonstrando solidez e expansão contínua em suas operações. Os dados foram divulgados pela Revista Apólice, que detalhou o balanço financeiro trimestral da instituição no mercado brasileiro.
+
+A Icatu Seguros ultrapassou a importante marca de sessenta bilhões de reais em reservas de previdência privada, consolidando sua presença no segmento. A empresa gerencia um portfólio robusto que reúne cerca de quatrocentos e setenta fundos de cento e cinquenta gestores diferentes, tendo registrado quatro bilhões e cento e cinquenta milhões de reais em captação líquida apenas no primeiro semestre de dois mil e vinte e seis. Conforme informações publicadas pelo portal Sonho Seguro, esse avanço expressivo é fortemente apoiado na expansão contínua dos canais de distribuição e na captação estratégica de novos clientes em todo o país.
+
+A Confederação Nacional das Seguradoras desenvolveu uma nova metodologia para estabelecer parâmetros comuns na identificação e classificação de produtos sustentáveis no mercado brasileiro. Essa chamada Taxonomia Sustentável do Mercado Segurador cria critérios precisos para avaliar como seguros, previdência complementar aberta e capitalização podem contribuir de forma efetiva para objetivos ambientais, sociais e climáticos. De acordo com o portal Sonho Seguro, a iniciativa tem como principal objetivo ampliar a transparência das operações e direcionar investimentos corporativos para práticas sustentáveis no setor.
+
+O financiamento global para empresas de tecnologia de seguros sofreu uma queda de quarenta e quatro vírcula seis por cento no terceiro trimestre de dois mil e vinte e seis, somando um bilhão e trezentos e sessenta milhões de dólares. Essa retração acentuada foi impulsionada principalmente por uma redução drástica nas rodadas de investimentos expressivos, conhecidas como mega-rounds, que perderam tração no período. Segundo a Reinsurance News, os aportes em rodadas acima de cem milhões de dólares despencaram para seiscentos e sessenta milhões de dólares, refletindo um cenário de maior cautela dos investidores internacionais.
+
+A resseguradora Swiss Re divulgou resultados considerados dentro do esperado para a sua divisão de resseguros de danos patrimoniais e de responsabilidade civil nos primeiros nove meses deste ano. A companhia apontou que perdas inferiores às previstas com catástrofes naturais e um forte desempenho nas atividades de subscrição ajudaram a compensar os efeitos negativos de um mercado global altamente competitivo e suavizado. A informação sobre o desempenho financeiro da multinacional foi veiculada pelo portal especializado Artemis.
+
+A Iniciativa de Mercados Sustentáveis concluiu um importante estudo de viabilidade para a criação de um veículo soberano de resseguro mútuo voltado para os países da Commonwealth. O projeto, denominado Commonwealth Mutual, tem a intenção de ajudar as nações membros a gerenciarem de maneira mais eficiente a sua exposição financeira a eventos climáticos extremos e desastres naturais recorrentes. De acordo com a Reinsurance News, a proposta foi estruturada por uma coalizão do setor privado estabelecida no ano de dois mil e vinte.
+
+A corretora de resseguros Aon anunciou oficialmente a renovação bem-sucedida do seu acordo de facilidade de tratados com uma importante expansão para o próximo ciclo. A partir de primeiro de janeiro de dois mil e vinte e sete, a estrutura passará a permitir trinta e cinco por cento de co-seguro em negócios elegíveis que sejam alocados no centro global de corretagem da empresa. A notícia sobre a ampliação da facilidade de resseguro facultativo foi publicada pela Insurance Journal.
+
+A startup de seguros Kalepa conseguiu levantar setenta e cinco milhões de dólares em uma nova rodada de investimentos, alcançando assim uma avaliação de mercado estimada em quatrocentos e setenta milhões de dólares. O aporte financeiro reflete a forte aposta de investidores em soluções baseadas em inteligência artificial para acelerar os processos complexos de precificação de riscos e emissão de apólices. Segundo a Insurance Journal, a rodada de captação foi liderada com destaque pela empresa de capital de crescimento Updata Partners.
+
+### Clima e Meio Ambiente
+
+Seguindo com as atualizações do dia, passamos agora para a cobertura de Clima e Meio Ambiente. Vamos conferir os principais fatos e desdobramentos que movimentam o cenário nacional e internacional nesta sexta-feira.
+
+No cenário legislativo brasileiro, a Comissão de Meio Ambiente poderá debater o projeto que cria o Estatuto do Ribeirinho antes de sua votação oficial. A proposta busca estabelecer diretrizes para a proteção dos direitos dessas comunidades tradicionais em todo o país. Segundo o Senado Federal, parlamentares defendem definir com precisão quem são os ribeirinhos para garantir a preservação ambiental e social.
+
+Mudando de assunto para a saúde pública na região amazônica, a Fundação Oswaldo Cruz publicou uma nota técnica com recomendações para reduzir os riscos da exposição à fumaça das queimadas. O documento reúne orientações práticas para residências, escolas, locais de trabalho e unidades de saúde. De acordo com veículos especializados, a medida visa proteger a população vulnerável diante da poluição do ar.
+
+Ainda sobre o território nacional, o governo brasileiro busca atrair investimentos em centros de dados e inteligência artificial, mas a expansão ocorre sem garantias ambientais consolidadas. Em São Paulo, um dos maiores data centers do país surge sem exigências claras de proteção aos recursos hídricos. Conforme análises recentes, o crescimento digital exige maior atenção ao uso energético sustentável.
+
+Cruzando as fronteiras rumo ao cenário global, cerca de noventa milhões de pessoas deslocadas à força no mundo vivem em países altamente expostos a perigos climáticos. A informação foi divulgada pela agência da Organização das Nações Unidas para Refugiados, que alerta sobre o impacto de secas e inundações. Segundo a imprensa internacional, o cenário dificulta soluções duradouras para essas populações vulneráveis.
+
+Em paralelo, governos de todo o mundo se preparam para a Conferência das Nações Unidas sobre Mudanças Climáticas, a COP trinta e um, sediada na Turquia. Eletrificação, transição dos combustíveis fósseis e adaptação aos impactos globais são os temas centrais do evento. De acordo com portais de notícias climáticas, o encontro busca construir consensos entre economias desenvolvidas e em desenvolvimento.
+
+Ainda no continente asiático, as emissões de dióxido de carbono na China registraram queda de mais de três por cento no terceiro trimestre do ano. Trata-se da maior redução desde o período da pandemia de Covid-19, impulsionada por fatores econômicos e energéticos globais. Segundo análises especializadas, a retração reflete mudanças importantes na matriz industrial do país asiático.
+
+Seguindo na Ásia, a Administração Meteorológica da Coreia do Sul informou que o fenômeno El Niño mais forte já registrado deve afetar o inverno no país. A previsão indica condições mais amenas e úmidas, com fluxo de ar quente e maior volume de precipitações. Conforme veículos locais, o cenário pode trazer variações bruscas com a entrada temporária de massas de ar frio.
+
+Por fim, nos Estados Unidos, resultados eleitorais recentes mostraram vitórias democratas em estados como o Arizona, impulsionadas por pautas de água e energia. Analistas apontam que a mudança no controle de legislaturas estaduais pode transformar políticas ambientais locais. De acordo com a imprensa especializada, essas regiões enfrentam desafios crescentes com calor extremo e seca prolongada.
+
+### Tecnologia
+
+Seguimos agora com as principais atualizações do setor de tecnologia e inovação no Brasil e no mundo. Acompanhe os desdobramentos de mercado, as novas regulamentações e os impactos da inteligência artificial na sociedade.
+
+No cenário nacional, o projeto de lei que estabelece punições severas para quem registra sem autorização a intimidade sexual de outra pessoa avançou no Senado Federal brasileiro. A proposta, identificada como o projeto de lei quatro mil novecentos e vinte e quatro de doisುತ್ತೇನೆ e vinte e três, recebeu um parecer favorável da Comissão de Ciência e Tecnologia. Agora, o texto segue para uma nova análise na Comissão de Constituição e Justiça e Cidadania da casa legislativa, conforme informou a Agência Senado.
+
+Passando para o continente europeu, a Comissão Europeia adotou oficialmente o programa de trabalho do Conselho Europeu de Inovação para o ano de dois mil e vinte e sete. A iniciativa vai liberar um bilhão e oitocentos milhões de euros para apoiar pesquisadores e empreendedores de tecnologia de ponta em toda a Europa. O objetivo principal é fortalecer a competitividade regional e financiar projetos altamente tecnológicos que possam transformar o mercado global, de acordo com a Comissão Europeia.
+
+Nos Estados Unidos, pais na Carolina do Norte decidiram abrir um processo judicial contra o Google após a filha de treze anos passar meses discutindo pensamentos suicidas com ferramentas de inteligência artificial. A interação ocorreu em um notebook fornecido pela própria escola, o que reacendeu o debate sobre os riscos e os limites da tecnologia aplicada à educação de menores de idade, segundo reportou o Insurance Journal.
+
+Ainda nas relações internacionais, a aliança de defesa entre Estados Unidos e Israel passará por uma profunda reestruturação nos próximos dois anos. Bilhões de dólares em ajuda militar direta que Israel recebe anualmente serão encerrados de forma gradual. Em troca, os governos vão priorizar programas conjuntos voltados para o desenvolvimento de tecnologia militar avançada, conforme destacou o South China Morning Post.
+
+O mercado financeiro asiático também sentiu o impacto da política internacional e das decisões recentes nos Estados Unidos. As bolsas de valores na Ásia registraram quedas expressivas, com destaque para as perdas em Seul e Tóquio, após uma onda de vendas em Wall Street. Os investidores reagiram com forte preocupação aos temores de que a vitória democrata nas eleições de meio de mandato resulte em regras mais rígidas para o setor de inteligência artificial, segundo a rede France 24.
+
+Na mesma linha de preocupação regulatória, a empresa Meta emitiu um alerta oficial sobre os rumos do setor tecnológico. A companhia apontou que a crescente oposição política e comunitária contra a construção de novos centros de dados pode ameaçar futuros investimentos em inteligência artificial. Comunidades em várias regiões têm resistido à instalação de grandes estruturas de infraestrutura digital, de acordo com as informações divulgadas pelo TechCrunch Artificial Intelligence.
+
+Voltando aos Estados Unidos, o mercado de robótica ganhou um novo capítulo com a estreia da Agility Robotics na bolsa de valores Nasdaq. A empresa norte-americana, reconhecida como uma das líderes na implantação de robôs humanoides, abriu seu capital para investidores públicos. O movimento atrai intensa atenção e escrutínio do mercado financeiro sobre a viabilidade e o crescimento do setor de robôs humanoides, conforme avaliou o Ars Technica.
+
+Para encerrar este bloco, uma investigação conduzida pelo parlamento britânico revelou que o Reino Unido está perigosamente dependente da China no fornecimento de minerais críticos. Esses materiais são indispensáveis para a fabricação de equipamentos de defesa, infraestrutura de energia renovável e sistemas de inteligência artificial. Os parlamentares britânicos fizeram um apelo urgente para a criação de uma política centralizada e de um fundo financeiro voltado para diversificar a extração desses recursos, segundo o jornal The Guardian.
+
+### Inteligência Artificial
+
+Seguimos agora com os principais desdobramentos e notícias sobre a inteligência artificial ao redor do planeta nesta sexta-feira.
+
+No cenário nacional, a inteligência artificial já marca presença em diferentes operações do mercado de seguros brasileiro, mas especialistas apontam que sua adoção isolada não garante uma transformação real nas companhias. Para aproveitar todo o potencial tecnológico, as empresas precisam organizar dados, integrar sistemas e rever processos de tomada de decisão. O debate ocorreu durante o painel dedicado à inteligência artificial no setor, conforme foi divulgado pelo portal especializado CQCS e também pela Revista Apólice.
+
+Ainda no campo da tecnologia voltada para criadores de conteúdo, o Google anunciou oficialmente o lançamento do modelo Gemini Omni 1.2 Flash, desenvolvido especificamente para a criação de vídeos de até quinze segundos. A nova ferramenta traz melhorias na qualidade visual e oferece um controle muito mais preciso de tempo, além de permitir ajustes rápidos por meio de comandos de texto ou voz, de acordo com as informações publicadas pelo portal Tecnoblog.
+
+Em âmbito global, a cultura foi apontada como um elemento fundamental de preservação e identidade diante do avanço tecnológico. Durante uma cimeira regional realizada em Madri, o secretário-geral das Nações Unidas, António Guterres, destacou a cultura ibero-americana como uma verdadeira superpotência cultural. Segundo a ONU News, Guterres ressaltou que a arte, a empatia e as humanidades representam a maior força para o futuro no ambiente digital.
+
+Passando para os Estados Unidos, a política local começou a influenciar diretamente o mercado global de tecnologia e infraestrutura digital. A recente vitória dos democratas nas eleições de meio de mandato gerou forte preocupação entre investidores e grandes empresas de tecnologia. De acordo com a agência France 24 e com reportagens do South China Morning Post, analistas financeiros alertam que uma onda de novas regulamentações e propostas de moratória pode paralisar até trinta por cento dos projetos de centros de dados planejados no país.
+
+Essa incerteza regulatória vinda do território norte-americano teve reflexos imediatos nos mercados financeiros da Ásia. As bolsas de valores de Tóquio e Seul registraram perdas expressivas na abertura das negociações, impulsionadas pelo pessimismo global em relação ao setor tecnológico. O South China Morning Post e a Deutsche Welle informam que o índice Nikkei despencou fortemente, enquanto o mercado sul-coreano precisou acionar mecanismos de interrupção temporária após quedas superiores a oito por cento.
+
+Na Europa, a corrida bilionária pelos investimentos em inteligência artificial também gera preocupações de natureza econômica. Gigantes tecnológicas dos Estados Unidos continuam emitindo bilhões em títulos financeiros, inclusive na moeda europeia, para financiar a expansão de sua infraestrutura. Segundo a DW Brasil, essa movimentação acirra a concorrência direta com governos europeus que enfrentam dificuldades fiscais, elevando os custos gerais de captação de crédito e o valor do dinheiro na região.
+
+Ainda nos Estados Unidos, o uso de inteligência artificial em ambientes educacionais voltou a ser alvo de questionamentos judiciais graves. Pais de uma adolescente de treze anos entraram com uma ação contra o Google na Carolina do Norte. Conforme noticiado pelo Insurance Journal, a jovem passou meses debatendo pensamentos suicidas com ferramentas de inteligência artificial em um computador portátil fornecido pela escola, levantando debates urgentes sobre a segurança dos estudantes.
+
+Fechando o panorama de inovação empresarial, o setor de seguros internacional tem buscado na tecnologia formas de otimizar custos e ampliar lucros. A empresa Lemonade registrou um lucro bruto trimestral recorde de cento e dezoito milhões e cem mil dólares no terceiro trimestre, impulsionada por modelos automatizados. Ao mesmo tempo, no mercado europeu, a seguradora MS Amlin lançou uma ferramenta baseada em inteligência artificial para agilizar a leitura e a revisão de contratos contratuais complexos, segundo os registros do portal Reinsurance News.
+
+### Saúde
+
+Abrimos agora o nosso bloco de saúde nesta sexta-feira com novidades importantes para o sistema público brasileiro e atualizações sobre o cenário global. Vamos aos detalhes das principais informações que movimentam a área médica nas últimas vinte e quatro horas.
+
+A Câmara dos Deputados aprovou medidas para fortalecer a educação em saúde no Sistema Único de Saúde, direcionando o foco para o ambiente familiar. O projeto busca prevenir o surgimento de enfermidades e promover hábitos saudáveis diretamente no núcleo das comunidades de todo o país. Com essa aprovação na Câmara, a proposta agora segue para análise do Senado Federal, onde deve ser debatida pelos parlamentares nas próximas semanas. A medida é considerada essencial por especialistas para desafogar os postos de atendimento e melhorar a qualidade de vida da população a longo prazo, segundo a Agência Câmara.
+
+Ainda no âmbito legislativo voltado para o sistema público, uma comissão da Câmara aprovou a criação de um programa específico de atendimento domiciliar de saúde voltado para a população idosa. A iniciativa visa garantir que pessoas da terceira idade recebam acompanhamento médico adequado no conforto de seus lares, reduzindo internações prolongadas e os riscos de infecções hospitalares. O texto do projeto continua em tramitação na Casa para receber novas emendas antes de avançar para outras etapas de votação. A proposta reforça a necessidade de adaptar os serviços públicos ao envelhecimento acelerado da população brasileira, de acordo com a Agência Câmara.
+
+Passando para o cenário epidemiológico, os casos de mpox registraram um crescimento expressivo na cidade do Rio de Janeiro durante os meses de setembro e outubro. Diante desse avanço rápido das infecções na capital fluminense, o Ministério da Saúde autorizou a compra de até vinte mil doses de vacinas para reforçar os estoques do Sistema Único de Saúde. A imunização é vista pelas autoridades sanitárias como a principal ferramenta para conter a propagação do vírus e proteger os grupos mais vulneráveis. As autoridades reforçam os cuidados e orientam a população a buscar atendimento médico aos primeiros sintomas, conforme informou o portal G1.
+
+Ainda nos destaques nacionais de saúde, uma investigação do Ministério Público revelou um esquema criminoso envolvendo a venda de medicamentos falsificados contra o câncer para hospitais. Uma distribuidora investigada no caso repassou cerca de dois milhões e novecentos mil reais para a empresa de um dos suspeitos que acabou preso durante a operação policial. Além disso, os dados apontam que o mesmo investigado abriu uma holding patrimonial de quinhentos mil reais após a primeira fase das investigações. O caso causa forte indignação ao expor fraudes em tratamentos vitais para pacientes oncológicos, segundo divulgou o G1.
+
+Olhando para o cenário internacional, a Organização das Nações Unidas anunciou que duas novas vacinas candidatas contra o Ebola serão integradas a um ensaio clínico na República Democrática do Congo. O país enfrenta atualmente um surto mortal provocado pela espécie Bundibugyo do vírus, o que exige respostas rápidas da comunidade científica global. Os testes adicionais representam uma esperança para conter a disseminação da doença e proteger os profissionais de saúde e moradores da região afetada. A iniciativa faz parte dos esforços contínuos de agências internacionais para conter emergências sanitárias graves, de acordo com a ONU News.
+
+Ainda sobre crises humanitárias e impactos na saúde pública global, dados divulgados pela Organização das Nações Unidas mostram que os ataques contra sistemas de água e saneamento em zonas de conflito triplicaram entre dois mil e vinte um e dois mil e vinte cinco. Essa destruição sistemática de infraestrutura essencial coloca milhões de crianças em risco elevado de exposição a surtos de doenças infecciosas e desnutrição grave. Organizações humanitárias exigem maior proteção internacional para civis e redes de saneamento em áreas conflagradas no mundo, segundo informou a ONU News.
+
+Nos Estados Unidos, o uso crescente de inteligência artificial por profissionais de saúde tem gerado debates intensos sobre a privacidade e a segurança de dados de pacientes. Centenas de milhares de médicos têm recorrido a chatbots para auxiliar em decisões clínicas complexas do dia a dia, desafiando as regras de compliance e sigilo médico. Os sistemas de saúde americanos agora avaliam se devem proibir essas ferramentas tecnológicas ou investir em licenças oficiais corporativas para garantir proteção jurídica. O avanço tecnológico impõe novas discussões regulatórias urgentes para o setor médico, conforme apontou o portal STAT News.
+
+Fechando este bloco de saúde, o setor de biotecnologia na Ásia registra expansão com startups biomédicas de Singapura direcionando suas operações para a China. O objetivo dessas empresas é aproveitar a vasta rede hospitalar e o grande volume de pacientes no país vizinho para acelerar o desenvolvimento de terapias inovadoras contra o câncer e o diabetes. No entanto, analistas apontam que as companhias precisam navegar com cautela por um ecossistema regulatório complexo e em constante transformação para garantir a viabilidade dos tratamentos, segundo o Channel NewsAsia.
+
+### Cultura
+
+Seguimos agora para a nossa editoria de cultura e variedades, trazendo os principais acontecimentos que movimentam a cena artística e legislativa no Brasil e no exterior.
+
+A Câmara dos Deputados aprovou um projeto de lei de grande relevância para a valorização das tradições brasileiras que reconhece oficialmente o artesanato do Maranhão como manifestação da cultura nacional. A proposta busca dar maior visibilidade aos saberes tradicionais e aos criadores locais que mantêm viva a identidade da região norte e nordeste do país. Com a aprovação na Câmara dos Deputados, o texto regulamentar segue agora para a devida análise e votação no Senado Federal, segundo informou a Agência Câmara.
+
+Saindo do país e cruzando o oceano até a Europa, o desarraigo, a memória e as marcas profundas do exílio venezuelano ganharam uma representação artística na França. As artistas Oleñka Carrasco e La Chica uniram seus talentos em uma instalação inersiva apresentada na Normandia que combina elementos de fotografia e música. A exposição propõe um percurso sensorial profundo que evoca as paisagens, as tradições e as lembranças marcantes da identidade da Venezuela, de acordo com a publicação da France 24 América Latina.
+
+Ainda no continente europeu, mas tratando de grandes iniciativas urbanísticas e científicas na Espanha, o astronauta canadense Jeremy Hansen chamou a atenção pública ao apoiar um projeto inovador. O tripulante que voou na missão Artemis 2 revelou detalhes de sua aposta para uma cidade inteligente na região de Madri que contará com doze mil residências de luxo construídas ao redor de uma réplica gigante do satélite natural da Terra. Trata-se de um empreendimento ambicioso que mistura inovação espacial e desenvolvimento imobiliário, conforme destacou o jornal El País América.
+
+A programação de eventos e os acontecimentos que movimentam a Europa também ganharam destaque na cobertura diária da imprensa internacional. A emissora Euronews divulgou o seu boletim matinal regular reunindo as principais histórias de interesse geral sobre política, entretenimento e cultura que repercutem no continente europeu e em outras regiões do planeta. O material serve como panorama para acompanhar as atualizações diárias dos principais tópicos de relevância internacional, segundo a Euronews.
+
+Voltando o olhar para o continente asiático, a tecnologia voltada para a aviação civil e a experiência de passageiros esteve em evidência esta semana. A operadora estatal do Aeroporto Internacional de Incheon participou de um grande evento voltado ao setor na Ásia para exibir inovações em infraestrutura inteligente. A movimentação teve como principal objetivo estratégico a conquista de novos mercados internacionais e a expansão dos negócios da Coreia do Sul no exterior, de acordo com as informações do Korea Herald.
+
+Ainda na Coreia do Sul, o setor de cosméticos e cuidados pessoais conhecido como K-beauty continua a registrar um forte avanço nas exportações internacionais, embora grandes marcas enfrentem desafios recentes. Enquanto algumas companhias registraram saltos expressivos nas vendas e no lucro operacional trimestral impulsionadas pela demanda externa, o cenário econômico do setor apresenta pontos de atenção para os próximos meses, conforme apontou o jornal Korea Herald.
+
+Encerrando as novidades da nossa editoria de cultura e tecnologia, o ecossistema de inovação nos Estados Unidos registrou um novo incentivo financeiro voltado para a pesquisa avançada. Uma nova empresa apoiada por programas de aceleração direcionou um milhão de dólares para premiar soluções para cinco problemas ainda não resolvidos na ciência dos materiais aplicada à inteligência artificial. A iniciativa busca incentivar avanços que permitam aos modelos de computação compreender melhor a física complexa dos materiais avançados, segundo o portal TechCrunch AI.
+
+### Checagem de fatos
+
+Abrimos agora o nosso espaço dedicado à apuração de fatos e checagens importantes que circulam pelas redes sociais e pelos corredores institucionais do Brasil e do mundo.
+
+Para começar nossa rodada de verificações, vamos até a capital federal, onde a conferência internacional Mulheres que movem a justiça reuniu comunicadoras e autoridades até esta sexta-feira em Brasília. Durante os debates, as participantes defenderam com veemência a articulação de redes de apoio entre mulheres como estratégia fundamental para combater o machismo estrutural e ampliar de vez a participação feminina nos espaços de poder e decisão. O evento promoveu discussões profundas sobre a construção de uma justiça mais igualitária e acessível em todo o território nacional. Segundo as organizadoras do encontro e de acordo com a Agência Brasil, os profissionais que atuam diretamente na produção e veiculação de informações também precisam assumir um papel ativo na formação dessas parcerias, ajudando a dar visibilidade às pautas femininas e fortalecendo o debate público com responsabilidade e compromisso social.
+
+Cruzando o oceano e olhando para o cenário internacional, a Comissão Europeia destacou que a Europa está atravessando um momento de profunda transformação estrutural que vai definir as próximas gerações no continente. O avanço acelerado da inteligência artificial está mudando drasticamente a forma como as pessoas trabalham, produzem e aprendem nas escolas e universidades. Ao mesmo tempo, a propagação desenfreada de informações falsas continua testando a resiliência das instituições democráticas e da sociedade europeia. Para enfrentar esses desafios, a vice-presidente executiva Roxana Mînzatu apresentou um pacote abrangente focado em educação e capacitação de habilidades técnicas essenciais. De acordo com os pronunciamentos oficiais divulgados pela Comissão Europeia em Bruxelas, o objetivo principal dessa iniciativa é preparar os cidadãos para o mercado de trabalho do futuro e garantir que a tecnologia seja usada com segurança e transparência em benefício de todos.
+
+Voltando ao Brasil e entrando no universo das checagens de conteúdos virais, plataformas de verificação precisaram desmentir um vídeo antigo que voltou a circular com legendas enganosas nas redes sociais. As imagens mostram um grupo de pessoas coletando alimentos de dentro de um caminhão de lixo, mas o contexto temporal foi totalmente distorcido por quem compartilhou o material. Conforme esclareceram em conjunto o G1 Fato ou Fake e a Agência Lupa, o vídeo original foi gravado em outubro de dois mil e vinte e uma, na cidade de Fortaleza, no Ceará, durante o período mais crítico da pandemia de covid-19 e sob a gestão do então presidente Jair Bolsonaro. Portanto, é completamente falso que a cena tenha ocorrido durante o atual governo do presidente Luiz Inácio Lula da Silva, mostrando mais uma vez a tentativa de manipular o sentimento público através do uso descontextualizado de imagens do passado.
+
+Ainda no campo dos golpes virtuais que tentam enganar a população brasileira, uma mensagem falsa voltou a se espalhar rapidamente através do aplicativo de mensagens WhatsApp nos últimos dias. O texto fraudulento utiliza elementos visuais que imitam os canais de comunicação oficiais do governo federal para atrair vítimas desavisadas. A publicação promete a liberação de um suposto benefício financeiro batizado de Auxílio Reconstrução dois mil e vinte e seis, no valor exato de mil e cinquenta reais, condicionado ao clique em um link externo duvidoso. Segundo o monitoramento realizado pela equipe do G1 Fato ou Fake, trata-se de um golpe cibernético clássico cujo único objetivo é roubar dados pessoais e bancários de cidadãos que buscam algum tipo de assistência financeira do poder público.
+
+Outro foco de boatos que preocupou beneficiários da previdência social nas redes sociais envolveu diretamente o Instituto Nacional do Seguro Social. Publicações compartilhadas no fim de outubro em plataformas como o X e o Instagram afirmavam categoricamente que o órgão iria bloquear o pagamento de benefícios de quem não atualizasse a biometria até o mês de novembro de dois mil e vinte e seis. De acordo com a apuração realizada pelo G1 Fato ou Fake, essa informação não tem nenhum fundo de verdade e é classificada como falsa. O Instituto Nacional do Seguro Social esclareceu oficialmente que jamais realiza o cancelamento ou o bloqueio de benefícios que já foram concedidos aos cidadãos apenas por falta de cadastramento biométrico, tranquilizando assim milhões de aposentados e pensionistas em todo o país.
+
+Mudando o foco para o cenário político internacional, mais precisamente nos Estados Unidos, uma checagem recente colocou luz sobre boatos disseminados após o processo eleitoral norte-americano. Circulou com força na internet a narrativa falsa de que o Partido Republicano teria conseguido conquistar a maioria absoluta na Câmara dos Deputados dos Estados Unidos no pleito de dois mil e vinte e seis. Conforme os dados oficiais verificados e divulgados pela Agência Lupa, a alegação não passa de uma mentira inventada para confundir o eleitorado. Na realidade, o Partido Democrata obteve um desempenho expressivo nas urnas e conquistou mais de duzentos e dezoito assentos na Casa, garantindo com folga o número necessário de cadeiras para assegurar o controle e a maioria legislativa no Congresso norte-americano.
+
+Para encerrar nossa editoria de checagem de fatos nesta sexta-feira, voltamos a atenção para as recentes alegações infundadas sobre o sistema eleitoral brasileiro. Grupos na internet começaram a espalhar a teoria conspiratória de que a suposta existência de oito milhões de votos computados sem a identificação por biometria comprovaria uma fraude generalizada nas eleições do país. Segundo o rigoroso levantamento técnico feito pela Agência Lupa, essa tese é totalmente falsa e desprovida de qualquer embasamento legal ou técnico. A legislação eleitoral estabelece claramente que a ausência de biometria na hora da votação não tem o condão de invalidar o voto do cidadão, visto que todo o processo de identificação conta com mecanismos rígidos de checagem de documentos e assinaturas, o que impede de forma absoluta qualquer tentativa de fraude ou votação indevida em nome de pessoas falecidas ou ausentes.
+
+### Resumo e agenda
+
+Chegamos ao final de mais uma edição do Brasil e Mundo Hoje. Vamos relembrar os cinco pontos mais importantes de hoje.
+
+O presidente Luiz Inácio Lula da Silva anunciou que vai editar uma medida provisória para criar o Ministério da Segurança Pública, segundo a Agência Brasil e o Estadão.
+
+No Paraguai, o presidente Santiago Peña renunciou ao cargo após a abertura de um processo de impeachment, conforme a France 24 América Latina.
+
+No mercado corporativo, o Grupo Porto registrou um lucro líquido recorrente de setecentos e treze milhões de reais no terceiro trimestre de dois mil e vinte e seis, de acordo com a Revista Apólice.
+
+No esporte, o jogador Cristiano Ronaldo anunciou a sua aposentadoria da seleção portuguesa de futebol.
+
+E na saúde, o Ministério da Saúde autorizou a compra de vacinas contra a mpox para reforçar os estoques do Sistema Único de Saúde no Rio de Janeiro.
+
+Nas próximas horas, acompanhe os desdobramentos da articulação política em torno da mesa diretora na Câmara dos Deputados e a repercussão da crise institucional no Paraguai.
+
+Lembrando que o nosso boletim é publicado todos os dias, às seis horas da manhã. Continue acompanhando nossa programação. Até logo.
+
+</details>
