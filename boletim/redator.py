@@ -16,12 +16,15 @@ import urllib.error
 import urllib.request
 
 from .coletor import Noticia
+from .idioma import limpar_resumo, limpar_titulo, noticia_estrangeira, so_portugues
 from .util import log
 
 SISTEMA = """Você é editor-chefe e locutor do boletim diário "{titulo}", um jornal em áudio e vídeo em português do Brasil.
 Regras inegociáveis:
 - Use SOMENTE os fatos presentes nas notícias fornecidas. Não invente números, nomes, datas ou declarações.
-- Traduza para português do Brasil o conteúdo em outros idiomas.
+- TODO o texto (títulos, resumos e roteiro) é em português do Brasil. Notícias em inglês ou outro idioma devem ser
+  TRADUZIDAS e reescritas em português; nunca copie frases, títulos ou citações no idioma original. Mantenha apenas
+  nomes próprios (pessoas, empresas, veículos) como são.
 - Atribua a informação à fonte ("segundo a Agência Brasil", "de acordo com a ONU News").
 - Tom jornalístico, sóbrio e imparcial; diferencie fato de opinião; evite adjetivos de juízo.
 - Agrupe notícias sobre o mesmo assunto; priorize impacto para o público brasileiro, depois Europa, EUA e Ásia.
@@ -37,7 +40,7 @@ A seguir, {n} notícias coletadas nas últimas 24 horas (JSON). Produza a seçã
 
 Responda APENAS com um JSON válido neste formato:
 {{
-  "itens": [{{"titulo": "título curto em português", "texto": "resumo de 2 a 4 frases", "regiao": "brasil|europa|eua|asia|global", "fontes": ["nome da fonte"], "links": ["url"]}}],
+  "itens": [{{"titulo": "título curto em português", "texto": "resumo de 2 a 4 frases", "regiao": "brasil|latam|europa|eua|asia|global", "fontes": ["nome da fonte"], "links": ["url"]}}],
   "roteiro": "texto corrido para locução desta seção, começando com uma transição natural para a seção {secao}"
 }}
 Selecione de {min_itens} a {max_itens} itens mais relevantes.
@@ -115,6 +118,8 @@ class Redator:
         # "auto": usa o primeiro provedor com credencial disponível, nesta ordem
         ordem = ["anthropic", "gemini", "github"] if escolha == "auto" else [escolha]
         self.falhas_ia = 0
+        self.falhas_seguidas = 0
+        self.esgotados: set[str] = set()
         self.palavras_ia = [0, 0]  # [escritas pela IA, pedidas] para calibrar o fator de extensão
         self.intervalo = float(cfg.get("intervalo_ia_s", 8))
         self._ultima = 0.0
@@ -158,7 +163,7 @@ class Redator:
                 bruto = r.read().decode("utf-8", "replace")
                 status = r.status
         except urllib.error.HTTPError as e:
-            raise RuntimeError(f"HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:400]}") from e
+            raise RuntimeError(f"HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:3000]}") from e
         try:
             return json.loads(bruto)["choices"][0]["message"]["content"]
         except (json.JSONDecodeError, KeyError, IndexError) as e:
@@ -166,8 +171,11 @@ class Redator:
 
     def _chamar(self, pedido: str, max_tokens: int = 4000) -> dict:
         sistema = SISTEMA.format(titulo=self.cfg["titulo"])
-        modelos = self._modelos()
         for tentativa in range(4):
+            # modelos com a cota DIÁRIA esgotada ficam de fora até o fim da execução (não adianta insistir)
+            modelos = [m for m in self._modelos() if m not in self.esgotados]
+            if not modelos:
+                raise RuntimeError("cota diária esgotada em todos os modelos")
             espera = self.intervalo - (time.monotonic() - self._ultima)
             if espera > 0:  # respeita o limite por minuto das camadas gratuitas
                 time.sleep(espera)
@@ -177,9 +185,15 @@ class Redator:
             try:
                 texto = self._texto(sistema, pedido, max_tokens, modelo)
             except Exception as e:  # noqa: BLE001  (limite de uso, rede etc.)
-                log.warning("Erro na IA (tentativa %d, %s): %s", tentativa + 1, modelo, str(e)[:200])
-                base = 30 if "HTTP 429" in str(e) else (5 if len(modelos) > 1 else 30)
-                time.sleep(base * (tentativa + 1))  # 503/429 de alta demanda costumam passar em minutos
+                erro = str(e)
+                log.warning("Erro na IA (tentativa %d, %s): %s", tentativa + 1, modelo, erro[:200])
+                if "HTTP 429" in erro and re.search(r"PerDay|per day|daily", erro, re.I):
+                    log.warning("Cota diária do modelo %s esgotada; seguindo com os demais.", modelo)
+                    self.esgotados.add(modelo)
+                    continue
+                pedida = re.search(r'"retryDelay":\s*"(\d+)', erro)  # o Gemini informa quanto esperar
+                base = 30 if "HTTP 429" in erro else (5 if len(modelos) > 1 else 30)
+                time.sleep(min(int(pedida.group(1)) + 2, 120) if pedida else base * (tentativa + 1))
                 continue
             try:
                 return _extrair_json(texto)
@@ -197,7 +211,7 @@ class Redator:
         p_secao = int((total_palavras - p_abertura - p_fim) / max(len(miolo), 1))
 
         fator = float(self.cfg.get("fator_extensao") or 1.0)  # aprendido em estado.json
-        segmentos = []
+        segmentos, pendentes = [], []
         for s in secoes:
             itens = grupos.get(s["id"], [])
             if s["id"] == "encerramento":
@@ -206,45 +220,45 @@ class Redator:
                 log.warning("Seção %s sem notícias; pulando.", s["id"])
                 continue
             orcamento = p_abertura if s["id"] == "destaques" else p_secao
-            if self.cliente and self.falhas_ia < 2:  # disjuntor: após 2 falhas, segue sem IA
-                if s["id"] == "destaques":
-                    pedido = PEDIDO_ABERTURA.format(data=data_extenso, titulo=self.cfg["titulo"],
-                                                    palavras=int(p_abertura * fator), noticias=_json_noticias(itens))
-                else:
-                    pedir = int(p_secao * fator)
-                    pedido = PEDIDO_SECAO.format(data=data_extenso, secao=s["titulo"], n=len(itens),
-                                                 palavras=pedir, min_itens=7, max_itens=10,
-                                                 por_item=max(60, pedir // 9), noticias=_json_noticias(itens))
-                try:
-                    conteudo = _normalizar(self._chamar(pedido))
-                    if not conteudo["roteiro"]:
-                        raise RuntimeError("resposta sem roteiro")
-                except RuntimeError as e:
-                    log.error("IA indisponível na seção %s (%s); usando modo extrativo.", s["id"], e)
-                    self.falhas_ia += 1
-                    conteudo = self._extrativo(s, itens, data_extenso, orcamento)
-                if not conteudo.get("_extrativo"):
-                    self.palavras_ia[0] += len(conteudo["roteiro"].split())
-                    self.palavras_ia[1] += orcamento
-                revisar = self.cfg.get("revisao_ia", "auto")
-                revisar = (self.provedor == "anthropic") if revisar == "auto" else bool(revisar)
-                if revisar and not conteudo.get("_extrativo"):
-                    try:
-                        revisado = _normalizar(self._chamar(PEDIDO_REVISAO.format(
-                            noticias=_json_noticias(itens), gerado=json.dumps(conteudo, ensure_ascii=False))))
-                        if revisado.get("roteiro") and len(revisado["roteiro"]) > 0.6 * len(conteudo["roteiro"]):
-                            conteudo = revisado
-                    except RuntimeError as e:
-                        log.warning("Revisão da seção %s falhou; mantendo versão original: %s", s["id"], e)
-            else:
+            conteudo = None
+            if self.cliente and self.falhas_seguidas < 2:  # disjuntor: após 2 falhas seguidas, deixa para a repescagem
+                conteudo = self._secao_ia(s, itens, data_extenso, orcamento, p_secao, fator)
+            if conteudo is None:
                 conteudo = self._extrativo(s, itens, data_extenso, orcamento)
-            conteudo = self._completar(s, conteudo, itens, orcamento)
-            log.info("Seção %-12s %4d palavras", s["id"], len(conteudo["roteiro"].split()))
-            segmentos.append({**s, **conteudo})
+                if self.cliente:
+                    pendentes.append(len(segmentos))
+            segmentos.append({**s, **conteudo, "_itens_fonte": itens, "_orcamento": orcamento})
+
+        # Repescagem: a cota gratuita do Gemini costuma voltar em minutos (503/429). Em vez de publicar seções
+        # extrativas, espera e tenta de novo (o workflow começa horas antes das 6h, há tempo de sobra).
+        for espera in (self.cfg.get("repescagem_ia_s") or []) if pendentes else []:
+            log.info("Repescagem da IA em %ds para %d seções: %s", espera, len(pendentes),
+                     ", ".join(segmentos[k]["id"] for k in pendentes))
+            time.sleep(espera)
+            self.falhas_seguidas = 0
+            for k in list(pendentes):
+                seg = segmentos[k]
+                conteudo = self._secao_ia(seg, seg["_itens_fonte"], data_extenso, seg["_orcamento"], p_secao, fator)
+                if conteudo is None:
+                    break
+                segmentos[k] = {**seg, **conteudo}
+                segmentos[k].pop("_extrativo", None)
+                pendentes.remove(k)
+            if not pendentes:
+                break
+
+        for k, seg in enumerate(segmentos):
+            itens, orcamento = seg.pop("_itens_fonte"), seg.pop("_orcamento")
+            conteudo = self._completar(seg, {c: seg[c] for c in ("itens", "roteiro", "_extrativo") if c in seg},
+                                       itens, orcamento)
+            seg.update(conteudo)
+            seg["roteiro"] = self._garantir_portugues(seg["id"], seg["roteiro"])
+            log.info("Seção %-12s %4d palavras%s", seg["id"], len(seg["roteiro"].split()),
+                     " (extrativo)" if seg.get("_extrativo") else "")
 
         fim = next((s for s in secoes if s["id"] == "encerramento"), None)
         if fim:
-            if self.cliente and not self.falhas_ia:
+            if self.cliente and self.falhas_seguidas < 2:
                 resumos = "\n".join(f"[{seg['titulo']}] " + " | ".join(i.get("titulo", "") + ": " + i.get("texto", "")
                                                                        for i in seg["itens"]) for seg in segmentos)
                 try:
@@ -258,11 +272,56 @@ class Redator:
                     conteudo = None
             else:
                 conteudo = None
-            if conteudo is None:
+            if conteudo is not None:
+                conteudo["roteiro"] = self._garantir_portugues("encerramento", conteudo["roteiro"])
+            if conteudo is None or not conteudo["roteiro"]:
                 conteudo = {"itens": [], "roteiro": f"Este foi o {self.cfg['titulo']} de {data_extenso}. "
                             "O próximo boletim será publicado amanhã, às seis da manhã. Até lá!"}
             segmentos.append({**fim, **conteudo})
         return segmentos
+
+    def _secao_ia(self, s: dict, itens: list[Noticia], data_extenso: str, orcamento: int, p_secao: int,
+                  fator: float) -> dict | None:
+        """Escreve a seção com a IA (e revisão, se ativa). Retorna None se a IA falhar."""
+        if s["id"] == "destaques":
+            pedido = PEDIDO_ABERTURA.format(data=data_extenso, titulo=self.cfg["titulo"],
+                                            palavras=int(orcamento * fator), noticias=_json_noticias(itens))
+        else:
+            pedir = int(p_secao * fator)
+            pedido = PEDIDO_SECAO.format(data=data_extenso, secao=s["titulo"], n=len(itens),
+                                         palavras=pedir, min_itens=7, max_itens=10,
+                                         por_item=max(60, pedir // 9), noticias=_json_noticias(itens))
+        try:
+            conteudo = _normalizar(self._chamar(pedido))
+            if not conteudo["roteiro"]:
+                raise RuntimeError("resposta sem roteiro")
+        except RuntimeError as e:
+            log.error("IA indisponível na seção %s (%s); usando modo extrativo por ora.", s["id"], e)
+            self.falhas_ia += 1
+            self.falhas_seguidas += 1
+            return None
+        self.falhas_seguidas = 0
+        self.palavras_ia[0] += len(conteudo["roteiro"].split())
+        self.palavras_ia[1] += orcamento
+        revisar = self.cfg.get("revisao_ia", "auto")
+        revisar = (self.provedor == "anthropic") if revisar == "auto" else bool(revisar)
+        if revisar:
+            try:
+                revisado = _normalizar(self._chamar(PEDIDO_REVISAO.format(
+                    noticias=_json_noticias(itens), gerado=json.dumps(conteudo, ensure_ascii=False))))
+                if revisado.get("roteiro") and len(revisado["roteiro"]) > 0.6 * len(conteudo["roteiro"]):
+                    conteudo = revisado
+            except RuntimeError as e:
+                log.warning("Revisão da seção %s falhou; mantendo versão original: %s", s["id"], e)
+        return conteudo
+
+    @staticmethod
+    def _garantir_portugues(secao: str, roteiro: str) -> str:
+        """Última barreira antes do TTS: nenhuma frase em inglês é lida (05/11/2026)."""
+        texto, removidas = so_portugues(roteiro)
+        if removidas:
+            log.warning("Seção %s: %d frase(s) em inglês removida(s) da locução.", secao, removidas)
+        return texto
 
     def _completar(self, s: dict, conteudo: dict, itens: list[Noticia], orcamento: int) -> dict:
         """Se a IA escreveu bem menos que o orçamento, completa com outras notícias reais da seção."""
@@ -275,25 +334,38 @@ class Redator:
         if not resto:
             return conteudo
         extra = self._extrativo(s, resto, "", faltam)
-        texto = extra["roteiro"].split(". ", 1)[1] if ". " in extra["roteiro"] else extra["roteiro"]
+        texto = extra["roteiro"].split("\n\n", 1)[1] if "\n\n" in extra["roteiro"] else ""
+        if not texto:
+            return conteudo
         log.info("Seção %s curta; completando com %d notícias extras.", s["id"], len(extra["itens"]))
         return {**conteudo, "itens": conteudo["itens"] + extra["itens"],
-                "roteiro": conteudo["roteiro"] + f" Outras notícias de {s['titulo'].lower()}. " + texto}
+                "roteiro": conteudo["roteiro"] + f"\n\nOutras notícias de {s['titulo'].lower()}.\n\n" + texto}
 
     # ------------------------------------------------------------ fallback
+    @staticmethod
+    def _par_extrativo(n: Noticia, resumo: str) -> str:
+        return f"{limpar_titulo(n.titulo)}, segundo {n.fonte}. {resumo}".strip()
+
     def _extrativo(self, s: dict, itens: list[Noticia], data_extenso: str, palavras: int = 0) -> dict:
-        # Sem IA, a meta de duração é atingida lendo mais notícias reais coletadas (no mínimo 8, se houver).
+        """Sem IA: lê notícias reais coletadas, só as que já estão em português (sem IA não há tradução), uma por
+        parágrafo, com o resumo limpo e cortado em frase completa. A meta de duração é buscada lendo mais notícias
+        (no mínimo 8, se houver)."""
         sel, total = [], 0
         for n in itens:
+            if noticia_estrangeira(n):
+                continue
             if len(sel) >= 8 and total >= palavras:
                 break
-            sel.append(n)
-            total += len(f"{n.fonte} {n.titulo} {n.resumo[:240]}".split()) + 1
-        lista = [{"titulo": n.titulo, "texto": (n.resumo[:300] or n.titulo), "regiao": n.regiao,
-                  "fontes": [n.fonte], "links": [n.link]} for n in sel]
+            resumo = limpar_resumo(n.resumo)
+            if resumo and resumo.rstrip(".").lower() in n.titulo.lower():
+                resumo = ""
+            sel.append((n, resumo))
+            total += len(self._par_extrativo(n, resumo).split())
+        lista = [{"titulo": limpar_titulo(n.titulo), "texto": r or n.titulo, "regiao": n.regiao,
+                  "fontes": [n.fonte], "links": [n.link]} for n, r in sel]
         if s["id"] == "destaques":
-            abertura = f"Bom dia! Este é o {self.cfg['titulo']}, edição de {data_extenso}. Os destaques de hoje. "
+            abertura = f"Bom dia! Este é o {self.cfg['titulo']}, edição de {data_extenso}. Os destaques de hoje."
         else:
-            abertura = f"Agora, {s['titulo']}. "
-        corpo = " ".join(f"Segundo {n.fonte}: {n.titulo}. {n.resumo[:240]}" for n in sel)
-        return {"itens": lista, "roteiro": abertura + corpo, "_extrativo": True}
+            abertura = f"Agora, {s['titulo']}."
+        pars = [self._par_extrativo(n, r) for n, r in sel]
+        return {"itens": lista, "roteiro": "\n\n".join([abertura, *pars]), "_extrativo": True}

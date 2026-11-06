@@ -19,10 +19,13 @@ duracao_alvo_min: 38             # entre 30 e 45 minutos
 palavras_por_minuto: 150         # valor inicial; o agente mede o ritmo real da voz e se recalibra (estado/estado.json)
 revisao_ia: auto                 # 2ª passada de checagem de fatos; auto = só no Claude (pago), para poupar a cota gratuita
 intervalo_ia_s: 8                # pausa mínima entre chamadas à IA (limites por minuto das camadas gratuitas)
+repescagem_ia_s: [90, 240, 600]  # se a IA cair, espera e tenta de novo as seções que ficaram sem IA (05/11/2026)
 
 voz_tts: "pt-BR-AntonioNeural"   # vozes edge-tts: pt-BR-AntonioNeural, pt-BR-FranciscaNeural, pt-BR-ThalitaMultilingualNeural
-voz_tts_secundaria: "pt-BR-ThalitaMultilingualNeural"  # voz mais expressiva; as seções alternam entre as duas
-voz_tts_reserva: "pt-BR-FranciscaNeural"   # usada se uma das vozes acima falhar
+# Só vozes monolíngues pt-BR: a Thalita *Multilingual* troca para sotaque/idioma inglês em trechos e nomes
+# estrangeiros, o que misturou idiomas na edição de 05/11/2026. As seções alternam entre as duas vozes.
+voz_tts_secundaria: "pt-BR-FranciscaNeural"
+voz_tts_reserva: "pt-BR-FranciscaNeural"   # se uma voz falhar, usa esta (ou a principal, se a que falhou for esta)
 velocidade_voz: "+0%"            # ritmo natural (antes +5%, que soava apressado)
 pausa_entre_blocos_s: 0.5        # respiro entre parágrafos/notícias na locução
 legendas: false                  # desde 05/11/2026 o vídeo sai sem legenda e sem arquivo de closed caption (.srt)

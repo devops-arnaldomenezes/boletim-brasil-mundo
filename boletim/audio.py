@@ -64,6 +64,16 @@ def _cues_estimados(texto: str, total: float) -> list[tuple[float, float, str]]:
     return cues
 
 
+def _cues_estimados_blocos(texto: str, total: float) -> list[tuple[float, float, str]]:
+    bs = blocos(texto)
+    pesos = [max(len(b.split()), 1) for b in bs]
+    soma, t, out = sum(pesos), 0.0, []
+    for b, p in zip(bs, pesos):
+        out.append((t, t + total * p / soma, b))
+        t += total * p / soma
+    return out
+
+
 def blocos(texto: str, max_palavras: int = 90) -> list[str]:
     """Divide o roteiro em blocos de respiração: um por parágrafo; parágrafos longos são agrupados por frases.
     Entre os blocos entra uma pausa curta, como um locutor que respira entre uma notícia e outra."""
@@ -106,9 +116,10 @@ def _tts_bloco(texto: str, vozes: list[str], mp3: Path, rate: str) -> list[tuple
 
 
 def sintetizar(texto: str, voz: str, mp3: Path, ppm: int = 150, rate: str = "+0%", pausa: float = 0.5,
-               voz_reserva: str | None = None) -> list[tuple[float, float, str]]:
+               voz_reserva: str | None = None, marcas: list | None = None) -> list[tuple[float, float, str]]:
     """Gera MP3 do texto (bloco a bloco, com pausas naturais e tratamento de voz).
-    Retorna legendas (inicio, fim, texto) em segundos."""
+    Retorna legendas (inicio, fim, texto) em segundos. Se `marcas` for uma lista, recebe (inicio, fim, texto) de
+    cada bloco falado, medidos no áudio real: é o que sincroniza as manchetes do vídeo com a locução."""
     vozes = [voz] + ([voz_reserva] if voz_reserva and voz_reserva != voz else [])
     partes, cues, t = [], [], 0.0
     try:
@@ -122,6 +133,8 @@ def sintetizar(texto: str, voz: str, mp3: Path, ppm: int = 150, rate: str = "+0%
                 partes.append(silencio)
                 t += pausa
             d = duracao(p)
+            if marcas is not None:
+                marcas.append((t, t + d, b))
             for ini, fim, frase in cb:  # legendas de frase muito longas são re-fatiadas proporcionalmente
                 cues += [(t + ini + a, t + ini + z, s) for a, z, s in _cues_estimados(frase, fim - ini)]
             partes.append(p)
@@ -132,10 +145,16 @@ def sintetizar(texto: str, voz: str, mp3: Path, ppm: int = 150, rate: str = "+0%
             "-c:a", "libmp3lame", "-b:a", "64k", str(mp3))
         for x in {*partes, silencio, lista}:
             x.unlink(missing_ok=True)
+        if marcas and t > 0:  # corrige a deriva do encadeamento de MP3 pela duração final real
+            k = duracao(mp3) / t
+            marcas[:] = [(a * k, z * k, b) for a, z, b in marcas]
         return cues or _cues_estimados(texto, duracao(mp3))
     except Exception as e:  # noqa: BLE001
         log.warning("TTS indisponível (%s). Gerando áudio silencioso de contingência.", e)
         segundos = max(len(texto.split()) / ppm * 60, 3)
+        if marcas is not None:  # sem áudio real, estima os blocos pelo número de palavras
+            marcas.clear()
+            marcas += _cues_estimados_blocos(texto, segundos)
         _ff("-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", f"{segundos:.2f}", "-q:a", "6", str(mp3))
         return _cues_estimados(texto, segundos)
 

@@ -85,11 +85,14 @@ def main(argv=None) -> int:
             if gerar_video and cfg.get("vinhetas_animadas", True) else {}
         for i, s in enumerate(segmentos):
             voz = cfg["voz_tts"] if i % 2 == 0 else cfg.get("voz_tts_secundaria", cfg["voz_tts"])
+            reserva = cfg.get("voz_tts_reserva")
+            reserva = cfg["voz_tts"] if reserva == voz else reserva  # a reserva nunca é a própria voz que falhou
             fala = trab / f"{i:02d}_{s['id']}_fala.mp3"
+            marcas: list = []
             cues = audio.sintetizar(s["roteiro"], voz, fala, cfg["palavras_por_minuto"],
                                     rate=cfg.get("velocidade_voz", "+0%"),
                                     pausa=float(cfg.get("pausa_entre_blocos_s", 0.5)),
-                                    voz_reserva=cfg.get("voz_tts_reserva"))
+                                    voz_reserva=reserva, marcas=marcas)
             dur_fala += audio.duracao(fala)
             seg_mp3 = trab / f"{i:02d}_{s['id']}.mp3"
             lista = trab / "_l.txt"
@@ -105,8 +108,11 @@ def main(argv=None) -> int:
             partes_audio.append(seg_mp3)
             if gerar_video:
                 mp4 = trab / f"{i:02d}_{s['id']}.mp4"
+                # manchetes sincronizadas com o áudio real (blocos medidos + duração da vinheta)
+                tempos = video.tempos_itens(s.get("itens") or [], [(a_ + dvin, b_ + dvin, t) for a_, b_, t in marcas],
+                                            d, inicio=dvin)
                 video.render_segmento(s, seg_mp3, srt, d, mp4, cfg["titulo"], data_ext, cfg["resolucao_video"],
-                                     vinheta=animadas.get(s["id"]), dur_vinheta=dvin)
+                                     vinheta=animadas.get(s["id"]), dur_vinheta=dvin, tempos=tempos)
                 partes_video.append(mp4)
             t0 += d
         dur_total = t0
