@@ -64,9 +64,12 @@ def main(argv=None) -> int:
     grupos = classificador.agrupar(noticias, [s["id"] for s in cfg["secoes"]], cfg["max_itens_por_secao"])
     redator = Redator(cfg)
     segmentos = redator.escrever(data_ext, grupos)
-    if not a.fixture:  # números e agenda do dia (APIs oficiais, sem IA); a fixture roda offline
-        dados.inserir(segmentos, dados.segmento(cfg, hoje.date(), trab))
-    ilustracoes.citacoes(segmentos, noticias)
+    try:  # extras não podem derrubar a edição
+        if not a.fixture:  # números e agenda do dia (APIs oficiais, sem IA); a fixture roda offline
+            dados.inserir(segmentos, dados.segmento(cfg, hoje.date(), trab))
+        ilustracoes.citacoes(segmentos, noticias)
+    except Exception as e:  # noqa: BLE001
+        log.warning("Números do dia/citações indisponíveis: %s", e)
     if not a.fixture and redator.palavras_ia[0]:
         log.info("Fator de extensão da IA: %.2f", memoria.registrar_extensao(est, *redator.palavras_ia))
     (pasta / "roteiro.json").write_text(json.dumps(segmentos, ensure_ascii=False, indent=1), encoding="utf-8")
