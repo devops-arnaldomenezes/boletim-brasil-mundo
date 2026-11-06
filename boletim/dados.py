@@ -15,6 +15,8 @@ from .util import log
 
 UA = {"User-Agent": "BoletimBrasilMundo/1.0", "Accept": "application/json"}
 SGS = "https://api.bcb.gov.br/dados/serie/bcdata.sgs.{codigo}/dados/ultimos/{n}?formato=json"
+SGS_PERIODO = ("https://api.bcb.gov.br/dados/serie/bcdata.sgs.{codigo}/dados?formato=json"
+               "&dataInicial={ini:%d/%m/%Y}&dataFinal={fim:%d/%m/%Y}")
 PAGINA_SGS = "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
 # codigo SGS, nome lido, unidade, fonte citada
 SERIES = {
@@ -31,9 +33,14 @@ def _get(url: str, timeout: int = 20):
         return json.loads(r.read().decode("utf-8"))
 
 
-def serie(codigo: int, n: int = 30) -> list[tuple[date, float]]:
+def serie(codigo: int, n: int = 20, dias: int = 0) -> list[tuple[date, float]]:
+    """Últimos `n` valores; com `dias`, o período [hoje - dias, hoje] (a meta da Selic já vem preenchida até a
+    próxima reunião do Copom, então "últimos" traria datas futuras)."""
+    hoje = date.today()
+    url = SGS_PERIODO.format(codigo=codigo, ini=hoje - timedelta(days=dias), fim=hoje) if dias \
+        else SGS.format(codigo=codigo, n=n)
     pontos = []
-    for p in _get(SGS.format(codigo=codigo, n=n)):
+    for p in _get(url):
         try:
             pontos.append((datetime.strptime(p["data"], "%d/%m/%Y").date(), float(str(p["valor"]).replace(",", "."))))
         except (KeyError, ValueError):
@@ -55,7 +62,8 @@ def indicadores() -> dict[str, list[tuple[date, float]]]:
         try:
             # séries diárias aceitam no máximo 20 "últimos" valores (mais que isso dá HTTP 400);
             # a meta da Selic é publicada até a próxima reunião do Copom, então descartamos datas futuras
-            pontos = [p for p in serie(codigo, 20 if chave in ("dolar", "euro") else 5) if p[0] <= date.today()]
+            pontos = serie(codigo, dias=10) if chave == "selic" else serie(codigo, 20 if chave in ("dolar", "euro") else 2)
+            pontos = [p for p in pontos if p[0] <= date.today()]
             if pontos:
                 saida[chave] = pontos
         except Exception as e:  # noqa: BLE001
