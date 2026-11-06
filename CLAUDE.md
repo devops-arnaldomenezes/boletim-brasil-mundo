@@ -11,8 +11,10 @@ configurações do repositório, cobrança).
   Manim → publicação). Configuração em `config/config.yaml` e `config/fontes.yaml`.
 - Publicação: texto em `edicoes/AAAA/MM/DD/` (`boletim.md`, `relatorio.json`, `noticias.json`, `roteiro.json`);
   MP3/MP4 nas Releases `edicao-AAAA-MM-DD`; site + feed de podcast no GitHub Pages; atalho `edicoes/ULTIMA.md`.
-- Áudio/vídeo: locução em blocos com pausas, ritmo natural, vozes alternadas (Antonio e Thalita Multilingual,
-  reserva Francisca) e tratamento a -16 LUFS. Sem legendas nem `.srt` desde 05/11/2026 (`legendas: false`).
+- Áudio/vídeo: locução em blocos com pausas, ritmo natural, vozes alternadas monolíngues pt-BR (Antonio e Francisca;
+  nunca vozes *Multilingual*, que trocam para inglês) e tratamento a -16 LUFS. Locução 100% em PT-BR (`boletim/idioma.py`):
+  sem IA, só notícias em português vão ao ar, e frases em inglês/espanhol são cortadas antes do TTS. As manchetes do
+  vídeo seguem o tempo real de cada bloco falado (`audio.sintetizar(marcas=...)` → `video.tempos_itens`). Sem legendas nem `.srt` desde 05/11/2026 (`legendas: false`).
   Para ouvir mudanças de voz sem refazer a edição: workflow `amostra-voz.yml` (pré-release `amostra-voz`).
 - Números e agenda do dia (`boletim/dados.py`): dólar, euro, Selic e IPCA do Banco Central (SGS) e sessões do
   plenário da Câmara e do Senado, sem IA, inseridos depois das manchetes. Diagnóstico: `python -m boletim.dados`
@@ -37,6 +39,8 @@ configurações do repositório, cobrança).
   503/429 e algumas seções caem no modo extrativo — esperado. `gemini-2.5-flash` foi descontinuado.
   GitHub Models responde só "OK" (inútil). Diagnóstico: workflow `diagnostico-ia.yml` (lista e testa modelos).
 - Seções curtas são completadas com notícias reais; o fator de extensão é aprendido em `estado.json`.
+- Se a IA cair, as seções ficam em espera e são refeitas na repescagem (`repescagem_ia_s`); modelo com cota diária
+  esgotada (429 PerDay) é pulado até o fim da execução.
 
 ## Acionar o Claude pelo navegador
 - Workflow `claude.yml` (anthropics/claude-code-action@v1, segredo `CLAUDE_CODE_OAUTH_TOKEN`): escreva `@claude`

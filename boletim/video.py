@@ -9,7 +9,7 @@ import textwrap
 from pathlib import Path
 
 from . import ilustracoes, marca
-from .util import RAIZ, log
+from .util import RAIZ, log, normalizar
 
 FONTE = marca.fonte("Regular")
 FONTE_M = marca.fonte("Medium")
@@ -38,9 +38,56 @@ def _largura(texto: str, tamanho: int) -> int:
         return int(len(texto + " ") * tamanho * 0.66)
 
 
+_VAZIAS = set("para pela pelo pelas pelos como mais entre sobre apos segundo esta este estao foram isso ainda "
+              "tambem quando onde porque nesta neste desta deste dessa desse disse afirmou seus suas noticia".split())
+
+
+def _termos(texto: str) -> set[str]:
+    return {p for p in normalizar(texto).split() if len(p) > 3 and p not in _VAZIAS}
+
+
+def tempos_itens(itens: list[dict], marcas: list[tuple[float, float, str]], dur: float,
+                 inicio: float = 3.0) -> list[tuple[float, float] | None]:
+    """Sincroniza as manchetes com a locução real: cada bloco falado (inicio, fim, texto) é atribuído ao item cujo
+    título/resumo mais se parece com ele; a manchete aparece quando o locutor começa a falar daquele item e fica até o
+    próximo item entrar. Itens que não foram narrados ficam com None (não aparecem). Sem nenhuma correspondência,
+    volta à divisão uniforme antiga. Os tempos de `marcas` já devem estar na escala do vídeo (com a vinheta)."""
+    if not itens:
+        return []
+    termos = [_termos(f"{it.get('titulo', '')} {it.get('texto', '')}") for it in itens]
+    trechos: list[tuple[float, int]] = []  # (início do trecho, índice do item)
+    atual = None
+    for a, _z, texto in marcas:
+        bloco = _termos(texto)
+        melhor, nota = None, 0.0
+        for i, ts in enumerate(termos):
+            comum = len(ts & bloco)
+            n = comum / max(min(len(ts), len(bloco)), 1)
+            if comum >= 2 and n > nota:
+                melhor, nota = i, n
+        if melhor is None or nota < 0.2:
+            continue  # bloco de transição ou comentário: mantém a manchete que já está na tela
+        if melhor != atual:
+            trechos.append((max(a, inicio), melhor))
+            atual = melhor
+    if not trechos:
+        janela = max(dur - inicio, 1) / len(itens)
+        return [(inicio + i * janela, inicio + (i + 1) * janela) for i in range(len(itens))]
+    tempos: list[tuple[float, float] | None] = [None] * len(itens)
+    for k, (a, i) in enumerate(trechos):
+        b = trechos[k + 1][0] if k + 1 < len(trechos) else dur
+        if tempos[i] is None and b - a >= 1.0:  # cada manchete aparece uma vez, no trecho em que entra
+            tempos[i] = (a, b)
+    return tempos
+
+
 def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destino: Path, titulo: str,
                     data: str, resolucao: str = "1280x720", vinheta: Path | None = None,
-                    dur_vinheta: float = 3.0, ilustrar: bool = False) -> None:
+                    dur_vinheta: float = 3.0, tempos: list[tuple[float, float] | None] | None = None,
+                    ilustrar: bool = False) -> None:
+    """`tempos`: (início, fim) de cada item no vídeo, alinhado com seg["itens"] (ver tempos_itens); None = item
+    não exibido. Sem `tempos`, as manchetes dividem o tempo por igual (comportamento antigo).
+    `ilustrar`: ícone da seção, globo/gráfico e cartão de citação por item (boletim/ilustracoes.py)."""
     w, h = map(int, resolucao.split("x"))
     tmp = destino.parent / f"_txt_{seg['id']}"
     tmp.mkdir(exist_ok=True)
@@ -84,10 +131,14 @@ def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destin
     itens = seg.get("itens") or []
     janelas: list[tuple[float, float] | None] = []
     if itens:
-        janela = max(dur - 3, 1) / len(itens)
+        if tempos is None or len(tempos) != len(itens):
+            janela = max(dur - 3, 1) / len(itens)
+            tempos = [(3 + i * janela, 3 + (i + 1) * janela) for i in range(len(itens))]
+        janelas = list(tempos)
         for i, it in enumerate(itens):
-            a, b = 3 + i * janela, 3 + (i + 1) * janela
-            janelas.append((a, b))
+            if tempos[i] is None:
+                continue
+            a, b = tempos[i]
             manchete = textwrap.fill(it.get("titulo", ""), quebra)
             meta = f"{REGIAO.get(it.get('regiao', ''), 'MUNDO')}  ·  {', '.join(it.get('fontes', [])[:2])}"
             en = f"enable='between(t,{a:.2f},{b:.2f})'"
@@ -138,7 +189,8 @@ def render_segmento(seg: dict, audio: Path, srt: Path | None, dur: float, destin
             raise
         # a edição não pode cair por causa das ilustrações: refaz o segmento sem a camada
         log.warning("Ilustrações falharam na seção %s; renderizando sem elas.", seg["id"])
-        render_segmento(seg, audio, srt, dur, destino, titulo, data, resolucao, vinheta, dur_vinheta, ilustrar=False)
+        render_segmento(seg, audio, srt, dur, destino, titulo, data, resolucao, vinheta, dur_vinheta,
+                        tempos=tempos, ilustrar=False)
         return
     shutil.rmtree(tmp, ignore_errors=True)
 
