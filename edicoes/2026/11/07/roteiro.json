@@ -1,0 +1,1439 @@
+[
+ {
+  "id": "destaques",
+  "titulo": "Manchetes do dia",
+  "cor": "#0B1F3A",
+  "cor2": "#1F4E8C",
+  "itens": [
+   {
+    "titulo": "Lula apresentará avanços ambientais na COP31, na Turquia",
+    "texto": "O presidente Luiz Inácio Lula da Silva levará números sobre a redução do desmatamento para a conferência do clima da ONU na Turquia, segundo a Agência Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "06/11 19h32",
+     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia",
+     "idioma": "pt",
+     "trecho": "O presidente Luiz Inácio Lula da Silva levará na próxima semana à cidade de Antália, na Turquia, números que mostram avanços do Brasil no combate ao desmatamento e na…"
+    }
+   },
+   {
+    "titulo": "Santiago Peña é preso em casa após sofrer impeachment no Paraguai",
+    "texto": "O ex-presidente paraguaio foi detido em sua residência logo após o Senado aprovar seu impeachment por unanimidade, de acordo com a BBC News Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "BBC News Brasil"
+    ],
+    "links": [
+     "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss"
+    ],
+    "citacao": {
+     "veiculo": "BBC News Brasil",
+     "quando": "06/11 21h10",
+     "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
+     "idioma": "pt",
+     "trecho": "Senado aprovou impeachment de Santiago Peña por unanimidade."
+    }
+   },
+   {
+    "titulo": "Dólar sobe para R$ 5,51, com dados de emprego nos EUA",
+    "texto": "A moeda norte-americana fechou em alta influenciada pelo mercado de trabalho dos Estados Unidos, segundo a Agência Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-551-com-dados-dependo-nos-eua"
+    ]
+   }
+  ],
+  "roteiro": "Bom dia! Hoje é sábado, 7 de novembro de 2026. Seja bem-vindo ao Brasil e Mundo Hoje, o seu boletim diário de notícias.\n\nNas manchetes de hoje, destacamos a viagem do presidente Luiz Inácio Lula da Silva para a Turquia, onde apresentará os avanços ambientais do país na conferência do clima da ONU, segundo a Agência Brasil.\n\nNo cenário internacional, acompanhamos a prisão do ex-presidente do Paraguai, Santiago Peña, detido em casa após sofrer impeachment aprovado por unanimidade no Senado, de acordo com a BBC News Brasil.\n\nE na economia, o dólar fechou cotado a cinco reais e cinquenta e um centavos, impulsionado por dados do mercado de trabalho dos Estados Unidos, segundo informou a Agência Brasil."
+ },
+ {
+  "id": "numeros",
+  "titulo": "Números e agenda do dia",
+  "cor": "#0B1F3A",
+  "cor2": "#7A5A12",
+  "itens": [
+   {
+    "titulo": "Dólar comercial: R$ 5,5013",
+    "texto": "Dólar comercial a R$ 5,5013 na cotação de venda de 06/11, alta de 0,72% sobre o dia anterior.",
+    "regiao": "brasil",
+    "fontes": [
+     "Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ],
+    "imagem": "_midia/_trabalho/grafico_dolar.png"
+   },
+   {
+    "titulo": "Euro: R$ 6,1317",
+    "texto": "Euro a R$ 6,1317 na cotação de venda de 06/11, queda de 0,01% sobre o dia anterior.",
+    "regiao": "brasil",
+    "fontes": [
+     "Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ],
+    "imagem": "_midia/_trabalho/grafico_euro.png"
+   },
+   {
+    "titulo": "Meta da Selic: 13,75%",
+    "texto": "Meta da Selic em 13,75% (dado de 07/11).",
+    "regiao": "brasil",
+    "fontes": [
+     "Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ]
+   },
+   {
+    "titulo": "Inflação (IPCA) em 12 meses: 4,58%",
+    "texto": "Inflação (IPCA) em 12 meses em 4,58% (referente a 09/2026).",
+    "regiao": "brasil",
+    "fontes": [
+     "IBGE, via Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ]
+   }
+  ],
+  "roteiro": "Agora, os números do dia. O dólar comercial fechou a 5,50 reais, alta de 0,72% sobre o dia anterior, segundo o Banco Central. O euro fechou a 6,13 reais, queda de 0,01% sobre o dia anterior, segundo o Banco Central. A meta da taxa Selic está em 13,75 por cento ao ano, segundo o Banco Central. A inflação oficial, medida pelo IPCA, acumula 4,58 por cento em doze meses, segundo o IBGE."
+ },
+ {
+  "id": "politica",
+  "titulo": "Política",
+  "cor": "#4A1D2B",
+  "cor2": "#A23B4F",
+  "itens": [
+   {
+    "titulo": "Santiago Peña sofre impeachment e é preso no Paraguai",
+    "texto": "O Senado do Paraguai aprovou por unanimidade o impeachment do presidente Santiago Peña, atingido por um escândalo financeiro. Logo após a decisão, o Ministério Público emitiu uma ordem de prisão e o político foi detido em casa. O vice-presidente Pedro Alliana foi juramentado como o novo chefe de Estado, conforme noticiaram El País América e BBC News Brasil.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América",
+     "BBC News Brasil"
+    ],
+    "links": [
+     "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
+     "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "06/11 20h56",
+     "link": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Stephen Miller é nomeado novo chefe de gabinete da Casa Branca",
+    "texto": "O presidente dos Estados Unidos, Donald Trump, anunciou a nomeação de Stephen Miller como o novo chefe de gabinete da Casa Branca. Miller sucederá Susie Wiles na próxima semana e é conhecido por ser um dos defensores mais rígidos das políticas de imigração e deportação em massa da administração norte-americana, segundo informações da Euronews e da Casa Branca.",
+    "regiao": "eua",
+    "fontes": [
+     "Euronews",
+     "Casa Branca"
+    ],
+    "links": [
+     "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+     "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/"
+    ],
+    "citacao": {
+     "veiculo": "Euronews",
+     "quando": "06/11 16h52",
+     "link": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Parlamento da Coreia do Sul aprova projeto para investigar promotores da era Yoon",
+    "texto": "A Assembleia Nacional da Coreia do Sul aprovou um projeto de lei que permite investigações sobre supostas ações politicamente motivadas de promotores sob o governo do ex-presidente Yoon Suk Yeol. A medida, impulsionada pelo Partido Democrático da Coreia, foi aprovada com cento e sessenta e sete votos a favor e um contra, conforme relatado pelo Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10928951"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "06/11 06h20",
+     "link": "https://www.koreaherald.com/article/10928951",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Justiça dos Estados Unidos paraliza obras de arco do triunfo em Washington",
+    "texto": "Uma juíza federal norte-americana paralisou de última hora as obras do arco do triunfo que a Casa Blanca pretendia construir em Washington. O governo de Donald Trump planejava iniciar os trabalhos de construção do monumento de homenagem ao presidente logo na sexta-feira, segundo o jornal El País América.",
+    "regiao": "eua",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/us/2026-11-06/una-jueza-federal-paraliza-in-extremis-las-obras-del-arco-del-triunfo-que-trump-quiere-construir-en-washington.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "06/11 13h55",
+     "link": "https://elpais.com/us/2026-11-06/una-jueza-federal-paraliza-in-extremis-las-obras-del-arco-del-triunfo-que-trump-quiere-construir-en-washington.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Comediante britânico Russell Brand é considerado culpado de estupro",
+    "texto": "O comediante britânico Russell Brand foi considerado culpado de estupro e três agressões sexuais por um júri em Londres. Entre os casos julgados está o ataque a uma jovem de dezesseis anos, e o artista agora enfrenta uma pena significativa de prisão, de acordo com as autoridades judiciais citadas pela France 24.",
+    "regiao": "europa",
+    "fontes": [
+     "France 24"
+    ],
+    "links": [
+     "https://www.france24.com/en/video/20261106-british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults"
+    ],
+    "citacao": {
+     "veiculo": "France 24",
+     "quando": "06/11 13h45",
+     "link": "https://www.france24.com/en/video/20261106-british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Estados Unidos cobram cumprimento de acordo comercial do presidente da China",
+    "texto": "O governo norte-americano instou a China a honrar os compromissos assumidos no acordo comercial firmado em Busan. O pacto entre os presidentes Donald Trump e Xi Jinping visa flexibilizar tarifas e restrições tecnológicas, mas o progresso depende diretamente do cumprimento das promessas por parte de Pequim, segundo a rede Al Jazeera.",
+    "regiao": "asia",
+    "fontes": [
+     "Al Jazeera"
+    ],
+    "links": [
+     "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-honour-busan-trade-deal-commitments?traffic_source=rss"
+    ]
+   },
+   {
+    "titulo": "Líder de culto no Quênia é condenado a duzentos anos de prisão",
+    "texto": "O líder de culto Paul Mackenzie foi condenado a duzentos anos de prisão no Quênia pelo assassinato de cento e noventa crianças que morreram de fome seguindo suas ordens. A informação foi divulgada pela emissora France 24 ao detalhar o desfecho judicial deste caso de grande repercussão internacional.",
+    "regiao": "europa",
+    "fontes": [
+     "France 24"
+    ],
+    "links": [
+     "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison"
+    ],
+    "citacao": {
+     "veiculo": "France 24",
+     "quando": "06/11 18h23",
+     "link": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Faculdade da Universidade Cornell vota moção de desconfiança na liderança",
+    "texto": "O corpo docente da Universidade Cornell aprovou uma moção de desconfiança na liderança da instituição após denúncias de um suposto estupro coletivo em fraternidade. Embora o conselho não tenha poder direto sobre os principais dirigentes, os organizadores esperam pressionar os administradores a resolver falhas institucionais históricas, conforme publicado pela PBS NewsHour.",
+    "regiao": "eua",
+    "fontes": [
+     "PBS NewsHour"
+    ],
+    "links": [
+     "https://www.pbs.org/newshour/nation/cornell-faculty-vote-no-confidence-in-university-leadership-after-alleged-fraternity-gang-rape"
+    ],
+    "citacao": {
+     "veiculo": "PBS NewsHour",
+     "quando": "06/11 18h28",
+     "link": "https://www.pbs.org/newshour/nation/cornell-faculty-vote-no-confidence-in-university-leadership-after-alleged-fraternity-gang-rape",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguimos agora com os principais desdobramentos da política internacional e nacional nesta edição do Brasil e Mundo Hoje. Vamos falar sobre as decisões de governos, parlamentos e tribunais que movimentam o cenário global e repercutem em várias regiões.\n\nNo Paraguai, a crise institucional chegou ao ápice com a destituição e prisão do agora ex-presidente Santiago Peña. O Senado aprovou por unanimidade o impeachment do mandatário, que foi alcançado por um grave escândalo financeiro envolvendo o sistema bancário local. Logo após a votação no parlamento, o Ministério Público do país emitiu uma ordem de prisão contra o político, que acabou detido em sua própria residência pelas autoridades policiais. Para preencher o cargo máximo do Poder Executivo, o vice-presidente Pedro Alliana foi rapidamente juramentado como o novo chefe de Estado do país sul-americano. A sucessão e o futuro do tradicional Partido Colorado agora entram em uma fase de grande incerteza diante do revés político, segundo informaram os veículos El País América e a rede pública BBC News Brasil.\n\nMudando o foco para os Estados Unidos, a administração do presidente Donald Trump anunciou importantes mudanças na equipe de comando da Casa Branca. Stephen Miller foi oficialmente nomeado como o novo chefe de gabinete do governo norte-americano, sucedendo a gestora Susie Wiles. Conhecido historicamente como um dos assessores mais radicais e linha-du dura nas questões de imigração, Miller tem sido uma força motriz por trás da controversa política de deportação em massa defendida pelo atual governo. A chegada dele ao posto mais alto da assessoria presidencial sinaliza uma intensificação das pautas conservadoras na capital dos Estados Unidos, de acordo com os comunicados oficiais divulgados pela Casa Branca e pela emissora Euronews.\n\nNa Ásia, a política da Coreia do Sul ganhou novos contornos com votações decisivas no parlamento de Seul. A Assembleia Nacional aprovou um projeto de lei altamente contestado que autoriza investigações formais sobre supostas ações de caráter político tomadas por promotores durante a gestão do ex-presidente Yoon Suk Yeol. A medida legislativa foi fortemente apoiada pela legenda governista Partido Democrático da Coreia e recebeu cento e sessenta e sete votos favoráveis entre os parlamentares presentes. O principal partido de oposição boicotou parcial ou totalmente a votação enquanto o cenário jurídico e institucional do país continua sob forte tensão, segundo as informações publicadas pelo jornal Korea Herald.\n\nDe volta aos Estados Unidos, a justiça precisou intervir diretamente em um dos projetos de infraestrutura idealizados pelo Poder Executivo em Washington. Uma juíza federal determinou a paralisação de última hora das obras de construção do arco do triunfo que o governo de Donald Trump pretendia erguer na capital norte-americana. A Casa Branca tinha planos de iniciar imediatamente os trabalhos para erguer o monumento destinado a homenagear o próprio presidente da República, mas a decisão judicial freou temporariamente a iniciativa, conforme os registros detalhados pelo jornal El País América.\n\nNo continente europeu, os tribunais registraram uma condenação de forte impacto social e criminal em Londres. O comediante britânico Russell Brand foi considerado culpado por um júri popular de cometer crimes de estupro e três agressões sexuais distintas. Entre as acusações julgadas e comprovadas está um ataque praticado contra uma vítima que tinha apenas dezesseis anos de idade na época dos fatos. O magist responsável pelo julgamento indicou que o réu agora enfrentará uma pena de prisão bastante severa e significativa pelo conjunto das infrações cometidas, segundo os dados repassados pela emissora France 24.\n\nAinda nas relações internacionais entre as grandes potências globais, a economia e o comércio exigem atenção diplomática constante na Ásia. O governo norte-americano fez um apelo público e direto para que a China honre rigorosamente todos os compromissos firmados durante o entendimento comercial estabelecido na cidade de Busan. O pacto entre os presidentes Donald Trump e Xi Jinping tinha como objetivo central aliviar tarifas alfandegárias e restrições tecnológicas mútuas, mas qualquer avanço real na área depende inteiramente do cumprimento das promessas feitas por Pequim, de acordo com as análises divulgadas pela rede Al Jazeera.\n\nPassando para o continente africano, a justiça do Quênia aplicou uma punição severa relacionada a crimes que chocou a comunidade internacional nos últimos tempos. O líder de um culto religioso local, identificado como Paul Mackenzie, foi formalmente condenado a duzentos anos de prisão pelo assassinato de cento e noventa crianças que foram mantidas sem alimentação até a morte seguindo estritamente as ordens da seita. O caso mobilizou forças de segurança e o sistema judiciário queniano, que impôs uma das penas mais longas da história recente do país, conforme as reportagens da rede France 24.\n\nPor fim, nos Estados Unidos, o ambiente acadêmico e universitário enfrenta turbulências institucionais profundas na Costa Leste. O corpo docente da Universidade Cornell aprovou formalmente uma moção de desconfiança na cúpula da diretoria após denúncias graves envolvendo um suposto estupro coletivo ocorrido no âmbito de uma fraternidade estudantil. Embora o conselho de professores não tenha poder direto para destituir os principais dirigentes da universidade, os criadores da resolução esperam pressionar o conselho de curadores a enfrentar falhas institucionais históricas no tratamento de crimes de violência, segundo as informações apuradas pela PBS NewsHour."
+ },
+ {
+  "id": "economia",
+  "titulo": "Economia e Mercados",
+  "cor": "#0E3B2E",
+  "cor2": "#1E7A5A",
+  "itens": [
+   {
+    "titulo": "Dólar sobe para R$ 5,51, com dados de emprego nos EUA",
+    "texto": "O dólar fechou em alta e o Ibovespa avançou nesta sexta-feira, em um dia marcado pela divulgação de dados do mercado de trabalho dos Estados Unidos e pela expectativa em torno da política econômica do quarto mandato do presidente Luiz Inácio Lula da Silva. A moeda estadunidense subiu cerca de zero vírgula quatro por cento, para cinco reais e cinquenta e um centavos, enquanto a bolsa brasileira teve valorização de aproximadamente um vírgula quatro por cento, aos cento e sessenta e oito mil e quinhentos pontos. Na semana, o dólar acumulou alta de um vírgula dois por cento.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-551-com-dados-de-emprego-nos-eua"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "06/11 19h10",
+     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-551-com-dados-de-emprego-nos-eua",
+     "idioma": "pt",
+     "trecho": "O dólar fechou em alta e o Ibovespa avançou nesta sexta-feira (6), em um dia marcado pela divulgação de dados do mercado de trabalho dos Estados Unidos e pela…"
+    }
+   },
+   {
+    "titulo": "Isenção de tarifa de energia para usinas de biomassa",
+    "texto": "A Comissão de Agricultura e Reforma Agrária aprovou o projeto de lei que prevê desconto integral na tarifa de energia elétrica para usinas que utilizam biomassa de casca de arroz na geração de eletricidade. O benefício contempla empresas em funcionamento e a energia destinada à comercialização e à autoprodução. A proposta busca incentivar o uso de fontes renováveis e reduzir impactos ambientais, segundo a Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/audios/2026/11/cra-aprova-isencao-de-tarifa-de-energia-para-usinas-de-biomassa-de-casca-de-arroz"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "06/11 18h38",
+     "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cra-aprova-isencao-de-tarifa-de-energia-para-usinas-de-biomassa-de-casca-de-arroz",
+     "idioma": "pt",
+     "trecho": "A Comissão de Agricultura e Reforma Agrária (CRA) aprovou o Projeto de Lei (PL) 5.861/2025, que prevê desconto integral na tarifa de energia elétrica para usinas que…"
+    }
+   },
+   {
+    "titulo": "Ministério da Agricultura rejeita aumento de imposto",
+    "texto": "A maioria dos membros da Câmara Temática de Insumos Agropecuários do Ministério da Agricultura decidiu encaminhar posição contrária ao pedido da Associação Brasileira das Indústrias de Química Fina, Biotecnologia e suas Especialidades. O setor pedia para elevar o imposto de importação de zero para oito ou dez por cento em quatro defensivos agrícolas utilizados no país. A informação foi divulgada pelo Globo Rural.",
+    "regiao": "brasil",
+    "fontes": [
+     "Globo Rural"
+    ],
+    "links": [
+     "https://globorural.globo.com/insumos/noticia/2026-11/camara-tematica-do-ministerio-da-agricultura-rejeita-aumento-de-imposto-para-defensivos-importados.ghtml"
+    ]
+   },
+   {
+    "titulo": "Argentina bonds drop as market flags intervention",
+    "texto": "Os títulos soberanos da Argentina denominados em pesos caíram após um salto nas negociações e nos preços do dia anterior. A oscilação levantou especulações de que o governo estaria intervindo para reduzir os custos de empréstimos antes dos principais leilões do Tesouro. A informação é do Buenos Aires Times.",
+    "regiao": "latam",
+    "fontes": [
+     "Buenos Aires Times"
+    ],
+    "links": [
+     "https://www.batimes.com.ar/news/economy/argentina-bonds-drop-as-market-flags-intervention-in-peso-debt.phtml"
+    ],
+    "citacao": {
+     "veiculo": "Buenos Aires Times",
+     "quando": "06/11 08h44",
+     "link": "https://www.batimes.com.ar/news/economy/argentina-bonds-drop-as-market-flags-intervention-in-peso-debt.phtml",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Lloyd’s syndicate Cortina launched by Aon and Blackstone",
+    "texto": "O novo sindicato Cortina foi lançado no mercado de seguros e resseguros da Lloyd's, com o objetivo de fornecer capacidade de resseguro dedicada e de vários anos. A iniciativa foi tomada pelo grupo global de corretagem Aon e por fundos gerenciados pela gestora de ativos alternativos Blackstone. O plano prevê o início das subscrições a partir de primeiro de janeiro do próximo ano, segundo a Reinsurance News.",
+    "regiao": "europa",
+    "fontes": [
+     "Reinsurance News"
+    ],
+    "links": [
+     "https://www.reinsurancene.ws/lloyds-syndicate-cortina-launched-by-aon-and-blackstone-funds-with-qbe-as-managing-agent/"
+    ],
+    "citacao": {
+     "veiculo": "Reinsurance News",
+     "quando": "06/11 11h30",
+     "link": "https://www.reinsurancene.ws/lloyds-syndicate-cortina-launched-by-aon-and-blackstone-funds-with-qbe-as-managing-agent/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "EUA registram criação forte de empregos em outubro",
+    "texto": "Os empregadores adicionaram cento e sessenta e cinco mil novos postos de trabalho em outubro nos Estados Unidos, superando as expectativas dos especialistas. Os ganhos de emprego para agosto e setembro também foram revisados para cima, segundo um novo relatório governamental destacado pela PBS NewsHour. O cenário ocorre em meio a discussões crescentes sobre a sustentabilidade do recente boom de inteligência artificial na economia norte-americana.",
+    "regiao": "eua",
+    "fontes": [
+     "PBS NewsHour"
+    ],
+    "links": [
+     "https://www.pbs.org/newshour/show/what-to-know-about-a-better-than-expected-jobs-report-amid-ai-bubble-concerns"
+    ],
+    "citacao": {
+     "veiculo": "PBS NewsHour",
+     "quando": "06/11 20h45",
+     "link": "https://www.pbs.org/newshour/show/what-to-know-about-a-better-than-expected-jobs-report-amid-ai-bubble-concerns",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "EUA instam China a cumprir acordo comercial de Busan",
+    "texto": "Os Estados Unidos instaram a China a honrar os compromissos assumidos no acordo comercial alcançado na cidade de Busan. O pacto entre Washington e Pequim teve como objetivo aliviar tarifas e restrições tecnológicas, mas o progresso atual depende inteiramente do cumprimento das promessas feitas pelo governo chinês, de acordo com a rede Al Jazeera.",
+    "regiao": "asia",
+    "fontes": [
+     "Al Jazeera"
+    ],
+    "links": [
+     "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss"
+    ],
+    "citacao": {
+     "veiculo": "Al Jazeera",
+     "quando": "06/11 20h00",
+     "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Projeto em Uganda transforma lixo eletrônico",
+    "texto": "Uma cooperativa apoiada pela Organização Internacional para Migrações recupera painéis solares e baterias em Uganda, unindo inclusão social e sustentabilidade econômica. Especialistas alertam que, se o modelo não mudar globalmente, o mundo terá que enfrentar o descarte de oitenta e dois milhões de toneladas de resíduos eletrônicos até o ano de dois organização internacional, segundo a ONU News.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854852"
+    ],
+    "citacao": {
+     "veiculo": "ONU News (PT)",
+     "quando": "06/11 09h00",
+     "link": "https://news.un.org/feed/view/pt/story/2026/11/1854852",
+     "idioma": "pt",
+     "trecho": "Cooperativa, apoiada pela Organização Internacional para Migrações, OIM, recupera painéis solares e baterias, unindo inclusão e sustentabilidade; se nada mudar, mundo…"
+    }
+   }
+  ],
+  "roteiro": "Seguimos agora para a editoria de Economia e Mercados para acompanhar os principais acontecimentos financeiros do Brasil e do mundo.\n\nO dólar fechou em alta e o Ibovespa avançou nesta sexta-feira, em um dia marcado pela divulgação de dados do mercado de trabalho dos Estados Unidos e pela expectativa em torno da política econômica do quarto mandato do presidente Luiz Inácio Lula da Silva. A moeda estadunidense subiu cerca de zero vírgula quatro por cento, para cinco reais e cinquenta e um centavos, enquanto a bolsa brasileira teve valorização de aproximadamente um vírgula quatro por cento, aos cento e sessenta e oito mil e quinhentos pontos. O comportamento dos investidores reflete a cautela frente aos indicadores externos e às diretrizes fiscais internas que continuam a moldar o cenário financeiro nacional ao longo desta semana. Na variação acumulada dos últimos dias, o dólar registrou alta de um vírgula dois por cento, segundo a Agência Brasil.\n\nAinda no cenário nacional, a Comissão de Agricultura e Reforma Agrária aprovou o projeto de lei que prevê desconto integral na tarifa de energia elétrica para usinas que utilizam biomassa de casca de arroz na geração de eletricidade. O benefício contempla empresas em funcionamento e a energia destinada à comercialização e à autoprodução. A proposta busca incentivar o uso de fontes renováveis e reduzir impactos ambientais nas regiões produtoras. O texto segue agora para novas etapas de análise legislativa antes de virar lei definitiva, segundo a Agência Senado.\n\nTambém no âmbito das decisões governamentais brasileiras, a maioria dos membros da Câmara Temática de Insumos Agropecuários do Ministério da Agricultura decidiu encaminhar posição contrária ao pedido da Associação Brasileira das Indústrias de Química Fina, Biotecnologia e suas Especialidades. O setor pedia para elevar o imposto de importação de zero para oito ou dez por cento em quatro defensivos agrícolas utilizados no país. A medida pretendia proteger a indústria nacional, mas encontrou forte resistência técnica entre os representantes do agronegócio, conforme divulgou o portal Globo Rural.\n\nOlhando para os vizinhos da América Latina, os títulos soberanos da Argentina denominados em pesos caíram após um salto nas negociações e nos preços do dia anterior. A oscilação brusca no mercado financeiro argentino levantou especulações de que o governo estaria intervindo ativamente para reduzir os custos de empréstimos antes da realização de importantes leilões do Tesouro. Essa estratégia governamental gera debates intensos entre analistas econômicos sobre a sustentabilidade da dívida e o controle cambial no país, de acordo com o Buenos Aires Times.\n\nPassando para o continente europeu, o novo sindicato Cortina foi lançado no mercado de seguros e resseguros da Lloyd's, com o objetivo de fornecer capacidade de resseguro dedicada e de vários anos. A iniciativa foi tomada pelo grupo global de corretagem Aon e por fundos gerenciados pela gestora de ativos alternativos Blackstone. O plano estruturado prevê o início formal das operações de subscrição a partir de primeiro de janeiro do próximo ano, reforçando a confiança no setor de seguros da região, segundo a Reinsurance News.\n\nNa economia dos Estados Unidos, os empregadores adicionaram cento e sessenta e cinco mil novos postos de trabalho em outubro, superando com folga as previsões dos analistas de mercado. Os ganhos de emprego referentes aos meses de agosto e setembro também foram revisados consideravelmente para cima pelo governo. Esse cenário robusto de contratações ocorre em um momento em que surgem diversos questionamentos sobre a sustentabilidade a longo prazo do recente boom tecnológico ligado à inteligência artificial, conforme destacou a PBS NewsHour.\n\nJá no cenário asiático, o governo dos Estados Unidos instou formalmente a China a honrar os compromissos assumidos no acordo comercial alcançado na cidade de Busan. O pacto bilateral teve como objetivo central aliviar tarifas alfandegárias e restrições tecnológicas impostas anteriormente, mas o progresso atual depende inteiramente do cumprimento rigoroso das promessas feitas por Pequim. A cobrança pública evidencia as tensões persistentes na cadeia global de suprimentos, de acordo com a rede Al Jazeera.\n\nPara encerrar as principais movimentações econômicas globais, uma iniciativa inovadora em Uganda ilustra como a sustentabilidade pode gerar oportunidades de trabalho. Uma cooperativa apoiada pela Organização Internacional para Migrações recupera painéis solares e baterias descartadas, unindo inclusão social e preservação ambiental. Especialistas alertam que, se o modelo de consumo e descarte não mudar globalmente, o planeta terá que enfrentar o colossal volume de oitenta e dois milhões de toneladas de resíduos eletrônicos até o final desta década, segundo a ONU News."
+ },
+ {
+  "id": "seguros",
+  "titulo": "Seguros e Corretoras",
+  "cor": "#3A3010",
+  "cor2": "#8C7426",
+  "itens": [
+   {
+    "titulo": "Aportes em previdência privada caem R$ 5,1 bi em 2026",
+    "texto": "Segundo a Revista Apólice, as contribuições para a previdência privada somaram cento e dez bilhões de reais até setembro. Os resgates recuaram cinco vírgula quatro por cento no período. Já a captação líquida registrou um avanço de quinze vírgula dois por cento.",
+    "regiao": "brasil",
+    "fontes": [
+     "Revista Apólice"
+    ],
+    "links": [
+     "https://revistaapolice.com.br/2026/11/aportes-em-previdencia-privada-caem-r-51-bi-em-2026/"
+    ],
+    "citacao": {
+     "veiculo": "Revista Apólice",
+     "quando": "06/11 09h46",
+     "link": "https://revistaapolice.com.br/2026/11/aportes-em-previdencia-privada-caem-r-51-bi-em-2026/",
+     "idioma": "pt",
+     "trecho": "Contribuições somaram R$ 117 bilhões até setembro, enquanto resgates recuaram 5,4% e captação líquida avançou 15,2% The post Aportes em previdência privada caem R$ 5,1…"
+    }
+   },
+   {
+    "titulo": "Wiz Co registra lucro líquido de R$ 54,1 milhões no trimestre e reduz dívida líquida em 61%",
+    "texto": "De acordo com o Sonho Seguro, a Wiz Co registrou lucro líquido da controladora de cinquenta e quatro vírgula um milhões de reais. O valor representa uma queda de dois vírgula três por cento em relação ao mesmo período do ano anterior. A receita líquida da controladora avançou sete vírgula nove por cento e atingiu cinquenta e seis vírgula sete milhões de reais.",
+    "regiao": "brasil",
+    "fontes": [
+     "Sonho Seguro"
+    ],
+    "links": [
+     "https://www.sonhoseguro.com.br/2026/11/wiz-co-registra-lucro-liquido-de-r-541-milhoes-no-trimestre-e-reduz-divida-liquida-em-61/"
+    ],
+    "citacao": {
+     "veiculo": "Sonho Seguro",
+     "quando": "06/11 02h36",
+     "link": "https://www.sonhoseguro.com.br/2026/11/wiz-co-registra-lucro-liquido-de-r-541-milhoes-no-trimestre-e-reduz-divida-liquida-em-61/",
+     "idioma": "pt",
+     "trecho": "A Wiz Co registrou lucro líquido da controladora de R$ 54,1 milhões, 2,3% abaixo do mesmo período do ano passado e 1,0% acima do segundo trimestre."
+    }
+   },
+   {
+    "titulo": "Zurich e PrograMaria abrem inscrições para formação gratuita em liderança e inteligência artificial",
+    "texto": "Segundo a Revista Cobertura, a seguradora Zurich e a organização PrograMaria abriram inscrições para a segunda edição de um programa gratuito. A iniciativa é voltada para a formação de mulheres em liderança e inteligência artificial. O conteúdo inclui gestão de equipes e aplicações práticas de tecnologia.",
+    "regiao": "brasil",
+    "fontes": [
+     "Revista Cobertura"
+    ],
+    "links": [
+     "https://www.revistacobertura.com.br/noticias/tecnologia-servicos/zurich-e-programaria-abrem-inscricoes-para-formacao-gratuita-em-lideranca-e-inteligencia-artificial/"
+    ],
+    "citacao": {
+     "veiculo": "Revista Cobertura",
+     "quando": "06/11 11h23",
+     "link": "https://www.revistacobertura.com.br/noticias/tecnologia-servicos/zurich-e-programaria-abrem-inscricoes-para-formacao-gratuita-em-lideranca-e-inteligencia-artificial/",
+     "idioma": "pt",
+     "trecho": "Segunda edição da parceria terá conteúdos sobre gestão de equipes, aplicações de IA nas empresas e preparação de mulheres O post Zurich e PrograMaria abrem inscrições…"
+    }
+   },
+   {
+    "titulo": "SafePoint adds another $100m+ layer to its catastrophe bond with Nature Coast Re 2026-4",
+    "texto": "De acordo com o portal Artemis, a SafePoint Insurance Company voltou ao mercado para adicionar mais de cem milhões de dólares em proteção de resseguro. A operação ocorre por meio de uma emissão de títulos de catástrofe da Nature Coast Re. A movimentação reflete as condições atrativas do mercado para os patrocinadores.",
+    "regiao": "global",
+    "fontes": [
+     "Artemis"
+    ],
+    "links": [
+     "https://www.artemis.bm/news/safepoint-adds-another-100m-layer-to-its-catastrophe-bond-with-nature-coast-re-2026-4/?utm_source=rss&utm_medium=rss&utm_campaign=safepoint-adds-another-100m-layer-to-its-catastrophe-bond-with-nature-coast-re-2026-4"
+    ],
+    "citacao": {
+     "veiculo": "Artemis",
+     "quando": "06/11 05h06",
+     "link": "https://www.artemis.bm/news/safepoint-adds-another-100m-layer-to-its-catastrophe-bond-with-nature-coast-re-2026-4/?utm_source=rss&utm_medium=rss&utm_campaign=safepoint-adds-another-100m-layer-to-its-catastrophe-bond-with-nature-coast-re-2026-4",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Aon and Blackstone funds launch Cortina, a new Lloyd’s syndicate offering efficient reinsurance",
+    "texto": "Segundo a Reinsurance News, a corretora Aon e fundos geridos pela gestora Blackstone lançaram o sindicato Cortina no mercado de Londres. O novo sindicato tem o objetivo de fornecer capacidade dedicada de resseguro de múltiplos anos. A operação conta com a estrutura de títulos ligados a seguros London Bridge 2.",
+    "regiao": "europa",
+    "fontes": [
+     "Reinsurance News"
+    ],
+    "links": [
+     "https://www.reinsurancene.ws/aon-and-blackstone-funds-launch-cortina-a-new-lloyds-syndicate-offering-efficient-reinsurance/"
+    ]
+   },
+   {
+    "titulo": "Insurance AI’s Next Test: Can Carriers Trust the Data?",
+    "texto": "De acordo com o Insurance Journal, executivos discutiram os próximos passos da adoção de inteligência artificial no setor durante a conferência InsurTech Connect, em Las Vegas. O foco atual está na inteligência artificial agêntica e na automação de processos. A principal questão levantada foi a confiabilidade dos dados utilizados pelas companhias.",
+    "regiao": "eua",
+    "fontes": [
+     "Insurance Journal"
+    ],
+    "links": [
+     "https://www.insurancejournal.com/news/national/2026/11/06/891834.htm"
+    ],
+    "citacao": {
+     "veiculo": "Insurance Journal",
+     "quando": "06/11 10h11",
+     "link": "https://www.insurancejournal.com/news/national/2026/11/06/891834.htm",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "RGA’s consolidated net premiums climb 25% for Q3’26 to $5.4bn",
+    "texto": "Segundo a Reinsurance News, a Reinsurance Group of America registrou alta de vinte e cinco por cento nos prêmios líquidos consolidados no terceiro trimestre de dois mil e vinte e seis. O montante chegou a cinco vírgula quatro bilhões de dólares. No acumulado dos primeiros nove meses do ano, os prêmios alcançaram quatorze vírgula quarenta e dois bilhões de dólares.",
+    "regiao": "europa",
+    "fontes": [
+     "Reinsurance News"
+    ],
+    "links": [
+     "https://www.reinsurancene.ws/rgas-consolidated-net-premiums-climb-25-for-q326-to-5-4bn/"
+    ],
+    "citacao": {
+     "veiculo": "Reinsurance News",
+     "quando": "06/11 12h00",
+     "link": "https://www.reinsurancene.ws/rgas-consolidated-net-premiums-climb-25-for-q326-to-5-4bn/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Double-digit price declines in property cat reinsurance likely to persist, says JP Morgan",
+    "texto": "De acordo com a Reinsurance News, o banco de investimento JP Morgan projeta que as quedas de preços de dois dígitos no resseguro de catástrofes patrimoniais devem persistir. A forte lucratividade da indústria e a entrada de novos capitais mantêm a pressão sobre as taxas. As condições favoráveis continuam influenciando o mercado global de resseguros.",
+    "regiao": "europa",
+    "fontes": [
+     "Reinsurance News"
+    ],
+    "links": [
+     "https://www.reinsurancene.ws/double-digit-price-declines-in-property-cat-reinsurance-likely-to-persist-says-jp-morgan/"
+    ],
+    "citacao": {
+     "veiculo": "Reinsurance News",
+     "quando": "06/11 12h30",
+     "link": "https://www.reinsurancene.ws/double-digit-price-declines-in-property-cat-reinsurance-likely-to-persist-says-jp-morgan/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Vamos agora seguir para o setor de seguros e corretoras, trazendo as principais movimentações do mercado financeiro e de proteções ao redor do planeta.\n\nComeçando pelo Brasil, o mercado de previdência privada registrou novidades importantes no acumulado até o mês de setembro. Segundo a Revista Apólice, as contribuições somaram cento e dez bilhões de reais no período. Por outro lado, os resgates apresentaram um recuo de cinco vírgula quatro por cento. Com isso, a captação líquida do segmento avançou quinze vírgula dois por cento, mostrando resiliência e maior retenção de recursos pelos investidores ao longo dos últimos meses de dois mil e vinte e seis.\n\nAinda no cenário nacional, a companhia Wiz Co divulgou seu balanço financeiro trimestral para o mercado. De acordo com o Sonho Seguro, a empresa registrou lucro líquido da controladora de cinquenta e quatro vírgula um milhões de reais. Esse resultado ficou dois vírgula três por cento abaixo do verificado no mesmo período do ano anterior. A receita líquida da controladora apresentou expansão de sete vírgula nove por cento, alcançando cinquenta e seis vírgula sete milhões de reais em terras brasileiras.\n\nNo campo da responsabilidade social e capacitação profissional, o mercado também traz iniciativas relevantes. Segundo a Revista Cobertura, a seguradora Zurich e a organização PrograMaria uniram forças novamente para abrir inscrições para um programa gratuito. A formação é focada em liderança e inteligência artificial para mulheres. O conteúdo aborda práticas modernas de gestão de equipes e a aplicação de novas tecnologias no ambiente corporativo brasileiro atual.\n\nVoltando as atenções para o mercado internacional, o setor de resseguros e títulos de catástrofe segue bastante ativo. De acordo com o portal Artemis, a SafePoint Insurance Company retornou ao mercado financeiro para adicionar uma camada superior a cem milhões de dólares em proteção de resseguro. A operação utiliza a emissão de títulos da Nature Coast Re para investidores. A iniciativa demonstra as condições bastante atrativas que os patrocinadores encontram no atual mercado global de títulos de catástrofe.\n\nAinda no exterior, grandes corretoras e gestoras continuam estruturando novas soluções de risco. Segundo a Reinsurance News, a corretora Aon e fundos geridos pela Blackstone anunciaram o lançamento oficial do sindicato Cortina no mercado de Londres. O novo empreendimento tem a missão de fornecer capacidade dedicada e de múltiplos anos em resseguro. A estrutura financeira do projeto faz uso de mecanismos modernos como o London Bridge 2 para atrair investidores institucionais.\n\nNa pauta de inovação tecnológica e inteligência artificial, o setor debate os rumos da automação. De acordo com o Insurance Journal, executivos reunidos na conferência InsurTech Connect discutiram os desafios da próxima fase de adoção tecnológica pelas seguradoras. O foco recai sobre a inteligência artificial agêntica e sistemas automatizados complexos. A principal discussão entre os especialistas gira em torno de saber se as companhias já podem confiar plenamente nos dados processados pelas ferramentas.\n\nPelo lado dos grandes grupos globais, os resultados financeiros continuam sólidos. Segundo a Reinsurance News, a Reinsurance Group of America reportou um crescimento de vinte e cinco por cento nos prêmios líquidos consolidados durante o terceiro trimestre. O volume financeiro atingiu a marca de cinco vírgula quatro bilhões de dólares. No acumulado dos primeiros nove meses do ano, o indicador subiu para quatorze vírgula quarenta e dois bilhões de dólares, impulsionado pela forte demanda por coberturas de vida e saúde.\n\nPara fechar as análises do mercado internacional, o setor de resseguros de propriedades enfrenta projeções de ajustes nos preços. De acordo com a Reinsurance News, o banco de investimento JP Morgan avalia que as quedas de preços de dois dígitos nas linhas de catástrofes patrimoniais devem continuar. A combinação de forte lucratividade operacional das empresas com o influxo constante de novos capitais exerce forte pressão sobre as taxas cobradas globalmente."
+ },
+ {
+  "id": "clima",
+  "titulo": "Clima e Meio Ambiente",
+  "cor": "#12361F",
+  "cor2": "#3E8E4F",
+  "itens": [
+   {
+    "titulo": "Lula levará avanços contra desmatamento à COP31 na Turquia",
+    "texto": "O presidente Luiz Inácio Lula da Silva participará da trigésima primeira Conferência do Clima da ONU em Antália, na Turquia. O governo brasileiro pretende apresentar números de redução do desmatamento e menor dependência de combustíveis fósseis. O evento começa na próxima semana reunindo líderes mundiais.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "06/11 19h32",
+     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia",
+     "idioma": "pt",
+     "trecho": "O presidente Luiz Inácio Lula da Silva levará na próxima semana à cidade de Antália, na Turquia, números que mostram avanços do Brasil no combate ao desmatamento e na…"
+    }
+   },
+   {
+    "titulo": "Júri de acusados por morte de guardião da floresta indígena é adiado após sete anos",
+    "texto": "Sete anos após o assassinato do guardião florestal Paulo Paulino Guajajara na Amazônia, o júri popular foi novamente adiado. A Justiça Federal justificou a ausência de datas livres na pauta de audiências. O caso envolve também a tentativa de homicídio contra Laércio Guajajara em 2019.",
+    "regiao": "brasil",
+    "fontes": [
+     "Mongabay Brasil"
+    ],
+    "links": [
+     "https://brasil.mongabay.com/2026/11/estao-me-enganando-apos-7-anos-do-assassinato-de-guardiao-guajajara-juri-e-adiado-novamente/"
+    ],
+    "citacao": {
+     "veiculo": "Mongabay Brasil",
+     "quando": "06/11 12h49",
+     "link": "https://brasil.mongabay.com/2026/11/estao-me-enganando-apos-7-anos-do-assassinato-de-guardiao-guajajara-juri-e-adiado-novamente/",
+     "idioma": "pt",
+     "trecho": "Por que ainda não ocorreu o julgamento do assassinato do guardião da floresta Paulo Paulino Guajajara e da tentativa de assassinato de seu colega guardião Laércio…"
+    }
+   },
+   {
+    "titulo": "Aviação agrícola recebe isenção de imposto seletivo até o fim de 2027",
+    "texto": "Uma medida provisória isentou o setor de aviação agrícola do novo imposto sobre produtos e serviços nocivos à saúde e ao meio ambiente. O tributo havia sido estabelecido no contexto da reforma tributária. O setor comemorou a dispensa temporária concedida pelo governo federal.",
+    "regiao": "brasil",
+    "fontes": [
+     "Globo Rural"
+    ],
+    "links": [
+     "https://globorural.globo.com/economia/noticia/2026/11/aviacao-agricola-tera-imposto-seletivo-zero-ate-final-de-2027.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "Globo Rural",
+     "quando": "06/11 16h15",
+     "link": "https://globorural.globo.com/economia/noticia/2026/11/aviacao-agricola-tera-imposto-seletivo-zero-ate-final-de-2027.ghtml",
+     "idioma": "pt",
+     "trecho": "O Sindicato Nacional das Empresas de Aviação Agrícola (Sindag) celebrou nesta sexta-feira (6/11) a publicação da Medida Provisória nº 1399 que dispensou o setor da…"
+    }
+   },
+   {
+    "titulo": "COP31 foca em apoio financeiro e desafios de segurança energética",
+    "texto": "A Cúpula do Clima da ONU na Turquia terá como prioridade o financiamento a nações vulneráveis para mitigação e transição energética. Discussões ocorrem em meio a restrições no transporte de combustíveis e oscilações de preços que afetam a agenda de justiça climática. Países em desenvolvimento cobram ajuda para lidar com desastres recorrentes.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)",
+     "El País América"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854856",
+     "https://elpais.com/america-futura/2026-11-06/que-se-juega-en-la-cop31-el-efecto-ormuz-el-espiritu-de-santa-marta-y-la-oportunidad-de-antalya.html"
+    ],
+    "citacao": {
+     "veiculo": "ONU News (PT)",
+     "quando": "06/11 09h00",
+     "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
+     "idioma": "pt",
+     "trecho": "A Conferência da ONU sobre Mudança Climática começa neste 9 de novembro, em Antália, na Turquia; países em desenvolvimento querem apoio para executar políticas de…"
+    }
+   },
+   {
+    "titulo": "Alemanha lidera campanha internacional contra gás de efeito estufa SF6",
+    "texto": "O governo alemão lançou uma iniciativa multilateral durante evento da ONU em Ruanda para conter emissões do hexafluoreto de enxofre. Considerado um dos gases mais potentes para o aquecimento global, o composto é amplamente usado em sistemas elétricos. O plano busca monitoramento e redução ativa das fontes industriais.",
+    "regiao": "europa",
+    "fontes": [
+     "Inside Climate News"
+    ],
+    "links": [
+     "https://insideclimatenews.org/news/06112026/germany-launches-global-sf6-pledge-china-emissions/"
+    ],
+    "citacao": {
+     "veiculo": "Inside Climate News",
+     "quando": "06/11 20h02",
+     "link": "https://insideclimatenews.org/news/06112026/germany-launches-global-sf6-pledge-china-emissions/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Ativistas invadem unidade da Microsoft na Europa contra impacto de data centers",
+    "texto": "Manifestantes entraram em um prédio da Microsoft em Amsterdã pedindo uma pausa na construção de infraestruturas de inteligência artificial. O grupo alerta para o alto consumo de água e eletricidade exigido por essas instalações em dezesseis países. O avanço acelerado do setor coloca pressão sobre as metas ambientais europeias.",
+    "regiao": "europa",
+    "fontes": [
+     "DW (EN)"
+    ],
+    "links": [
+     "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-xml-mrss"
+    ],
+    "citacao": {
+     "veiculo": "DW (EN)",
+     "quando": "06/11 13h38",
+     "link": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-xml-mrss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Três quartos dos refugiados do planeta enfrentam riscos climáticos severos",
+    "texto": "Relatório da ONU revela que quase noventa milhões de pessoas deslocadas vivem em áreas sujeitas a eventos climáticos extremos. Secas persistentes, inundações e calor excessivo afetam diretamente essas populações já fragilizadas. A falta de proteção adequada coloca essas comunidades em constante emergência.",
+    "regiao": "global",
+    "fontes": [
+     "UN News"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/en/story/2026/11/1168752"
+    ],
+    "citacao": {
+     "veiculo": "UN News",
+     "quando": "06/11 09h00",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168752",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Cientistas no gelo ártico alertam para avanço da navegação petroleira",
+    "texto": "Pesquisadores a bordo de um navio no Ártico registraram o recuo rápido da camada de gelo polar durante o inverno escuro. O degelo abre caminho para petroleiros em áreas outrora intransitáveis. Em contato com a ONU, os cientistas pediram que líderes globais priorizem as evidências científicas.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News Clima"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/en/story/2026/11/1168751"
+    ],
+    "citacao": {
+     "veiculo": "ONU News Clima",
+     "quando": "06/11 09h00",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168751",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Pesquisa revela que europeus apoiam metas climáticas mas rejeitam novas taxas",
+    "texto": "Levantamento em seis países europeus apontou amplo reconhecimento da crise climática provocada pela humanidade. No entanto, a maioria dos entrevistados resiste a aumentos de impostos sobre passagens aéreas e combustíveis. Medidas de menor custo direto, como plantio de árvores, contam com aprovação quase unânime.",
+    "regiao": "europa",
+    "fontes": [
+     "The Guardian World"
+    ],
+    "links": [
+     "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll"
+    ],
+    "citacao": {
+     "veiculo": "The Guardian World",
+     "quando": "06/11 09h27",
+     "link": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Entramos agora nas notícias de Clima e Meio Ambiente, com os desafios urgentes da agenda planetária.\n\nO presidente Luiz Inácio Lula da Silva viaja na próxima semana para a cidade de Antália, na Turquia. Ele participará da trigésima primeira Conferência das Nações Unidas sobre Mudança do Clima, conhecida como COP31. A conferência acontece entre os dias nove e vinte de novembro. O Brasil pretende exibir avanços expressivos na redução do desmatamento e na diminuição da dependência de combustíveis fósseis. Lula estará presente na Cúpula de Líderes, momento em que chefes de Estado debatem metas para a governança climática mundial. Os números apresentados pela delegação brasileira buscam reforçar a posição de liderança ambiental do país nas negociações multilaterais, segundo a Agência Brasil.\n\nEnquanto o governo prepara a agenda externa, a busca por justiça na Amazônia sofreu um revés. O julgamento dos acusados pelo assassinato do guardião indígena Paulo Paulino Guajajara foi adiado mais uma vez. O crime ocorreu em dois mil e dezenove e segue sem desfecho após sete anos. A emboscada que vitimou Paulo Paulino também deixou ferido o guardião Laércio Guajajara no Maranhão. A assessoria da Justiça Federal justificou o cancelamento alegando falta de datas na pauta de audiências. Lideranças indígenas lamentam a demora contínua em responsabilizar os suspeitos pelos ataques aos defensores florestais, de acordo com a Mongabay Brasil.\n\nNo campo da política fiscal brasileira, o setor rural obteve uma vitória com a edição da Medida Provisória número mil trezentos e noventa e nove. O texto estabeleceu alíquota zero para a aviação agrícola no Imposto Seletivo até o final de dois mil e vinte e sete. Criado na reforma tributária, o mecanismo buscava sobretaxar atividades que geram prejuízos ambientais ou de saúde. O sindicato nacional das empresas do setor comemorou a decisão governamental. A entidade defendeu que a atividade aérea desempenha papel estratégico na produção de alimentos e na segurança fitossanitária no país, segundo o Globo Rural.\n\nNo cenário internacional, as expectativas se voltam para a abertura dos debates climáticos em Antália. Representantes de dezenas de nações em desenvolvimento exigem compromissos financeiros firmes para executar a transição energética e se adaptar a tragédias naturais. O contexto global é marcado pelo encarecimento do petróleo e por gargalos nas rotas de distribuição de combustíveis. Essas tensões energéticas ampliam a pressão para que medidas de mitigação sejam aceleradas em prol da segurança e da justiça climática. O encontro também discute como apoiar as comunidades que sofrem perdas irreparáveis causadas por eventos climáticos extremos, segundo a ONU News e o jornal El País América.\n\nNa Europa, a diplomacia da Alemanha anunciou uma ofensiva para frear as emissões de hexafluoreto de enxofre. Trata-se de um gás de efeito estufa potente, comumente utilizado como isolante em redes elétricas. O lançamento da iniciativa internacional ocorreu durante uma conferência ambiental em Ruanda. A proposta convoca governos e empresas do setor a monitorarem de perto vazamentos e buscarem alternativas industriais menos nocivas. Berlim sustenta que o composto permaneceu fora das prioridades regulatórias globais durante décadas, segundo reportagem do Inside Climate News.\n\nOutro foco de debate ambiental no continente europeu envolve a expansão acelerada da tecnologia digital. Um grupo de ativistas invadiu um centro de dados da empresa Microsoft em Amsterdã. Os manifestantes pediram a suspensão imediata de novas obras desse porte em território europeu. Organizações sociais preparam atos semelhantes em dezesseis países contra a construção de usinas e centros para inteligência artificial. Eles denunciam a pressão crescente dessas instalações sobre o fornecimento de água limpa, as redes elétricas locais e o cumprimento de metas de redução de carbono, segundo a emissora DW.\n\nAs consequências humanas da crise climática também ganharam destaque em um novo diagnóstico divulgado pelas Nações Unidas. Três em cada quatro refugiados no mundo vivem hoje em áreas altamente vulneráveis a desastres naturais. O contingente chega a quase noventa milhões de pessoas que enfrentam secas prolongadas, inundações devastadoras e ondas severas de calor. O documento alerta que essas populações fragilizadas não contam com rotas de fuga ou estruturas adequadas para reconstruir a própria subsistência, de acordo com a UN News.\n\nMais ao norte do globo, a ciência lança outro alerta contundente diretamente do gelo polar. Uma equipe de pesquisadores está embarcada em um navio preso intencionalmente na camada congelada do Oceano Ártico. Em meio à escuridão da noite polar, o grupo documenta a rápida perda de gelo marinho provocada pelo aquecimento contínuo da atmosfera. A retração da camada branca tem estimulado a circulação de navios petroleiros em rotas navegáveis até então bloqueadas. Em comunicação enviada às Nações Unidas, os cientistas pediram que governantes respeitem as evidências científicas na tomada de decisões, segundo a ONU News Clima.\n\nPara fechar o panorama de hoje, uma sondagem de opinião mostrou as contradições da sociedade diante do problema ambiental. Um estudo do Instituto YouGov realizado em seis países europeus revelou que a esmagadora maioria reconhece o impacto humano no aquecimento global. A população concorda que ações emergenciais precisam ser tomadas com rapidez pelos governos. No entanto, a maior parte dos participantes rejeita propostas que impliquem sacrifícios financeiros, como novas taxas sobre combustíveis e voos comerciais. Apenas projetos sem custo direto aos cidadãos, a exemplo do plantio de árvores, contam com apoio irrestrito, de acordo com o jornal The Guardian."
+ },
+ {
+  "id": "tecnologia",
+  "titulo": "Tecnologia",
+  "cor": "#14254A",
+  "cor2": "#2F5DA8",
+  "itens": [
+   {
+    "titulo": "Inovação e Tecnologia em Destaque no Brasil",
+    "texto": "O Senado brasileiro aprovou o acordo de cooperação espacial entre Brasil e Venezuela, assinado em dois mil e oito. O texto prevê ações conjuntas para observação físico-territorial e monitoramento de grandes áreas, como a Floresta Amazônica. A informação foi divulgada pela Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/audios/2026/11/senado-aprova-acordo-de-cooperacao-espacial-entre-brasil-e-venezuela"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "06/11 17h34",
+     "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-aprova-acordo-de-cooperacao-espacial-entre-brasil-e-venezuela",
+     "idioma": "pt",
+     "trecho": "O Senado aprovou o texto do Acordo-Quadro de Cooperação em Ciência e Tecnologia Espacial, assinado por Brasil e Venezuela em 2008 (PDL 575/2026)."
+    }
+   },
+   {
+    "titulo": "Fim da Produção do Cybertruck",
+    "texto": "O presidente da Tesla anunciou através da rede social X que a companhia vai encerrar a produção do modelo Cybertruck em sua fábrica localizada no Texas. A decisão foi comunicada na sexta-feira, segundo o jornal El País América.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://cincodias.elpais.com/companias/2026-11-06/musk-anuncia-que-tesla-pondra-fin-a-la-produccion-del-cybertruck-en-su-fabrica-de-texas.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "06/11 06h24",
+     "link": "https://cincodias.elpais.com/companias/2026-11-06/musk-anuncia-que-tesla-pondra-fin-a-la-produccion-del-cybertruck-en-su-fabrica-de-texas.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Mercados Globais Caem com Preocupações sobre Inteligência Artificial",
+    "texto": "As bolsas de valores da Europa e da Ásia registraram fortes quedas após a vitória dos democratas nas eleições de meio de mandato nos Estados Unidos. A mudança política gerou turbulências no setor de tecnologia, provocando ondas de vendas generalizadas, conforme noticiou o The Guardian.",
+    "regiao": "europa",
+    "fontes": [
+     "The Guardian World"
+    ],
+    "links": [
+     "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
+    ],
+    "citacao": {
+     "veiculo": "The Guardian World",
+     "quando": "06/11 18h23",
+     "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Processo contra a Google nos Estados Unidos",
+    "texto": "Pais norte-americanos processaram a Google após a filha de treze anos discutir pensamentos suicidas com ferramentas de inteligência artificial em um computador escolar. O caso levanta debates sobre os riscos da tecnologia para a saúde mental dos jovens, de acordo com o Insurance Journal.",
+    "regiao": "eua",
+    "fontes": [
+     "Insurance Journal"
+    ],
+    "links": [
+     "https://www.insurancejournal.com/news/national/2026/11/06/891769.htm"
+    ],
+    "citacao": {
+     "veiculo": "Insurance Journal",
+     "quando": "06/11 03h00",
+     "link": "https://www.insurancejournal.com/news/national/2026/11/06/891769.htm",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Prêmio da Unesco para Pesquisa sobre Alzheimer",
+    "texto": "A presidente da Universidade de Ciência e Tecnologia de Hong Kong, Nancy Ip Yuk-yu, recebeu um prêmio das Nações Unidas por suas contribuições na neurociência. A pesquisa viabilizou diagnósticos mais precoces da doença de Alzheimer, segundo o South China Morning Post.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/news/hong-kong/education/article/3373626/hkust-president-nancy-ip-wins-unesco-prize-alzheimers-research"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "06/11 23h54",
+     "link": "https://www.scmp.com/news/hong-kong/education/article/3373626/hkust-president-nancy-ip-wins-unesco-prize-alzheimers-research",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Espionagem Industrial Envolve Executiva e Nvidia",
+    "texto": "A agência de inteligência da China recrutou uma executiva para espionar o presidente executivo da empresa Nvidia, Jensen Huang. O objetivo era obter informações sobre chips avançados de inteligência artificial e influenciar o acesso aos produtos, conforme publicou o The Verge.",
+    "regiao": "eua",
+    "fontes": [
+     "The Verge"
+    ],
+    "links": [
+     "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+    ],
+    "citacao": {
+     "veiculo": "The Verge",
+     "quando": "06/11 20h00",
+     "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Protesto na Suíça contra Impacto Ambiental de Centros de Dados",
+    "texto": "Ativistas do Greenpeace estenderam um grande banner em um canteiro de obras de um centro de dados na Suíça para protestar contra o impacto ambiental das grandes empresas de tecnologia. A informação foi divulgada pela emissora Euronews.",
+    "regiao": "europa",
+    "fontes": [
+     "Euronews"
+    ],
+    "links": [
+     "https://www.euronews.com/video/2026/11/06/switzerland-giant-banner-targets-big-tech-outside-data-centre-site"
+    ],
+    "citacao": {
+     "veiculo": "Euronews",
+     "quando": "06/11 14h25",
+     "link": "https://www.euronews.com/video/2026/11/06/switzerland-giant-banner-targets-big-tech-outside-data-centre-site",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Coreia do Sul Registra Queda na Bolsa devido a Temores com IA",
+    "fonte": "Korea Herald",
+    "regiao": "asia",
+    "links": [
+     "https://www.koreaherald.com/article/10928775"
+    ],
+    "fontes": [
+     "Korea Herald"
+    ],
+    "texto": "A bolsa de valores de Seul registrou forte baixa pelo segundo dia consecutivo. O movimento foi impulsionado pelo temor de que um congresso americano controlado pelos democratas desacelere a construção de centros de dados para inteligência artificial, segundo o Korea Herald.",
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "06/11 04h07",
+     "link": "https://www.koreaherald.com/article/10928775",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguindo com as notícias do dia, vamos agora para a editoria de tecnologia, trazendo as principais movimentações do setor no Brasil e no mundo.\n\nNo cenário nacional, o Senado aprovou o Acordo-Quadro de Cooperação em Ciência e Tecnologia Espacial, que havia sido assinado por Brasil e Venezuela em dois mil e oito. O texto prevê ações conjuntas voltadas para a exploração pacífica do espaço, com foco especial na observação físico-territorial e no monitoramento de grandes áreas. A iniciativa busca auxiliar no acompanhamento de regiões estratégicas sul-americanas, como a Floresta Amazônica, segundo a Agência Senado.\n\nPassando para o mercado automotivo internacional, a fabricante Tesla anunciou que vai encerrar a produção do modelo Cybertruck em sua fábrica situada no Texas. A decisão foi comunicada pelo presidente da companhia através da rede social X na última sexta-feira, marcando uma reviravolta nos planos de fabricação do veículo elétrico, de acordo com o jornal El País América.\n\nAinda sobre o mercado financeiro, as bolsas de valores da Europa e da Ásia registraram quedas expressivas após a vitória dos democratas nas eleições de meio de mandato nos Estados Unidos. A mudança no cenário político americano provocou turbulências no setor de tecnologia, gerando ondas de vendas em Wall Street e arrastando os mercados internacionais, conforme noticiou o The Guardian.\n\nNos Estados Unidos, pais processaram a Google após a filha de treze anos discutir repetidamente pensamentos suicidas com ferramentas de inteligência artificial em um computador fornecido pela escola. O caso reacendeu debates urgentes entre educadores e famílias sobre os riscos e os limites do uso da inteligência artificial por menores de idade, de acordo com o Insurance Journal.\n\nNa Ásia, a presidente da Universidade de Ciência e Tecnologia de Hong Kong, Nancy Ip Yuk-yu, foi premiada pelas Nações Unidas por suas contribuições na área da neurociência. O trabalho desenvolvido pela acadêmica permitiu avanços importantes para o diagnóstico mais precoce e o monitoramento da doença de Alzheimer, segundo o South China Morning Post.\n\nAinda no continente asiático, autoridades de inteligência teriam recrutado uma executiva do setor tecnológico para obter informações sigilosas sobre o presidente executivo da empresa Nvidia, Jensen Huang. A operação visava coletar dados sobre chips avançados de inteligência artificial e influenciar a disponibilidade dos componentes para o mercado chinês, conforme publicou o The Verge.\n\nNa Europa, ativistas ambientais realizaram um protesto na Suíça contra a expansão das grandes empresas de tecnologia. O grupo estendeu um enorme banner em um canteiro de obras de um centro de dados para alertar sobre o impacto ambiental e o consumo excessivo de energia dessas instalações, de acordo com a emissora Euronews.\n\nPara fechar os destaques da tecnologia, a bolsa de valores de Seul despencou pela segunda sessão seguida na Coreia do Sul. O reflexo negativo ocorreu devido ao temor de que um congresso americano liderado pelos democratas desacelere o ritmo de construção de centros de dados voltados para a inteligência artificial, segundo o Korea Herald."
+ },
+ {
+  "id": "ia",
+  "titulo": "Inteligência Artificial",
+  "cor": "#2A1B4A",
+  "cor2": "#6A4FB3",
+  "itens": [
+   {
+    "titulo": "Impacto da IA no mercado de seguros",
+    "texto": "A tecnologia e a inteligência artificial estão abrindo novas possibilidades para o mercado de seguros. As inovações ajudam desde a melhoria da experiência dos clientes até a otimização de processos internos e a regulação de sinistros. Os avanços foram debatidos na palestra sobre inteligência artificial transformando o setor, segundo o portal CQCS.",
+    "regiao": "brasil",
+    "fontes": [
+     "CQCS"
+    ],
+    "links": [
+     "https://cqcs.com.br/noticia/tech-e-inteligencia-artificial-ampliam-possibilidades-de-transformacao-do-mercado-de-seguros/"
+    ],
+    "citacao": {
+     "veiculo": "CQCS",
+     "quando": "06/11 09h42",
+     "link": "https://cqcs.com.br/noticia/tech-e-inteligencia-artificial-ampliam-possibilidades-de-transformacao-do-mercado-de-seguros/",
+     "idioma": "pt",
+     "trecho": "A tecnologia e a inteligência artificial estão abrindo novas possibilidades para o mercado de seguros, desde a melhoria da experiência dos clientes até a otimização de…"
+    }
+   },
+   {
+    "titulo": "ONU Brasil reforça ações contra desinformação",
+    "texto": "Informações falsas custam bilhões e ameaçam o progresso global. O chefe do Sistema ONU no Brasil, Igor Garafulic, detalhou uma parceria com o país para promover a integridade da informação, a segurança cibernética e a governança ética da inteligência artificial, de acordo com a ONU News.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854851"
+    ],
+    "citacao": {
+     "veiculo": "ONU News (PT)",
+     "quando": "06/11 09h00",
+     "link": "https://news.un.org/feed/view/pt/story/2026/11/1854851",
+     "idioma": "pt",
+     "trecho": "Informações falsas custam bilhões e ameaçam progresso; chefe do Sistema ONU no Brasil, Igor Garafulic, detalha parceria com o país para promover a integridade da…"
+    }
+   },
+   {
+    "titulo": "Editora mantém prêmio literário apesar de polêmica com IA",
+    "texto": "A editora Almadía concluiu a investigação sobre a obra vencedora de seu prêmio de narrativa breve e decidiu não retirar a honraria de David Silva Rojas. A empresa rejeitou o exame que apontava o uso de inteligência artificial na escrita, conforme noticiado pelo El País América.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/cultura/2026-11-06/la-editorial-almadia-mantiene-su-confianza-en-la-novela-de-david-silva-rojas-y-no-retira-el-premio.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "06/11 12h41",
+     "link": "https://elpais.com/cultura/2026-11-06/la-editorial-almadia-mantiene-su-confianza-en-la-novela-de-david-silva-rojas-y-no-retira-el-premio.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Queda e volatilidade nas ações de tecnologia e inteligência artificial",
+    "texto": "Investidores venderam ações de tecnologia devido a preocupações de que vitórias eleitorais democratas possam desacelerar o desenvolvimento da inteligência artificial. A queda nos mercados afetou Wall Street e bolsas na Europa e na Ásia, gerando dúvidas sobre o retorno financeiro de gastos massivos, segundo a rede BBC World.",
+    "regiao": "europa",
+    "fontes": [
+     "BBC World"
+    ],
+    "links": [
+     "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+    ],
+    "citacao": {
+     "veiculo": "BBC World",
+     "quando": "06/11 18h06",
+     "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Investidores colocam IPO da Anthropic em risco",
+    "texto": "Potenciais investidores na oferta pública inicial de ações da Anthropic têm dúvidas sobre a capacidade da startup de realizar reuniões e abrir o capital ainda em novembro. Os financiadores pressionam por um valor de mercado mais atraente, segundo informações divulgadas pelo portal G1.",
+    "regiao": "brasil",
+    "fontes": [
+     "G1"
+    ],
+    "links": [
+     "https://g1.globo.com/economia/noticia/2026/11/07/investidores-perdem-confianca-no-setor-de-ia-e-colocam-ipo-da-anthropic-em-risco.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "G1",
+     "quando": "07/11 03h00",
+     "link": "https://g1.globo.com/economia/noticia/2026/11/07/investidores-perdem-confianca-no-setor-de-ia-e-colocam-ipo-da-anthropic-em-risco.ghtml",
+     "idioma": "pt",
+     "trecho": "Logo da Anthropic em ilustração feita em junho de 2026."
+    }
+   },
+   {
+    "titulo": "Processo contra Google após crise de saúde mental",
+    "texto": "Pais na Carolina do Norte processaram o Google após a filha de treze anos discutir pensamentos suicidas com ferramentas de inteligência artificial em um computador escolar. O caso reforça os riscos do uso da tecnologia na educação, conforme o Insurance Journal.",
+    "regiao": "eua",
+    "fontes": [
+     "Insurance Journal"
+    ],
+    "links": [
+     "https://www.insurancejournal.com/news/national/2026/11/06/891769.htm"
+    ],
+    "citacao": {
+     "veiculo": "Insurance Journal",
+     "quando": "06/11 03h00",
+     "link": "https://www.insurancejournal.com/news/national/2026/11/06/891769.htm",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Ativistas invadem canteiro de obras de data center da Microsoft",
+    "texto": "Protestos contra o impacto socioambiental da expansão da inteligência artificial se espalham pela Europa. Ativistas do grupo Geef Tegengas invadiram um canteiro de obras de um data center da Microsoft em Amsterdã, entrando em confronto com a polícia, segundo o jornal The Guardian.",
+    "regiao": "europa",
+    "fontes": [
+     "The Guardian World"
+    ],
+    "links": [
+     "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam"
+    ],
+    "citacao": {
+     "veiculo": "The Guardian World",
+     "quando": "06/11 15h51",
+     "link": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Microsoft busca patente para inteligência artificial que altera falas",
+    "texto": "A empresa Microsoft quer patentear um sistema de inteligência artificial capaz de traduzir discursos e substituir palavras em tempo real com poucos segundos de atraso e sincronia labial. A inovação foi detalhada pelo portal de tecnologia Tecnoblog.",
+    "regiao": "brasil",
+    "fontes": [
+     "Tecnoblog"
+    ],
+    "links": [
+     "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/"
+    ],
+    "citacao": {
+     "veiculo": "Tecnoblog",
+     "quando": "06/11 12h10",
+     "link": "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/",
+     "idioma": "pt",
+     "trecho": "Sistema poderia traduzir discursos e substituir palavras com poucos segundos de atraso e sincronia labial. Microsoft quer patentear IA que altera falas ao vivo"
+    }
+   }
+  ],
+  "roteiro": "Seguindo com as notícias do dia, vamos agora falar sobre inteligência artificial e os impactos dessa tecnologia nos mercados e na sociedade global.\n\nA tecnologia e a inteligência artificial estão abrindo novas possibilidades para o mercado de seguros. As inovações ajudam desde a melhoria da experiência dos clientes até a otimização de processos internos e a regulação de sinistros. Os avanços foram debatidos na palestra sobre inteligência artificial transformando o setor, segundo o portal CQCS. O evento destacou como o uso de ferramentas avançadas pode remodelar a forma como apólices são geridas e como sinistros são avaliados pelas empresas do ramo.\n\nInformações falsas custam bilhões e ameaçam o progresso global. O chefe do Sistema ONU no Brasil, Igor Garafulic, detalhou uma parceria com o país para promover a integridade da informação, a segurança cibernética e a governança ética da inteligência artificial, de acordo com a ONU News. A iniciativa busca combater os riscos associados à disseminação de conteúdos fabricados e proteger os cidadãos contra abusos tecnológicos.\n\nA editora Almadía concluiu a investigação sobre a obra vencedora de seu prêmio de narrativa breve e decidiu não retirar a honraria de David Silva Rojas. A empresa rejeitou o exame que apontava o uso de inteligência artificial na escrita, conforme noticiado pelo El País América. A decisão reabre o debate sobre os limites criativos e a autenticidade literária na era das novas tecnologias.\n\nInvestidores venderam ações de tecnologia devido a preocupações de que vitórias eleitorais democratas possam desacelerar o desenvolvimento da inteligência artificial. A queda nos mercados afetou Wall Street e bolsas na Europa e na Ásia, gerando dúvidas sobre o retorno financeiro de gastos massivos, segundo a rede BBC World. Analistas apontam que a incerteza regulatória tem pesado fortemente sobre o humor do mercado financeiro global.\n\nPotenciais investidores na oferta pública inicial de ações da Anthropic têm dúvidas sobre a capacidade da startup de realizar reuniões e abrir o capital ainda em novembro. Os financiadores pressionam por um valor de mercado mais atraente, segundo informações divulgadas pelo portal G1. O cenário evidencia a cautela recente dos fundos de investimento em relação a empresas do setor de inteligência artificial.\n\nPais na Carolina do Norte processaram o Google após a filha de treze anos discutir pensamentos suicidas com ferramentas de inteligência artificial em um computador escolar. O caso reforça os riscos do uso da tecnologia na educação, conforme o Insurance Journal. A situação gerou preocupações profundas entre pais e educadores sobre a segurança de menores em ambientes digitais controlados por algoritmos.\n\nProtestos contra o impacto socioambiental da expansão da inteligência artificial se espalham pela Europa. Ativistas do grupo Geef Tegengas invadiram um canteiro de obras de um data center da Microsoft em Amsterdã, entrando em confronto com a polícia, segundo o jornal The Guardian. O movimento reflete o crescente descontentamento popular com o consumo energético e as mudanças urbanas provocadas por essas grandes estruturas.\n\nA empresa Microsoft quer patentear um sistema de inteligência artificial capaz de traduzir discursos e substituir palavras em tempo real com poucos segundos de atraso e sincronia labial. A inovação foi detalhada pelo portal de tecnologia Tecnoblog. A tecnologia promete transformar a comunicação global, embora traga novos desafios regulatórios e de segurança para a veracidade de conteúdos audiovisuais."
+ },
+ {
+  "id": "saude",
+  "titulo": "Saúde",
+  "cor": "#0B3B3F",
+  "cor2": "#1C8C8C",
+  "itens": [
+   {
+    "titulo": "Adaptação para obesidade no SUS",
+    "texto": "O Senado analisa um projeto de lei que obriga os estabelecimentos de saúde públicos e privados a adaptarem suas estruturas físicas para garantir atendimento digno a pessoas com obesidade. Dados do Ministério da Saúde indicam que a proporção de adultos com obesidade nas capitais superou vinte e cinco por cento em dois mil e vinte e quatro, segundo a Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-preve-adaptacao-para-atendimento-de-saude-digno-a-pessoas-com-obesidade"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "06/11 14h05",
+     "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-preve-adaptacao-para-atendimento-de-saude-digno-a-pessoas-com-obesidade",
+     "idioma": "pt",
+     "trecho": "O Senado analisa um projeto de lei que obriga os estabelecimentos que prestam serviços público e privado de saúde a adaptarem a estrutura física para garantir o acesso a…"
+    }
+   },
+   {
+    "titulo": "Exame nacional para estudantes de medicina",
+    "texto": "O presidente Luiz Inácio Lula da Silva sancionou a lei que cria o Exame Nacional de Avaliação da Formação Médica, tornando a prova obrigatória para avaliar os estudantes e a qualidade dos cursos no país. O exame será aplicado em três momentos da graduação para identificar dificuldades de aprendizagem, segundo a Agência Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-exame-que-ira-avaliar-qualidade-de-alunos-de-medicina"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "06/11 18h57",
+     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-exame-que-ira-avaliar-qualidade-de-alunos-de-medicina",
+     "idioma": "pt",
+     "trecho": "O presidente Luiz Inácio Lula da Silva sancionou nesta sexta-feira (6) a lei que torna o Exame Nacional de Avaliação da Formação Médica (Enamed) , obrigatório para…"
+    }
+   },
+   {
+    "titulo": "Identificação em remédios do SUS",
+    "texto": "Uma comissão da Câmara dos Deputados aprovou um projeto que exige identificação específica em medicamentos comprados para o Sistema Único de Saúde. A medida busca combater a comercialização indevida desses produtos, com discussões em andamento no parlamento, de acordo com a Agência Câmara.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Câmara"
+    ],
+    "links": [
+     "https://www.camara.leg.br/noticias/1316831-comissao-aprova-projeto-que-exige-identificacao-em-medicamentos-comprados-para-sus"
+    ]
+   },
+   {
+    "titulo": "Debate sobre educação especial e laudo médico",
+    "texto": "A Comissão de Educação da Câmara dos Deputados promove uma audiência pública para discutir o papel do laudo médico e da avaliação psicopedagógica no desenvolvimento escolar de alunos da educação especial. O foco do debate inclui o Transtorno do Déficit de Atenção e Hiperatividade, segundo a Agência Câmara.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Câmara"
+    ],
+    "links": [
+     "https://www.camara.leg.br/noticias/1316333-comissao-debate-atendimento-educacional-dos-alunos-da-educacao-especial"
+    ],
+    "citacao": {
+     "veiculo": "Agência Câmara",
+     "quando": "06/11 10h16",
+     "link": "https://www.camara.leg.br/noticias/1316333-comissao-debate-atendimento-educacional-dos-alunos-da-educacao-especial",
+     "idioma": "pt",
+     "trecho": "Divulgação/Governo do Piauí Deputada quer abordar o aprimoramento do atendimento educacional especializado A Comissão de Educação da Câmara dos Deputados promove, nesta…"
+    }
+   },
+   {
+    "titulo": "Defesa da equidade em saúde nos Estados Unidos",
+    "texto": "Novos legisladores com formação científica planejam atuar no Congresso americano para defender programas de equidade em saúde contra potenciais cortes da administração de Donald Trump. A articulação ocorre em meio a mudanças na composição legislativa, segundo a STAT News.",
+    "regiao": "eua",
+    "fontes": [
+     "STAT News"
+    ],
+    "links": [
+     "https://www.statnews.com/2026/11/06/abdul-el-sayed-jasmine-clark-defend-health-equity-from-cuts/?utm_campaign=rss"
+    ],
+    "citacao": {
+     "veiculo": "STAT News",
+     "quando": "06/11 18h46",
+     "link": "https://www.statnews.com/2026/11/06/abdul-el-sayed-jasmine-clark-defend-health-equity-from-cuts/?utm_campaign=rss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Estratégia de saúde global e o Congresso",
+    "texto": "A administração dos Estados Unidos promoveu uma mudança fundamental na abordagem da ajuda global em saúde, levantando debates sobre como o novo Congresso americano vai pesar essas decisões. Especialistas acompanham os desdobramentos dessa estratégia internacional, conforme a NPR News.",
+    "regiao": "eua",
+    "fontes": [
+     "NPR News"
+    ],
+    "links": [
+     "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress"
+    ],
+    "citacao": {
+     "veiculo": "NPR News",
+     "quando": "06/11 17h09",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Alerta de vacinação infantil em Hong Kong",
+    "texto": "Especialistas em pediatria de Hong Kong solicitaram que os pais agendem vacinas contra a gripe para as crianças antes da chegada de temperaturas mais baixas. A cidade registrou dezenas de casos graves de infecção pediátrica nesta temporada, segundo o South China Morning Post.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/news/hong-kong/health-environment/article/3373635/hong-kong-paediatrician-urges-parents-vaccinate-children-temperatures-fall"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "07/11 02h33",
+     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3373635/hong-kong-paediatrician-urges-parents-vaccinate-children-temperatures-fall",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Investigação sobre terapia gênica nos Estados Unidos",
+    "texto": "A agência reguladora de medicamentos dos Estados Unidos iniciou uma investigação sobre um risco de formação de tumores associado à terapia gênica Zolgensma, da farmacêutica Novartis. A empresa relatou casos em pacientes com atrofia muscular espinal, de acordo com o South China Morning Post.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/news/world/united-states-canada/article/3373631/us-regulator-investigates-tumour-risk-children-given-novartis-gene-therapy"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "07/11 00h35",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3373631/us-regulator-investigates-tumour-risk-children-given-novartis-gene-therapy",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Agora seguimos para as principais notícias do dia na editoria de saúde, trazendo discussões importantes sobre atendimento, políticas públicas e pesquisas médicas no Brasil e no exterior.\n\nO Senado brasileiro analisa um projeto de lei que obriga os estabelecimentos de saúde públicos e privados a adaptarem suas estruturas físicas para garantir um atendimento digno e acessível a pessoas com obesidade. A proposta ganha relevância diante de dados do Ministério da Saúde que indicam que a proporção de adultos com obesidade nas capitais do país superou a marca de vinte e cinco por cento em dois mil e vinte e quatro. O texto tramita no parlamento para definir novas diretrizes de inclusão nas unidades médicas, segundo a Agência Senado.\n\nAinda no cenário nacional, o presidente Luiz Inácio Lula da Silva sancionou a lei que cria o Exame Nacional de Avaliação da Formação Médica, tornando a avaliação obrigatória para os estudantes da área e para a aferição da qualidade dos cursos oferecidos no país. A prova será aplicada em três momentos estratégicos da graduação, permitindo identificar dificuldades de aprendizagem e acompanhar o desempenho dos futuros profissionais ao longo do curso, de acordo com a Agência Brasil.\n\nOutro assunto em debate no legislativo brasileiro envolve a segurança na distribuição de remédios financiados com recursos públicos. Uma comissão da Câmara dos Deputados aprovou um projeto que exige a identificação específica em medicamentos comprados para o Sistema Único de Saúde, uma medida pensada para coibir a comercialização indevida desses produtos farmacêuticos enquanto o tema segue em discussão na casa, segundo a Agência Câmara.\n\nNa pauta educacional e médica da Câmara dos Deputados, a Comissão de Educação promove uma audiência pública dedicada a debater o papel do laudo médico e da avaliação psicopedagógica no desenvolvimento escolar de alunos da educação especial. O encontro centraliza atenções em necessidades específicas de aprendizagem, com foco especial em transtornos como o déficit de atenção e hiperatividade, conforme informou a Agência Câmara.\n\nCruzando o continente para os Estados Unidos, o cenário político recém-renovado traz reflexos diretos para as políticas sociais e médicas do país. Novos legisladores com histórico na área científica planejam atuar com força para defender programas voltados à equidade em saúde, buscando barrar eventuais cortes orçamentários propostos pela administração de Donald Trump e proteger populações vulneráveis, segundo a STAT News.\n\nA estratégia global de saúde dos Estados Unidos também passa por reavaliações profundas e gera debates sobre o futuro da cooperação internacional. A administração americana implementou uma mudança expressiva na abordagem da ajuda externa em saúde, o que levanta questionamentos sobre como o novo Congresso americano vai avaliar e influenciar essas diretrizes nos próximos meses, de acordo com a NPR News.\n\nNo continente asiático, autoridades de saúde de Hong Kong emitiram um alerta preventivo e solicitaram que os pais garantam a vacinação contra a gripe para seus filhos antes da chegada das temperaturas mais baixas. Especialistas locais alertam para a sobreposição de temporadas de gripe e lembram que a cidade já registrou dezenas de casos graves de infecção pediátrica este ano, segundo o South China Morning Post.\n\nPara encerrar as movimentações da área médica internacional, a agência reguladora de medicamentos dos Estados Unidos abriu uma investigação para analisar um potencial risco de formação de tumores relacionado a uma terapia gênica da farmacêutica Novartis. A empresa suíça notificou casos suspeitos em crianças tratadas para atrofia muscular espinal, o que motivou o acompanhamento rigoroso das autoridades sanitárias, de acordo com o South China Morning Post."
+ },
+ {
+  "id": "cultura",
+  "titulo": "Cultura",
+  "cor": "#4A2410",
+  "cor2": "#C2612B",
+  "itens": [
+   {
+    "titulo": "Festival Cinema Acessível Kids reúne estudantes em Brasília",
+    "texto": "Cerca de 350 estudantes de quatro escolas participaram do Festival Cinema Acessível Kids, promovido pelo Senado Federal em Brasília. O evento exibiu gratuitamente o filme Divertida Mente utilizando recursos de audiodescrição, libras e legendagem descritiva. A iniciativa teve como objetivo garantir uma experiência inclusiva para crianças e jovens com diferentes perfis e necessidades, incluindo deficiência visual ou auditiva, segundo a Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/materias/2026/11/06/cinema-acessivel-kids-reuniu-estudantes-em-cinema-de-brasilia"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "06/11 18h15",
+     "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/cinema-acessivel-kids-reuniu-estudantes-em-cinema-de-brasilia",
+     "idioma": "pt",
+     "trecho": "Cerca de 350 estudantes de quatro escolas participaram, nesta sexta-feira (6), do Festival Cinema Acessível Kids, promovido em Brasília pelo Senado Federal."
+    }
+   },
+   {
+    "titulo": "Senado participa da setentena segunda edição da Feira do Livro de Porto Alegre",
+    "texto": "O Senado Federal marca presença na setentena segunda edição da Feira do Livro de Porto Alegre, localizada na Praça da Alfândega, no Centro Histórico da capital gaúcha. O evento segue até o dia quinze de novembro e conta com o espaço O Senado na Praça. O estande reúne cerca de duzentos e trinta títulos sobre legislação, história e literatura, além de promover lançamentos de livros e oficinas, de acordo com a Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/materias/2026/11/06/senado-participa-da-72a-edicao-da-feira-do-livro-de-porto-alegre"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "06/11 18h31",
+     "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/senado-participa-da-72a-edicao-da-feira-do-livro-de-porto-alegre",
+     "idioma": "pt",
+     "trecho": "O Senado participa da 72ª edição da Feira do Livro de Porto Alegre, que vai até o dia 15 de novembro, na Praça da Alfândega, no Centro Histórico da capital gaúcha."
+    }
+   },
+   {
+    "titulo": "Morre aos cinquenta e dois anos o diretor chileno Sebastián Lelio",
+    "texto": "O cineasta chileno Sebastián Lelio, vencedor do Oscar pelo filme Uma Mulher Fantástica, morreu aos cinquenta e dois anos. Segundo diversos reportes, o diretor foi encontrado sem vida em sua residência localizada no bairro de Las Condes, na zona oriente da capital do Chile. A notícia foi repercutida internacionalmente, de acordo com o jornal El País América.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/cultura/cine/2026-11-06-muere-a-los-52-anos-el-director-chileno-sebastian-lelio-ganador-del-oscar-por-una-mujer-fantástica.html"
+    ]
+   },
+   {
+    "titulo": "Amazon anuncia série sobre Melania Trump para o final de novembro",
+    "texto": "A plataforma Amazon planeja lançar uma série em duas partes focada na primeira-dama dos Estados Unidos, Melania Trump. A produção intitulada Melania: The Series tem estreia marcada para o dia vinte de novembro no serviço Prime Video. O projeto promete revelar histórias inéditas e oferecer uma visão sem precedentes sobre a vida da figura pública, segundo o portal The Verge.",
+    "regiao": "eua",
+    "fontes": [
+     "The Verge"
+    ],
+    "links": [
+     "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video"
+    ],
+    "citacao": {
+     "veiculo": "The Verge",
+     "quando": "06/11 14h56",
+     "link": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Euronews destaca panorama cultural e informativo na Europa",
+    "texto": "O canal Euronews divulgou seu boletim informativo recente cobrindo os principais acontecimentos ao redor do continente europeu. A programação abordou tópicos que vão desde questões políticas e de negócios até novidades do setor de cultura e entretenimento. O resumo serve para atualizar o público sobre os eventos de relevância internacional, segundo a Euronews.",
+    "regiao": "europa",
+    "fontes": [
+     "Euronews"
+    ],
+    "links": [
+     "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning"
+    ],
+    "citacao": {
+     "veiculo": "Euronews",
+     "quando": "07/11 03h00",
+     "link": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Exposição imobiliária em Baku destaca o futuro urbano e tecnológico do Azerbaijão",
+    "texto": "A primeira Feira Internacional Imobiliária do Azerbaijão colocou o futuro do ambiente construído em foco na cidade de Baku. O evento examinou o que torna uma cidade atraente para investidores e moradores, abordando habitação acessível, planejamento urbano e tecnologias inteligentes, conforme informou a Euronews.",
+    "regiao": "europa",
+    "fontes": [
+     "Euronews"
+    ],
+    "links": [
+     "https://www.euronews.com/2026/11/06/baku-real-estate-expo-showcases-azerbaijans-tech-driven-urban-future"
+    ],
+    "citacao": {
+     "veiculo": "Euronews",
+     "quando": "06/11 12h10",
+     "link": "https://www.euronews.com/2026/11/06/baku-real-estate-expo-showcases-azerbaijans-tech-driven-urban-future",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Abrimos agora o espaço dedicado à cultura no boletim Brasil e Mundo Hoje, trazendo os principais destaques das artes, do cinema e dos eventos literários pelo país e pelo exterior.\n\nComeçando por Brasília, cerca de trezentos e cinquenta estudantes de quatro escolas participaram nesta sexta-feira do Festival Cinema Acessível Kids. O evento, promovido pelo Senado Federal, exibiu gratuitamente o filme Divertida Mente utilizando recursos de audiodescrição, libras e legendagem descritiva. A iniciativa teve como objetivo garantir uma experiência inclusiva para crianças e jovens com diferentes perfis e necessidades, incluindo deficiência visual ou auditiva, segundo a Agência Senado.\n\nAinda no cenário nacional, o Senado Federal marca presença na setentena segunda edição da Feira do Livro de Porto Alegre. Localizado na Praça da Alfândega, no Centro Histórico da capital gaúcha, o evento segue até o dia quinze de novembro. O espaço O Senado na Praça reúne cerca de duzentos e trinta títulos sobre legislação, história e literatura, além de promover lançamentos de livros e oficinas, de acordo com a Agência Senado.\n\nCruzando as fronteiras para a América Latina, o meio cinematográfico lamenta a morte do diretor chileno Sebastián Lelio, vencedor do Oscar pelo filme Uma Mulher Fantástica. O cineasta faleceu aos cinquenta e dois anos de idade. Segundo diversos reportes publicados na imprensa, o diretor foi encontrado sem vida em sua residência localizada no bairro de Las Condes, na zona oriente da capital chilena, conforme relatado pelo jornal El País América.\n\nMudando para os Estados Unidos, a plataforma Amazon planeja lançar uma produção original voltada para a vida pública. Trata-se de uma série em duas partes focada na primeira-dama Melania Trump. A obra, intitulada Melania: The Series, tem estreia marcada para o dia vinte de novembro no serviço Prime Video. A empresa afirma que a série promete revelar histórias inéditas e oferecer uma visão sem precedentes sobre a trajetória da personagem, segundo o portal The Verge.\n\nPassando para o continente europeu, o canal Euronews divulgou um boletim informativo recente cobrindo os principais acontecimentos culturais e de entretenimento na região. A programação abordou tópicos que servem para atualizar o público sobre o panorama artístico e os eventos de relevância internacional em curso na Europa, de acordo com a Euronews.\n\nAinda na Europa, a cidade de Baku sediou a primeira Feira Internacional Imobiliária do Azerbaijão para debater o futuro urbano e tecnológico. O evento examinou fatores que atraem investidores e moradores, como habitação acessível, planejamento urbano e a aplicação de tecnologias inteligentes no cotid das cidades, conforme informou a Euronews.\n\nEncerramos esta edição da editoria de cultura e seguimos com os demais destaques do noticiário para manter você bem informado ao longo do dia."
+ },
+ {
+  "id": "checagem",
+  "titulo": "Checagem de fatos",
+  "cor": "#2B2F38",
+  "cor2": "#5E6778",
+  "itens": [
+   {
+    "titulo": "Vídeo falso sobre votos de Lula",
+    "texto": "Um vídeo fabricado com inteligência artificial circula nas redes sociais com uma suposta reportagem de televisão. O conteúdo alega falsamente que, nas eleições de 2026, o presidente Luiz Inácio Lula da Silva teve mais votos do que o número total de habitantes em cidades brasileiras. A checagem foi realizada pelo portal G1 Fato ou Fake.",
+    "regiao": "brasil",
+    "fontes": [
+     "G1 Fato ou Fake"
+    ],
+    "links": [
+     "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/11/06/e-fake-que-votos-de-lula-nas-eleicoes-superaram-total-de-habitantes-em-cidades-do-brasil-video-foi-fabricado-com-ia.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "G1 Fato ou Fake",
+     "quando": "06/11 19h44",
+     "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/11/06/e-fake-que-votos-de-lula-nas-eleicoes-superaram-total-de-habitantes-em-cidades-do-brasil-video-foi-fabricado-com-ia.ghtml",
+     "idioma": "pt",
+     "trecho": "É #FAKE que Lula teve mais votos do que o total de habitantes em cidades mencionadas em vídeo Reprodução Circula nas redes sociais um vídeo com uma suposta reportagem de…"
+    }
+   },
+   {
+    "titulo": "Desinformação sobre conflito no Irã",
+    "texto": "Após um ataque dos Estados Unidos contra o Irã, redes sociais foram tomadas por imagens dramáticas e publicações sobre novos combates. Uma verificação da emissora alemã Deutsche Welle revelou que o material inclui vídeos gerados por inteligência artificial, conteúdos reciclados de conflitos anteriores e postagens enganosas vindas de contas duvidosas.",
+    "regiao": "europa",
+    "fontes": [
+     "DW (EN)"
+    ],
+    "links": [
+     "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-all-1573-xml-mrss"
+    ],
+    "citacao": {
+     "veiculo": "DW (EN)",
+     "quando": "06/11 12h29",
+     "link": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-all-1573-xml-mrss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Crise no Paraguai e queda de banco",
+    "texto": "A descoberta de uma fraude financeira colossal envolvendo a queda do banco Ueno deixou milhões de cidadãos sem acesso às suas economias no Paraguai. A situação gerou enorme instabilidade política e colocou o presidente conservador Santiago Peña à beira do impeachment, conforme análise divulgada pela Agência Lupa.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Lupa"
+    ],
+    "links": [
+     "https://www.agencialupa.org/explicador/2026/11/06/como-a-queda-do-banco-ueno-no-paraguai-selou-o-fim-do-governo-de-santiago-pena/"
+    ],
+    "citacao": {
+     "veiculo": "Agência Lupa",
+     "quando": "06/11 17h03",
+     "link": "https://www.agencialupa.org/explicador/2026/11/06/como-a-queda-do-banco-ueno-no-paraguai-selou-o-fim-do-governo-de-santiago-pena/",
+     "idioma": "pt",
+     "trecho": "Fotos de Elisa Marecos (@elisa_marecos) e Sandino Flecha (@sandinoflecha) para El Surti (@elsurti) A descoberta de uma fraude financeira colossal deixa milhões de…"
+    }
+   },
+   {
+    "titulo": "Tornado em Chapecó tem vídeo falso",
+    "texto": "Um vídeo que supostamente mostraria postes explodindo e uma casa sendo destelhada durante o tornado que atingiu a cidade de Chapecó, em Santa Catarina, é falso. Segundo a checagem do portal G1 Fato ou Fake, a cena real ocorreu nos Estados Unidos no ano de 2024 e foi associada incorretamente ao fenômeno climático brasileiro.",
+    "regiao": "brasil",
+    "fontes": [
+     "G1 Fato ou Fake"
+    ],
+    "links": [
+     "https://g1.globo.com/fato-ou-fake/noticia/2026/11/06/e-fake-que-video-mostre-postes-explodindo-e-casa-destelhada-durante-tornado-em-chapeco-cena-ocorreu-nos-eua-em-2024.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "G1 Fato ou Fake",
+     "quando": "06/11 14h00",
+     "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/06/e-fake-que-video-mostre-postes-explodindo-e-casa-destelhada-durante-tornado-em-chapeco-cena-ocorreu-nos-eua-em-2024.ghtml",
+     "idioma": "pt",
+     "trecho": "É #FAKE que vídeo mostre postes explodindo e casa destelhada durante tornado em Chapecó; cena ocorreu nos EUA em 2024 Reprodução Circula nas redes sociais um vídeo que…"
+    }
+   },
+   {
+    "titulo": "Imigrantes brasileiros no Paraguai",
+    "texto": "Publicações que circulam nas redes sociais após as eleições brasileiras estão usando um trecho de reportagem gravada por uma emissora paraguaia em maio deste ano para ilustrar uma situação recente. O material original retrata imigrantes brasileiros no Paraguai, mas é anterior à reeleição do presidente Luiz Inácio Lula da Silva, segundo a Agência Lupa.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Lupa"
+    ],
+    "links": [
+     "https://www.agencialupa.org/jornalismo/2026/11/06/video-de-imigrantes-brasileiros-no-paraguai-e-anterior-a-reeleicao-de-lula/"
+    ],
+    "citacao": {
+     "veiculo": "Agência Lupa",
+     "quando": "06/11 19h26",
+     "link": "https://www.agencialupa.org/jornalismo/2026/11/06/video-de-imigrantes-brasileiros-no-paraguai-e-anterior-a-reeleicao-de-lula/",
+     "idioma": "pt",
+     "trecho": "Publicações que circulam após eleições brasileiras usam trecho de reportagem gravada por emissora paraguaia em maio deste ano"
+    }
+   },
+   {
+    "titulo": "Isenção de IPVA para motoristas",
+    "texto": "Uma notícia viral que circula sobre a isenção do Imposto sobre a Propriedade de Veículos Automotores para motoristas de aplicativos se refere especificamente ao estado da Paraíba. De acordo com a Agência Lupa, a publicação original esclarece que o benefício poderá ser usufruído pelos motoristas locais a partir de primeiro de janeiro de 2027.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Lupa"
+    ],
+    "links": [
+     "https://www.agencialupa.org/verificacao/2026/11/06/noticia-viral-sobre-isencao-de-ipva-para-motoristas-de-aplicativos-e-e-para-a-paraiba/"
+    ]
+   },
+   {
+    "titulo": "Sátira sobre custo de vida no Paraguai",
+    "texto": "Um vídeo que mostra o suposto relato de um brasileiro decepcionado com o custo de vida no Paraguai não passa de uma brincadeira. A Agência Lupa apontou que o conteúdo original foi publicado por um perfil satírico no TikTok, e o próprio autor do material fez alertas públicos de que a gravação é totalmente fictícia.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Lupa"
+    ],
+    "links": [
+     "https://www.agencialupa.org/verificacao/2026/11/06/e-satira-video-que-mostra-relato-de-brasileiro-decepcionado-com-custo-de-vida-no-paraguai/"
+    ],
+    "citacao": {
+     "veiculo": "Agência Lupa",
+     "quando": "06/11 16h02",
+     "link": "https://www.agencialupa.org/verificacao/2026/11/06/e-satira-video-que-mostra-relato-de-brasileiro-decepcionado-com-custo-de-vida-no-paraguai/",
+     "idioma": "pt",
+     "trecho": "Conteúdo original foi postado por perfil satírico no TikTok; autor alerta que gravação é fictícia"
+    }
+   }
+  ],
+  "roteiro": "Sigamos agora para a nossa editoria de checagem de fatos, onde separamos o que é verdade do que circula sem comprovação na internet.\n\nComeçamos falando sobre um conteúdo manipulado que enganou muita gente nas redes sociais nas últimas horas. Um vídeo fabricado com o uso de inteligência artificial simula uma reportagem de televisão para espalhar dados inverídicos. A gravação alega que, durante as eleições de dois mil e vinte e seis, o presidente Luiz Inácio Lula da Silva teria recebido mais votos do que a quantidade total de habitantes em determinadas cidades do Brasil. A verificação foi realizada pela equipe do portal G1 Fato ou Fake, que confirmou a falsidade do material.\n\nAinda no campo da desinformação digital, mas olhando para o cenário internacional, o impacto de ataques recentes gerou uma onda de boatos online. Depois da ofensiva realizada pelos Estados Unidos contra o Irã, as redes sociais foram inundadas por imagens dramáticas sobre supostos novos combates. Uma análise detalhada publicada pela emissora alemã Deutsche Welle mostrou que grande parte desse material é composta por vídeos gerados por inteligência artificial, registros reciclados de conflitos antigos e publicações enganosas divulgadas por contas sem credibilidade.\n\nMudando de assunto para a política na América do Sul, a situação institucional no Paraguai ganhou contornos dramáticos com uma crise econômica sem precedentes. A descoberta de uma fraude financeira colossal, associada à queda do banco Ueno, deixou milhares de cidadãos sem acesso às suas próprias economias no país vizinho. Esse escândalo abalou profundamente o cenário político local e colocou o presidente conservador Santiago Peña sob forte risco de sofrer um processo de impeachment, conforme explicou uma reportagem especial publicada pela Agência Lupa.\n\nVoltando a falar de checagens sobre eventos climáticos extremos no Brasil, um registro alarmante que circulou recentemente foi desmentido por especialistas. Um vídeo que supostamente mostraria postes explodindo e casas sendo destelhadas durante o forte tornado que atingiu a cidade de Chapecó, em Santa Catarina, não passa de uma farsa. De acordo com a apuração do portal G1 Fato ou Fake, as imagens na verdade mostram um evento ocorrido nos Estados Unidos no ano de dois mil e vinte e quatro, sendo reutilizadas indevidamente para ilustrar o temporal catarinense.\n\nOutro tema que gerou confusão entre internautas envolveu postagens sobre imigrantes brasileiros em território paraguaio. Publicações compartilhadas logo após o encerramento das eleições brasileiras passaram a utilizar um trecho de reportagem gravada por uma emissora de televisão do Paraguai em maio deste ano. Conforme o levantamento feito pela Agência Lupa, o conteúdo foi tirado de contexto, já que a gravação é anterior à reeleição do presidente Luiz Inácio Lula da Silva e não possui relação com o cenário político atual.\n\nAinda sobre circulação de informações locais, uma notícia viral a respeito de benefícios fiscais chamou a atenção de motoristas de aplicativos. Postagens nas redes sociais espalharam a informação sobre uma suposta isenção do Imposto sobre a Propriedade de Veículos Automotores, gerando dúvidas sobre a abrangência da medida. Segundo a verificação da Agência Lupa, a regra é específica para o estado da Paraíba, e a publicação original deixa claro que a isenção só poderá ser usufruída pelos profissionais a partir do dia primeiro de janeiro de dois mil e vinte e sete.\n\nPara fechar a nossa rodada de verificações, um vídeo que trazia o relato de um brasileiro desabafando sobre o custo de vida no Paraguai precisou ser esclarecido. A gravação causou debate nas redes sociais até que a sua verdadeira natureza viesse à tona. De acordo com a Agência Lupa, o conteúdo foi postado originalmente por um perfil voltado para o humor e sátira em uma plataforma de vídeos, e o próprio autor precisou vir a público reforçar que a situação mostrada não passa de uma ficção."
+ },
+ {
+  "id": "encerramento",
+  "titulo": "Resumo e agenda",
+  "cor": "#0B1F3A",
+  "cor2": "#3A4A63",
+  "itens": [
+   {
+    "titulo": "Encerramento do Boletim",
+    "texto": "Neste sábado, sete de novembro de duzentos e vinte e seis, destacamos cinco pontos centrais do noticiário. No cenário internacional, o Paraguai viveu uma reviravolta política com o impeachment e a prisão do ex-presidente Santiago Peña, após uma fraude financeira. Nos Estados Unidos, o mercado de trabalho forte impulsionou o dólar para cinco reais e cinquenta e um centavos. Na pauta ambiental, o presidente Luiz Inácio Lula da Silva prepara os dados de redução do desmatamento para a Conferência do Clima da Organização das Nações Unidas na Turquia. No setor de tecnologia, os mercados globais reagiram com cautela e quedas à volatilidade nas ações ligadas à inteligência artificial. Por fim, a cultura internacional lamentou a morte do cineasta chileno Sebastián Lelio, vencedor do Oscar, aos cinquenta e dois anos. Nas próximas horas, acompanhe a repercussão do impeachment no Paraguai e os preparativos para os encontros internacionais sobre o clima. O Brasil e Mundo Hoje retorna amanhã, às seis horas da manhã, com todas as atualizações. Tenha um excelente dia.",
+    "regiao": "global",
+    "fontes": [
+     "BBC News Brasil",
+     "Agência Brasil",
+     "El País América"
+    ],
+    "links": []
+   }
+  ],
+  "roteiro": "Chegamos ao final de mais uma edição do Brasil e Mundo Hoje. Vamos relembrar os cinco fatos mais importantes deste sábado, sete de novembro de duzentos e vinte e seis.\n\nO fato político de maior repercussão veio do Paraguai, onde o Senado aprovou por unanimidade o impeachment de Santiago Peña. Logo depois, o ex-presidente foi preso em sua casa devido a um escândalo financeiro, segundo a BBC News Brasil.\n\nNa economia, a moeda norte-americana fechou cotada a cinco reais e cinquenta e um centavos. A alta foi influenciada pela divulgação de dados sólidos sobre a criação de empregos nos Estados Unidos, de acordo com a Agência Brasil.\n\nNo setor ambiental, o presidente Luiz Inácio Lula da Silva levará números expressivos sobre a queda do desmatamento para a trigésima primeira Conferência do Clima da Organização das Nações Unidas, que começa na próxima semana na Turquia, segundo a Agência Brasil.\n\nNos mercados globais, as ações de tecnologia e inteligência artificial registraram quedas expressivas na Europa e na Ásia. Investidores demonstraram preocupação com os rumos regulatórios e a sustentabilidade dos investimentos no setor, conforme publicou o jornal The Guardian.\n\nNo campo da cultura, o cinema mundial perdeu o diretor chileno Sebastián Lelio. Vencedor do Oscar pelo filme Uma Mulher Fantástica, ele foi encontrado morto em sua residência no Chile, segundo o jornal El País América.\n\nNas próximas horas, continue acompanhando a transição de governo no Paraguai e os desdobramentos econômicos nos mercados internacionais. O nosso boletim é publicado todos os dias, às seis horas da manhã. Obrigado pela sua companhia, continue com a nossa programação e tenha um excelente dia."
+ }
+]
