@@ -55,6 +55,10 @@ def main(argv=None) -> int:
         noticias = coletor.coletar(ativas, cfg["janela_horas"], cfg["max_itens_por_fonte"], saude)
         for nome, (ok, qtd) in saude.items():
             memoria.registrar_fonte(est, nome, ok, qtd, hoje.date())
+        longas = {f["nome"] for f in ativas if "janela_horas" in f}
+        if longas:  # fontes de janela longa não repetem o que já foi ao ar nos últimos dias
+            lidos = coletor.links_publicados(RAIZ / "edicoes", hoje.date())
+            noticias = [n for n in noticias if n.fonte not in longas or n.link not in lidos]
     if len(noticias) < 10:
         log.error("Poucas notícias coletadas (%d). Abortando para não publicar edição vazia.", len(noticias))
         return 2

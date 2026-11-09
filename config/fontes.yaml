@@ -1,4 +1,4 @@
-# Fontes de notícias (RSS/Atom). Cada fonte tem: nome, url, regiao, categorias (dica), idioma, tipo.
+# Fontes de notícias (RSS/Atom). Cada fonte tem: nome, url, regiao, categorias (dica), idioma, tipo e, opcional, janela_horas.
 # tipo: oficial | multilateral | imprensa | ciencia
 # regiao: brasil | europa | eua | asia | global
 # Adicione ou remova fontes livremente; feeds que falham são ignorados e registrados no log.
@@ -52,9 +52,12 @@ fontes:
   - {nome: "Buenos Aires Times", url: "https://www.batimes.com.ar/feed", regiao: latam, idioma: en, tipo: imprensa}
 
   # ---------------- CHECAGEM DE FATOS ----------------
-  # Signatárias da IFCN. Aos Fatos (404), AFP Checamos (403) e Comprova (feed parado) sem RSS válido em 05/11/2026.
-  - {nome: "Agência Lupa", url: "https://lupa.uol.com.br/feed", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [checagem]}
-  - {nome: "G1 Fato ou Fake", url: "https://g1.globo.com/rss/g1/fato-ou-fake/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [checagem]}
+  # Signatárias da IFCN. AFP Checamos (403) e Comprova (feed parado) sem RSS válido (validado em 09/11/2026).
+  # Checadores quase não publicam no fim de semana: janela de 72 h, sem repetir o que já foi ao ar (links_publicados).
+  - {nome: "Agência Lupa", url: "https://lupa.uol.com.br/feed", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [checagem], janela_horas: 72}
+  - {nome: "G1 Fato ou Fake", url: "https://g1.globo.com/rss/g1/fato-ou-fake/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [checagem], janela_horas: 72}
+  - {nome: "Aos Fatos", url: "https://www.aosfatos.org/noticias/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [checagem], janela_horas: 72}
+  - {nome: "Estadão Verifica", url: "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/estadao-verifica/?body=%7B%22layout%22:%22google-news%22%7D", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [checagem], janela_horas: 72}
 
   # ---------------- MULTILATERAIS / GLOBAL ----------------
   - {nome: "ONU News (PT)", url: "https://news.un.org/feed/subscribe/pt/news/all/rss.xml", regiao: global, idioma: pt, tipo: multilateral}

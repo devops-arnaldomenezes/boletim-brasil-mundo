@@ -215,3 +215,21 @@ def test_classificador_novas_secoes():
     assert "checagem" in cats("É falso que vacina altere o DNA, mostra checagem")
     assert "clima" not in cats("Google amplia demissões para investir em IA")
     assert "checagem" not in cats("Trump ataca a imprensa e fala em the fake news")
+
+
+def test_janela_por_fonte_e_links_publicados(tmp_path, monkeypatch):
+    """Checagem usa janela própria (72 h) e não repete links que já foram ao ar."""
+    import json
+    from datetime import date
+    from boletim import coletor
+
+    janelas = {}
+    monkeypatch.setattr(coletor, "coletar_fonte",
+                        lambda f, desde, limite: (janelas.__setitem__(f["nome"], desde) or ([], True)))
+    coletor.coletar([{"nome": "a"}, {"nome": "b", "janela_horas": 72}], 26, 10)
+    assert round((janelas["a"] - janelas["b"]).total_seconds() / 3600) == 46
+
+    ontem = tmp_path / "2026/11/08"
+    ontem.mkdir(parents=True)
+    (ontem / "roteiro.json").write_text(json.dumps([{"itens": [{"links": ["https://x/1"]}]}, {"id": "fim"}]))
+    assert coletor.links_publicados(tmp_path, date(2026, 11, 9)) == {"https://x/1"}

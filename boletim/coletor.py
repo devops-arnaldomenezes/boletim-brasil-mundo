@@ -4,7 +4,7 @@ from __future__ import annotations
 import json
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import asdict, dataclass, field
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
@@ -86,9 +86,11 @@ def deduplicar(noticias: list[Noticia]) -> list[Noticia]:
 
 def coletar(fontes: list[dict], janela_horas: int, limite: int, saude: dict | None = None) -> list[Noticia]:
     """saude (opcional) recebe {nome_da_fonte: (ok, qtd_itens)} para o estado do agente."""
-    desde = datetime.now(timezone.utc) - timedelta(hours=janela_horas)
+    # uma fonte pode ter janela própria (ex.: checagem, que não publica nos fins de semana)
+    agora_utc = datetime.now(timezone.utc)
+    desde = lambda f: agora_utc - timedelta(hours=f.get("janela_horas", janela_horas))  # noqa: E731
     with ThreadPoolExecutor(max_workers=12) as ex:
-        lotes = list(ex.map(lambda f: coletar_fonte(f, desde, limite), fontes))
+        lotes = list(ex.map(lambda f: coletar_fonte(f, desde(f), limite), fontes))
     if saude is not None:
         for f, (itens, ok) in zip(fontes, lotes):
             saude[f["nome"]] = (ok, len(itens))
@@ -96,6 +98,20 @@ def coletar(fontes: list[dict], janela_horas: int, limite: int, saude: dict | No
     unicas = deduplicar(todas)
     log.info("Coletadas %d notícias (%d após deduplicação)", len(todas), len(unicas))
     return unicas
+
+
+def links_publicados(pasta_edicoes: Path, hoje: date, dias: int = 3) -> set[str]:
+    """Links já lidos nas últimas edições (roteiro.json), para fontes de janela longa não repetirem notícia."""
+    links: set[str] = set()
+    for d in range(1, dias + 1):
+        roteiro = pasta_edicoes / (hoje - timedelta(days=d)).strftime("%Y/%m/%d") / "roteiro.json"
+        try:
+            for seg in json.loads(roteiro.read_text(encoding="utf-8")):
+                for item in seg.get("itens", []):
+                    links.update(item.get("links", []))
+        except (OSError, ValueError):
+            continue
+    return links
 
 
 def salvar(noticias: list[Noticia], caminho: Path) -> None:
