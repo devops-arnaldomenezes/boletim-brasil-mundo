@@ -1,0 +1,557 @@
+# Brasil e Mundo Hoje — sábado, 14 de novembro de 2026
+
+🎧 [Podcast (MP3)](https://github.com/devops-arnaldomenezes/boletim-brasil-mundo/releases/download/edicao-2026-11-14/boletim-2026-11-14.mp3) · 🎬 [Vídeo (MP4)](https://github.com/devops-arnaldomenezes/boletim-brasil-mundo/releases/download/edicao-2026-11-14/boletim-2026-11-14.mp4) · ⏱️ 44 min
+
+> Resumo gerado automaticamente a partir de fontes oficiais, organismos internacionais e imprensa reconhecida. Confira sempre a fonte original nos links.
+
+## Manchetes do dia
+
+**Gilmar Mendes acusa Moro de agir contra Lula em 2018** · 🇧🇷 Brasil  
+O ministro Gilmar Mendes afirmou que o ex-juiz Sergio Moro manipulou a justiça para impedir a candidatura de Lula em dois mil e dezoito, segundo a Agência Brasil.  
+<sub>Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/gilmar-diz-que-moro-agiu-para-impedir-candidatura-de-lula-in-2018)</sub>
+
+**Dólar fecha estável, mas acumula alta semanal** · 🇧🇷 Brasil  
+A moeda norte-americana encerrou cotada a cinco reais e sessenta e cinco centavos, acumulando alta de dois vírgula sessenta e três por cento na semana, de acordo com a Agência Brasil.  
+<sub>Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana)</sub>
+
+**Financiamento climático e inteligência artificial na COP trinta e um** · 🌐 Mundo  
+Negociações sobre financiamento e diretrizes para informações climáticas confiáveis geraram debates na conferência sobre o clima, segundo a ONU News Clima.  
+<sub>Fonte: [ONU News Clima](https://news.un.org/feed/view/en/story/2026/11/1168802)</sub>
+
+## Números e agenda do dia
+
+**Dólar comercial: R$ 5,6518** · 🇧🇷 Brasil  
+Dólar comercial a R$ 5,6518 na cotação de venda de 13/11, alta de 0,67% sobre o dia anterior.  
+<sub>Fonte: [Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries)</sub>
+
+**Euro: R$ 6,2334** · 🇧🇷 Brasil  
+Euro a R$ 6,2334 na cotação de venda de 13/11, alta de 0,32% sobre o dia anterior.  
+<sub>Fonte: [Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries)</sub>
+
+**Inflação (IPCA) em 12 meses: 4,63%** · 🇧🇷 Brasil  
+Inflação (IPCA) em 12 meses em 4,63% (referente a 10/2026).  
+<sub>Fonte: [IBGE, via Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries)</sub>
+
+## Política
+
+**Gilmar Mendes acusa Sergio Moro de manipular Justiça em 2018** · 🇧🇷 Brasil  
+O ministro Gilmar Mendes, do Supremo Tribunal Federal, acusou o senador Sergio Moro de manipular o sistema de justiça para impedir a candidatura de Luiz Inácio Lula da Silva em dois mil e dezoito. A declaração ocorreu nesta sexta-feira, em meio a discussões sobre decisões passadas da Operação Lava Jato. A acusação reabre debates profundos sobre a atuação do Judiciário e o impacto político na história recente do Brasil.  
+<sub>Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/gilmar-diz-que-moro-agiu-para-impedir-candidatura-de-lula-en-2018)</sub>
+
+**Senadoras acompanham investigação de crianças desaparecidas no Maranhão** · 🇧🇷 Brasil  
+Três senadoras da República viajaram para o Maranhão para acompanhar de perto as investigações sobre o desaparecimento de crianças em uma comunidade quilombola na zona rural de Bacabal. A diligência é liderada pela Comissão de Direitos Humanos do Senado e busca respostas para a segurança local. O caso mobiliza parlamentares federais devido à gravidade da situação na região nordestina.  
+<sub>Fonte: [Agência Senado](https://www12.senado.leg.br/noticias/materias/2026/11/13/senadoras-acompanham-investigacao-sobre-criancas-desaparecidas-no-maranhao)</sub>
+
+**Supremo dos Estados Unidos revisará ordem de asilo de Trump** · 🌎 América Latina  
+A Suprema Corte dos Estados Unidos concordou em examinar a legalidade da ordem executiva do presidente Donald Trump que proíbe o acesso ao asilo na fronteira sul. O tribunal decidirá se o chefe do Executivo tem autonomia para impor tal restrição migratória por decreto. A medida é central para a política de imigração do governo norte-americano e gera intenso debate jurídico.  
+<sub>Fonte: [El País América](https://elpais.com/us/migracion/2026-11-13/el-tribunal-supremo-accede-a-revisar-la-orden-de-trump-para-prohibir-el-acceso-al-asilo-en-la-frontera-sur.html)</sub>
+
+**Queda de popularidade de Javier Milei na Argentina** · 🌎 América Latina  
+Uma nova pesquisa de opinião aponta que a imagem do presidente argentino Javier Milei sofreu desgaste expressivo, com sessenta e dois por cento dos entrevistados avaliando sua gestão de forma negativa. O descontentamento popular está fortemente ligado às preocupações crescentes com o emprego e a economia no país vizinho. Os dados refletem os desafios enfrentados pela administração atual na América do Sul.  
+<sub>Fonte: [Buenos Aires Times](https://www.batimes.com.ar/news/economy/mileis-image-sours-with-argentines-as-jobs-become-top-concern.phtml)</sub>
+
+**Casa Branca confirma reunião trilateral entre Trump, Xi e Putin** · 🌏 Ásia  
+A Casa Branca confirmou a realização de um encontro inédito entre os presidentes dos Estados Unidos, da China e da Rússia durante a cúpula da Cooperação Econômica Ásia-Pacífico. A reunião trilateral ocorrerá na próxima semana na cidade chinesa de Shenzhen, segundo autoridades diplomáticas. O evento diplomático atrai atenção internacional por reunir potências globais em um momento de grandes tensões geopolíticas.  
+<sub>Fonte: [South China Morning Post](https://www.scmp.com/news/china/diplomacy/article/3374415/white-house-confirms-us-china-russia-trilateral-apec-sidelines)</sub>
+
+**Derrota republicana na Câmara dos Estados Unidos** · 🇺🇸 EUA  
+A deputada republicana Lauren Boebert perdeu sua cadeira na Câmara dos Representantes dos Estados Unidos para a candidata democrata Eileen Laubacher. A derrota encerra o mandato de uma das figuras mais conhecidas da ala conservadora no Congresso norte-americano. A mudança na composição legislativa altera o equilíbrio de forças políticas em Washington.  
+<sub>Fonte: [PBS NewsHour](https://www.pbs.org/newshour/politics/gop-rep-lauren-boebert-of-colorado-loses-u-s-house-seat-to-democrat-eileen-laubacher)</sub>
+
+**Apelo da ONU por combustíveis fósseis e crise climática** · 🌐 Mundo  
+  
+<sub>Fonte: [ONU News (PT)](https://news.un.org/feed/view/pt/story/2026/11/1854916)</sub>
+
+**Crise humanitária e violência no Haiti** · 🌐 Mundo  
+  
+<sub>Fonte: [ONU News (PT)](https://news.un.org/feed/view/pt/story/2026/11/1854906)</sub>
+
+## Economia e Mercados
+
+**Dólar fecha a R$ 5,65 e sobe 2,63% na semana** · 🇧🇷 Brasil  
+O dólar fechou estável nesta sexta-feira cotado a cinco reais e sessenta e cinco centavos, mas acumulou alta de 2,63% na semana. Segundo a Agência Brasil, pesaram as incertezas sobre o pacote fiscal do governo e turbulências internacionais. Na bolsa, o Ibovespa subiu 0,66% com o impulso de varejistas e petroleiras.  
+<sub>Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana)</sub>
+
+**Governo encerra subsídio de R$ 1,40 ao diesel importado** · 🇧🇷 Brasil  
+O Ministério da Fazenda informou que a subvenção de um real e quarenta centavos por litro ao diesel importado não será renovada após um mês em vigor. De acordo com a Agência Brasil, a decisão ocorreu com o fim da Portaria 3.082. A medida não afeta a subvenção de dois reais e doze centavos para o óleo diesel rodoviário.  
+<sub>Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado)</sub>
+
+**Receita Federal perdoa dívidas antigas de MEIs** · 🇧🇷 Brasil  
+As dívidas previdenciárias de microempreendedores individuais com vencimento até esta sexta-feira serão canceladas automaticamente pela Receita Federal. Conforme a Agência Brasil, a remissão segue a Lei Complementar 238 de 2026. Para manter o benefício, os contribuintes devem pagar em dia os boletos mensais entre janeiro e junho de 2027.  
+<sub>Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-cancelara-dividas-de-meis-vencidas-ate-esta-sexta-feira)</sub>
+
+**EUA e China realizam primeira reunião do Conselho de Comércio** · 🌏 Ásia  
+Estados Unidos e China realizaram a reunião inaugural do Conselho Bilateral de Comércio em meio aos preparativos para a cúpula presidencial. Segundo o South China Morning Post, o encontro reuniu o representante de comércio norte-americano e o Departamento do Tesouro com autoridades chinesas em Washington e Pequim.  
+<sub>Fonte: [South China Morning Post](https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit)</sub>
+
+**Bitcoin cai abaixo de 70 mil dólares com temores inflacionários** · 🌏 Ásia  
+O bitcoin recuou abaixo de setenta mil dólares pela primeira vez desde agosto, estendendo perdas recentes nos mercados cripto. De acordo com o Korea Herald, a queda foi impulsionada por preocupações com inflação e taxas de juros elevadas. Investidores viram perdas significativas com a desvalorização dos ativos digitais.  
+<sub>Fonte: [Korea Herald](https://www.koreaherald.com/article/10936770)</sub>
+
+**Coreia do Sul pede cautela sobre fundo de estabilização acionária** · 🌏 Ásia  
+O chefe do regulador financeiro da Coreia do Sul alertou contra a ativação imediata do fundo de estabilização do mercado de ações. Segundo o Korea Herald, a ferramenta deve ser reservada para circunstâncias excepcionais e riscos urgentes, e não para oscilações comuns de mercado.  
+<sub>Fonte: [Korea Herald](https://www.koreaherald.com/article/10936758)</sub>
+
+**Crise na Nvidia gera dúvidas sobre sustentabilidade do boom de IA** · 🇪🇺 Europa  
+A saída de Jensen Huang da Nvidia expõe vulnerabilidades no setor de inteligência artificial diante de polêmicas recentes. Conforme a France 24, as ações reagiram mal à renúncia após investigações e escândalos, levantando questionamentos sobre a gestão e os investimentos maciços na tecnologia.  
+<sub>Fonte: [France 24](https://www.france24.com/en/americas/20261113-the-nvidia-affair-are-markets-about-to-fall-out-of-love-ai)</sub>
+
+**Conselho de Segurança da ONU debate ameaças ao Estreito de Ormuz** · 🌐 Mundo  
+O Conselho de Segurança da Organização das Nações Unidas reuniu-se a pedido do Bahrein para discutir a segurança marítima no Golfo Pérsico. Segundo a ONU News, o fechamento quase total do Estreito de Ormuz e o aumento de ataques a navios mantêm a tensão sobre o fornecimento global de petróleo.  
+<sub>Fonte: [UN News](https://news.un.org/feed/view/en/story/2026/11/1168804)</sub>
+
+## Seguros e Corretoras
+
+**Zurich realiza encontro de parcerias no Brasil** · 🇧🇷 Brasil  
+A Zurich Seguros promoveu a quinta edição de seu coquetel de parcerias, reunindo mais de duzentos executivos e representantes de cinquenta e sete empresas. O evento teve como tema conexões que transformam e destacou a importância das alianças comerciais para o crescimento e a ampliação do acesso a seguros no mercado brasileiro, conforme informou a fonte Sonho Seguro.  
+<sub>Fonte: [Sonho Seguro](https://www.sonhoseguro.com.br/2026/11/parcerias-impulsionam-crescimento-e-ampliam-acesso-a-seguros-na-estrategia-da-zurich-no-brasil/)</sub>
+
+**CNseg e Fidelidade lançam Fórum Brasil Portugal de Seguros na COP 31** · 🇧🇷 Brasil  
+A Confederação Nacional das Seguradoras e o grupo português Fidelidade reforçaram sua parceria durante o evento climático global. As entidades anunciaram o lançamento oficial do segundo Fórum Brasil Portugal de Seguros, de acordo com as informações divulgadas pela Revista Cobertura.  
+<sub>Fonte: [Revista Cobertura](https://www.revistacobertura.com.br/noticias/instituicoes/cop-31-cnseg-e-grupo-fidelidade-reforcam-parceria-e-lancam-2o-forum-brasil-portugal-de-seguros/)</sub>
+
+**Inteligência artificial impulsiona saúde suplementar e vendas no Brasil** · 🇧🇷 Brasil  
+A aplicação de inteligência artificial na saúde suplementar tem agilizado processos que antes levavam dias para serem concluídos, beneficiando corretores e segurados. Além disso, a Kuint Insurtech conquistou o segundo lugar no Prêmio CQCS de Inovação com uma tecnologia voltada para ampliar a capacidade de vendas das corretoras, segundo o portal CQCS e a Revista Cobertura.  
+<sub>Fonte: [Revista Cobertura](https://www.revistacobertura.com.br/noticias/cobertura-especial-noticias/cqcs-inovacao-inteligencia-artificial-impulsiona-avancos-operacionais-na-saude-suplementar/), [CQCS](https://cqcs.com.br/noticia/kuint-conquista-2o-premio-cqcs-de-inovacao-com-ia-que-amplia-capacidade-de-vendas/)</sub>
+
+**Mercado global avalia impactos da falha da Microsoft e riscos cibernéticos** · 🇺🇸 EUA  
+Uma pane prolongada nos sistemas da Microsoft afetou governos e empresas em todo o mundo, paralisando ferramentas como Outlook e Teams. No entanto, a corretora Marsh Re projeta que o impacto financeiro para o setor de seguros será mínimo e restrito a atrasos operacionais de curto prazo, enquanto especialistas alertam para a necessidade de cobertura adequada para inteligência artificial, segundo a Reinsurance News e o Insurance Journal.  
+<sub>Fonte: [Reinsurance News](https://www.reinsurancene.ws/marsh-re-expects-impact-of-microsoft-365-outage-on-insurance-market-to-be-minimal/), [Insurance Journal](https://www.insurancejournal.com/news/national/2026/11/13/892522.htm)</sub>
+
+**Seguradora Cowbell lança seguro de responsabilidade civil para inteligência artificial** · 🇺🇸 EUA  
+A empresa Cowbell anunciou o lançamento de uma apólice independente de responsabilidade civil voltada para pequenas e médias empresas nos Estados Unidos que utilizam agentes de inteligência artificial. A cobertura entrará em vigor no início do próximo ano para proteger operações automatizadas, conforme reportou o Insurance Journal.  
+<sub>Fonte: [Insurance Journal](https://www.insurancejournal.com/news/national/2026/11/13/892540.htm)</sub>
+
+**Incêndios florestais nos Estados Unidos aumentam em frequência e custo** · 🇺🇸 EUA  
+Um novo estudo da organização Climate Central revelou que incêndios florestais com danos superiores a um bilhão de dólares tornaram-se mais de cinco vezes mais frequentes nas últimas duas décadas no país. Além disso, esses eventos desastrosos registraram custos dez vezes maiores, pressionando o mercado de seguros, de acordo com o Insurance Journal.  
+<sub>Fonte: [Insurance Journal](https://www.insurancejournal.com/news/national/2026/11/13/892507.htm)</sub>
+
+**ONU lança plataforma de financiamento de riscos climáticos na COP 31** · 🇪🇺 Europa  
+Agências das Nações Unidas lançaram uma plataforma conjunta na trigésima primeira Conferência das Nações Unidas sobre Mudanças Climáticas, na Turquia, com o objetivo de garantir mais de três bilhões de dólares em financiamento de riscos. A meta é proteger setenta e cinco milhões de pessoas contra choques climáticos até o ano de dois mil e trinta, segundo a Reinsurance News.  
+<sub>Fonte: [Reinsurance News](https://www.reinsurancene.ws/un-launches-disaster-risk-financing-platform-to-strengthen-anticipatory action/)</sub>
+
+**Aviva registra alta em prêmios de seguros gerais no Reino Unido** · 🇪🇺 Europa  
+A seguradora britânica Aviva divulgou um crescimento de dezenove por cento em seus prêmios de seguros gerais nos primeiros nove meses de dois mil e vinte e seis, alcançando onze bilhões e oitocentos milhões de libras. O índice combinado da companhia também apresentou melhora no período, de acordo com as informações da Reinsurance News.  
+<sub>Fonte: [Reinsurance News](https://www.reinsurancene.ws/aviva-gi-premiums-increase-19-cor-improves-to-93-8-in-9m26/)</sub>
+
+**VIG Re emite seu primeiro título de catástrofe para tempestades na Europa** · 🌐 Mundo  
+A empresa VIG Re, braço de resseguros da Vienna Insurance Group, concluiu com sucesso a emissão de seu primeiro título de catástrofe, capturando sessenta milhões de euros em proteção colateralizada contra tempestades europeias. A operação teve sua precificação finalizada no piso da faixa de orientação, segundo o portal Artemis.  
+<sub>Fonte: [Artemis](https://www.artemis.bm/news/vig-re-secures-debut-e60m-charles-bridge-re-catastrophe-bond-priced-at-low-end/)</sub>
+
+## Clima e Meio Ambiente
+
+**Lula discursa na COP31** · 🇧🇷 Brasil  
+O presidente brasileiro fez seu primeiro discurso para líderes na conferência da ONU sobre o clima após a reeleição. A checagem apontou acertos sobre desmatamento e fundo para florestas, mas identificou contradições ao citar combustíveis fósseis. A informação foi divulgada pela Agência Lupa.  
+<sub>Fonte: [Agência Lupa](https://www.agencialupa.org/checagem/2026/11/11/apos-reeleicao-lula-faz-o-primeiro-discurso-para-lideres-na-cop31-confira-a-checagem/)</sub>
+
+**Seguro para cidades brasileiras** · 🇧🇷 Brasil  
+Um projeto coordenado por entidades como a Confederação Nacional das Empresas de Seguros Gerais prevê ampliar a proteção contra desastres climáticos em municípios brasileiros. A iniciativa busca incluir moradores vulneráveis nas coberturas de seguros locais. Os detalhes foram publicados pela Revista Cobertura.  
+<sub>Fonte: [Revista Cobertura](https://www.revistacobertura.com.br/noticias/instituicoes/cop31-projeto-coordenado-pela-cnseg-preve-ampliar-seguro-a-moradores-vulneraveis-em-cidades-brasileiras/)</sub>
+
+**Queda na safra de grãos em 2027** · 🇧🇷 Brasil  
+O Instituto Brasileiro de Geografia e Estatística estimou uma queda de dois vírgula seis por cento na safra nacional de grãos para o próximo ano. O volume previsto é de trezentos e quarenta e seis milhões de toneladas, segundo o levantamento divulgado pelo órgão oficial.  
+<sub>Fonte: [Globo Rural](https://globorural.globo.com/agricultura/noticia/2026/11/ibge-estima-queda-de-26percent-na-safra-de-graos-em-2027.ghtml)</sub>
+
+**Protesto indígena na Bahia** · 🇧🇷 Brasil  
+Indígenas da etnia Pataxó realizaram um protesto pacífico na frente de uma delegacia no sul da Bahia contra a prisão de lideranças locais. A manifestação ocorreu após a detenção da vice-cacica da aldeia Mãe Barra Velha, conforme noticiou o portal Mongabay Brasil.  
+<sub>Fonte: [Mongabay Brasil](https://brasil.mongabay.com/short-article/2026/11/indigenas-pataxo-protestam-contra-prisao-de-vice-cacica-no-sul-da-bahia/)</sub>
+
+**Apelo do chefe da ONU na COP31** · 🌐 Mundo  
+O secretário-geral das Nações Unidas alertou durante a cúpula do clima na Turquia que não há caminho para um clima seguro sem abandonar os combustíveis fósseis. Ele destacou que o poder das pessoas é a arma secreta contra o aquecimento global, conforme a ONU News.  
+<sub>Fonte: [ONU News (PT)](https://news.un.org/feed/view/pt/story/2026/11/1854916)</sub>
+
+**Nova plataforma de risco de desastres** · 🇪🇺 Europa  
+As Nações Unidas lançaram uma plataforma conjunta para garantir acesso a mais de três bilhões de dólares em financiamento de risco climático. A meta é proteger setenta e cinco milhões de pessoas até o ano de dois estilo e trinta, segundo a Reinsurance News.  
+<sub>Fonte: [Reinsurance News](https://www.reinsurancene.ws/un-launches-disaster-risk-financing-platform-to-strenghten-anticipatory-action/)</sub>
+
+**Incêndios bilionários nos Estados Unidos** · 🇺🇸 EUA  
+Um novo levantamento divulgado pela Climate Central revelou que incêndios florestais que causam danos de um bilhão de dólares se tornaram mais de cinco vezes mais frequentes nas últimas duas décadas, conforme dados publicados pela Insurance Journal.  
+<sub>Fonte: [Insurance Journal](https://www.insurancejournal.com/news/national/2026/11/13/892507.htm)</sub>
+
+## Tecnologia
+
+**ECA Digital regula ambiente tecnológico para crianças** · 🇧🇷 Brasil  
+A Lei 15.211, conhecida como Estatuto Digital da Criança e do Adolescente, estabelece regras para proteger menores em aplicativos e redes sociais. A norma foi apresentada pelo senador Alessandro Vieira e abrange empresas nacionais e estrangeiras. A medida visa garantir maior segurança no uso de tecnologias digitais.  
+<sub>Fonte: [Agência Senado](https://www12.senado.leg.br/noticias/materias/2026/11/13/eca-digital-estabelece-regras-para-proteger-criancas-e-adolescentes)</sub>
+
+**Senado avança em propostas sobre internet nas escolas** · 🇧🇷 Brasil  
+O Senado brasileiro debate a ampliação do prazo para uso de verbas federais destinadas à internet nas escolas públicas. A proposta visa estender o prazo de aplicação dos recursos para o final de 2028. Além disso, o parlamento aprovou a proteção de verbas do Fundo de Universalização dos Serviços de Telecomunicações.  
+<sub>Fonte: [Agência Senado](https://www12.senado.leg.br/noticias/audios/2026/11/prazo-de-uso-de-verba-para-internet-nas-escolas-esta-em-pauta)</sub>
+
+**Microsoft enfrenta instabilidade global em serviços** · 🌎 América Latina  
+Serviços da Microsoft como Outlook e Teams retomaram a normalidade após uma queda global de dezoito horas. A companhia pediu desculpas pelo problema técnico e descartou ciberataques ou falhas de inteligência artificial. Especialistas apontam que a interrupção gerou impactos bilionários e forte preocupação internacional.  
+<sub>Fonte: [El País América](https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html), [The Guardian World](https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia), [South China Morning Post](https://www.scmp.com/news/world/article/3374408/microsoft-deeply-sorry-global-outage-says-issue-not-caused-cyber-ai-agents)</sub>
+
+**Bessent acusa Lutnick sobre chips da Nvidia na China** · 🇺🇸 EUA  
+O secretário do Tesouro dos Estados Unidos, Scott Bessent, acusou o secretário de Comércio, Howard Lutnick, de falhar em impedir o acesso da China a semicondutores avançados da Nvidia. A discussão pública ocorre em meio à queda do ex-presidente-executivo da empresa, Jensen Huang. O caso intensifica o debate sobre o controle de exportações tecnológicas.  
+<sub>Fonte: [PBS NewsHour](https://www.pbs.org/newshour/show/bessent-accuses-lutnick-of-failing-to-prevent-china-from-obtaining-nvidia-chips)</sub>
+
+**Senadores dos Estados Unidos cobram registros de Musk sobre Starlink** · 🌏 Ásia  
+Senadores democratas ordenaram que Elon Musk preserve registros sobre restrições de acesso ao sistema Starlink na Ucrânia. Forças ucranianas afirmam que a versão militar do serviço é vital para comunicações e operações de drones contra ataques russos. Parlamentares investigam as limitações impostas recentemente aos serviços de satélite.  
+<sub>Fonte: [South China Morning Post](https://www.scmp.com/news/world/united-states-canada/article/3374425/musk-ordered-preserve-records-ukraines-starlink-access-democratic-us-senators)</sub>
+
+**Nvidia mantém planos na Coreia do Sul após saída de executivo** · 🌏 Ásia  
+A empresa norte-americana Nvidia confirmou o compromisso de fornecer unidades de processamento gráfico para a Coreia do Sul. O anúncio foi feito pelo ministro da ciência sul-coreano, apesar da renúncia do ex-chefe Jensen Huang. O acordo prevê o desenvolvimento de fábricas de inteligência artificial no país asiático.  
+<sub>Fonte: [Korea Herald](https://www.koreaherald.com/article/10936791)</sub>
+
+**Parlamento convoca ex-presidente da Nvidia para esclarecimentos** · 🇪🇺 Europa  
+Legisladores norte-americanos convocaram Jensen Huang para depor em dezembro após sua renúncia do cargo de dirigente da Nvidia. A saída ocorreu após revelações sobre relações pessoais, incluindo suspeitas de ligações com espionagem chinesa. O empresário atuava como conselheiro informal do governo na área de inteligência artificial.  
+<sub>Fonte: [France 24](https://www.france24.com/en/video/20261113-nvidia-scandal-how-close-was-ex-ceo-to-trump)</sub>
+
+**OpenAI lança carteira digital para agentes autônomos** · 🇺🇸 EUA  
+A empresa OpenAI iniciou a disponibilização de uma carteira digital integrada para assinantes do plano profissional nos Estados Unidos. A ferramenta permite que agentes de inteligência artificial realizem compras de forma autônoma utilizando cartões de crédito elegíveis. O recurso expande as funcionalidades da plataforma de automação da companhia.  
+<sub>Fonte: [The Verge](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)</sub>
+
+## Inteligência Artificial
+
+**Renúncia de Jensen Huang na Nvidia após escândalo** · 🇺🇸 EUA  
+O cofundador e presidente-executivo da Nvidia, Jensen Huang, renunciou ao cargo após revelações de relações extraconjugais, incluindo um suposto envolvimento com uma espiã chinesa. O caso gera repercussões políticas nos Estados Unidos e debates sobre segurança nacional. Segundo a France 24, parlamentares americanos convocaram Huang para prestar esclarecimentos em dezembro.  
+<sub>Fonte: [France 24](https://www.france24.com/en/video/20261113-nvidia-scandal-how-close-was-ex-ceo-to-trump)</sub>
+
+**Críticas do Tesouro dos EUA ao Departamento de Comércio** · 🌏 Ásia  
+O secretário do Tesouro dos Estados Unidos, Scott Bessent, culpou o Departamento de Comércio por atrasar restrições à exportação de chips de inteligência artificial para a China. A declaração ocorre em meio a repercussões sobre o mercado de semicondutores e a corrida tecnológica global. De acordo com o South China Morning Post, a pasta falhou em barrar empresas suspeitas de desviar tecnologia.  
+<sub>Fonte: [South China Morning Post](https://www.scmp.com/news/china/diplomacy/article/3374409/bessent-blames-us-commerce-department-not-restricting-nvidia-chip-exports-china)</sub>
+
+**Nvidia confirma fornecimento de GPUs para a Coreia do Sul** · 🌏 Ásia  
+A fabricante de chips Nvidia confirmou o compromisso de implantar até duzentas e sessenta mil unidades de processamento gráfico na Coreia do Sul. O projeto é feito em parceria com empresas locais para construir fábricas de inteligência artificial em grande escala. Conforme o Korea Herald, o anúncio foi reforçado pelo ministro da Ciência do país asiático.  
+<sub>Fonte: [Korea Herald](https://www.koreaherald.com/article/10936791)</sub>
+
+**Processo contra gigantes da tecnologia nos Estados Unidos** · 🇺🇸 EUA  
+Um grupo de organizações sem fins lucrativos moveu um processo judicial contra OpenAI, Anthropic, a divisão de inteligência artificial da SpaceX, Meta Platforms e Alphabet, controladora do Google. A ação busca paralisar o desenvolvimento avançado de modelos de inteligência artificial devido a riscos apontados pelos próprios líderes dessas empresas. A informação foi veiculada pelo Insurance Journal.  
+<sub>Fonte: [Insurance Journal](https://www.insurancejournal.com/news/national/2026/11/13/892500.htm)</sub>
+
+**Apagão global da Microsoft e os impactos nos serviços** · 🌎 América Latina  
+Ferramentas da Microsoft como o e-mail Outlook, a plataforma Teams e o assistente Copilot retomaram a normalidade após uma queda global de mais de dezoito horas. A empresa pediu desculpas pelo problema técnico e descartou qualquer ato cibernético malicioso ou interferência de agentes de inteligência artificial. Segundo o jornal El País América, a pane afetou serviços públicos e empresas em diversas regiões.  
+<sub>Fonte: [El País América](https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-reservicios-tras-una-caida-global-de-mas-de-12-horas.html)</sub>
+
+**Cúpula da União Europeia discute desafios da inteligência artificial** · 🇪🇺 Europa  
+Lideranças da União Europeia reuniram-se em Dublin para debater os riscos e os avanços na área de inteligência artificial. Durante o encontro, especialistas apontaram a limitação da capacidade de computação do bloco europeu frente à concorrência global. De acordo com a emissora France 24, a capacidade europeia representa apenas cerca de cinco por cento da disponibilidade mundial.  
+<sub>Fonte: [France 24](https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1)</sub>
+
+**Inteligência artificial na saúde suplementar brasileira** · 🇧🇷 Brasil  
+O uso de inteligência artificial tem impulsionado avanços operacionais no mercado brasileiro de saúde suplementar. A tecnologia otimiza processos para corretoras, seguradoras e beneficiários, reduzindo o tempo de conclusão de tarefas administrativas. Segundo a Revista Cobertura, a aplicação de ferramentas digitais promoveu um salto de eficiência no setor.  
+<sub>Fonte: [Revista Cobertura](https://www.revistacobertura.com.br/noticias/cobertura-especial-noticias/cqcs-inovacao-inteligencia-artificial-impulsiona-avancos-operacionais-na-saude-suplementar/)</sub>
+
+**Debates sobre o futuro da profissão de corretor com inteligência artificial** · 🇧🇷 Brasil  
+Entidades do mercado de seguros no Brasil promoveram eventos para discutir a integração da inteligência artificial no cotidiano dos profissionais da área. Especialistas debateram caminhos e práticas para adaptar o trabalho de corretores às novas exigências tecnológicas. Conforme o portal CQCS, a iniciativa busca preparar o mercado para as transformações digitais do futuro.  
+<sub>Fonte: [CQCS](https://cqcs.com.br/noticia/sincor-go-promove-palestra-sobre-inteligencia-artificial-e-aponta-caminhos-para-corretor-do-futuro/)</sub>
+
+## Saúde
+
+**Regras para nova dose da vacina contra a Covid-19 no Brasil** · 🇧🇷 Brasil  
+Com a alta nos casos de Covid-19 no Brasil, o governo do Estado de São Paulo esclareceu quem precisa tomar novas doses do imunizante. A repetição não vale para toda a população. Pessoas com sessenta anos ou mais e imunocomprometidos devem se vacinar a cada seis meses, enquanto portadores de doenças crônicas precisam de uma dose anual.  
+<sub>Fonte: [G1](https://g1.globo.com/saude/noticia/2026/11/14/casos-de-covid-19-sobem-no-brasil-ja-tomei-a-vacina-preciso-tomar-de-novo-veja-a-cada-quanto-tempo.ghtml)</sub>
+
+**Riscos de consumir leite direto da vaca** · 🇧🇷 Brasil  
+Especialistas alertam que o consumo de leite direto da vaca não é recomendado, apesar do apelo afetivo ligado ao campo. O produto cru pode conter bactérias, vírus e outros microrganismos nocivos. Esses agentes infecciosos são capazes de provocar doenças graves na saúde humana.  
+<sub>Fonte: [Globo Rural](https://globorural.globo.com/pecuaria/leite/noticia/2026/11/beber-leite-direto-da-vaca-faz-mal-saiba-quais-sao-os-riscos-a-saude.ghtml)</sub>
+
+**Estudo aborda impacto de influenciadores na saúde mental de jovens** · 🇧🇷 Brasil  
+A Fundación Mapfre e a Eretz ponto bio lançaram um estudo inédito focado no impacto dos influenciadores digitais na saúde mental dos adolescentes brasileiros. Um evento realizado em São Paulo reuniu especialistas para debater os achados. O objetivo é criar estratégias de promoção do bem-estar emocional na era digital.  
+<sub>Fonte: [CQCS](https://cqcs.com.br/noticia/fundacion-mapfre-e-eretz-bio-lancam-estudo-sobre-o-impacto-dos-influenciadores-digitais-na-saude-mental-dos-adolescentes-brasileiros/)</sub>
+
+**Ataques armados dificultam resposta ao surto de ebola na República Democrática do Congo** · 🌐 Mundo  
+O surto de ebola na República Democrática do Congo continua avançando de forma preocupante. A Organização das Nações Unidas relatou que ataques armados frequentes contra civis e profissionais de saúde na linha de frente estão travando os esforços de contenção. A violência armada impede o acesso rápido e seguro às áreas afetadas.  
+<sub>Fonte: [UN News](https://news.un.org/feed/view/en/story/2026/11/1168797)</sub>
+
+**EUA perdem status de livre de sarampo após alta de casos** · 🌏 Ásia  
+Os Estados Unidos perderam o status oficial de território livre de sarampo. A decisão foi tomada pela filial nas Américas da Organização Mundial da Saúde. A medida ocorre no momento em que o país enfrenta o maior número de infecções pela doença em mais de três décadas.  
+<sub>Fonte: [Channel NewsAsia](https://www.channelnewsasia.com/world/us-lose-measles-free-status-disease-transmission-6550971)</sub>
+
+**Incerteza na pesquisa de novos medicamentos para o coração** · 🇺🇸 EUA  
+O recente fracasso no desenvolvimento de dois medicamentos muito aguardados para doenças cardiovasculares gerou debates na comunidade científica. Especialistas analisam agora quais serão os próximos passos para a pesquisa farmacêutica nessa área. A interrupção desses estudos levanta dúvidas sobre novos tratamentos futuros.  
+<sub>Fonte: [STAT News](https://www.statnews.com/2026/11/13/cardiovascular-disease-heart-drug-failures-readout-loud-podcast/?utm_campaign=rss)</sub>
+
+**Aquisição de health tech gera conflito de interesses nos Estados Unidos** · 🇺🇸 EUA  
+Uma nova transação comercial envolvendo a empresa Oura e uma companhia de telessaúde levantou questões sobre conflito de interesses. Especialistas apontam que a relação com a farmacêutica Eli Lilly deve ficar mais complexa. O mercado acompanha de perto os desdobramentos regulatórios desse acordo.  
+<sub>Fonte: [STAT News](https://www.statnews.com/2026/11/13/oura-acquisition-counsel-health-eli-lilly/?utm_campaign=rss)</sub>
+
+## Cultura
+
+**Rosalía e Milo J no Grammy Latino** · 🌎 América Latina  
+A cantora espanhola Rosalía conquistou os prêmios de disco do ano por Lux e canção do ano por La Perla no Grammy Latino. O rapper argentino Milo J levou quatro troféus, incluindo o de melhor gravação do ano. Segundo o jornal El País América, a cerimônia destacou também o uso da música para mensagens políticas.  
+<sub>Fonte: [El País América](https://elpais.com/us/entretenimiento/2026-11-13/rosalia-reina-de-los-latin-grammy-gana-el-premio-a-disco-del-ano-por-lux-y-a-cancion-del-ano-por-la-perla.html), Buenos Aires Times</sub>
+
+**Memórias de Joe Biden** · 🇺🇸 EUA  
+O ex-presidente dos Estados Unidos Joe Biden lançou o livro de memórias Promise Me America. A obra destaca suas realizações no governo e justifica a decisão de tentar um segundo mandato. De acordo com o New York Times, o texto também defende o apoio à guerra de Israel em Gaza.  
+<sub>Fonte: [New York Times](https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html)</sub>
+
+**Escândalo envolvendo Jensen Huang** · 🌏 Ásia  
+Analistas discutem a repercussão da saída de Jensen Huang do cargo de presidente-executivo da Nvidia após alegações de envolvimento em escândalo pessoal. Publicações internacionais apontam que o caso exige cautela na interpretação dos fatos. A informação foi veiculada pelo South China Morning Post.  
+<sub>Fonte: [South China Morning Post](https://www.scmp.com/opinion/china-opinion/article/3374017/dont-take-nvidia-ceo-jensen-huangs-sex-scandal-face-value)</sub>
+
+**Série sobre lavagem de dinheiro em Singapura** · 🌏 Ásia  
+Uma nova produção documental aborda os bastidores de um megaprocesso de lavagem de dinheiro estimado em três bilhões de dólares em Singapura. A série investiga as operações e a derrocada do esquema de crimes financeiros. Os detalhes foram divulgados pelo Channel NewsAsia.  
+<sub>Fonte: [Channel NewsAsia](https://www.channelnewsasia.com/cna-insider/insider/billion-dollar-wash-money-laundering-wang-shuiming-singapore-crime-6550806)</sub>
+
+**Anthony Roth Costanzo na Metropolitan Opera** · 🇺🇸 EUA  
+O renomado contratenor Anthony Roth Costanzo estrela a aclamada montagem da ópera Lincoln at the Bardo na Metropolitan Opera de Nova Iorque. A instituição realizou a transmissão gratuita do espetáculo para o público geral. A notícia foi destacada pela rede PBS NewsHour.  
+<sub>Fonte: [PBS NewsHour](https://www.pbs.org/newshour/show/celebrated-countertenor-brings-classical-sound-to-todays-cultural-issues)</sub>
+
+**Bruce Springsteen homenageia Steven Spielberg** · 🌎 América Latina  
+O músico norte-americano Bruce Springsteen participou de gala beneficente do Museu de Arte Moderna de Nova Iorque dedicada ao diretor Steven Spielberg. Durante o evento, Springsteen fez discursos bem-humorados sobre o impacto cultural do cineasta. A cobertura foi feita pelo jornal El País América.  
+<sub>Fonte: [El País América](https://elpais.com/cultura/2026-11-13/bruce-springsteen-sobre-steven-spielberg-arruino-el-nadar-desnudo-en-la-costa-de-jersey.html)</sub>
+
+**Guia de compras de Smart TVs de 65 polegadas** · 🇧🇷 Brasil  
+Um levantamento especializado reuniu modelos de televisores de sessenta e cinco polegadas com resolução em tecnologia quatro quilos disponíveis no mercado. O guia traz opções de grandes marcas em diferentes faixas de preço para o consumidor. A recomendação foi publicada pelo portal Tecnoblog.  
+<sub>Fonte: [Tecnoblog](https://tecnoblog.net/guias/melhor-tv-65-polegadas/)</sub>
+
+## Checagem de fatos
+
+**Comparação de combustíveis omite variações** · 🇧🇷 Brasil  
+Uma imagem falsa compara preços de combustíveis nas gestões Lula e Bolsonaro omitindo as variações reais ocorridas em ambos os mandatos. A publicação usa o valor mais alto registrado no governo Lula e confronta com valores mais baixos da gestão Bolsonaro. A checagem foi realizada pela Agência Lupa.  
+<sub>Fonte: [Agência Lupa](https://www.agencialupa.org/jornalismo/2026/11/12/comparacao-entre-precos-de-combustiveis-nas-gestoes-lula-e-bolsonaromite-variacoes/)</sub>
+
+**Falta de água no Nordeste não tem relação com Lula** · 🇧🇷 Brasil  
+Um conteúdo falso tentou associar a falta de água em uma cidade nordestina a um suposto abandono do governo federal ou à reeleição do presidente Luiz Inácio Lula da Silva. A apuração do Estadão Verifica demonstrou que a narrativa carece de contexto e não reflete a realidade administrativa da região.  
+<sub>Fonte: [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/nordeste-sem-agua-abandono-lula-falta-contexto/)</sub>
+
+**Foto de 2022 é usada como protesto contra Milei** · 🇧🇷 Brasil  
+Uma fotografia antiga de torcedores comemorando o título da Copa do Mundo em Buenos Aires foi tirada de contexto nas redes sociais. A imagem foi falsamente associada a um suposto protesto de um milhão de pessoas contra o governo de Javier Milei. A constatação é da Agência Lupa.  
+<sub>Fonte: [Agência Lupa](https://www.agencialupa.org/noticias/2026/11/13/foto-nao-mostra-protesto-de-1-milhao-de-pessoas-contra-o-governo-milei/)</sub>
+
+**Vídeo do INSS é de 2016 e governo Temer** · 🇧🇷 Brasil  
+Um vídeo que circula nas redes sociais sobre a cobrança de valores de aposentados pelo Instituto Nacional do Seguro Social é, na verdade, do ano de dois mil e dezesseis. A reportagem original da Record foi exibida durante o governo de Michel Temer e tratava de revisões de auxílios-acidente. A informação foi verificada pela Agência Lupa.  
+<sub>Fonte: [Agência Lupa](https://www.agencialupa.org/verificacao/2026/11/13/e-de-2016-video-sobre-cobranca-de-valores-de-aposentados-pelo-inss/)</sub>
+
+**Lula não tratava de tornados ao falar sobre vento** · 🇧🇷 Brasil  
+Uma publicação falsa tentou relacionar uma declaração do presidente Lula sobre o vento estar levando o ódio aos eventos climáticos recentes em Santa Catarina. Segundo o Estadão Verifica, a fala do chefe do Executivo não fazia qualquer menção aos tornados que atingiram o estado catarinense.  
+<sub>Fonte: [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/lula-nãose-referia-a-tornados-ao-dizer-que-vento-esta-levando-o-odio-em-santa-catarina/)</sub>
+
+**Contagem de votos ocorre mesmo sem divulgação** · 🇧🇷 Brasil  
+Publicações falsas circularam nas redes sociais sugerindo que interrupções na divulgação de dados eleitorais configurariam fraude ou golpe nas urnas eletrônicas. O Estadão Verifica esclareceu que a contagem dos votos prossegue normalmente mesmo quando há uma paralisação temporária na transmissão pública dessas informações.  
+<sub>Fonte: [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/falso-golpe-urna-eletronica-paralisacao-eleicoes/)</sub>
+
+**Vídeo de tornado é dos Estados Unidos** · 🇧🇷 Brasil  
+Um vídeo que mostra um tornado foi gravado no ano de dois mil e vinte e quatro nos Estados Unidos e não em Chapecó, em Santa Catarina. A gravação começou a circular amplamente após o município catarinense ser de fato atingido por um fenômeno climático severo em novembro. O alerta foi emitido pela Agência Lupa.  
+<sub>Fonte: [Agência Lupa](https://www.agencialupa.org/verificacao/2026/11/14/video-de-tornado-foi-gravado-em-2024-nos-eua-nao-em-chapeco/)</sub>
+
+**Enem manteve matemática e não cobrou Chico Buarque** · 🇧🇷 Brasil  
+Uma postagem falsa afirmou que o Exame Nacional do Ensino Médio teria excluído a prova de matemática para cobrar conteúdos sobre Chico Buarque e a Lei Rouanet. A Agência Lupa lembrou que o primeiro dia da prova avaliou apenas redação, linguagens e ciências humanas, enquanto a matemática foi mantida para o segundo dia de exames.  
+<sub>Fonte: [Agência Lupa](https://www.agencialupa.org/verificacao/2026/11/13/enem-nao-excluiu-matematica-para-cobrar-conteudos-sobre-chico-buarque-e-rouanet/)</sub>
+
+**Urnas em ônibus seguem procedimento padrão** · 🇧🇷 Brasil  
+Um registro em vídeo que mostra urnas eletrônicas sendo transportadas no interior de ônibus gerou boatos sobre supostas irregularidades nas eleições. De acordo com o Estadão Verifica, a movimentação retrata exclusivamente o procedimento logístico oficial e padronizado adotado pela Justiça Eleitoral.  
+<sub>Fonte: [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/urnas-eletronicas-onibus-fraude-enganoso/)</sub>
+
+## Resumo e agenda
+
+**Encerramento e recapitulação dos fatos do dia** · 🌐 Mundo  
+O boletim Brasil e Mundo Hoje encerra a edição deste sábado recapitulando os cinco acontecimentos mais marcantes do dia: a acusação de Gilmar Mendes contra Sergio Moro, a alta semanal do dólar, a confirmação do encontro trilateral de potências na Ásia, as iniciativas de risco climático na COP 31 e a crise corporativa na Nvidia. O programa também destaca temas para acompanhar nas próximas horas.  
+<sub>Fonte: Agência Brasil, ONU News, France 24, Reinsurance News</sub>
+
+---
+
+<details><summary>Roteiro completo da locução</summary>
+
+### Manchetes do dia
+
+Bom dia! Hoje é sábado, quatorze de novembro de dois mil e vinte e seis. Sejam bem-vindos ao Brasil e Mundo Hoje, o seu resumo diário de notícias.
+
+Para começar, vamos aos principais destaques desta edição. O ministro Gilmar Mendes acusa o senador Sergio Moro de atuar para impedir a candidatura presidencial em dois mil e dezoito. No cenário econômico, o dólar fecha estável, mas acumula alta na semana, enquanto o mercado acompanha as discussões fiscais. E, na conferência internacional sobre o clima, a COP trinta e um, negociações de financiamento e novas regras para inteligência artificial marcam os debates.
+
+Seguindo com as investigações no cenário político nacional, o ministro Gilmar Mendes, do Supremo Tribunal Federal, declarou que o senador Sergio Moro agiu para manipular o sistema de justiça e barrar a candidatura do presidente Luiz Inácio Lula da Silva durante as eleições de dois mil e dezoito, segundo a Agência Brasil.
+
+Ainda na economia, o dólar comercial fechou cotado a cinco reais e sessenta e cinco centavos, mantendo-se estável no encerramento da última sessão, mas acumulando uma alta de dois vírgula sessenta e cinco por cento ao longo da semana, conforme informou a Agência Brasil. A variação foi influenciada por incertezas sobre o pacote fiscal e turbulências externas.
+
+Passando para o noticiário internacional, a conferência climática COP trinta e um foi dominada por discussões sobre financiamento para países vulneráveis. A ONU News Clima destacou o alerta do secretário-geral das Nações Unidas sobre a insuficiência dos recursos atuais, além do lançamento de novas diretrizes para garantir a credibilidade de dados ambientais gerados por inteligência artificial.
+
+### Números e agenda do dia
+
+Agora, os números do dia. O dólar comercial fechou a 5,65 reais, alta de 0,67% sobre o dia anterior, segundo o Banco Central. O euro fechou a 6,23 reais, alta de 0,32% sobre o dia anterior, segundo o Banco Central. A inflação oficial, medida pelo IPCA, acumula 4,63 por cento em doze meses, segundo o IBGE.
+
+### Política
+
+Seguindo com as notícias de política desta edição, abrimos o nosso panorama diário com os principais desdobramentos dos poderes e da diplomacia no Brasil e no exterior. O ministro Gilmar Mendes, do Supremo Tribunal Federal, acusou nesta sexta-feira o senador Sergio Moro de manipular o sistema de justiça para impedir a candidatura de Luiz Inácio Lula da Silva em dois mil e dezoito. A declaração ocorreu em meio a discussões sobre decisões passadas da Operação Lava Jato, reabrindo debates profundos sobre a atuação do Judiciário e o impacto político na história recente do país, segundo a Agência Brasil.
+
+Mudando de assunto para o cenário legislativo nacional, três senadoras da República viajaram para o Maranhão para acompanhar de perto as investigações sobre o desaparecimento de crianças em uma comunidade quilombola na zona rural de Bacabal. A diligência é liderada pela Comissão de Direitos Humanos do Senado e busca respostas urgentes para a segurança local. O caso mobiliza parlamentares federais devido à gravidade da situação na região nordestina, de acordo com a Agência Senado.
+
+Cruzando as fronteiras para os Estados Unidos, a Suprema Corte concordou em examinar a legalidade da ordem executiva do presidente Donald Trump que proíbe o acesso ao asilo na fronteira sul. O tribunal decidirá se o chefe do Executivo tem autonomia para impor tal restrição migratória por decreto. A medida é central para a política de imigração do governo norte-americano e gera intenso debate jurídico, segundo o El País América.
+
+Ainda na América Latina, uma nova pesquisa de opinião aponta que a imagem do presidente argentino Javier Milei sofreu desgaste expressivo, com sessenta e dois por cento dos entrevistados avaliando sua gestão de forma negativa. O descontentamento popular está fortemente ligado às preocupações crescentes com o emprego e a economia no país vizinho. Os dados refletem os desafios enfrentados pela administração atual na região, de acordo com o Buenos Aires Times.
+
+A diplomacia internacional também ganha destaque com a confirmação, pela Casa Branca, da realização de um encontro inédito entre os presidentes dos Estados Unidos, da China e da Rússia durante a cúpula da Cooperação Econômica Ásia-Pacífico. A reunião trilateral ocorrerá na próxima semana na cidade chinesa de Shenzhen, segundo autoridades diplomáticas. O evento atrai atenção global por reunir potências em um momento de grandes tensões geopolíticas, de acordo com o South China Morning Post.
+
+Nos debates eleitorais norte-americanos, a deputada republicana Lauren Boebert perdeu sua cadeira na Câmara dos Representantes para a candidata democrata Eileen Laubacher. A derrota encerra o mandato de uma das figuras mais conhecidas da ala conservadora no Congresso dos Estados Unidos. A mudança na composição legislativa altera o equilíbrio de forças políticas em Washington, segundo a PBS NewsHour.
+
+Passando para os temas globais, o secretário-geral das Nações Unidas fez um alerta contundente durante a cúpula climática ao afirmar que não é possível construir a paz em um planeta em chamas. Segundo a liderança internacional, a humanidade precisa abandonar urgentemente os combustíveis fósseis para garantir um clima seguro. A cobrança expõe o abismo entre o que a ciência exige e as ações práticas dos governos, de acordo com a ONU News.
+
+Para encerrar este bloco, o Haiti enfrenta uma situação alarmante com o avanço da violência armada, enchentes e níveis severos de fome extrema em todo o território nacional. Cerca de seis milhões de habitantes sofrem com a insegurança alimentar enquanto milhares fogem de ataques constantes de gangues. As Nações Unidas reforçaram que a comunidade internacional precisa agir com máxima urgência para evitar um colapso total, segundo a ONU News.
+
+### Economia e Mercados
+
+Seguindo com as notícias do nosso boletim diário, entramos agora na editoria de economia e mercados para ver como fecharam as principais negociações e quais foram os fatos que movimentaram o cenário financeiro no Brasil e ao redor do planeta nesta semana.
+
+Começando pelo mercado cambial brasileiro, o dólar fechou praticamente estável nesta sexta-feira cotado a cinco reais e sessenta e cinco centavos, mas acumulou uma alta significativa de dois vírgula sessenta e três por cento na semana. Segundo a Agência Brasil, pesaram sobre a cotação as incertezas em torno do pacote fiscal do governo e a continuidade das turbulências no cenário internacional. Na bolsa de valores, por outro lado, o índice Ibovespa registrou alta de zero vírgula sessenta e seis por cento, alcançando cento e setenta e dois mil e quinhentos pontos, impulsionado principalmente pelo desempenho positivo de ações do setor varejista e de empresas petroleiras.
+
+Ainda no cenário econômico interno, o Ministério da Fazenda informou que não vai renovar a subvenção de um real e quarenta centavos por litro ao diesel importado, benefício que vigorou por apenas um mês. De acordo com a Agência Brasil, a medida chegou ao fim com o vencimento da portaria três mil e oitenta e dois, embora o governo tenha esclarecido que a decisão não altera a subvenção de dois reais e doze centavos dedicada ao óleo diesel rodoviário, que continua valendo normalmente para o setor de transportes no país.
+
+Enquanto isso, a Receita Federal anunciou uma medida de alívio para os contribuintes enquadrados como microempreendedores individuais ao perdoar automaticamente as dívidas previdenciárias vencidas até esta sexta-feira. Conforme a Agência Brasil, o procedimento não exige nenhuma solicitação prévia por parte do trabalhador, mas para manter o benefício e continuar regularizado no regime simplificado, quem permanecer na categoria precisará pagar rigorosamente em dia os boletos mensais do documento de arrecadação entre os meses de janeiro e junho do próximo ano.
+
+Passando para o cenário internacional e olhando para as relações entre as maiores potências globais, os Estados Unidos e a China realizaram a primeira reunião oficial do conselho bilateral de comércio. Segundo o jornal South China Morning Post, o encontro inaugural reuniu representantes do departamento do tesouro norte-americano com autoridades chinesas em um momento estratégico, ocorrendo poucos dias antes da cúpula marcada entre o presidente Donald Trump e o líder chinês Xi Jinping na cidade de Shenzhen.
+
+Ainda no noticiário financeiro internacional, o mercado de criptoativos registrou fortes perdas com o bitcoin caindo abaixo da marca de setenta mil dólares pela primeira vez desde o mês de agosto. De acordo com o Korea Herald, a queda acentuada estendeu um ciclo de dois dias de baixa motivado principalmente por crescentes preocupações globais em relação à inflação persistente e à manutenção de taxas de juros elevadas em várias economias, o que acabou pressionando os ativos digitais e gerando grandes liquidações no setor.
+
+Na Ásia, o governo sul-coreano precisou se posicionar diante da volatilidade e o chefe do regulador financeiro do país pediu cautela na utilização de fundos de estabilização acionária. Conforme o Korea Herald, o dirigente afirmou durante uma reunião sobre o mercado de capitais que esse tipo de ferramenta econômica extrema deve ser guardada exclusivamente para circunstâncias excepcionais e situações de riscos urgentes, e nunca acionada em resposta a flutuações comuns do mercado.
+
+Voltando os olhos para a Europa, o mercado de tecnologia e inteligência artificial sofreu um forte abalo com a saída de Jensen Huang do comando da Nvidia. Segundo a rede France 24, a renúncia ocorreu em meio a investigações e escândalos envolvendo o executivo, o que expôs vulnerabilidades profundas no recente boom tecnológico e levantou sérias dúvidas sobre a sustentabilidade dos investimentos bilionários aplicados no setor de inteligência artificial nos últimos anos.
+
+Para encerrar este giro de economia e mercados, a Organização das Nações Unidas voltou a debater a instabilidade no Oriente Médio com foco na segurança energética global. De acordo com a ONU News, o Conselho de Segurança reuniu-se a pedido do Bahrein para avaliar os riscos crescentes e o fechamento praticamente total do Estreito de Ormuz por parte do Irã, uma rota marítima vital que transportava um quinto de todo o petróleo consumido no planeta antes do início dos conflitos recentes na região.
+
+### Seguros e Corretoras
+
+Seguimos agora com os principais destaques da seção Seguros e Corretoras para manter você bem informado sobre o mercado nacional e internacional.
+
+Começando pelo mercado brasileiro, a Zurich Seguros promoveu a quinta edição de seu tradicional coquetel de parcerias, reunindo mais de duzentos executivos e representantes de cinquenta e sete empresas parceiras. Com o tema focado em conexões que transformam, o encontro valorizou a colaboração mútua e o papel fundamental das alianças comerciais na evolução do mercado de seguros no país, segundo divulgou a fonte Sonho Seguro.
+
+Ainda no cenário do Brasil, a Confederação Nacional das Seguradoras e o grupo português Fidelidade aproveitaram a realização da cúpula climática para reforçar sua cooperação estratégica. As entidades anunciaram formalmente o lançamento do segundo Fórum Brasil Portugal de Seguros, buscando aproximar ainda mais os mercados dos dois países, de acordo com as informações da Revista Cobertura.
+
+A tecnologia também esteve em evidência com avanços importantes na saúde suplementar nacional. A aplicação de inteligência artificial tem otimizado processos operacionais que antes demandavam dias, trazendo eficiência para corretores e segurados. Além disso, a Kuint Insurtech conquistou a segunda colocação no Prêmio CQCS de Inovação graças a uma solução voltada para aprimorar a jornada de vendas, conforme relataram o portal CQCS e a Revista Cobertura.
+
+Cruzando o oceano e olhando para os eventos globais, uma pane prolongada nos sistemas da Microsoft afetou governos e empresas em todo o planeta, paralisando ferramentas essenciais de comunicação. Apesar da interrupção operacional generalizada, a corretora Marsh Re avalia que o impacto financeiro para o setor de seguros será mínimo e restrito a atrasos de curto prazo, segundo a Reinsurance News. Em paralelo, especialistas destacam que o mercado ainda apresenta lacunas na cobertura para os riscos relacionados ao uso corporativo de inteligência artificial, de acordo com o Insurance Journal.
+
+Ainda nos Estados Unidos, a seguradora Cowbell anunciou o lançamento de uma apólice independente de responsabilidade civil para inteligência artificial, voltada a pequenas e médias empresas que utilizam agentes autônomos em seus atendimentos e pagamentos. A nova cobertura começará a valer no início do próximo ano para responder aos desafios jurídicos da tecnologia, conforme publicou o Insurance Journal.
+
+Acréscimos preocupantes também foram registrados no setor de riscos climáticos norte-americano. Um levantamento da organização Climate Central apontou que os grandes incêndios florestais com prejuízos superiores a um bilhão de dólares tornaram-se mais de cinco vezes mais frequentes e dez vezes mais custosos ao longo das últimas duas décadas, pressionando as análises de risco do setor segurador, segundo a mesma fonte.
+
+Avançando para as iniciativas multilaterais na Europa, agências das Nações Unidas lançaram uma nova plataforma de financiamento de riscos durante a cúpula climática na Turquia. O projeto ambiciona assegurar mais de três bilhões de dólares até dois mil e trinta para proteger setenta e milhões de pessoas contra choques e desastres naturais, de acordo com a Reinsurance News.
+
+Também no continente europeu, a seguradora britânica Aviva apresentou resultados financeiros sólidos, com um aumento de dezenove por cento em seus prêmios de seguros gerais nos primeiros nove meses do ano, atingindo onze bilhões e oitocentos milhões de libras. O índice combinado da companhia apresentou melhora expressiva no período, conforme detalhou a Reinsurance News.
+
+Por fim, no mercado global de resseguros e títulos alternativos, a empresa VIG Re concluiu com sucesso a emissão de seu primeiro título de catástrofe, garantindo sessenta milhões de euros em proteção contra tempestades europeias. A operação atraiu investidores e teve sua taxa final fixada no piso da orientação de preço, segundo informou o portal especializado Artemis.
+
+### Clima e Meio Ambiente
+
+Agora passamos para a editoria de Clima e Meio Ambiente com os principais acontecimentos que movimentam o cenário internacional e nacional nesta área.
+
+O presidente brasileiro Luiz Inácio Lula da Silva fez o seu primeiro discurso para líderes globais na trigésima primeira Conferência das Nações Unidas sobre Mudanças Climáticas, a COP trinta e um, após a sua reeleição. De acordo com a Agência Lupa, o chefe do Executivo brasileiro acertou ao abordar temas cruciais como o desmatamento, o aquecimento global e a criação de um fundo específico para a preservação de florestas. No entanto, o discurso também apresentou contradições quando o presidente mencionou os esforços para a diminuição do uso de combustíveis fósseis. A participação na cúpula climática marca o retorno de Lula ao centro dos debates ambientais internacionais neste novo mandato, exigindo atenção rigorosa sobre a consonância entre o discurso político e as práticas econômicas e energéticas adotadas pelo governo federal no país.
+
+Ainda no contexto da COP trinta e um, um novo projeto coordenado por entidades como a Confederação Nacional das Empresas de Seguros Gerais, conhecida como CNseg, prevê ampliar a proteção contra desastres climáticos em cidades brasileiras. Segundo a Revista Cobertura, a iniciativa conta com o apoio de parceiros internacionais e busca incluir moradores de áreas vulneráveis nas coberturas de seguros municipais contra eventos extremos. O seguro de estruturas públicas locais representa apenas o primeiro passo para a consolidação de uma rede de proteção mais ampla nas cidades do país, diante do aumento expressivo na frequência de tempestades e inundações associadas às mudanças climáticas globais e regionais.
+
+Enquanto isso, a economia agrícola do país já projeta os reflexos das alterações climáticas e das oscilações de mercado para os próximos anos, conforme revelam os dados oficiais do Instituto Brasileiro de Geografia e Estatística, o IBGE. De acordo com a publicação do portal Globo Rural, a safra nacional de grãos que engloba cereais, leguminosas e oleaginosas para o ano de dois mil e vinte e sete deve somar trezentos e quarenta e seis milhões e seiscentas mil toneladas. Caso essa previsão do primeiro prognóstico do Levantamento Sistemático da Produção Agrícola se confirme, o volume representará uma queda de dois vírgula seis por cento em comparação com o ano anterior, significando uma redução de nove milhões e duzentas mil toneladas colhidas no campo.
+
+As questões sociais e de direitos humanos ligadas ao meio ambiente também mobilizaram comunidades no território nacional, com destaque para um protesto pacífico realizado por indígenas da etnia Pataxó. Conforme informou o portal Mongabay Brasil, o grupo ocupou a frente da Delegacia de Polícia Civil no município de Eunápolis, no extremo sul do estado da Bahia. A mobilização ocorreu para repudiar a prisão de duas lideranças indígenas na Terra Indígena Barra Velha, ocorrida dias antes, o que incluiu a detenção da vice-cacica da Aldeia Mãe Barra Velha. A cobrança por justiça e pela libertação das lideranças destaca os conflitos fundiários e a pressão constante enfrentada pelos povos originários na defesa de seus territórios tradicionais.
+
+No cenário internacional da cúpula do clima realizada na Turquia, o secretário-geral das Nações Unidas, António Guterres, fez um apelo contundente em seu último discurso em uma Cúpula do Clima da organização. Segundo a agência ONU News, o diplomata alertou que não existe qualquer caminho seguro para a paz em um planeta que continua em chamas devido ao avanço do aquecimento global. Guterres enfatizou que a chamada força popular é a grande arma secreta contra a inação governamental, criticando abertamente o abismo existente entre as metas exigidas pela comunidade científica e as medidas efetivamente cumpridas pelos líderes políticos na transição para fontes limpas de energia.
+
+Em complemento aos debates econômicos da conferência, as Nações Unidas lançaram uma nova plataforma voltada para o financiamento de riscos de desastres, visando fortalecer as ações preventivas em países em desenvolvimento. De acordo com a plataforma Reinsurance News, a iniciativa conjunta pretende assegurar o acesso a mais de três bilhões de dólares em recursos para proteger cerca de setenta e cinco milhões de pessoas contra choques climáticos e riscos naturais até o ano de dois mil e trinta. A medida tenta responder às críticas de que os apelos urgentes por financiamento climático enfrentam respostas lentas por parte das economias desenvolvidas e dos principais emissores de poluentes no planeta.
+
+Para encerrar este giro sobre o clima e o meio ambiente, um levantamento recente nos Estados Unidos trouxe dados alarmantes sobre o impacto financeiro e estrutural dos eventos extremos no território norte-americano. Conforme divulgou a publicação Insurance Journal com base em análises da organização Climate Central, os incêndios florestais capazes de causar danos superiores a um bilhão de dólares tornaram-se mais de cinco vezes mais frequentes e dez vezes mais custosos ao longo das últimas duas décadas. O crescimento exponencial desses desastres reforça a urgência das discussões globais sobre adaptação urbana e redução de emissões de gases de efeito estufa em todas as regiões do mundo.
+
+### Tecnologia
+
+Seguimos agora para a editoria de tecnologia, trazendo os principais desdobramentos do setor digital no Brasil e no exterior.
+
+No cenário nacional, a Lei quinze mil duzentos e onze, conhecida como Estatuto Digital da Criança e do Adolescente, estabelece regras rígidas para proteger menores em aplicativos e redes sociais. A norma foi apresentada pelo senador Alessandro Vieira e abrange empresas nacionais e estrangeiras que operam no país. A medida visa garantir maior segurança no uso de tecnologias digitais, segundo a Agência Senado.
+
+Ainda no parlamento brasileiro, o Senado debate a ampliação do prazo para uso de verbas federais destinadas à internet nas escolas públicas. A proposta visa estender o prazo de aplicação dos recursos até o final de dois mil e vinte e oito. Além disso, o congresso aprovou a proteção de verbas do Fundo de Universalização dos Serviços de Telecomunicações, de acordo com a Agência Senado.
+
+Fora do país, os serviços da gigante Microsoft, incluindo o correio eletrônico Outlook e a plataforma Teams, retomaram a normalidade após uma queda global que durou mais de dezoito horas. A companhia pediu desculpas pelo problema técnico e descartou a ocorrência de ciberataques ou falhas provocadas por inteligência artificial. Especialistas apontam que a interrupção gerou impactos bilionários na economia e forte preocupação internacional sobre a dependência tecnológica, segundo o jornal El País América.
+
+Nos Estados Unidos, o secretário do Tesouro, Scott Bessent, acusou o secretário de Comércio, Howard Lutnick, de falhar em impedir o acesso da China a semicondutores avançados da Nvidia. A discussão pública ocorre em meio à crise administrativa e à queda do dirigente da empresa, Jensen Huang. O caso intensifica o debate político sobre o controle de exportações de tecnologia avançada, segundo a emissora PBS NewsHour.
+
+Em desdobramentos geopolíticos envolvendo a Ásia e os Estados Unidos, senadores norte-americanos ordenaram que o empresário Elon Musk preserve registros sobre restrições de acesso ao sistema de satélites Starlink na Ucrânia. Forças ucranianas afirmam que a versão militar do serviço é vital para comunicações e operações de drones contra ataques russos. Parlamentares investigam as limitações impostas recentemente aos serviços, segundo o South China Morning Post.
+
+Apesar das turbulências de mercado, a empresa norte-americana Nvidia confirmou o compromisso de fornecer unidades de processamento gráfico para a Coreia do Sul. O anúncio foi feito pelo ministro da ciência sul-coreano, superando a repercussão da saída do ex-chefe da companhia. O acordo prevê o desenvolvimento de infraestrutura de inteligência artificial no país asiático, segundo o Korea Herald.
+
+Ainda sobre a fabricante de chips, legisladores norte-americanos convocaram Jensen Huang para depor no mês de dezembro após sua renúncia na Nvidia. A saída ocorreu após revelações sobre questões pessoais e suspeitas de ligações com espionagem estrangeira. O empresário mantinha proximidade com o governo na formulação de políticas para o setor, segundo a rede France 24.
+
+Encerrando as novidades da tecnologia, a empresa OpenAI iniciou a disponibilização de uma carteira digital para assinantes de seus serviços nos Estados Unidos. A ferramenta permite que agentes de inteligência artificial realizem compras de forma autônoma utilizando cartões de crédito cadastrados. O recurso expande as funcionalidades de automação comercial da companhia, segundo o site The Verge.
+
+### Inteligência Artificial
+
+Seguimos agora para as principais atualizações e os debates mais urgentes envolvendo a inteligência artificial ao redor do planeta nesta edição.
+
+Começamos pelo mercado global de semicondutores e pela renúncia histórica na liderança da Nvidia, após revelações de caráter pessoal envolvendo o cofundador Jensen Huang. O escândalo levantou discussões sensíveis sobre segurança nacional e conexões políticas nos Estados Unidos, levando parlamentares americanos a convocar o executivo para prestar depoimento no mês de dezembro, conforme informou a emissora France 24.
+
+Ainda sobre os reflexos na gigante dos chips, o secretário do Tesouro dos Estados Unidos, Scott Bessent, culpou o Departamento de Comércio por atrasar restrições à exportação de tecnologia para o mercado chinês. De acordo com o South China Morning Post, a polêmica ocorre em um momento crítico de disputa tecnológica e comercial entre as principais potências econômicas mundiais.
+
+Apesar das turbulências na cúpula da Nvidia, a empresa confirmou o compromisso de manter o fornecimento e a instalação de até duzentas e sessenta mil unidades de processamento gráfico na Coreia do Sul. Segundo o Korea Herald, a iniciativa faz parte de um plano estratégico com empresas locais para a construção de infraestruturas avançadas de inteligência artificial no território sul-coreano.
+
+Nos tribunais americanos, a corrida tecnológica sofreu uma nova contestação jurídica nesta semana. Um grupo de organizações sem fins lucrativos entrou com um processo contra as principais companhias do setor, incluindo OpenAI, Anthropic, a divisão de inteligência artificial da SpaceX, Meta Platforms e Alphabet, controladora do Google. Segundo o Insurance Journal, a ação busca paralisar o desenvolvimento de modelos avançados devido a alertas emitidos pelos próprios líderes dessas empresas.
+
+Enquanto isso, a infraestrutura digital global enfrentou instabilidades severas com uma pane generalizada nos serviços da Microsoft. A falha deixou indisponíveis ferramentas como o correio eletrônico Outlook, a plataforma Teams e o assistente Copilot por mais de dezoito horas antes da retomada gradual. Conforme o jornal El País América, a empresa pediu desculpas públicas e descartou categoricamente qualquer ligação do problema com ataques cibernéticos ou com o uso de agentes de inteligência artificial.
+
+Na Europa, lideranças políticas reuniram-se em Dublin para debater os riscos e os avanços regulatórios da inteligência artificial, em meio a crescentes preocupações sobre a competitividade do continente. De acordo com a France 24, analistas apontam que a capacidade computacional disponível na Europa representa apenas cerca de cinco por cento do total mundial, evidenciando o desafio de transformar pesquisa científica em produtos tecnológicos de escala.
+
+Voltando ao cenário nacional, a inteligência artificial também ganha espaço transformando processos operacionais no mercado brasileiro de saúde suplementar. Segundo a Revista Cobertura, a adoção de novas tecnologias agiliza trâmites que antes exigiam dias de análise, beneficiando seguradoras, corretores e beneficiários com maior eficiência e agilidade nos atendimentos.
+
+Para fechar esta seção, o setor de seguros no Brasil tem promovido debates intensivos sobre a adaptação dos profissionais às novas ferramentas digitais. De acordo com o portal especializado CQCS, palestras e encontros realizados em várias regiões do país orientam corretores sobre como integrar a inteligência artificial na rotina de trabalho para atender às demandas do futuro.
+
+### Saúde
+
+Seguimos agora para as principais notícias do setor de saúde e bem-estar no Brasil e no mundo. Vamos acompanhar as atualizações mais recentes sobre campanhas de imunização, alertas sanitários e pesquisas científicas.
+
+Com a alta recente nos registros de Covid-19 em território brasileiro, o governo do Estado de São Paulo divulgou orientações importantes sobre a imunização. A repetição das doses não é recomendada para toda a população de forma igual. Pessoas com sessenta anos ou mais, além de indivíduos imunocomprometidos de qualquer idade, devem receber o reforço a cada seis meses. Já quem possui doenças crônicas ou pertence a outros grupos de maior vulnerabilidade precisa tomar o imunizante uma vez por ano. Gestantes e bebês seguem diretrizes próprias estabelecidas pelas autoridades sanitárias locais, segundo o G1.
+
+Ainda no cenário nacional, especialistas em saúde fazem um alerta sobre um hábito comum no campo e frequentemente retratado na ficção. Beber leite direto da vaca não é considerado seguro para o consumo humano. O produto em seu estado bruto pode conter uma variedade de bactérias, vírus e outros microrganismos patogênicos. Esses agentes infecciosos têm potencial para causar enfermidades graves na população, de acordo com o Globo Rural.
+
+Para a juventude, a preocupação atual envolve o ambiente digital e o bem-estar psicológico. A Fundación Mapfre e a Eretz ponto bio lançaram uma pesquisa inédita focada na influência dos criadores de conteúdo digital na saúde mental dos adolescentes brasileiros. O projeto foi detalhado em um evento realizado em São Paulo que reuniu educadores e especialistas. O intuito principal é debater os dados obtidos e traçar novas estratégias de apoio emocional para os jovens, segundo o CQCS.
+
+Cruzando as fronteiras para o cenário global, a Organização das Nações Unidas relatou grandes dificuldades no enfrentamento ao surto de ebola na República Democrática do Congo. A propagação do vírus continua acelerada devido a ataques armados recorrentes contra civis e equipes de saúde na linha de frente. Grupos armados impedem o trabalho das equipes humanitárias, bloqueando as ações essenciais para interromper a transmissão da doença, segundo a ONU News.
+
+A situação epidemiológica também preocupa nas Américas com o avanço de enfermidades preveníveis. Os Estados Unidos perderam oficialmente o status de país livre de sarampo. A decisão foi anunciada pelo braço regional da Organização Mundial da Saúde diante da escalada contínua de infecções. O país registra atualmente o maior patamar de casos da doença em mais de trinta anos, segundo o Channel NewsAsia.
+
+No campo da ciência e da farmacologia, o revés em pesquisas recentes traz incertezas para o futuro. O fracasso no desenvolvimento de dois medicamentos muito esperados para o combate a doenças cardiovasculares alterou as perspectivas do setor. Especialistas analisam o impacto dessas falhas para os próximos investimentos em inovação terapêutica voltada à saúde do coração, segundo a Stat News.
+
+Para fechar as atualizações da área médica, o mercado de tecnologia voltada à saúde enfrenta debates regulatórios. Uma nova aquisição realizada pela empresa Oura gerou questionamentos sobre possíveis conflitos de interesses. Especialistas apontam que a proximidade com corporações ligadas à comercialização de tratamentos específicos deve tornar o cenário corporativo mais complexo, segundo a Stat News.
+
+### Cultura
+
+Seguimos agora para a nossa editoria de cultura do programa de hoje, trazendo os destaques e acontecimentos mais importantes do cenário artístico e literário no Brasil e no mundo.
+
+Começamos a nossa viagem cultural falando de música com a grande cerimônia do Grammy Latino, que consagrou a cantora espanhola Rosalía com os prêmios de disco do ano por Lux e canção do ano por La Perla. A artista catalã liderou a noite ao levar cinco dos sete prêmios a que concorria na premiação realizada nesta semana. Na mesma noite, o jovem rapper argentino Milo J surpreendeu a crítica e levou quatro troféus para casa, incluindo o de melhor gravação do ano pelo trabalho em Niño. O músico aproveitou o momento de destaque para ressaltar a importância de sua geração levar mensagens políticas por meio das canções. Tudo isso foi detalhado pelo jornal El País América e também repercutido pelo Buenos Aires Times.
+
+Passando para o universo da literatura e da política internacional, o ex-presidente dos Estados Unidos Joe Biden lançou o seu novo livro de memórias, intitulado Promise Me America. Na obra, o político norte-americano faz um balanço de suas principais realizações enquanto esteve no poder e tenta justificar publicamente a sua decisão de tentar disputar um segundo mandato na Casa Branca. Além disso, o livro aborda de maneira direta a sua postura e o seu apoio incondicional à guerra conduzida por Israel na região de Gaza. O conteúdo e a repercussão da publicação foram avaliados detalhadamente por uma res crítica publicada pelo jornal New York Times.
+
+Ainda no cenário asiático, um assunto que mobilizou o mercado de tecnologia envolveu diretamente a saída de Jensen Huang do comando da empresa Nvidia após alegações de um escândalo pessoal. Analistas internacionais recomendam cautela na interpretação das acusações e alertam para o risco de desinformação em meio ao noticiário sobre figuras de grande projeção econômica e tecnológica global. As análises sobre o comportamento da mídia e o impacto institucional desse tipo de polêmica foram publicadas pelo veículo South China Morning Post.
+
+Continuando na Ásia, o entretenimento documental também ganha espaço com o lançamento de uma nova série investigativa que retrata os bastidores de um megaprocesso de lavagem de dinheiro estimado em três bilhões de dólares em Singapura. A produção detalha as operações financeiras e a complexa investigação que culminou na derrocada do esquema comandado por Wang Shuiming na cidade-estado. A realização dessa obra e os detalhes da apuração policial foram divulgados pela emissora Channel NewsAsia.
+
+Voltando para a cena cultural dos Estados Unidos, a música clássica encontrou um espaço de grande destaque com a participação do renomado contratenor Anthony Roth Costanzo na temporada da Metropolitan Opera de Nova Iorque. O artista empresta sua voz consagrada à aclamada montagem da ópera Lincoln at the Bardo, que ganhou ainda mais alcance após a decisão da instituição cultural de transmitir o espetáculo de forma totalmente gratuita para o público. A iniciativa e a carreira do cantor foram o tema central de uma reportagem especial exibida pela rede de televisão PBS NewsHour.
+
+Ainda em Nova Iorque, o cenário das artes visuais e do cinema esteve em festa durante uma gala beneficente organizada pelo tradicional Museu de Arte Moderna para homenagear a trajetória do icônico cineasta Steven Spielberg. O evento contou com a participação de grandes nomes da cultura, incluindo o músico norte-americano Bruce Springsteen, que encerrou a cerimônia com um discurso bem-humorado sobre a influência do diretor de clássicos como Tubarão na cultura pop. A cobertura completa da homenagem prestada a Spielberg foi veiculada pelo jornal El País América.
+
+Fechando o nosso giro cultural com uma dica de tecnologia voltada ao entretenimento doméstico, o portal especializado Tecnoblog divulgou um guia completo para consumidores interessados em adquirir novas smart TVs de sessenta e cinco polegadas. A lista reúne treze modelos equipados com resolução em quatro quilos fabricados por grandes marcas do setor, como Samsung, LG e TCL, oferecendo opções distribuídas em diversas faixas de preço para o mercado brasileiro. Essas foram as principais notícias da nossa editoria de cultura, e continuamos com mais informações na sequência do programa.
+
+### Checagem de fatos
+
+Vamos agora avançar para a nossa seção de checagem de fatos do dia, destacando o monitoramento constante de informações falsas que circulam nas plataformas digitais e redes sociais pelo país.
+
+Começamos analisando uma imagem que tem circulado na internet fazendo uma comparação direta entre os preços dos combustíveis praticados nas gestões dos presidentes Luiz Inácio Lula da Silva e Jair Bolsonaro. Segundo a Agência Lupa, essa postagem omite propositalmente as variações reais ocorridas em ambos os mandatos, utilizando o valor mais alto registrado no governo Lula e confrontando com os valores mais baixos da gestão anterior. Essa descontextualização importa porque distorce o debate econômico e confunde o cidadão sobre a formação dos preços dos derivados de petróleo no mercado nacional.
+
+Outro boato desmentido recentemente tentou associar a falta de água em uma cidade localizada na região Nordeste a um suposto abandono por parte do governo federal ou à reeleição do presidente da República. De acordo com a apuração realizada pelo Estadão Verifica, essa narrativa carece completamente de contexto e ignora as responsabilidades administrativas locais. Esse tipo de desinformação é recorrente para tentar desgastar a imagem da gestão central utilizando problemas estruturais antigos que exigem soluções técnicas e investimentos continuados de várias esferas de governo.
+
+Na política internacional, uma fotografia antiga de torcedores comemorando o título mundial da seleção argentina em Buenos Aires foi tirada de contexto nas redes sociais. A imagem foi falsamente associada a um suposto protesto de um milhão de pessoas contra o atual governo de Javier Milei. Conforme apontou a Agência Lupa, a utilização de registros de eventos festivos para simular revolta popular é uma estratégia recorrente de manipulação visual que prejudica a compreensão pública dos acontecimentos na América Latina.
+
+Passando para temas previdenciários, um vídeo que voltou a circular nas redes sociais trata da cobrança de valores de aposentados pelo Instituto Nacional do Seguro Social, mas é do ano de dois mil e dezesseis. A reportagem original da emissora Record foi exibida na época do governo de Michel Temer e abordava a revisão de auxílios-acidente incorporados após o ano de mil novecentos e noventa e sete. Segundo a Agência Lupa, resgatar materiais antigos sem atualizar a linha do tempo serve apenas para gerar pânico injustificado entre os beneficiários da Previdência Social.
+
+Ainda sobre declarações oficiais, uma publicação falsa tentou relacionar uma fala do presidente Lula sobre o vento estar levando o ódio aos eventos climáticos recentes ocorridos no estado de Santa Catarina. De acordo com o Estadão Verifica, a declaração do chefe do Executivo em nenhum momento fez menção aos tornados que atingiram municípios catarinenses. Desvirtuar o sentido de discursos públicos com o intuito de minimizar tragédias naturais ou politizar catástrofes afeta diretamente a credibilidade da comunicação institucional.
+
+O processo eleitoral também continua sendo alvo de desinformação digital, como mostra um boato sobre interrupções na divulgação de dados de votação. O Estadão Verifica esclareceu que a contagem dos votos prossegue de forma rigorosa e segura mesmo quando ocorre alguma paralisação temporária na transmissão pública das estatísticas. Repercutir a tese de que a lentidão na divulgação representaria fraude ou golpe nas urnas eletrônicas é uma tentativa recorrente de enfraquecer a confiança nas instituições democráticas do país.
+
+Na editoria de meio ambiente e clima, um vídeo que exibe a força de um tornado foi gravado na verdade no ano de dois mil e quatro nos Estados Unidos, e não em Chapecó, em Santa Catarina. A gravação começou a ser compartilhada em massa justamente após o município catarinense registrar episódios de temporais severos no mês de novembro. Conforme alertou a Agência Lupa, ilustrar eventos locais brasileiros com imagens estrangeiras de catástrofes antigas gera alarmismo desnecessário e dificulta o trabalho da Defesa Civil.
+
+No campo da educação, uma postagem falsa afirmou nas redes sociais que o Exame Nacional do Ensino Médio teria excluído a prova de matemática para cobrar conteúdos sobre Chico Buarque e a Lei Rouanet. A Agência Lupa lembrou que a publicação ignora a própria estrutura oficial do exame, pois o primeiro dia de provas avaliou apenas redação, linguagens e ciências humanas, enquanto o conteúdo de matemática foi programado para o segundo dia. A circulação desse tipo de mentira visa politizar exames educacionais de larga escala.
+
+Por fim, um registro em vídeo que mostra urnas eletrônicas sendo transportadas no interior de ônibus gerou especulações infundadas sobre supostas irregularidades no transporte dos equipamentos. De acordo com o Estadão Verifica, a movimentação retrata exclusivamente o procedimento logístico oficial, seguro e padronizado adotado pela Justiça Eleitoral. Esclarecer esses falsos flagrantes é fundamental para garantir que a sociedade compreenda os protocolos rígidos que garantem a lisura de todas as etapas das votações no território nacional.
+
+### Resumo e agenda
+
+Chegamos ao encerramento desta edição de sábado, catorze de novembro de dois mil e vinte e seis. Antes de nos despedirmos, repassamos os cinco acontecimentos essenciais que definiram as discussões no Brasil e no cenário internacional ao longo do dia.
+
+No cenário político nacional, o ministro Gilmar Mendes afirmou que o ex-juiz e senador Sergio Moro manipulou o sistema de justiça para inviabilizar a candidatura eleitoral de Luiz Inácio Lula da Silva em dois mil e dezoito, segundo a Agência Brasil.
+
+Na economia brasileira, a moeda norte-americana encerrou a sexta-feira cotada a cinco reais e sessenta e cinco centavos. O dólar acumulou valorização semanal superior a dois e meio por cento diante de incertezas com o pacote fiscal do governo e turbulências externas, de acordo com a Agência Brasil.
+
+Na diplomacia global, a Casa Branca confirmou uma reunião trilateral inédita entre os presidentes Donald Trump, Xi Jinping e Vladimir Putin. O encontro entre os líderes ocorrerá na próxima semana durante a cúpula da Cooperação Econômica Ásia-Pacífico na cidade chinesa de Shenzhen, segundo autoridades diplomáticas.
+
+No debate sobre o meio ambiente, a conferência climática na Turquia foi marcada por apelos firmes pelo abandono dos combustíveis fósseis e pelo lançamento de uma plataforma com três bilhões de dólares para proteger milhões de pessoas contra choques climáticos, conforme a ONU News.
+
+No setor de tecnologia, a renúncia de Jensen Huang do comando da fabricante Nvidia abalou os mercados e intensificou disputas em Washington sobre a exportação de chips de inteligência artificial para a China, segundo a emissora France vinte e quatro.
+
+Nas próximas horas, vale acompanhar a viagem de senadoras ao Maranhão para investigar o desaparecimento de crianças quilombolas em Bacabal. Fique atento também aos desdobramentos diplomáticos sobre as tensões no Estreito de Ormuz debatidas no Conselho de Segurança da Organização das Nações Unidas e à preparação para a cúpula na China.
+
+O boletim Brasil e Mundo Hoje encerra aqui as suas transmissões deste sábado. Nós estamos com você todos os dias, pontualmente às seis horas da manhã, trazendo as principais informações para você começar bem o seu dia. Muito obrigado pela companhia, tenha um excelente fim de semana e até amanhã!
+
+</details>
