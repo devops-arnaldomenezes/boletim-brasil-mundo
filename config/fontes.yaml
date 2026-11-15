@@ -11,8 +11,9 @@ fontes:
   - {nome: "Agência Câmara", url: "https://www.camara.leg.br/noticias/rss/ultimas-noticias", regiao: brasil, idioma: pt, tipo: oficial, categorias: [politica]}
   - {nome: "STF Notícias", url: "https://portal.stf.jus.br/noticias/rss.asp", regiao: brasil, idioma: pt, tipo: oficial, categorias: [politica]}
   - {nome: "Agência IBGE", url: "https://agenciadenoticias.ibge.gov.br/agencia-noticias.rss", regiao: brasil, idioma: pt, tipo: oficial, categorias: [economia]}
-  - {nome: "Fiocruz", url: "https://portal.fiocruz.br/rss.xml", regiao: brasil, idioma: pt, tipo: ciencia, categorias: [saude]}
-  - {nome: "Agência FAPESP", url: "https://agencia.fapesp.br/rss/", regiao: brasil, idioma: pt, tipo: ciencia, categorias: [tecnologia, saude]}
+  # 15/11/2026: portal.fiocruz.br/rss.xml e agencia.fapesp.br/rss quebrados; trocados pelos feeds validados abaixo.
+  - {nome: "Agência Fiocruz", url: "https://agencia.fiocruz.br/rss.xml", regiao: brasil, idioma: pt, tipo: ciencia, categorias: [saude]}
+  - {nome: "Revista Pesquisa FAPESP", url: "https://revistapesquisa.fapesp.br/feed/", regiao: brasil, idioma: pt, tipo: ciencia, categorias: [tecnologia, saude]}
   - {nome: "BBC News Brasil", url: "https://feeds.bbci.co.uk/portuguese/rss.xml", regiao: brasil, idioma: pt, tipo: imprensa}
   - {nome: "DW Brasil", url: "https://rss.dw.com/xml/rss-br-all", regiao: brasil, idioma: pt, tipo: imprensa}
   - {nome: "G1", url: "https://g1.globo.com/rss/g1/", regiao: brasil, idioma: pt, tipo: imprensa}

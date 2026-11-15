@@ -16,11 +16,6 @@
    "itens_ultimo": 0,
    "ultimo_ok": "2026-11-15"
   },
-  "Agência FAPESP": {
-   "falhas_seguidas": 2,
-   "itens_ultimo": 0,
-   "ultimo_ok": "2026-11-13"
-  },
   "Agência Gov": {
    "falhas_seguidas": 9
   },
@@ -149,11 +144,6 @@
    "falhas_seguidas": 0,
    "itens_ultimo": 0,
    "ultimo_ok": "2026-11-15"
-  },
-  "Fiocruz": {
-   "falhas_seguidas": 3,
-   "itens_ultimo": 0,
-   "ultimo_ok": "2026-11-12"
   },
   "Folha de S.Paulo": {
    "falhas_seguidas": 0,
