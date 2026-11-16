@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import re
 import textwrap
+from difflib import SequenceMatcher
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -52,11 +53,43 @@ def _trecho(resumo: str, limite: int = 170) -> str:
     return saida
 
 
+def _link_real(link: str, por_link: dict, limiar: float = 0.9) -> str:
+    """Link coletado mais parecido com o que a IA escreveu, ou o próprio link se nenhum for parecido o bastante.
+
+    A IA copia URLs com erros de digitação (16/11/2026: "theverge.com" virou "verge.com", "lula-in-2018",
+    "video-not-mostra"), o que quebra o link do texto e o QR code. Só corrige quando a semelhança é alta e o
+    domínio coincide; links de outras origens (ex.: Banco Central nos números do dia) ficam como estão."""
+    if link in por_link:
+        return link
+    baixo = link.lower()
+    raiz = re.sub(r"(\.html?|/)$", "", baixo)  # URL encurtada pela IA: o link real começa com ela
+    prefixados = [r for r in por_link if len(raiz) > 30 and r.lower().startswith(raiz)]
+    if len(prefixados) == 1:
+        return prefixados[0]
+    dominio = re.sub(r"^https?://(www\d*\.)?", "", baixo).split("/", 1)[0].split(".")[-2:]
+    melhor, nota = link, limiar
+    for real in por_link:
+        r = real.lower()
+        if dominio and dominio[0] not in r:
+            continue
+        x = SequenceMatcher(None, baixo, r).ratio()
+        if x >= nota:
+            melhor, nota = real, x
+    return melhor
+
+
 def citacoes(segmentos: list[dict], noticias: list) -> None:
-    """Anexa a cada item a reportagem original (casada pelo link) para o cartão de citação."""
+    """Corrige links digitados errado pela IA e anexa a cada item a reportagem original (casada pelo link)
+    para o cartão de citação."""
     por_link = {n.link: n for n in noticias if getattr(n, "link", "")}
     for seg in segmentos:
         for it in seg.get("itens") or []:
+            if it.get("links"):
+                novos = [_link_real(l, por_link) for l in it["links"]]
+                if novos != it["links"]:
+                    log.info("Links corrigidos em %s: %s", seg.get("id"),
+                             [f"{a} -> {b}" for a, b in zip(it["links"], novos) if a != b])
+                    it["links"] = novos
             n = next((por_link[l] for l in it.get("links", []) if l in por_link), None)
             if not n:
                 continue

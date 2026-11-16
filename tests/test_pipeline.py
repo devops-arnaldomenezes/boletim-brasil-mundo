@@ -233,3 +233,20 @@ def test_janela_por_fonte_e_links_publicados(tmp_path, monkeypatch):
     ontem.mkdir(parents=True)
     (ontem / "roteiro.json").write_text(json.dumps([{"itens": [{"links": ["https://x/1"]}]}, {"id": "fim"}]))
     assert coletor.links_publicados(tmp_path, date(2026, 11, 9)) == {"https://x/1"}
+
+
+def test_citacao_corrige_link_digitado_errado_pela_ia():
+    """16/11/2026: a IA trocou "theverge.com" por "verge.com" e encurtou URLs; o link e o QR code quebravam."""
+    from boletim import ilustracoes
+    ns = coletor.carregar(FIX)
+    real = ns[0].link = "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-ai-health-tools"
+    ns[1].link = "https://www.theverge.com/tech/1033356/outra-materia-sobre-outro-assunto-qualquer"
+    errado = real.replace("theverge", "verge")
+    curto = real.rsplit("-", 2)[0]
+    seg = {"id": "ia", "itens": [{"titulo": "a", "regiao": "eua", "links": [errado]},
+                                 {"titulo": "b", "regiao": "eua", "links": [curto]},
+                                 {"titulo": "c", "regiao": "brasil", "links": ["https://www.camara.leg.br/agenda"]}]}
+    ilustracoes.citacoes([seg], ns)
+    assert seg["itens"][0]["links"] == [real] and seg["itens"][0]["citacao"]["link"] == real
+    assert seg["itens"][1]["links"] == [real]
+    assert seg["itens"][2]["links"] == ["https://www.camara.leg.br/agenda"] and "citacao" not in seg["itens"][2]
