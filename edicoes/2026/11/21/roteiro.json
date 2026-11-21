@@ -1,0 +1,1533 @@
+[
+ {
+  "id": "destaques",
+  "titulo": "Manchetes do dia",
+  "cor": "#0B1F3A",
+  "cor2": "#1F4E8C",
+  "itens": [
+   {
+    "titulo": "Internação de Jair Bolsonaro",
+    "texto": "O ex-presidente Jair Bolsonaro foi internado em Brasília após apresentar fortes dores abdominais, segundo a Agência Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "20/11 18h12",
+     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal",
+     "idioma": "pt",
+     "trecho": "O ex-presidente Jair Bolsonaro passou mal nesta sexta-feira (20) e foi levado ao Hospital DF Star, em Brasília, para receber atendimento médico."
+    }
+   },
+   {
+    "titulo": "Relatório da Polícia Federal sobre André Mendonça",
+    "texto": "A Polícia Federal informou ao Supremo Tribunal Federal que não encontrou conversas diretas entre o ministro André Mendonça e o ex-banqueiro Daniel Vorcaro, de acordo com a Agência Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "20/11 19h34",
+     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro",
+     "idioma": "pt",
+     "trecho": "A Polícia Federal (PF) informou ao Supremo Tribunal Federal (STF) que não foram encontrados registros de conversas entre o ex-banqueiro Daniel Vorcaro e o ministro André…"
+    }
+   },
+   {
+    "titulo": "Crise na COP31",
+    "texto": "A Conferência das Nações Unidas sobre Mudanças Climáticas chega ao último dia na Turquia sob fortes críticas da sociedade civil e risco de fracasso, segundo a ONU News Clima e a Agência Brasil.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News Clima",
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/en/story/2026/11/1168845",
+     "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/sociedade-civil-diz-que-cop31-podera-ser-pior-da-historia"
+    ],
+    "citacao": {
+     "veiculo": "ONU News Clima",
+     "quando": "20/11 09h00",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168845",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Bom dia! Você está ouvindo o Brasil e Mundo Hoje, o seu boletim diário de notícias. Neste sábado, vinte e um de novembro de dois mil e vinte e seis, vamos destacar os principais fatos que movimentam o cenário nacional e internacional.\n\nPara começar, o ex-presidente Jair Bolsonaro foi internado em Brasília após sentir fortes dores abdominais, conforme informou a Agência Brasil.\n\nNa política e na justiça, a Polícia Federal declarou ao Supremo Tribunal Federal que não localizou registros de conversas entre o ministro André Mendonça e o ex-banqueiro Daniel Vorcaro, segundo a Agência Brasil.\n\nE no cenário internacional, a Conferência das Nações Unidas sobre Mudanças Climáticas, a COP31, encerra suas atividades na Turquia enfrentando duras críticas e alertas de entidades sobre o risco de fracasso nas negociações, de acordo com a ONU News Clima."
+ },
+ {
+  "id": "numeros",
+  "titulo": "Números e agenda do dia",
+  "cor": "#0B1F3A",
+  "cor2": "#7A5A12",
+  "itens": [
+   {
+    "titulo": "Dólar comercial: R$ 5,8889",
+    "texto": "Dólar comercial a R$ 5,8889 na cotação de venda de 19/11, alta de 1,35% sobre o dia anterior.",
+    "regiao": "brasil",
+    "fontes": [
+     "Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ],
+    "imagem": "_midia/_trabalho/grafico_dolar.png"
+   },
+   {
+    "titulo": "Euro: R$ 6,4672",
+    "texto": "Euro a R$ 6,4672 na cotação de venda de 19/11, alta de 1,49% sobre o dia anterior.",
+    "regiao": "brasil",
+    "fontes": [
+     "Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ],
+    "imagem": "_midia/_trabalho/grafico_euro.png"
+   },
+   {
+    "titulo": "Meta da Selic: 13,75%",
+    "texto": "Meta da Selic em 13,75% (dado de 21/11).",
+    "regiao": "brasil",
+    "fontes": [
+     "Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ]
+   },
+   {
+    "titulo": "Inflação (IPCA) em 12 meses: 4,63%",
+    "texto": "Inflação (IPCA) em 12 meses em 4,63% (referente a 10/2026).",
+    "regiao": "brasil",
+    "fontes": [
+     "IBGE, via Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ]
+   }
+  ],
+  "roteiro": "Agora, os números do dia. O dólar comercial fechou a 5,89 reais, alta de 1,35% sobre o dia anterior, segundo o Banco Central. O euro fechou a 6,47 reais, alta de 1,49% sobre o dia anterior, segundo o Banco Central. A meta da taxa Selic está em 13,75 por cento ao ano, segundo o Banco Central. A inflação oficial, medida pelo IPCA, acumula 4,63 por cento em doze meses, segundo o IBGE."
+ },
+ {
+  "id": "politica",
+  "titulo": "Política",
+  "cor": "#4A1D2B",
+  "cor2": "#A23B4F",
+  "itens": [
+   {
+    "titulo": "PF diz que não há conversas de Mendonça com Vorcaro",
+    "texto": "A Polícia Federal informou ao Supremo Tribunal Federal que não foram encontrados registros de conversas entre o ex-banqueiro Daniel Vorcaro e o ministro André Mendonça. A conclusão consta no relatório entregue ao presidente do Supremo Tribunal Federal, Edson Fachin, relator do caso Master, segundo a Agência Brasil. O sigilo do documento foi retirado a pedido de Mendonça para esclarecer os fatos investigados.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "20/11 19h34",
+     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro",
+     "idioma": "pt",
+     "trecho": "A Polícia Federal (PF) informou ao Supremo Tribunal Federal (STF) que não foram encontrados registros de conversas entre o ex-banqueiro Daniel Vorcaro e o ministro André…"
+    }
+   },
+   {
+    "titulo": "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro",
+    "texto": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal, votou para manter a própria decisão que proibiu o senador Flávio Bolsonaro de deixar o país. O julgamento ocorre no plenário virtual durante a análise de um recurso apresentado pela defesa do parlamentar. Segundo a Agência Brasil, a medida foi tomada após o senador não cumprir determinações judiciais e ir para os Estados Unidos.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "20/11 17h55",
+     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro",
+     "idioma": "pt",
+     "trecho": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta sexta-feira (20) para manter a própria decisão que proibiu o senador Flávio Bolsonaro…"
+    }
+   },
+   {
+    "titulo": "Celso Amorim avalia cenário internacional e relações diplomáticas",
+    "texto": "O diplomata brasileiro e assessor especial Celso Amorim analisou em entrevista recente os rumos da política externa do país. Ele comentou temas como a reunião de Shenzhen, as eleições na Espanha e as relações com a Argentina. De acordo com o jornal El País América, Amorim também projetou que a ênfase dos Estados Unidos no escudo regional deverá diminuir.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/america/2026-11-20/celso-amorim-el-enfasis-de-trump-en-el-escudo-de-las-americas-disminuira-un-poco.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "20/11 06h30",
+     "link": "https://elpais.com/america/2026-11-20/celso-amorim-el-enfasis-de-trump-en-el-escudo-de-las-americas-disminuira-un-poco.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Trump ameaça sancionar empresas que construírem centros de dados no exterior",
+    "texto": "O presidente dos Estados Unidos, Donald Trump, ameaçou impor sanções a empresas norte-americanas que decidirem construir centros de dados em outros países. De acordo com o jornal El País América, o mandatário não detalhou como a medida seria aplicada, mas incentivou comunidades locais a aceitarem a instalação dessas estruturas em território nacional.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/us/2026-11-20/trump-amenaza-con-sancionar-a-las-empresas-estadounidenses-que-construyan-centros-de-datos-en-otros-paises.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "20/11 18h19",
+     "link": "https://elpais.com/us/2026-11-20/trump-amenaza-con-sancionar-a-las-empresas-estadounidenses-que-construyan-centros-de-datos-en-otros-paises.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Moscu desmente tese sobre Ucrânia na Organização do Tratado do Atlântico Norte",
+    "texto": "O Ministério das Relações Exteriores da Rússia negou publicamente o anúncio de que Moscou teria aceitado uma fórmula alternativa para a proteção da Ucrânia. Segundo o jornal El País América, o governo russo reiterou que qualquer formato que funcione como pseudomembrosia na Aliança Atlântica permanece totalmente inaceitável para os interesses de segurança do país.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/internacional/2026-11-20/moscu-desmiente-al-yerno-de-trump-cualquier-pseudomembresia-de-ucrania-en-la-otan-es-inaceptable-para-rusia.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "20/11 11h02",
+     "link": "https://elpais.com/internacional/2026-11-20/moscu-desmiente-al-yerno-de-trump-cualquier-pseudomembresia-de-ucrania-en-la-otan-es-inaceptable-para-rusia.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Comissão Europeia aprova pagamentos finais para Malta e Portugal",
+    "texto": "A Comissão Europeia deu luz verde aos pagamentos finais para Malta e Portugal no âmbito do programa de recuperação econômica da União Europeia. Conforme os comunicados oficiais da instituição, Malta receberá cerca de sessenta e um milhões de euros, enquanto Portugal terá acesso a quatro bilhões e setecentos milhões de euros para investimentos estratégicos.",
+    "regiao": "europa",
+    "fontes": [
+     "Comissão Europeia"
+    ],
+    "links": [
+     "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2550",
+     "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2549"
+    ],
+    "citacao": {
+     "veiculo": "Comissão Europeia",
+     "quando": "20/11 09h32",
+     "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2550",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Zelensky chama Putin de assassino após declarações de Trump",
+    "texto": "O presidente da Ucrânia, Volodymyr Zelensky, classificou o líder russo Vladimir Putin como um assassino após os recentes comentários do presidente norte-americano Donald Trump. De acordo com a rede BBC World, a troca de declarações ocorre logo depois de a Rússia lançar os maiores ataques deste ano contra o território ucraniano.",
+    "regiao": "europa",
+    "fontes": [
+     "BBC World"
+    ],
+    "links": [
+     "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
+    ],
+    "citacao": {
+     "veiculo": "BBC World",
+     "quando": "21/11 02h15",
+     "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Trump destaca segurança e acordos econômicos após giro internacional",
+    "texto": "O presidente dos Estados Unidos, Donald Trump, concluiu sua viagem oficial de quatro dias por Filipinas e China. Segundo a Casa Branca, a agenda priorizou acordos multibilionários para apoiar trabalhadores norte-americanos e fortalecer a segurança regional no Indo-Pacífico contra atividades ilícitas no exterior.",
+    "regiao": "eua",
+    "fontes": [
+     "Casa Branca"
+    ],
+    "links": [
+     "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/"
+    ],
+    "citacao": {
+     "veiculo": "Casa Branca",
+     "quando": "20/11 12h39",
+     "link": "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Rohingya celebram decisão sobre genocídio, mas pedem retorno a Mianmar",
+    "texto": "Refugiados rohingya acolhidos em Bangladesh celebraram o julgamento histórico da Corte Internacional que considerou Mianmar responsável pelo crime de genocídio. Segundo a rede Channel NewsAsia, esta é a primeira vez que o tribunal determina que um Estado cometeu tal crime contra uma minoria étnica, embora os refugiados insistam no desejo de retornar ao lar.",
+    "regiao": "asia",
+    "fontes": [
+     "Channel NewsAsia"
+    ],
+    "links": [
+     "https://www.channelnewsasia.com/asia/rohingya-bangladesh-myanmar-genocide-verdict-6571141"
+    ],
+    "citacao": {
+     "veiculo": "Channel NewsAsia",
+     "quando": "21/11 00h37",
+     "link": "https://www.channelnewsasia.com/asia/rohingya-bangladesh-myanmar-genocide-verdict-6571141",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Trump comenta cúpula trilateral com Rússia e China sobre a Península Coreana",
+    "texto": "O presidente norte-americano Donald Trump afirmou que a discussão sobre o enfrentamento de perigos na Península Coreana integrou a pauta de sua reunião trilateral com os líderes de China e Rússia. De acordo com o jornal Korea Herald, o mandatário destacou durante coletiva de imprensa na Casa Branca que o grupo também debateu o fim dos conflitos na Ucrânia.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10944597"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "20/11 22h41",
+     "link": "https://www.koreaherald.com/article/10944597",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Abrimos agora o nosso espaço dedicado aos principais desdobramentos da política nacional e internacional. Vamos aos fatos que movimentam os governos e os tribunais ao redor do planeta.\n\nA Polícia Federal informou ao Supremo Tribunal Federal que não foram encontrados registros de conversas entre o ex-banqueiro Daniel Vorcaro e o ministro André Mendonça. A conclusão consta no relatório entregue ao presidente do Supremo Tribunal Federal, Edson Fachin, relator do caso Master, segundo a Agência Brasil. O sigilo do documento foi retirado a pedido de Mendonça para esclarecer os fatos investigados e afastar especulações.\n\nAinda sobre decisões do tribunal máximo da justiça brasileira, o ministro Alexandre de Moraes votou para manter a própria decisão que proibiu o senador Flávio Bolsonaro de deixar o país. O julgamento ocorre no plenário virtual durante a análise de um recurso apresentado pela defesa do parlamentar. Segundo a Agência Brasil, a medida foi tomada após o senador não cumprir determinações judiciais e ir para os Estados Unidos.\n\nMudando o foco para a diplomacia regional, o diplomata brasileiro e assessor especial Celso Amorim analisou em entrevista recente os rumos da política externa do país. Ele comentou temas como a reunião de Shenzhen, as eleições na Espanha e as relações com a Argentina. De acordo com o jornal El País América, Amorim também projetou que a ênfase dos Estados Unidos no escudo regional deverá diminuir nos próximos meses.\n\nPassando para os movimentos econômicos nos Estados Unidos, o presidente Donald Trump ameaçou impor sanções a empresas norte-americanas que decidirem construir centros de dados em outros países. De acordo com o jornal El País América, o mandatário não detalhou como a medida seria aplicada na prática, mas incentivou comunidades locais a aceitarem a instalação dessas estruturas em território nacional.\n\nNo tabuleiro geopolítico da Europa, o Ministério das Relações Exteriores da Rússia negou publicamente o anúncio de que Moscou teria aceitado uma fórmula alternativa para a proteção da Ucrânia. Segundo o jornal El País América, o governo russo reiterou que qualquer formato que funcione como pseudomembrosia na Aliança Atlântica, a Organização do Tratado do Atlântico Norte, permanece totalmente inaceitável para os interesses de segurança do país.\n\nAinda no bloco europeu, a Comissão Europeia deu luz verde aos pagamentos finais para Malta e Portugal no âmbito do programa de recuperação econômica da União Europeia. Conforme os comunicados oficiais da instituição, Malta receberá cerca de sessenta e um milhões de euros, enquanto Portugal terá acesso a quatro bilhões e setecentos milhões de euros para investimentos estratégicos.\n\nA tensão no leste europeu ganhou novos contornos quando o presidente da Ucrânia, Volodymyr Zelensky, classificou o líder russo Vladimir Putin como um assassino após os recentes comentários do presidente norte-americano Donald Trump. De acordo com a rede BBC World, a troca de declarações ocorre logo depois de a Rússia lançar os maiores ataques deste ano contra o território ucraniano.\n\nCruzando para a política externa norte-americana, o presidente Donald Trump concluiu sua viagem oficial de quatro dias por Filipinas e China. Segundo a Casa Branca, a agenda priorizou acordos multibilionários para apoiar trabalhadores norte-americanas e fortalecer a segurança regional no Indo-Pacífico contra atividades ilícitas no exterior.\n\nNa Ásia, refugiados rohingya acolhidos em Bangladesh celebraram o julgamento histórico da Corte Internacional que considerou Mianmar responsável pelo crime de genocídio. Segundo a rede Channel NewsAsia, esta é a primeira vez que o tribunal determina que um Estado cometeu tal crime contra uma minoria étnica, embora os refugiados insistam no desejo de retornar ao lar.\n\nFechando este giro, o presidente norte-americano Donald Trump afirmou que a discussão sobre o enfrentamento de perigos na Península Coreana integrou a pauta de sua reunião trilateral com os líderes de China e Rússia. De acordo com o jornal Korea Herald, o mandatário destacou durante coletiva de imprensa na Casa Branca que o grupo também debateu o fim dos conflitos na Ucrânia."
+ },
+ {
+  "id": "economia",
+  "titulo": "Economia e Mercados",
+  "cor": "#0E3B2E",
+  "cor2": "#1E7A5A",
+  "itens": [
+   {
+    "titulo": "Pacote fiscal no Brasil",
+    "texto": "O novo pacote fiscal aprovado pelo Senado amplia as chances de cumprir a meta de resultado primário de dois mil e vinte e sete. No entanto, segundo a Folha de S.Paulo, o avanço na Câmara dos Deputados ainda não garante a estabilidade da dívida pública a longo prazo.",
+    "regiao": "brasil",
+    "fontes": [
+     "Folha de S.Paulo"
+    ],
+    "links": [
+     "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/o-pacote-fiscal-do-governo-lula-ajuda-a-estabilizar-as-contas-publicas-nao.shtml"
+    ],
+    "citacao": {
+     "veiculo": "Folha de S.Paulo",
+     "quando": "20/11 22h00",
+     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/o-pacote-fiscal-do-governo-lula-ajuda-a-estabilizar-as-contas-publicas-nao.shtml",
+     "idioma": "pt",
+     "trecho": "Com o novo pacote fiscal , as contas públicas estarão em ordem? Não."
+    }
+   },
+   {
+    "titulo": "Impacto no mercado de criptomoedas",
+    "texto": "O bitcoin caiu abaixo de sessenta mil dólares e atingiu a mínima em mais de dois anos. De acordo com a InfoMoney, o movimento foi impulsionado por um dólar mais forte e pela expectativa de aumento de juros pelo Federal Reserve.",
+    "regiao": "brasil",
+    "fontes": [
+     "InfoMoney"
+    ],
+    "links": [
+     "https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-60-mil-pela-primeira-vez-desde-julho/"
+    ],
+    "citacao": {
+     "veiculo": "InfoMoney",
+     "quando": "20/11 18h50",
+     "link": "https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-60-mil-pela-primeira-vez-desde-julho/",
+     "idioma": "pt",
+     "trecho": "Um dólar mais forte e as crescentes expectativas de um novo aumento da taxa de juros pelo Federal Reserve pressionaram os mercados esta semana The post Bitcoin cai a US$…"
+    }
+   },
+   {
+    "titulo": "Concorrência agrícola e EUA",
+    "texto": "O presidente dos Estados Unidos, Donald Trump, afirmou que convenceu as Filipinas a substituírem produtos agrícolas do Brasil por mercadorias americanas. Segundo a Globo Rural, a declaração ocorreu durante pronunciamento na Casa Branca.",
+    "regiao": "brasil",
+    "fontes": [
+     "Globo Rural"
+    ],
+    "links": [
+     "https://globorural.globo.com/politica/noticia/2026/11/trump-afirma-que-convenceu-filipinas-a-trocar-produtos-agricolas-do-brasil-pelos-dos-eua.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "Globo Rural",
+     "quando": "20/11 17h44",
+     "link": "https://globorural.globo.com/politica/noticia/2026/11/trump-afirma-que-convenceu-filipinas-a-trocar-produtos-agricolas-do-brasil-pelos-dos-eua.ghtml",
+     "idioma": "pt",
+     "trecho": "O presidente dos Estados Unidos, Donald Trump, mencionou a concorrência com o Brasil ao dizer que as Filipinas têm que comprar mais produtos agrícolas americanos."
+    }
+   },
+   {
+    "titulo": "Investimento em energia na Argentina",
+    "texto": "A Argentina aposta em um projeto de gás natural liquefeito na Patagônia avaliado em vinte e quatro bilhões de dólares. Conforme o Buenos Aires Times, a iniciativa busca consolidar as reformas econômicas implementadas pelo governo de Javier Milei.",
+    "regiao": "latam",
+    "fontes": [
+     "Buenos Aires Times"
+    ],
+    "links": [
+     "https://www.batimes.com.ar/news/economy/argentina-lng-patagonias-new-dawn-is-us24-billion-bet-on-milei-reforms-lasting.phtml"
+    ],
+    "citacao": {
+     "veiculo": "Buenos Aires Times",
+     "quando": "20/11 11h53",
+     "link": "https://www.batimes.com.ar/news/economy/argentina-lng-patagonias-new-dawn-is-us24-billion-bet-on-milei-reforms-lasting.phtml",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Crise da dívida argentina",
+    "texto": "A volatilidade do mercado internacional atingiu fortemente a economia da Argentina e os títulos soberanos do país caíram para território de estresse. Segundo o Buenos Aires Times, essa é a primeira vez em dois anos que os papéis atingem esse patamar.",
+    "regiao": "latam",
+    "fontes": [
+     "Buenos Aires Times"
+    ],
+    "links": [
+     "https://www.batimes.com.ar/news/economy/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress.phtml"
+    ],
+    "citacao": {
+     "veiculo": "Buenos Aires Times",
+     "quando": "20/11 17h48",
+     "link": "https://www.batimes.com.ar/news/economy/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress.phtml",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Acordo pós-Brexit",
+    "texto": "A União Europeia e o Reino Unido fecharam um acordo marcante focado em mobilidade juvenil e comércio. De acordo com a emissora DW, líderes de ambos os lados elogiaram o pacto como um passo importante para reconstruir os laços bilaterais.",
+    "regiao": "europa",
+    "fontes": [
+     "DW (EN)"
+    ],
+    "links": [
+     "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-all-1573-xml-mrss"
+    ],
+    "citacao": {
+     "veiculo": "DW (EN)",
+     "quando": "20/11 11h30",
+     "link": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-all-1573-xml-mrss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Acordo comercial entre China e Suíça",
+    "texto": "A eliminação de tarifas sobre quase todas as exportações suíças para a China deve impulsionar os setores de finanças e logística de Hong Kong. Conforme o South China Morning Post, a medida foi celebrada por diplomatas suíços após reunião bilateral.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375311/deal-duty-free-swiss-exports-china-boon-hong-kong-top-diplomat-says"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "21/11 02h08",
+     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375311/deal-duty-free-swiss-exports-china-boon-hong-kong-top-diplomat-says",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Transição energética em Uganda",
+    "texto": "Autoridades de Uganda receberam positivamente o roteiro global de transição para fontes de energia limpa. Segundo o portal Climate Home News, o país se prepara para se tornar o mais novo exportador mundial de petróleo bruto.",
+    "regiao": "global",
+    "fontes": [
+     "Climate Home News"
+    ],
+    "links": [
+     "https://www.climatechangenews.com/2026/11/20/uganda-backs-fossil-fuel-transition-roadmap-gears-up-oil-exports/"
+    ],
+    "citacao": {
+     "veiculo": "Climate Home News",
+     "quando": "20/11 12h05",
+     "link": "https://www.climatechangenews.com/2026/11/20/uganda-backs-fossil-fuel-transition-roadmap-gears-up-oil-exports/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguimos agora para a editoria de Economia e Mercados, trazendo os principais acontecimentos que movimentam as finanças no Brasil e no exterior.\n\nComeçamos pelo cenário nacional, onde o novo pacote fiscal aprovado pelo Senado amplia as chances de o governo cumprir a meta de resultado primário em dois mil e vinte e sete. Conforme avaliações publicadas pela Folha de S.Paulo, o texto ainda precisa passar pela Câmara dos Deputados e, apesar de ser um avanço, analistas apontam que a proposta isolada não garante a estabilidade de longo prazo da dívida pública brasileira.\n\nAinda no panorama econômico brasileiro, o mercado de criptomoedas sofreu um baque expressivo com a queda do bitcoin para a faixa de cinquenta e sete mil dólares, atingindo a menor cotação em mais de dois anos. De acordo com informações da InfoMoney, a desvalorização foi provocada por um cenário externo desfavorável, marcado pela força do dólar e pela expectativa de que o Federal Reserve volte a subir as taxas de juros nos Estados Unidos.\n\nPassando para o comércio exterior, o presidente dos Estados Unidos, Donald Trump, declarou neste sábado que conseguiu convencer as Filipinas a priorizarem a compra de produtos agrícolas norte-americanos em detrimento dos itens brasileiros. Segundo a reportagem da Globo Rural, o acordo comercial foi anunciado por Trump na Casa Branca após uma série de reuniões com líderes internacionais nesta semana.\n\nOlhando para a América Latina, a Argentina aposta alto em um gigantesco projeto de gás natural liquefeito na região da Patagônia, com investimentos estimados em vinte e quatro bilhões de dólares. De acordo com o Buenos Aires Times, o empreendimento representa uma tentativa ousada de consolidar as reformas econômicas estruturais promovidas pelo governo do presidente Javier Milei.\n\nAinda na economia argentina, o impacto da turbulência financeira global fez com que os títulos da dívida soberana do país despencassem para patamares de grave restrição. Segundo o jornal Buenos Aires Times, essa é a primeira vez em dois anos que os papéis argentinos entram em zona de estresse, refletindo o ceticismo dos investidores internacionais diante da crise.\n\nNa Europa, a União Europeia e o Reino Unido firmaram um acordo considerado histórico para fortalecer as relações bilaterais após a saída britânica do bloco europeu. Conforme divulgado pela emissora DW, o pacto abrange regras para o comércio e para a mobilidade de jovens, sendo elogiado por lideranças de ambos os lados como um marco na reconstrução de pontes econômicas.\n\nNa Ásia, o avanço nas negociações comerciais rendeu frutos para Hong Kong após a assinatura de um acordo que zera as tarifas de quase todas as exportações da Suíça para o mercado chinês. Segundo o South China Morning Post, diplomatas suíços afirmam que a medida vai dinamizar os setores financeiros, logísticos e de pesquisa na região administrativa especial.\n\nFechando os destaques econômicos globais, o setor energético de Uganda recebeu com otimismo as diretrizes do roteiro internacional de transição dos combustíveis fósseis. De acordo com o portal Climate Home News, a declaração foi feita por uma autoridade do setor petrolífero enquanto o país africano finaliza seus preparativos para ingressar no mercado internacional como o mais novo exportador de petróleo."
+ },
+ {
+  "id": "seguros",
+  "titulo": "Seguros e Corretoras",
+  "cor": "#3A3010",
+  "cor2": "#8C7426",
+  "itens": [
+   {
+    "titulo": "Zurich Seguros aposta no WhatsApp para vender garantia estendida com inteligência artificial",
+    "texto": "A Zurich Seguros firmou uma parceria estratégica com a startup Dobbra.ai para comercializar seguros de garantia estendida diretamente pelo WhatsApp. A ferramenta utiliza inteligência artificial para explicar coberturas, tirar dúvidas e viabilizar a contratação imediata pelo consumidor após a compra em marketplaces, segundo a Sonho Seguro.",
+    "regiao": "brasil",
+    "fontes": [
+     "Sonho Seguro"
+    ],
+    "links": [
+     "https://www.sonhoseguro.com.br/2026/11/zurich-fecha-parceria-com-dobbra-ai-para-vender-seguros-pelo-whatsapp/"
+    ],
+    "citacao": {
+     "veiculo": "Sonho Seguro",
+     "quando": "20/11 08h23",
+     "link": "https://www.sonhoseguro.com.br/2026/11/zurich-fecha-parceria-com-dobbra-ai-para-vender-seguros-pelo-whatsapp/",
+     "idioma": "pt",
+     "trecho": "A Zurich Seguros firmou parceria com a Dobbra.ai, startup fundada pelos executivos Alex Körner e Vinicius Alvarenga, para comercializar seguros de Garantia Estendida por…"
+    }
+   },
+   {
+    "titulo": "Agro brasileiro busca expansão orçamentária e reforço no seguro rural",
+    "texto": "O setor agropecuário nacional articula a inclusão de quase um bilhão de reais extras no orçamento federal para o ano de dois mil e vinte e sete, priorizando áreas como pesquisa e defesa agropecuária. Entidades do setor também exigem que o Programa de Subvenção do Seguro Rural receba um aporte de até quatro bilhões de reais, conforme destacou a publicação Globo Rural.",
+    "regiao": "brasil",
+    "fontes": [
+     "Globo Rural"
+    ],
+    "links": [
+     "https://globorural.globo.com/politica/noticia/2026/11/agro-quer-r-1-bi-a-mais-no-orcamento-e-protecao-contra-cortes-de-verba.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "Globo Rural",
+     "quando": "20/11 06h15",
+     "link": "https://globorural.globo.com/politica/noticia/2026/11/agro-quer-r-1-bi-a-mais-no-orcamento-e-protecao-contra-cortes-de-verba.ghtml",
+     "idioma": "pt",
+     "trecho": "O setor agropecuário defende a expansão de quase de R$ 1 bilhão do orçamento federal destinado a áreas consideradas prioritárias em 2027, como defesa agropecuária…"
+    }
+   },
+   {
+    "titulo": "Allianz Commercial alerta sobre riscos financeiros ocultos da inteligência artificial",
+    "texto": "A divisão comercial do grupo Allianz emitiu um alerta de que o impacto financeiro da inteligência artificial nas empresas pode ser consideravelmente superior ao volume atual de sinistros registrados. De acordo com o portal Reinsurance News, o uso crescente dessa tecnologia gera novas fontes de exposição jurídica, operacional e financeira.",
+    "regiao": "europa",
+    "fontes": [
+     "Reinsurance News"
+    ],
+    "links": [
+     "https://www.reinsurancene.ws/allianz-commercial-warns-ai-related-insurance-claims-could-mask-greater-financial-exposure/"
+    ],
+    "citacao": {
+     "veiculo": "Reinsurance News",
+     "quando": "20/11 14h00",
+     "link": "https://www.reinsurancene.ws/allianz-commercial-warns-ai-related-insurance-claims-could-mask-greater-financial-exposure/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Seguradoras no Japão registram disparada de sinistros cibernéticos impulsionados por IA",
+    "texto": "As principais seguradoras de propriedades do Japão estão enfrentando um salto expressivo nas notificações de sinistros de seguros cibernéticos. Conforme noticiado pelo Insurance Journal, a alta reflete ataques virtuais impulsionados por inteligência artificial que se tornaram mais sofisticados e frequentes em todo o país asiático.",
+    "regiao": "eua",
+    "fontes": [
+     "Insurance Journal"
+    ],
+    "links": [
+     "https://www.insurancejournal.com/news/international/2026/11/20/893239.htm"
+    ],
+    "citacao": {
+     "veiculo": "Insurance Journal",
+     "quando": "20/11 06h50",
+     "link": "https://www.insurancejournal.com/news/international/2026/11/20/893239.htm",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Lideranças do setor de seguros projetam lucros maiores apesar de retornos limitados em inteligência artificial",
+    "texto": "Executivos globais do mercado de seguros demonstram otimismo com o desempenho financeiro para os próximos anos, mesmo com os investimentos expressivos em inteligência artificial ainda não gerando retornos financeiros mensuráveis. A constatação faz parte de uma pesquisa divulgada pela rede internacional de serviços profissionais KPMG, segundo a Reinsurance News.",
+    "regiao": "europa",
+    "fontes": [
+     "Reinsurance News"
+    ],
+    "links": [
+     "https://www.reinsurancene.ws/insurance-ceos-forecast-stronger-earnings-as-ai-investment-returns-remain-limited-kpmg-reports/"
+    ],
+    "citacao": {
+     "veiculo": "Reinsurance News",
+     "quando": "20/11 09h00",
+     "link": "https://www.reinsurancene.ws/insurance-ceos-forecast-stronger-earnings-as-ai-investment-returns-remain-limited-kpmg-reports/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Liberty Mutual busca trezentos milhões de dólares em nova emissão de títulos de catástrofe",
+    "texto": "A companhia Liberty Mutual retornou ao mercado de títulos de catástrofe com o objetivo inicial de captar trezentos milhões de dólares em proteção de resseguro multirrisco baseada em indenizações. Segundo o portal Artemis, esta é a quinta vez consecutiva que a empresa utiliza essa estrutura financeira com o Mystic Re.",
+    "regiao": "global",
+    "fontes": [
+     "Artemis"
+    ],
+    "links": [
+     "https://www.artemis.bm/news/liberty-mutual-targets-300m-multi-peril-reinsurance-with-twelfth-mystic-re-cat-bond/?utm_source=rss&utm_medium=rss&utm_campaign=liberty-mutual-targets-300m-multi-peril-reinsurance-with-twelfth-mystic-re-cat-bond"
+    ],
+    "citacao": {
+     "veiculo": "Artemis",
+     "quando": "20/11 08h30",
+     "link": "https://www.artemis.bm/news/liberty-mutual-targets-300m-multi-peril-reinsurance-with-twelfth-mystic-re-cat-bond/?utm_source=rss&utm_medium=rss&utm_campaign=liberty-mutual-targets-300m-multi-peril-reinsurance-with-twelfth-mystic-re-cat-bond",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "NN Group assegura resseguro de cem milhões de euros com novo título de catástrofe",
+    "texto": "O grupo financeiro NN Group finalizou com sucesso a sua quarta e maior emissão de títulos de catástrofe, garantindo cem milhões de euros em resseguro colateralizado. De acordo com informações do site Artemis, a operação atingiu o limite superior da meta estabelecida pela instituição na Europa.",
+    "regiao": "global",
+    "fontes": [
+     "Artemis"
+    ],
+    "links": [
+     "https://www.artemis.bm/news/nn-group-secures-upsized-e100m-reinsurance-from-fourth-orange-capital-re-cat-bond/?utm_source=rss&utm_medium=rss&utm_campaign=nn-group-secures-upsized-e100m-reinsurance-from-fourth-orange-capital-re-cat-bond"
+    ],
+    "citacao": {
+     "veiculo": "Artemis",
+     "quando": "20/11 05h30",
+     "link": "https://www.artemis.bm/news/nn-group-secures-upsized-e100m-reinsurance-from-fourth-orange-capital-re-cat-bond/?utm_source=rss&utm_medium=rss&utm_campaign=nn-group-secures-upsized-e100m-reinsurance-from-fourth-orange-capital-re-cat-bond",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "The Hartford conclui maior emissão de títulos de catástrofe da sua história com duzentos e oitenta milhões de dólares",
+    "texto": "A seguradora norte-americana The Hartford garantiu duzentos e oitenta milhões de dólares em proteção de resseguro colateralizado por meio de um novo título de catástrofe. Conforme reportado pelo portal Artemis, a transação foi precificada abaixo da orientação inicial estipulada pelo mercado financeiro global.",
+    "regiao": "global",
+    "fontes": [
+     "Artemis"
+    ],
+    "links": [
+     "https://www.artemis.bm/news/the-hartford-secures-its-largest-catastrophe-bond-yet-280m-foundation-re-iv-2027-1/?utm_source=rss&utm_medium=rss&utm_campaign=the-hartford-secures-its-largest-catastrophe-bond-yet-280m-foundation-re-iv-2027-1"
+    ],
+    "citacao": {
+     "veiculo": "Artemis",
+     "quando": "20/11 05h00",
+     "link": "https://www.artemis.bm/news/the-hartford-secures-its-largest-catastrophe-bond-yet-280m-foundation-re-iv-2027-1/?utm_source=rss&utm_medium=rss&utm_campaign=the-hartford-secures-its-largest-catastrophe-bond-yet-280m-foundation-re-iv-2027-1",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Agora seguimos para a nossa seção dedicada ao mercado de Seguros e Corretoras, trazendo as principais movimentações e tendências econômicas que influenciam o setor no Brasil e no exterior.\n\nNo cenário nacional, a Zurich Seguros firmou uma parceria estratégica com a startup Dobbra.ai para comercializar seguros de garantia estendida diretamente pelo aplicativo de mensagens WhatsApp. A ferramenta utiliza inteligência artificial para explicar coberturas, tirar dúvidas e viabilizar a contratação imediata pelo consumidor após a compra em marketplaces, segundo a Sonho Seguro.\n\nAinda no Brasil, o setor agropecuário nacional articula a inclusão de quase um bilhão de reais extras no orçamento federal para o ano de dois mil e vinte e sete, priorizando áreas como pesquisa e defesa agropecuária. Entidades do setor também exigem que o Programa de Subvenção do Seguro Rural receba um aporte de até quatro bilhões de reais, conforme destacou a publicação Globo Rural.\n\nMudando para o mercado internacional, a divisão comercial do grupo Allianz emitiu um alerta de que o impacto financeiro da inteligência artificial nas empresas pode ser consideravelmente superior ao volume atual de sinistros registrados. De acordo com o portal Reinsurance News, o uso crescente dessa tecnologia gera novas fontes de exposição jurídica, operacional e financeira.\n\nEnquanto isso, as principais seguradoras de propriedades do Japão estão enfrentando um salto expressivo nas notificações de sinistros de seguros cibernéticos. Conforme noticiado pelo Insurance Journal, a alta reflete ataques virtuais impulsionados por inteligência artificial que se tornaram mais sofisticados e frequentes em todo o país asiático.\n\nAinda sobre a tecnologia, executivos globais do mercado de seguros demonstram otimismo com o desempenho financeiro para os próximos anos, mesmo com os investimentos expressivos em inteligência artificial ainda não gerando retornos financeiros mensuráveis. A constatação faz parte de uma pesquisa divulgada pela rede internacional de serviços profissionais KPMG, segundo a Reinsurance News.\n\nNo segmento de resseguros e proteção financeira de grande porte, a companhia Liberty Mutual retornou ao mercado de títulos de catástrofe com o objetivo inicial de captar trezentos milhões de dólares em proteção de resseguro multirrisco baseada em indenizações. Segundo o portal Artemis, esta é a quinta vez consecutiva que a empresa utiliza essa estrutura financeira com o Mystic Re.\n\nNa Europa, o grupo financeiro NN Group finalizou com sucesso a sua quarta e maior emissão de títulos de catástrofe, garantindo cem milhões de euros em resseguro colateralizado. De acordo com informações do site Artemis, a operação atingiu o limite superior da meta estabelecida pela instituição.\n\nPara fechar esta edição, a seguradora norte-americana The Hartford garantiu duzentos e oitenta milhões de dólares em proteção de resseguro colateralizado por meio de um novo título de catástrofe. Conforme reportado pelo portal Artemis, a transação foi precificada abaixo da orientação inicial estipulada pelo mercado financeiro global."
+ },
+ {
+  "id": "clima",
+  "titulo": "Clima e Meio Ambiente",
+  "cor": "#12361F",
+  "cor2": "#3E8E4F",
+  "itens": [
+   {
+    "titulo": "Sociedade civil alerta para risco de fracasso na COP31",
+    "texto": "Organizações da sociedade civil de todo o planeta denunciam o risco de fracasso total da trigésima primeira Conferência das Nações Unidas sobre Mudanças Climáticas, realizada em Antália, na Turquia. A falta de avanços nos pontos mais sensíveis da negociação e a ausência de menção aos combustíveis fósseis nos textos preliminares geraram fortes críticas de governos e ativistas. Segundo a Agência Brasil e a ONU News Clima, o evento precisou entrar em horário extra diante do impasse generalizado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil",
+     "ONU News Clima"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/sociedade-civil-diz-que-cop31-podera-ser-pior-da-historia",
+     "https://news.un.org/feed/view/en/story/2026/11/1168845"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "20/11 18h20",
+     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/sociedade-civil-diz-que-cop31-podera-ser-pior-da-historia",
+     "idioma": "pt",
+     "trecho": "A poucas horas do encerramento da 31ª Conferência das Nações Unidas sobre Mudanças Climáticas (COP31), em Antália, no sul da Turquia, organizações da sociedade civil de…"
+    }
+   },
+   {
+    "titulo": "União Europeia e países criticam texto final da COP31",
+    "texto": "Lideranças da União Europeia advertiram que a minuta de acordo discutida na cúpula climática representa um passo substancial para trás na ação global contra o aquecimento. De acordo com a Politico Europe e a Al Jazeera, diversos países da Europa, da África, da América Latina e do Pacífico exigiram ações explícitas sobre os combustíveis fósseis e um financiamento climático mais robusto. O temor das delegações é que o encontro termine enfraquecido pela falta de compromissos efetivos.",
+    "regiao": "europa",
+    "fontes": [
+     "Politico Europe",
+     "Al Jazeera"
+    ],
+    "links": [
+     "https://www.politico.eu/article/eu-warns-against-cop31-becoming-a-fossil-fuel-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss"
+    ],
+    "citacao": {
+     "veiculo": "Politico Europe",
+     "quando": "20/11 13h03",
+     "link": "https://www.politico.eu/article/eu-warns-against-cop31-becoming-a-fossil-fuel-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "El Salvador enfrenta severa crise alimentar por seca",
+    "texto": "O território salvadorenho lida com uma das secas mais intensas dos últimos anos, impulsionada pelo fenômeno El Niño e por temperaturas recordes. Conforme divulgado pela France 24 América Latina, o déficit drástico de chuvas causou perdas significativas em cultivos essenciais como milho, feijão e sorgo. A situação ameaça a segurança alimentar da população, compromete a renda de famílias agricultoras e afeta a geração hidrelétrica local.",
+    "regiao": "latam",
+    "fontes": [
+     "France 24 América Latina"
+    ],
+    "links": [
+     "https://www.france24.com/es/programas/enlace/20261120-el-salvador-bajo-la-amenaza-de-una-crisis-alimentaria-por-la-sequ%C3%ADa"
+    ],
+    "citacao": {
+     "veiculo": "France 24 América Latina",
+     "quando": "20/11 15h14",
+     "link": "https://www.france24.com/es/programas/enlace/20261120-el-salvador-bajo-la-amenaza-de-una-crisis-alimentaria-por-la-sequ%C3%ADa",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Meta reavalia meta de emissão zero com impacto da inteligência artificial",
+    "texto": "A gigante tecnológica Meta está reavaliando seus objetivos de sustentabilidade para o ano de dois mil e trinta devido ao aumento recorde nas emissões geradas por seus centros de dados voltados para inteligência artificial. A informação, publicada pela Ars Technica, coloca em debate a pressão que a nova infraestrutura tecnológica digital exerce sobre as metas ambientais globais de grandes corporações do setor.",
+    "regiao": "eua",
+    "fontes": [
+     "Ars Technica"
+    ],
+    "links": [
+     "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+    ],
+    "citacao": {
+     "veiculo": "Ars Technica",
+     "quando": "20/11 18h47",
+     "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "FAO alerta para impacto do El Niño nos mercados em dois mil e vinte e sete",
+    "texto": "A Organização das Nações Unidas para a Alimentação e a Agricultura alertou que o fenômeno El Niño e as tensões geopolíticas, como bloqueios no Mar Negro, pressionam os mercados globais de alimentos para o próximo ano. Segundo a ONU News, itens básicos como arroz, açúcar e oleaginosas podem encarecer, afetando de forma mais severa países em desenvolvimento enquanto o Brasil tenta sustentar a oferta de grãos.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854966"
+    ],
+    "citacao": {
+     "veiculo": "ONU News (PT)",
+     "quando": "20/11 09h00",
+     "link": "https://news.un.org/feed/view/pt/story/2026/11/1854966",
+     "idioma": "pt",
+     "trecho": "Agência da ONU cita bloqueios no Mar Negro como uma das ameaças que podem encarecer itens básicos como arroz, açúcar e oleaginosas; enquanto o Brasil sustenta a oferta…"
+    }
+   },
+   {
+    "titulo": "Governo dos Estados Unidos emite primeiras concessões de mineração em mar profundo",
+    "texto": "O Departamento do Interior dos Estados Unidos emitiu licenças inéditas para exploração de mineração em profundidade em mais de trinta e um milhões de acres de águas no Oceano Pacífico. Segundo a Inside Climate News, a iniciativa visa extrair minerais do leito marinho perto da Samoa Americana, gerando forte oposição e preocupação entre ambientalistas sobre os impactos nos ecossistemas oceânicos.",
+    "regiao": "eua",
+    "fontes": [
+     "Inside Climate News"
+    ],
+    "links": [
+     "https://insideclimatenews.org/news/20112026/trump-deep-sea-mining-federal-waters/"
+    ],
+    "citacao": {
+     "veiculo": "Inside Climate News",
+     "quando": "20/11 16h02",
+     "link": "https://insideclimatenews.org/news/20112026/trump-deep-sea-mining-federal-waters/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Programa Mundial de Alimentos lança plano para combater fome global",
+    "texto": "O Programa Mundial de Alimentos lançou uma estratégia para proteger noventa e um milhões de pessoas vulneráveis em meio à terceira grande crise alimentar em seis anos, impulsionada por conflitos e eventos climáticos extremos. De acordo com a ONU News, o plano aposta em inteligência artificial e ações antecipadas para conter o avanço da fome em regiões de alta vulnerabilidade.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854971"
+    ],
+    "citacao": {
+     "veiculo": "ONU News (PT)",
+     "quando": "20/11 09h00",
+     "link": "https://news.un.org/feed/view/pt/story/2026/11/1854971",
+     "idioma": "pt",
+     "trecho": "Agência alerta para surgimento da terceira grande crise alimentar em seis anos, impulsionada por conflitos e fenômeno climático El Niño; estratégia contra a fome foca…"
+    }
+   },
+   {
+    "titulo": "Chuvas fortes no Equador afetam cotações do cacau",
+    "texto": "Os contratos futuros de cacau negociados na bolsa de Nova York registraram alta expressiva impulsionados por problemas na oferta do Equador. Segundo o portal Globo Rural, fortes chuvas e enchentes destruíram estradas rurais, prejudicaram a qualidade dos grãos nas áreas produtoras e favoreceram a disseminação de doenças nas plantações locais.",
+    "regiao": "brasil",
+    "fontes": [
+     "Globo Rural"
+    ],
+    "links": [
+     "https://globorural.globo.com/cotacoes/noticia/2026/11/soft-commodities-tem-desempenho-misto-em-nova-york.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "Globo Rural",
+     "quando": "20/11 16h53",
+     "link": "https://globorural.globo.com/cotacoes/noticia/2026/11/soft-commodities-tem-desempenho-misto-em-nova-york.ghtml",
+     "idioma": "pt",
+     "trecho": "Os contratos futuros de cacau fecharam em alta nesta sexta-feira (20/11) na bolsa de Nova York, impulsionados por preocupações com a oferta do Equador, onde fortes…"
+    }
+   }
+  ],
+  "roteiro": "Seguindo com as notícias do dia, vamos agora para a editoria de Clima e Meio Ambiente, onde o cenário internacional é dominado pelas discussões climáticas e seus reflexos econômicos e sociais.\n\nOrganizações da sociedade civil de todo o planeta denunciam o risco de fracasso total da trigésima primeira Conferência das Nações Unidas sobre Mudanças Climáticas, realizada em Antália, na Turquia. A falta de avanços nos pontos mais sensíveis da negociação e a ausência de menção aos combustíveis fósseis nos textos preliminares geraram fortes críticas de governos e ativistas. Segundo a Agência Brasil e a ONU News Clima, o evento precisou entrar em horário extra diante do impasse generalizado que ameaça o futuro dos pactos globais de redução de emissões.\n\nLideranças da União Europeia advertiram que a minuta de acordo discutida na cúpula climática representa um passo substancial para trás na ação global contra o aquecimento. De acordo com a Politico Europe e a Al Jazeera, diversos países da Europa, da África, da América Latina e do Pacífico exigiram ações explícitas sobre os combustíveis fósseis e um financiamento climático mais robusto. O temor das delegações é que o encontro termine enfraquecido pela falta de compromissos efetivos capazes de conter a crise climática atual.\n\nO território salvadorenho lida com uma das secas mais intensas dos últimos anos, impulsionada pelo fenômeno El Niño e por temperaturas recordes. Conforme divulgado pela France 24 América Latina, o déficit drástico de chuvas causou perdas significativas em cultivos essenciais como milho, feijão e sorgo. A situação ameaça a segurança alimentar da população, compromete a renda de famílias agricultoras e afeta diretamente a geração hidrelétrica local.\n\nA gigante tecnológica Meta está reavaliando seus objetivos de sustentabilidade para o ano de dois mil e trinta devido ao aumento recorde nas emissões geradas por seus centros de dados voltados para inteligência artificial. A informação, publicada pela Ars Technica, coloca em debate a pressão que a nova infraestrutura tecnológica digital exerce sobre as metas ambientais globais de grandes corporações do setor, desafiando promessas anteriores de neutralidade de carbono.\n\nA Organização das Nações Unidas para a Alimentação e a Agricultura alertou que o fenômeno El Niño e as tensões geopolíticas, como bloqueios no Mar Negro, pressionam os mercados globais de alimentos para o próximo ano. Segundo a ONU News, itens básicos como arroz, açúcar e oleaginosas podem encarecer, afetando de forma mais severa países em desenvolvimento enquanto o Brasil tenta sustentar a oferta de grãos no mercado internacional.\n\nO Departamento do Interior dos Estados Unidos emitiu licenças inéditas para exploração de mineração em profundidade em mais de trinta e um milhões de acres de águas no Oceano Pacífico. Segundo a Inside Climate News, a iniciativa visa extrair minerais do leito marinho perto da Samoa Americana, gerando forte oposição e preocupação entre ambientalistas sobre os impactos irreversíveis nos ecossistemas oceânicos profundos.\n\nO Programa Mundial de Alimentos lançou uma estratégia para proteger noventa e um milhões de pessoas vulneráveis em meio à terceira grande crise alimentar em seis anos, impulsionada por conflitos e eventos climáticos extremos. De acordo com a ONU News, o plano aposta em inteligência artificial e ações antecipadas para conter o avanço da fome em regiões de alta vulnerabilidade, buscando evitar tragédias humanitárias em várias partes do planeta.\n\nOs contratos futuros de cacau negociados na bolsa de Nova York registraram alta expressiva impulsionados por problemas na oferta do Equador. Segundo o portal Globo Rural, fortes chuvas e enchentes destruíram estradas rurais, prejudicaram a qualidade dos grãos nas áreas produtoras e favoreceram a disseminação de doenças nas plantações locais, elevando a preocupação com o abastecimento da matéria-prima no mercado internacional."
+ },
+ {
+  "id": "tecnologia",
+  "titulo": "Tecnologia",
+  "cor": "#14254A",
+  "cor2": "#2F5DA8",
+  "itens": [
+   {
+    "titulo": "Matemático usa inteligência artificial para resolver hipótese de Riemann",
+    "texto": "Um matemático da Anthropic afirmou ter solucionado a hipótese de Riemann, o maior enigma da matemática mundial, formulado em dezoito cento e cinquenta e nove. A descoberta foi auxiliada pelo sistema de inteligência artificial chamado Claude, segundo o El País América. O achado, contudo, ainda está pendente de verificação pela comunidade científica.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/us/2026-11-21/un-matematico-de-anthropic-asegura-haber-resuelto-la-hipotesis-de-riemann-el-mayor-enigma-de-las-matematicas-con-ayuda-de-la-ia.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "20/11 22h12",
+     "link": "https://elpais.com/us/2026-11-21/un-matematico-de-anthropic-asegura-haber-resuelto-la-hipotesis-de-riemann-el-mayor-enigma-de-las-matematicas-con-ayuda-de-la-ia.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Queda nas ações de tecnologia afeta o mercado e a Nasdaq em dois mil e vinte e seis",
+    "texto": "O mercado acionário global registrou forte baixa com a desvalorização de empresas de inteligência artificial. Conforme o The Guardian World, o índice americano Nasdaq apagou todos os ganhos acumulados no ano de dois mil e vinte e seis e fechou com queda de cinco por cento. A desaceleração reflete dúvidas dos investidores sobre as enormes somas investidas no setor.",
+    "regiao": "europa",
+    "fontes": [
+     "The Guardian World"
+    ],
+    "links": [
+     "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+    ],
+    "citacao": {
+     "veiculo": "The Guardian World",
+     "quando": "20/11 18h38",
+     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Governo dos Estados Unidos muda chefia de cibersegurança e Trump promete taxas para data centers",
+    "texto": "O presidente Donald Trump nomeou Kirsten Davies como nova diretora nacional de cibersegurança dos Estados Unidos. Segundo a Casa Branca, a decisão ocorre em meio a preocupações com interrupções tecnológicas e crescimento de ameaças. Além disso, Trump ameaçou impor pesadas taxas a empresas de tecnologia que construírem centros de dados fora do território americano, de acordo com o The Verge.",
+    "regiao": "eua",
+    "fontes": [
+     "Casa Branca",
+     "The Verge"
+    ],
+    "links": [
+     "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
+     "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    ],
+    "citacao": {
+     "veiculo": "Casa Branca",
+     "quando": "20/11 13h53",
+     "link": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Exportação de chips de inteligência artificial para a China gera investigações e atritos",
+    "texto": "Registros confidenciais mostram que Washington aprovou a venda de quase oitocentos e oitenta mil chips avançados de inteligência artificial para empresas chinesas no início do ano. A revelação do comitê do Congresso americano causou turbulência no comércio de semicondutores. Segundo o South China Morning Post, analistas apontam que a Nvidia enfrenta novos impactos nesse cenário.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "20/11 22h00",
+     "link": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Protetor financeiro de valor de chips surge para conter riscos de investimentos em inteligência artificial",
+    "texto": "A empresa Arbol lançou um produto financeiro inédito voltado para limitar a exposição a riscos decorrentes da desvalorização de unidades de processamento gráfico. De acordo com o Reinsurance News, a ferramenta busca proteger empresas e instituições financeiras diante da expansão acelerada dos investimentos em infraestrutura de inteligência artificial e da volatilidade do mercado.",
+    "regiao": "europa",
+    "fontes": [
+     "Reinsurance News"
+    ],
+    "links": [
+     "https://www.reinsurancene.ws/arbol-introduces-gpu-value-protection-as-ai-infrastructure-spending-increases/"
+    ],
+    "citacao": {
+     "veiculo": "Reinsurance News",
+     "quando": "20/11 13h00",
+     "link": "https://www.reinsurancene.ws/arbol-introduces-gpu-value-protection-as-ai-infrastructure-spending-increases/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Investigação na Califórnia mira a Nvidia sobre destino de chips exportados",
+    "texto": "O estado americano da Califórnia emitiu uma intimação investigativa contra a Nvidia para apurar se a empresa exportou chips semicondutores avançados para a China e se investidores foram enganados. Segundo o The Guardian World, o procurador-geral Rob Bonta afirmou que o escândalo levanta bandeiras vermelhas e intensifica a pressão sobre a fabricante.",
+    "regiao": "europa",
+    "fontes": [
+     "The Guardian World"
+    ],
+    "links": [
+     "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+    ],
+    "citacao": {
+     "veiculo": "The Guardian World",
+     "quando": "20/11 06h18",
+     "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Desafios do comando militar chinês na adaptação à guerra de drones e inteligência artificial",
+    "texto": "Comentários publicados na imprensa oficial do Exército de Libertação Popular da China apontam a necessidade de conceder maior autonomia a comandantes de linha de frente. Com base em lições do conflito na Ucrânia, analistas citados pelo South China Morning Post indicam que o ritmo acelerado imposto por drones e inteligência artificial exige mudanças na tomada de decisões militares.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/news/china/military/article/3375250/can-chinas-top-down-military-adapt-speed-ai-and-drone-warfare"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "20/11 19h00",
+     "link": "https://www.scmp.com/news/china/military/article/3375250/can-chinas-top-down-military-adapt-speed-ai-and-drone-warfare",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguimos agora para a editoria de tecnologia do nosso boletim, trazendo as principais atualizações e os impactos dos avanços digitais e do mercado global de eletrônicos. Um matemático da empresa Anthropic afirmou ter solucionado a hipótese de Riemann, considerada o maior enigma da matemática mundial e formulada no ano de dezoito cento e cinquenta e nove. A descoberta surpreendeu especialistas por ter contado com o auxílio do sistema de inteligência artificial chamado Claude, segundo o El País América. O importante achado científico, contudo, ainda permanece pendente de verificação rigorosa pela comunidade acadêmica internacional, conforme detalha a publicação.\n\nEnquanto isso, o mercado acionário global registrou fortes perdas devido a uma forte desvalorização em empresas ligadas à inteligência artificial. Conforme informações do jornal The Guardian World, o índice americano Nasdaq apagou todos os ganhos acumulados ao longo do ano de dois mil e vinte e seis e encerrou a sessão com queda de cinco por cento. Esse movimento reflete uma crescente onda de cautela entre os investidores, que questionam os enormes volumes de dinheiro injetados no setor tecnológico.\n\nNa esfera governamental dos Estados Unidos, o presidente Donald Trump nomeou Kirsten Davies para liderar o escritório nacional de cibersegurança na Casa Branca. A mudança ocorre em um momento de preocupação com falhas técnicas recentes e a necessidade de blindar a infraestrutura do país, segundo a administração americana. Em paralelo, o presidente americano ameaçou aplicar penalidades severas a empresas de tecnologia que decidirem construir centros de dados fora do território nacional, de acordo com o portal The Verge.\n\nO mercado de semicondutores também enfrenta turbulências após a divulgação de registros confidenciais pelo Congresso dos Estados Unidos. Os dados mostram que o governo aprovou a venda de quase oitocentos e oitenta mil chips avançados de inteligência artificial para empresas da China no início deste ano. Segundo o South China Morning Post, essa revelação pode fazer compradores chineses buscarem alternativas como a fabricante Advanced Micro Devices e acelerar o desenvolvimento de tecnologia local.\n\nDiante da volatilidade nos investimentos do setor, ferramentas financeiras inéditas começam a surgir para proteger o capital das corporações. A empresa Arbol introduziu um produto voltado para limitar riscos financeiros decorrentes da queda no valor de unidades de processamento gráfico, os chamados chips gráficos. De acordo com o Reinsurance News, a inovação visa amparar empresas e instituições financeiras expostas à rápida expansão e aos custos da infraestrutura de inteligência artificial.\n\nA fabricante de chips Nvidia continua no centro de investigações e polêmicas regulatórias nos Estados Unidos. O estado da Califórnia emitiu uma intimação formal para investigar se a empresa exportou chips semicondutores avançados para o mercado chinês de forma irregular e se investidores foram enganados. Segundo o jornal The Guardian World, o procurador-geral Rob Bonta afirmou que o caso acende alertas severos sobre a conduta comercial da gigante dos semicondutores.\n\nFechando o panorama tecnológico, as forças armadas da China debatem a necessidade de adaptação rápida frente ao avanço de drones e sistemas autônomos. Artigos publicados na imprensa oficial militar apontam que o comando tradicional precisa conceder maior autonomia de decisão aos comandantes em campo. Com base em lições observadas em conflitos recentes, analistas ouvidos pelo South China Morning Post ressaltam que a velocidade da guerra moderna exige descentralização tática."
+ },
+ {
+  "id": "ia",
+  "titulo": "Inteligência Artificial",
+  "cor": "#2A1B4A",
+  "cor2": "#6A4FB3",
+  "itens": [
+   {
+    "titulo": "Crise na Nvidia e Queda nas Bolsas",
+    "texto": "A fabricante americana de chips Nvidia enfrenta turbulências após a saída de seu cofundador e executivo-chefe, Jensen Huang. O cenário de instabilidade no setor tecnológico provocou fortes quedas nas bolsas de valores globais. Segundo o jornal El País, o índice Nasdaq registrou sua pior semana em um ano e meio, e a Califórnia investiga se a empresa induziu investidores ao erro sobre riscos na China.",
+    "regiao": "eua",
+    "fontes": [
+     "G1",
+     "El País América",
+     "Insurance Journal"
+    ],
+    "links": [
+     "https://g1.globo.com/inovacao/noticia/2026/11/21/saida-de-jensen-huang-da-nvidia-pode-frear-a-onda-da-ia.ghtml",
+     "https://elpais.com/economia/2026-11-20/la-segunda-jornada-en-bolsa-de-anthropic.html",
+     "https://www.insurancejournal.com/news/west/2026/11/20/893282.htm"
+    ],
+    "citacao": {
+     "veiculo": "G1",
+     "quando": "21/11 03h00",
+     "link": "https://g1.globo.com/inovacao/noticia/2026/11/21/saida-de-jensen-huang-da-nvidia-pode-frear-a-onda-da-ia.ghtml",
+     "idioma": "pt",
+     "trecho": "Jensen Huang renunciou ao cargo em 12 de novembro."
+    }
+   },
+   {
+    "titulo": "Estreia da Anthropic e Impacto no Mercado",
+    "texto": "A estreia da desenvolvedora de inteligência artificial Anthropic na bolsa não foi suficiente para acalmar os ânimos do mercado financeiro. Conforme o jornal The Guardian, a forte retração nas ações ligadas à tecnologia apagou todos os ganhos do índice Nasdaq no ano de dois mil e vinte e seis. Analistas apontam que investidores questionam o retorno financeiro dos altos investimentos feitos na infraestrutura do setor.",
+    "regiao": "europa",
+    "fontes": [
+     "The Guardian World",
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+     "https://www.koreaherald.com/article/10944264"
+    ],
+    "citacao": {
+     "veiculo": "The Guardian World",
+     "quando": "20/11 18h38",
+     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Avanço Matemático com Auxílio de Inteligência Artificial",
+    "texto": "Um matemático vinculado à empresa Anthropic afirmou ter resolvido a hipótese de Riemann, considerada o maior enigma da matemática moderna. O achado, formulado originalmente em mil oitocentos e cinquenta e nove, contou com o suporte da inteligência artificial Claude. De acordo com o jornal El País, a descoberta anunciada pelo pesquisador ainda permanece pendente de verificação pela comunidade científica.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/us/2026-11-21/un-matematico-de-anthropic-asegura-haber-resuelto-la-hipotesis-de-riemann-el-mayor-enigma-de-las-matematicas-con-ayuda-de-la-ia.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "20/11 22h12",
+     "link": "https://elpais.com/us/2026-11-21/un-matematico-de-anthropic-asegura-haber-resuelto-la-hipotesis-de-riemann-el-mayor-enigma-de-las-matematicas-con-ayuda-de-la-ia.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Restrições e Licenças de Exportação de Chips",
+    "fonte": [
+     "South China Morning Post",
+     "TechCrunch AI"
+    ],
+    "texto": "O mercado de semicondutores enfrenta novos abalos após dados confidenciais de licenciamento revelarem que Washington aprovou a venda de quase oitocentos e oitenta mil chips avançados para empresas chinesas. Segundo o South China Morning Post, a revelação pode fazer com que compradores na China busquem alternativas fora da Nvidia. Paralelamente, a fabricante de chips anunciou que interromperá as vendas de seus modelos H duzentos no mercado chinês.",
+    "regiao": "asia",
+    "links": [
+     "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts",
+     "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+    ],
+    "fontes": [],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "20/11 22h00",
+     "link": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Igreja em Uberaba Abandona Posts com Inteligência Artificial",
+    "texto": "A paróquia da Igreja São Domingos, localizada em Uberaba, decidiu suspender o uso de imagens e artes produzidas por inteligência artificial em suas redes sociais. A decisão, divulgada pelo portal G1, ocorre após recentes críticas feitas pelo papa à tecnologia. A medida também se estende aos conteúdos enviados por fiéis para a divulgação de eventos na página oficial da paróquia mineira.",
+    "regiao": "brasil",
+    "fontes": [
+     "G1"
+    ],
+    "links": [
+     "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/21/apos-papa-criticar-inteligencia-artificial-igreja-em-uberaba-desiste-de-posts-criados-por-ia.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "G1",
+     "quando": "21/11 03h00",
+     "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/21/apos-papa-criticar-inteligencia-artificial-igreja-em-uberaba-desiste-de-posts-criados-por-ia.ghtml",
+     "idioma": "pt",
+     "trecho": "Igreja São Domingos Uberaba Google Street View/Reprodução A paróquia da Igreja São Domingos, em Uberaba, anunciou que não utilizará mais artes e imagens produzidas…"
+    }
+   },
+   {
+    "titulo": "Inteligência Artificial na Criação de Perfumes",
+    "texto": "A indústria da perfumaria tradicional tem incorporado algoritmos e ferramentas de inteligência artificial no desenvolvimento de novas fragrâncias. De acordo com reportagem do portal G1, a tecnologia auxilia na combinação de notas olfativas como bergamota e íris. Especialistas do setor ressaltam, no entanto, que a experiência sensorial e a sensibilidade humana continuam sendo insubstituíveis no processo criativo.",
+    "regiao": "brasil",
+    "fontes": [
+     "G1"
+    ],
+    "links": [
+     "https://g1.globo.com/tecnologia/noticia/2026/11/21/dos-algoritmos-ao-aroma-como-a-ia-esta-mudando-a-criacao-de-perfumes.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "G1",
+     "quando": "21/11 03h00",
+     "link": "https://g1.globo.com/tecnologia/noticia/2026/11/21/dos-algoritmos-ao-aroma-como-a-ia-esta-mudando-a-criacao-de-perfumes.ghtml",
+     "idioma": "pt",
+     "trecho": "Mulher passando perfume."
+    }
+   },
+   {
+    "titulo": "Google Atualiza Página Inicial com Histórico",
+    "texto": "A plataforma Google começou a disponibilizar em sua versão para computadores uma barra lateral dedicada ao histórico de inteligência artificial. Segundo o portal Tecnoblog, a ferramenta reúne conversas recentes dos usuários, facilitando a retomada de pesquisas anteriores e o início de novos tópicos. A novidade busca otimizar a experiência de navegação e o acesso contínuo aos chats interativos da empresa.",
+    "regiao": "brasil",
+    "fontes": [
+     "Tecnoblog"
+    ],
+    "links": [
+     "https://tecnblog.net/noticias/google-leva-historico-de-ia-a-pagina-inicial/"
+    ]
+   },
+   {
+    "titulo": "Erros de Chatbots Divulgam Telefones Pessoais",
+    "texto": "Ferramentas de conversação baseadas em inteligência artificial têm gerado transtornos ao fornecer números de telefone particulares por engano a clientes de empresas. Conforme relatado pelo jornal El País, usuários têm recebido ligações constantes com dúvidas e reclamações destinadas a comércios e clínicas estéticas. O problema evidencia falhas na precisão das respostas geradas por assistentes virtuais de grande circulação.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/tecnologia/2026-11-20/llamadas-para-comprar-una-bici-mangos-o-un-tratamiento-para-la-vagina-que-pasa-si-la-ia-distribuye-tu-numero-de-telefono.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "20/11 01h30",
+     "link": "https://elpais.com/tecnologia/2026-11-20/llamadas-para-comprar-una-bici-mangos-o-un-tratamiento-para-la-vagina-que-pasa-si-la-ia-distribuye-tu-numero-de-telefono.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Vamos agora para as principais atualizações sobre o mundo da inteligência artificial, que movimenta os mercados financeiros e gera debates éticos e tecnológicos em várias partes do planeta.\n\nA fabricante americana de chips Nvidia enfrenta momentos de forte instabilidade após a saída inesperada de seu cofundador e executivo-chefe, Jensen Huang. O cenário de incertezas no setor tecnológico provocou reações em cadeia nas bolsas internacionais. Segundo o jornal El País, o índice Nasdaq registrou sua pior semana em um ano e meio, enquanto autoridades da Califórnia investigam se a empresa induziu investidores ao erro sobre riscos associados ao mercado chinês, de acordo com o Insurance Journal.\n\nA estreia recente da desenvolvedora de inteligência artificial Anthropic no mercado acionário não foi suficiente para tranquilizar os investidores. Conforme publicou o jornal The Guardian, a forte retração nas ações de tecnologia fez com que o índice Nasdaq apagasse completamente os ganhos acumulados ao longo de dois mil e vinte e seis. Analistas ouvidos pela imprensa internacional apontam que o movimento reflete o ceticismo do mercado quanto ao retorno financeiro efetivo dos volumosos investimentos feitos na infraestrutura do setor.\n\nAinda no âmbito da empresa Anthropic, um matemático ligado à companhia afirmou ter solucionado a hipótese de Riemann, um dos maiores enigmas da matemática formulado em mil oitocentos e cinquenta e nove. De acordo com o jornal El País, o pesquisador utilizou a inteligência artificial Claude para alcançar o resultado. A comunidade científica, contudo, ressalta que o avanço histórico ainda precisa passar por rigorosos processos de verificação.\n\nO mercado global de semicondutores também absorve o impacto de novas revelações sobre licenças de exportação. Dados confidenciais divulgados por parlamentares americanos indicam que Washington aprovou a venda de quase oitocentos e oitenta mil chips avançados para empresas da China. Segundo o South China Morning Post, a revelação pode levar compradores chineses a substituírem componentes da Nvidia por alternativas de outros fabricantes. Em meio a esse ambiente, a própria Nvidia confirmou que vai interromper as vendas de seus modelos H duzentos no mercado chinês, conforme informou a TechCrunch.\n\nNo cenário brasileiro, a inteligência artificial também impacta escolhas institucionais e comerciais. A paróquia da Igreja São Domingos, em Uberaba, decidiu suspender o uso de imagens e artes geradas por inteligência artificial em suas redes sociais. A decisão, noticiada pelo portal G1, veio após recentes advertências do papa sobre o uso da tecnologia e abrange tanto publicações oficiais quanto materiais enviados por fiéis para eventos da paróquia mineira.\n\nA tecnologia também encontra espaço na indústria tradicional de cosméticos e fragrâncias. De acordo com reportagem do portal G1, algoritmos de inteligência artificial passaram a ser empregados na criação de novos perfumes, auxiliando na dosagem e na combinação de notas olfativas como bergamota e íris. Especialistas do setor enfatizam, no entanto, que a sensibilidade e a experiência sensorial humana continuam sendo insubstituíveis na formulação final dos produtos.\n\nPara facilitar a interação cotidiana dos usuários, o Google começou a integrar um histórico de conversas diretamente na página inicial de seu sistema para computadores. Conforme o portal Tecnoblog, a nova barra lateral reúne os chats mais recentes, permitindo retomar pesquisas anteriores e iniciar novos tópicos com maior agilidade, otimizando o acesso às ferramentas de inteligência artificial da empresa.\n\nPor fim, falhas no funcionamento de assistentes virtuais têm gerado dores de cabeça para cidadãos comuns. Segundo uma investigação publicada pelo jornal El País, ferramentas de inteligência artificial acabaram divulgando números de telefone particulares por engano para clientes de clínicas estéticas e comércios virtuais. O erro resultou em um fluxo constante de ligações indesejadas para pessoas que não têm relação com os serviços anunciados, evidenciando falhas operacionais na distribuição de dados por parte dos algoritmos."
+ },
+ {
+  "id": "saude",
+  "titulo": "Saúde",
+  "cor": "#0B3B3F",
+  "cor2": "#1C8C8C",
+  "itens": [
+   {
+    "titulo": "Jair Bolsonaro é internado com obstrução intestinal em Brasília",
+    "texto": "O ex-presidente Jair Bolsonaro foi internado no Hospital DF Star, em Brasília, após sentir fortes dores abdominais em sua residência. Segundo a imprensa internacional e agências de notícias, exames apontaram uma obstrução intestinal quase total decorrente de aderências na parede abdominal. O quadro médico está relacionado às sequelas do atentado sofrido por ele durante a campanha eleitoral de dois mil e dezoito.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil",
+     "France 24 América Latina",
+     "El País América"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal",
+     "https://www.france24.com/es/am%C3%A9rica-latina/20261121-jair-bolsonaro-vuelve-a-estar-hospitalizado-esta-vez-por-una-obstrucci%C3%B3n-intestinal",
+     "https://elpais.com/america/2026-11-20/hospitalizado-el-expresidente-jair-bolsonaro-con-dolores-abdominales-en-brasilia.html"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "20/11 18h12",
+     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal",
+     "idioma": "pt",
+     "trecho": "O ex-presidente Jair Bolsonaro passou mal nesta sexta-feira (20) e foi levado ao Hospital DF Star, em Brasília, para receber atendimento médico."
+    }
+   },
+   {
+    "titulo": "Crise humanitária e falta de atendimento médico no Afeganistão",
+    "texto": "A organização ONU Mulheres alertou que mais de vinte e dois milhões de afegãos correm o risco de ficar sem assistência médica adequada. A situação decorre de dezenas de decretos que restringem liberdades fundamentais, deixando milhões de meninas fora das escolas e excluindo profissionais de saúde do sexo feminino. A entidade reforça que ignorar o sofrimento da população local agrava de forma drástica a vulnerabilidade sanitária no país.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854972"
+    ],
+    "citacao": {
+     "veiculo": "ONU News (PT)",
+     "quando": "20/11 09h00",
+     "link": "https://news.un.org/feed/view/pt/story/2026/11/1854972",
+     "idioma": "pt",
+     "trecho": "No Afeganistão, mais de uma centena de decretos retiraram liberdades básicas de mulheres e meninas; com 2,6 milhões fora das escolas e a exclusão de profissionais…"
+    }
+   },
+   {
+    "titulo": "Alerta de saúde pública na Austrália após uso de cigarros eletrônicos",
+    "texto": "Três pessoas foram hospitalizadas após perderem a consciência em Nova Gales do Sul, na Austrália, devido ao consumo de cigarros eletrônicos adulterados. Autoridades de saúde locais confirmaram que os dispositivos continham etomidato, um anestésico geral potente e de ação rápida que não possui registro para uso medicinal no país. A ocorrência motivou a emissão de um alerta sanitário urgente à população sobre os riscos dos vaporizadores irregulares.",
+    "regiao": "europa",
+    "fontes": [
+     "The Guardian World"
+    ],
+    "links": [
+     "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales"
+    ],
+    "citacao": {
+     "veiculo": "The Guardian World",
+     "quando": "20/11 04h17",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Apoio à saúde mental de sobreviventes de incêndio em Hong Kong",
+    "texto": "Mais de três mil sobreviventes do incêndio no conjunto residencial Wang Fuk Court receberam suporte psicológico nos últimos doze meses. Autoridades locais indicaram que a intervenção ajudou a reduzir sintomas de transtorno de estresse pós-traumático entre os moradores afetados pela tragédia. O governo estuda expandir e integrar redes comunitárias para garantir a continuidade do atendimento psiquiátrico a longo prazo, segundo o comitê consultivo da área.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/news/hong-kong/health-environment/article/3375288/hong-kong-looks-community-networks-support-tai-po-fire-survivors-mental-health"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "20/11 20h01",
+     "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3375288/hong-kong-looks-community-networks-support-tai-po-fire-survivors-mental-health",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Mudanças e disputas regulatórias na liderança da agência de saúde dos Estados Unidos",
+    "texto": "O cenário regulatório da saúde americana passa por movimentações intensas com a busca por um novo dirigente para a agência reguladora de medicamentos e alimentos. O debate ocorre em meio a discussões políticas sobre o setor farmacêutico e o andamento de negociações federais. Especialistas acompanham de perto os impactos dessas mudanças na aprovação de novos tratamentos e terapias inovadoras no país.",
+    "regiao": "eua",
+    "fontes": [
+     "STAT News"
+    ],
+    "links": [
+     "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss"
+    ],
+    "citacao": {
+     "veiculo": "STAT News",
+     "quando": "20/11 06h30",
+     "link": "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Processo judicial contra o governo americano por notas de qualidade no sistema de saúde",
+    "texto": "A gigante dos seguros de saúde UnitedHealth Group entrou com uma ação judicial contra o governo federal dos Estados Unidos. O objetivo da disputa é reverter a rebaixamento nas pontuações de qualidade de planos de assistência para idosos, conhecidos como Medicare Advantage. A medida envolve bilhões de dólares em financiamento e pode alterar significativamente o mercado de seguros de saúde no país.",
+    "regiao": "eua",
+    "fontes": [
+     "STAT News"
+    ],
+    "links": [
+     "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/?utm_campaign=rss"
+    ],
+    "citacao": {
+     "veiculo": "STAT News",
+     "quando": "20/11 04h23",
+     "link": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/?utm_campaign=rss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Projeções globais apontam agravamento na crise de fome mundial",
+    "texto": "O Programa Mundial de Alimentos informou que precisará de mais de doze bilhões de dólares para auxiliar noventa e um milhões de pessoas no próximo ano. A agência internacional alertou que a insuficiência de financiamento e novos cenários de escassez alimentar ameaçam deixar milhões de vulneráveis sem o suporte nutricional básico necessário. A situação exige atenção urgente da comunidade internacional para evitar um colapso humanitário generalizado.",
+    "regiao": "global",
+    "fontes": [
+     "UN News"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/en/story/2026/11/1168846"
+    ],
+    "citacao": {
+     "veiculo": "UN News",
+     "quando": "20/11 09h00",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168846",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Abrimos agora o espaço dedicado às principais notícias da editoria de Saúde para você que nos acompanha neste boletim diário.\n\nComeçamos falando sobre a situação do ex-presidente Jair Bolsonaro, que precisou ser internado às pressas em Brasília nesta sexta-feira. Segundo a imprensa internacional e agências de notícias, ele sentiu fortes dores abdominais em sua residência e exames médicos apontaram uma obstrução intestinal quase total decorrente de aderências na parede abdominal. O novo problema de saúde está diretamente relacionado às sequelas do atentado a faca sofrido por ele durante a campanha eleitoral de dois mil e dezoito, exigindo acompanhamento médico constante.\n\nPassando para o cenário internacional, um alerta foi emitido pela ONU Mulheres sobre a grave crise humanitária e a falta de atendimento médico no Afeganistão. De acordo com a organização, mais de vinte e dois milhões de pessoas correm o risco de ficar sem assistência sanitária no país. O colapso no atendimento decorre de decretos que restringem direitos fundamentais e excluem profissionais de saúde do sexo feminino de suas funções essenciais, agravando de forma dramática a vulnerabilidade da população local, segundo a agência da ONU.\n\nNa Austrália, um grave alerta de saúde pública foi emitido após o registro de internações ligadas ao consumo de cigarros eletrônicos adulterados. Conforme publicou a imprensa europeia, três pessoas perderam a consciência em Nova Gales do Sul e testes confirmaram a presença de etomidato nos dispositivos vaporizadores. Trata-se de um anestésico geral potente e de ação rápida que não possui registro para uso medicinal no país, acendendo o sinal vermelho das autoridades sanitárias para os perigos do mercado irregular de vaporizadores.\n\nVoltando a atenção para a Ásia, autoridades de Hong Kong intensificaram o apoio à saúde mental dos sobreviventes de um incêndio de grandes proporções. De acordo com veículos locais, mais de três mil pessoas receberam atendimento psicológico no último ano, apresentando redução nos sintomas de estresse pós-traumático. O governo estuda manter e ampliar as redes de apoio comunitário para garantir o acompanhamento psiquiátrico de longo prazo aos moradores afetados pela tragédia, segundo o comitê consultivo da região.\n\nNos Estados Unidos, o setor farmacêutico e regulatório acompanha de perto as mudanças na liderança da principal agência de controle de medicamentos e alimentos do país. Segundo portais especializados na cobertura de saúde, a busca por um novo comissário ocorre em meio a debates políticos intensos sobre aprovações de terapias inovadoras e novas diretrizes para o mercado farmacêutico americano. As decisões da agência impactam diretamente o ritmo de lançamento de tratamentos e a pesquisa científica global.\n\nAinda no mercado norte-americano, a seguradora UnitedHealth Group decidiu acionar a Justiça contra o governo federal dos Estados Unidos. Conforme noticiado por veículos especializados, a empresa busca reverter a redução nas notas de qualidade atribuídas aos seus planos de saúde para idosos pelo programa federal Medicare Advantage. A disputa envolve bilhões de dólares em financiamento e incentivos, gerando forte repercussão nas regras de operação do setor privado de saúde no país.\n\nFechamos este giro de saúde com as projeções globais para o combate à fome e à desnutrição divulgadas pelo Programa Mundial de Alimentos. Segundo a organização internacional, serão necessários mais de doze bilhões de dólares para prestar assistência a noventa e um milhões de pessoas no próximo ano. A agência alertou que a falta de recursos financeiros suficientes e o risco de novas crises alimentares globais podem deixar milhões de pessoas sem o suporte nutricional necessário para a sobrevivência, exigindo ações imediatas de governos de todo o mundo."
+ },
+ {
+  "id": "cultura",
+  "titulo": "Cultura",
+  "cor": "#4A2410",
+  "cor2": "#C2612B",
+  "itens": [
+   {
+    "titulo": "Filme Camisas Negras retrata luta do Vasco contra o racismo em 1923",
+    "texto": "Entrou em cartaz nos cinemas do Rio de Janeiro e de São Paulo o filme Camisas Negras, que mistura documentário e ficção para retratar a trajetória do Vasco da Gama no campeonato carioca de 1923. O time venceu a competição com uma equipe formada por jogadores negros e trabalhadores humildes do subúrbio. A direção é de Jefferson Mello e o elenco conta com nomes conhecidos, segundo a Agência Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/filme-camisas-negras-retrata-luta-do-vasco-contra-o-racismo-em-1923"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "20/11 18h41",
+     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/filme-camisas-negras-retrata-luta-do-vasco-contra-o-racismo-em-1923",
+     "idioma": "pt",
+     "trecho": "Entrou em cartaz nesta semana nos cinemas do Rio de Janeiro e de São Paulo o filme “Camisas Negras”, um misto de documentário e ficção, que traz para as telas a história…"
+    }
+   },
+   {
+    "titulo": "Apple Developer Academy showcases projects at Postech",
+    "texto": "A Academia de Desenvolvedores da Apple na Universidade de Ciência e Tecnologia de Pohang realizou sua quinta mostra anual de projetos na Coreia do Sul. O evento exibiu criações de aspirantes a desenvolvedores que utilizam habilidades de programação, design e negócios para plataformas da Apple. Entre os destaques apresentados estavam um robô de pelúcia interativo e um modelo tridimensional de fígado humano, conforme relatado pelo Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10944423"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "20/11 06h12",
+     "link": "https://www.koreaherald.com/article/10944423",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Inside the museum preserving the story of JFK's assassination",
+    "texto": "O Museu do Sexto Andar na Praça Dealey, em Dallas, preserva e expõe memórias e investigações sobre o assassinato do presidente John F. Kennedy, ocorrido em vinte e dois de novembro de mil novecentos e sessenta e três. O local mantém viva a discussão histórica sobre o evento que marcou a política americana. A visita foi destacada em uma série cultural do canal americano PBS NewsHour.",
+    "regiao": "eua",
+    "fontes": [
+     "PBS NewsHour"
+    ],
+    "links": [
+     "https://www.pbs.org/newshour/show/inside-the-museum-preserving-the-story-of-jfks-assassination"
+    ],
+    "citacao": {
+     "veiculo": "PBS NewsHour",
+     "quando": "20/11 20h30",
+     "link": "https://www.pbs.org/newshour/show/inside-the-museum-preserving-the-story-of-jfks-assassination",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Filme de animação Viana a Lenda dos Corações de Ouro estreia em simultâneo",
+    "texto": "O filme de animação português Viana a Lenda dos Corações de Ouro estreou com versões em português e inglês lançadas em simultâneo. A produção conta com um elenco internacional de vozes que inclui a atriz Daniela Melchior, o ator britânico Luke Newton e o cantor português Diogo Piçarra. A novidade cultural foi divulgada pela emissora RTP Notícias.",
+    "regiao": "europa",
+    "fontes": [
+     "RTP Notícias"
+    ],
+    "links": [
+     "https://www.rtp.pt/noticias/cultura/filme-de-animacao-viana-a-lenda-dos-coracoes-de-ouro-estreia-em-simultaneo-a-versao-portuguesa-e-inglesa_n1780661"
+    ],
+    "citacao": {
+     "veiculo": "RTP Notícias",
+     "quando": "20/11 19h32",
+     "link": "https://www.rtp.pt/noticias/cultura/filme-de-animacao-viana-a-lenda-dos-coracoes-de-ouro-estreia-em-simultaneo-a-versao-portuguesa-e-inglesa_n1780661",
+     "idioma": "pt",
+     "trecho": "O filme de animação português tem um elenco internacional. A atriz Daniela Melchior é a voz em inglês e português da princesa Ana."
+    }
+   },
+   {
+    "titulo": "Paik Jong-won and Anh Sung-jae to return for Netflix Culinary Class Wars Season 3",
+    "texto": "Os jurados Paik Jong-won e Anh Sung-jae estão confirmados para a terceira temporada do programa Culinary Class Wars, da Netflix. As filmagens da nova fase já foram concluídas e a estreia pode ocorrer ainda neste ano ou no início do próximo. O reality culinário coreano mantém forte audiência desde a sua estreia em dois mil e vinte e quatro, conforme publicou o Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10944423"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "20/11 06h12",
+     "link": "https://www.koreaherald.com/article/10944423",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Denúncias de racismo chegam ao maior número da série histórica",
+    "texto": "O Disque Cem contabilizou três mil duzentas e setenta denúncias de racismo contra pessoas pretas ou pardas neste ano no Brasil. O índice já supera o total registrado em todo o ano passado, consolidando o maior patamar desde o início da série histórica em dois mil e quinze. Os dados foram divulgados pelo Ministério dos Direitos Humanos e da Cidadania, segundo a Agência Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/denuncias-de-racismo-chegam-ao-maior-numero-da-serie-historica"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "20/11 17h06",
+     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/denuncias-de-racismo-chegam-ao-maior-numero-da-serie-historica",
+     "idioma": "pt",
+     "trecho": "O Ministério dos Direitos Humanos e da Cidadania contabilizou que, neste ano, o Disque 100 já recebeu 3.270 denúncias de racismo contra pessoas pretas ou pardas."
+    }
+   },
+   {
+    "titulo": "French police officers found guilty of racist assault on black music producer",
+    "texto": "Três policiais franceses foram condenados por violência intencional com motivação racista contra o produtor musical Michel Zecler. A agressão ocorreu em dois mil e vinte, durante a pandemia, e foi registrada por câmeras de segurança no prédio da vítima em Paris. O caso gerou forte indignação pública na França contra a violência policial, de acordo com o jornal The Guardian.",
+    "regiao": "europa",
+    "fontes": [
+     "The Guardian World"
+    ],
+    "links": [
+     "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer"
+    ],
+    "citacao": {
+     "veiculo": "The Guardian World",
+     "quando": "20/11 19h23",
+     "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguimos agora para a nossa editoria de cultura e sociedade, trazendo os principais destaques das artes, da memória e das produções audiovisuais pelo Brasil e pelo mundo.\n\nComeçamos no cenário nacional com a estreia nos cinemas do Rio de Janeiro e de São Paulo do filme Camisas Negras. A produção mistura documentário e ficção para contar a história do Vasco da Gama no campeonato carioca de mil novecentos e vinte e três. O time levou o título com uma equipe formada por jogadores negros e trabalhadores humildes dos subúrbios cariocas. Dirigido por Jefferson Mello, o longa traz no elenco nomes conhecidos como Bruno Mazzeo, segundo a Agência Brasil.\n\nNa Ásia, a tecnologia e a criatividade se encontraram na Coreia do Sul durante a quinta mostra anual da Academia de Desenvolvedores da Apple. Estudantes da Universidade de Ciência e Tecnologia de Pohang exibiram aplicativos e projetos voltados para as plataformas da empresa. Entre as inovações que chamaram a atenção do público estavam um robô de pelúcia interativo e um modelo tridimensional detalhado de fígado humano, conforme relatado pelo Korea Herald.\n\nVoltando no tempo e na história dos Estados Unidos, o Museu do Sexto Andar na Praça Dealey, em Dallas, mantém viva a memória sobre o assassinato do presidente John Fitzgerald Kennedy. O crime aconteceu em vinte e dois de novembro de mil novecentos e sessenta e três e continua a despertar debates e investigações preservadas pelo espaço cultural. A visita ao museu foi o tema de destaque em uma série especial exibida pelo canal norte-americano PBS NewsHour.\n\nNa Europa, o cinema de animação português ganha espaço com o lançamento de Viana a Lenda dos Corações de Ouro. O filme chegou aos espectadores com exibições simultâneas nas versões em português e em inglês. O elenco de dublagem e vozes conta com nomes conhecidos, como a atriz Daniela Melchior, o ator britânico Luke Newton e o cantor Diogo Piçarra, de acordo com as informações da emissora RTP Notícias.\n\nAinda no continente asiático, os fãs de gastronomia e competições culinárias têm novidades sobre a Netflix. Os jurados Paik Jong-won e Anh Sung-jae vão retornar para a terceira temporada do reality show Culinary Class Wars. As gravações já foram finalizadas e a exibição pode começar no final deste ano ou no início do próximo. O programa coreano se consolidou como um dos maiores sucessos de audiência da plataforma desde o seu lançamento, segundo o Korea Herald.\n\nAprofundando a discussão sobre direitos e sociedade, o Ministério dos Direitos Humanos e da Cidadania revelou um dado alarmante no Brasil. O Disque Cem registrou três mil duzentas e setenta denúncias de racismo contra pessoas pretas ou pardas ao longo deste ano. O volume já ultrapassa os números de todo o ano anterior e marca o maior patamar da série histórica iniciada em dois mil e quinze, segundo a Agência Brasil.\n\nPara encerrar este giro cultural e social, a justiça francesa emitiu uma condenação importante em Paris. Três policiais foram considerados culpados por agressão com motivação racista contra o produtor musical Michel Zecler. O episódio ocorreu em dois mil e vinte e foi gravado pelas câmeras de segurança do edifício da vítima, gerando profundos protestos contra abusos das autoridades em todo o país, segundo o jornal The Guardian."
+ },
+ {
+  "id": "checagem",
+  "titulo": "Checagem de fatos",
+  "cor": "#2B2F38",
+  "cor2": "#5E6778",
+  "itens": [
+   {
+    "titulo": "Ataques ao PL dos Mercados Digitais",
+    "texto": "Prestes a ser votado na Câmara dos Deputados, o projeto de lei conhecido como PL dos Mercados Digitais tem sido alvo de desinformação nas redes sociais. Congressistas e influenciadores alinhados a grandes empresas de tecnologia espalham a falsa alegação de que o texto abriria brecha para censura estatal. Segundo a agência Aos Fatos, a proposta se concentra exclusivamente em combater abusos econômicos e não trata de moderação de conteúdo.",
+    "regiao": "brasil",
+    "fontes": [
+     "Aos Fatos"
+    ],
+    "links": [
+     "https://www.aosfatos.org/noticias/pl-mercados-digitais-censura/"
+    ],
+    "citacao": {
+     "veiculo": "Aos Fatos",
+     "quando": "19/11 17h26",
+     "link": "https://www.aosfatos.org/noticias/pl-mercados-digitais-censura/",
+     "idioma": "pt",
+     "trecho": "Prestes a ser votado na Câmara dos Deputados, o PL 4.675/2025 , apelidado de “PL dos Mercados Digitais”, tem sido alvo de desinformação nas redes sociais por…"
+    }
+   },
+   {
+    "titulo": "Nota de R$ 100 com o rosto de Lula",
+    "texto": "Circula nas redes sociais a informação falsa de que a Casa da Moeda estaria avaliando o lançamento de uma nota de cem reais estampada com o rosto do presidente Luiz Inácio Lula da Silva. De acordo com a agência Aos Fatos, não existe nenhum projeto para substituir a cédula atual. Tanto a Casa da Moeda quanto o Banco Central confirmaram que as postagens não têm qualquer fundamento na realidade.",
+    "regiao": "brasil",
+    "fontes": [
+     "Aos Fatos"
+    ],
+    "links": [
+     "https://www.aosfatos.org/noticias/nota-100-reais-lula/"
+    ],
+    "citacao": {
+     "veiculo": "Aos Fatos",
+     "quando": "19/11 12h51",
+     "link": "https://www.aosfatos.org/noticias/nota-100-reais-lula/",
+     "idioma": "pt",
+     "trecho": "É falso que a Casa da Moeda esteja avaliando o lançamento de uma nova versão da nota de R$ 100 com o rosto do presidente Lula (PT), como afirmam postagens nas redes…"
+    }
+   },
+   {
+    "titulo": "Suposta entrega da reserva de urânio",
+    "texto": "Publicações nas redes sociais afirmam de forma equivocada que o governo federal teria entregue a maior reserva de urânio do Brasil para a China. Conforme apurou a agência Aos Fatos, o conteúdo distorce a venda de uma empresa privada para uma estatal chinesa ocorrida em dois mil e vinte e quatro. A área possui resíduos do mineral, mas a exploração exclusiva continua sob controle da União.",
+    "regiao": "brasil",
+    "fontes": [
+     "Aos Fatos"
+    ],
+    "links": [
+     "https://www.aosfatos.org/noticias/lula-uranio-brasil-china/"
+    ],
+    "citacao": {
+     "veiculo": "Aos Fatos",
+     "quando": "18/11 18h29",
+     "link": "https://www.aosfatos.org/noticias/lula-uranio-brasil-china/",
+     "idioma": "pt",
+     "trecho": "Não é verdade que o governo Lula (PT) tenha entregado para a China a maior reserva de urânio do Brasil, como afirmam postagens nas redes sociais."
+    }
+   },
+   {
+    "titulo": "Falso corte no valor do Pix MEI",
+    "texto": "Usuários de plataformas digitais compartilham publicações falsas que dizem que a proposta de incentivo financeiro de até cinco mil reais para microempreendedores individuais terá o valor reduzido para trezentos e sessenta e três reais. Segundo o portal G1 Fato ou Fake, a alegação é totalmente falsa e inventada para sugerir falhas no orçamento governamental destinado à categoria.",
+    "regiao": "brasil",
+    "fontes": [
+     "G1 Fato ou Fake"
+    ],
+    "links": [
+     "https://g1.globo.com/fato-ou-fake/noticia/2026/11/20/e-fake-que-pix-mei-de-ate-r-5-mil-tera-de-baixar-para-r-363-para-caber-no-orcamento-reservado-pelo-governo.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "G1 Fato ou Fake",
+     "quando": "20/11 04h00",
+     "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/20/e-fake-que-pix-mei-de-ate-r-5-mil-tera-de-baixar-para-r-363-para-caber-no-orcamento-reservado-pelo-governo.ghtml",
+     "idioma": "pt",
+     "trecho": "Não é verdde que assistência a MEIs será reduzida de R$ 5 mil para R$ 363 g1 Circulam nas redes sociais publicações sugerindo que o Pix MEI, proposta de incentivo…"
+    }
+   },
+   {
+    "titulo": "Descarte antigo de cebolas no campo",
+    "texto": "Um vídeo que mostra o descarte de sacos de cebola em uma plantação foi retirado de contexto nas redes sociais para tentar explicar a recente alta no preço do produto. De acordo com a agência Aos Fatos, as imagens são de novembro de dois mil e vinte e quatro, quando chuvas intensas estragaram a colheita em um cenário de preços em baixa.",
+    "regiao": "brasil",
+    "fontes": [
+     "Aos Fatos"
+    ],
+    "links": [
+     "https://www.aosfatos.org/noticias/video-descarte-cebolas-campo-2024-nao-atual/"
+    ],
+    "citacao": {
+     "veiculo": "Aos Fatos",
+     "quando": "19/11 17h19",
+     "link": "https://www.aosfatos.org/noticias/video-descarte-cebolas-campo-2024-nao-atual/",
+     "idioma": "pt",
+     "trecho": "Não é recente o vídeo que mostra o descarte de sacos de cebola em um campo, como afirmam postagens nas redes sociais."
+    }
+   },
+   {
+    "titulo": "Aumento de casos de covid e desinformação",
+    "texto": "Casos de covid-19 registram alta em dezenas de estados brasileiros em um cenário de vacinas sobrando nos postos de saúde. Segundo a rede DW Brasil, especialistas apontam que a baixa procura pela imunização é impulsionada pela redução na percepção de risco e pela ampla disseminação de conteúdos falsos sobre a segurança dos imunizantes.",
+    "regiao": "brasil",
+    "fontes": [
+     "DW Brasil"
+    ],
+    "links": [
+     "https://www.dw.com/pt-br/casos-de-covid-crescem-no-brasil-mesmo-com-vacina-sobrando/a-80004772?maca=bra-rss-br-all-1030-xml-mrss"
+    ],
+    "citacao": {
+     "veiculo": "DW Brasil",
+     "quando": "20/11 14h10",
+     "link": "https://www.dw.com/pt-br/casos-de-covid-crescem-no-brasil-mesmo-com-vacina-sobrando/a-80004772?maca=bra-rss-br-all-1030-xml-mrss",
+     "idioma": "pt",
+     "trecho": "Aumento de casos em 19 estados ocorre em meio à baixa procura pela imunização; especialistas apontam redução da percepção de risco e disseminação de desinformação sobre…"
+    }
+   },
+   {
+    "titulo": "Dados falsos sobre filas de votação",
+    "texto": "Um vídeo analisado pelo projeto Estadão Verifica apresenta dados inverídicos sobre a velocidade nas filas de votação com o objetivo de levantar suspeitas de fraude nas urnas eletrônicas. A checagem demonstra que as premissas divulgadas nas redes sociais ignoram fatores logísticos reais dos locais de votação para fabricar teorias conspiratórias.",
+    "regiao": "brasil",
+    "fontes": [
+     "Estadão Verifica"
+    ],
+    "links": [
+     "https://www.estadao.com.br/estadao-verifica/fraude-urnas-sem-biometria-secoes-lula-venceu-filas-rapidas/"
+    ],
+    "citacao": {
+     "veiculo": "Estadão Verifica",
+     "quando": "20/11 10h16",
+     "link": "https://www.estadao.com.br/estadao-verifica/fraude-urnas-sem-biometria-secoes-lula-venceu-filas-rapidas/",
+     "idioma": "pt",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Conflito sobre ciência climática na COP31",
+    "texto": "A reta final da cúpula climática das Nações Unidas na Turquia tem sido marcada por ataques à ciência do clima e propagação de desinformação. De acordo com a emissora DW, essas barreiras geradas por correntes negacionistas ameaçam retardar decisões fundamentais para conter o aquecimento global e firmar acordos internacionais.",
+    "regiao": "europa",
+    "fontes": [
+     "DW (EN)"
+    ],
+    "links": [
+     "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-xml-mrss"
+    ],
+    "citacao": {
+     "veiculo": "DW (EN)",
+     "quando": "20/11 17h34",
+     "link": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-xml-mrss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Confissão sobre desaparecimento na Argentina",
+    "texto": "O antigo advogado de uma tia do menino Loan Danilo Peña, desaparecido aos cinco anos de idade, afirmou à justiça que sua ex-cliente confessou que o corpo da criança estaria em uma lagoa. Segundo o jornal Buenos Aires Times, a nova alegação também indica que a mulher admitiu ter enganado os investigadores, o que causou grande reviravolta no julgamento em andamento.",
+    "regiao": "latam",
+    "fontes": [
+     "Buenos Aires Times"
+    ],
+    "links": [
+     "https://www.batimes.com.ar/news/argentina/lawyer-says-ex-client-confessed-missing-boy-loans-body-is-in-lagoon.phtml"
+    ],
+    "citacao": {
+     "veiculo": "Buenos Aires Times",
+     "quando": "20/11 18h27",
+     "link": "https://www.batimes.com.ar/news/argentina/lawyer-says-ex-client-confessed-missing-boy-loans-body-is-in-lagoon.phtml",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguimos agora para a nossa seção dedicada à checagem de fatos, onde separamos o que é verdade do que é boataria nas redes sociais e no cenário internacional.\n\nPrestes a ser votado na Câmara dos Deputados, o projeto de lei conhecido como PL dos Mercados Digitais tem sido alvo de intensa desinformação nas redes sociais. Congressistas e influenciadores alinhados a grandes empresas de tecnologia espalham a falsa alegação de que o texto abriria brecha para censura estatal. Segundo a agência Aos Fatos, a proposta se concentra exclusivamente em combater abusos econômicos de mercado e não trata de moderação de conteúdo.\n\nCircula nas redes sociais a informação falsa de que a Casa da Moeda estaria avaliando o lançamento de uma nova nota de cem reais estampada com o rosto do presidente Luiz Inácio Lula da Silva. De acordo com a agência Aos Fatos, não existe nenhum projeto oficial para substituir a cédula atual. Tanto a Casa da Moeda quanto o Banco Central confirmaram que essas postagens não têm qualquer fundamento na realidade.\n\nPublicações nas redes sociais afirmam de forma equivocada que o governo federal teria entregue a maior reserva de urânio do Brasil para a China. Conforme apurou a agência Aos Fatos, o conteúdo distorce a venda de uma empresa privada para uma estatal chinesa ocorrida em dois mil e vinte e quatro. A área possui resíduos do mineral, mas a exploração exclusiva continua sob controle estrito da União.\n\nUsuários de plataformas digitais compartilham publicações falsas que dizem que a proposta de incentivo financeiro de até cinco mil reais para microempreendedores individuais terá o valor reduzido para trezentos e sessenta e três reais. Segundo o portal G1 Fato ou Fake, a alegação é totalmente inventada com o objetivo de sugerir falhas no orçamento governamental destinado à categoria profissional.\n\nUm vídeo que mostra o descarte de sacos de cebola em uma plantação foi retirado de contexto nas redes sociais para tentar explicar a recente alta no preço do produto. De acordo com a agência Aos Fatos, as imagens são de novembro de dois mil e vinte e quatro, época em que chuvas intensas estragaram a colheita em um cenário de preços em baixa no mercado.\n\nCasos de covid-19 registram alta em dezenas de estados brasileiros em um cenário de vacinas sobrando nos postos de saúde de todo o país. Segundo a rede DW Brasil, especialistas apontam que a baixa procura pela imunização é impulsionada pela redução na percepção de risco e pela ampla disseminação de conteúdos falsos sobre a eficácia dos imunizantes.\n\nUm vídeo analisado pelo projeto Estadão Verifica apresenta dados inverídicos sobre a velocidade nas filas de votação com o objetivo de levantar suspeitas infundadas de fraude nas urnas eletrônicas. A checagem demonstra que as premissas divulgadas nas redes sociais ignoram fatores logísticos reais dos locais de votação para fabricar teorias conspiratórias.\n\nA reta final da cúpula climática das Nações Unidas na Turquia tem sido marcada por ataques à ciência do clima e propagação de desinformação. De acordo com a emissora DW, essas barreiras geradas por correntes negacionistas ameaçam retardar decisões fundamentais para conter o aquecimento global e firmar acordos internacionais relevantes.\n\nO antigo advogado de uma tia do menino Loan Danilo Peña, desaparecido aos cinco anos de idade, afirmou à justiça que sua ex-cliente confessou que o corpo da criança estaria em uma lagoa. Segundo o jornal Buenos Aires Times, a nova alegação também indica que a mulher admitiu ter enganado os investigadores, o que causou grande reviravolta no andamento do processo judicial na Argentina."
+ },
+ {
+  "id": "encerramento",
+  "titulo": "Resumo e agenda",
+  "cor": "#0B1F3A",
+  "cor2": "#3A4A63",
+  "itens": [
+   {
+    "titulo": "Recapitulação do Dia",
+    "texto": "Neste sábado, vinte e um de novembro de dois mil e vinte e seis, o boletim Brasil e Mundo Hoje destacou a internação do ex-presidente Jair Bolsonaro em Brasília devido a uma obstrução intestinal, segundo a Agência Brasil. Na política, a Polícia Federal informou ao Supremo Tribunal Federal que não encontrou conversas entre o ministro André Mendonça e o ex-banqueiro Daniel Vorcaro. No cenário internacional, a Conferência das Nações Unidas sobre Mudanças Climáticas chegou ao último dia na Turquia sob risco de fracasso e fortes críticas da sociedade civil, conforme a ONU News Clima. Na economia, o mercado de criptomoedas registrou forte queda com o bitcoin abaixo de sessenta mil dólares, segundo a InfoMoney. Por fim, na tecnologia, o setor enfrentou turbulências globais com a desvalorização de ações ligadas à inteligência artificial, conforme o The Guardian World.",
+    "regiao": "global",
+    "fontes": [
+     "Agência Brasil",
+     "ONU News Clima",
+     "InfoMoney",
+     "The Guardian World"
+    ],
+    "links": []
+   }
+  ],
+  "roteiro": "Chegamos ao final de mais uma edição do boletim Brasil e Mundo Hoje. Vamos relembrar os cinco principais fatos que marcaram este sábado, vinte e um de novembro de dois mil e vinte e seis.\n\nO destaque principal do dia foi a internação do ex-presidente Jair Bolsonaro em um hospital de Brasília após apresentar fortes dores abdominais decorrentes de aderências na parede abdominal, segundo a Agência Brasil.\n\nEm segundo lugar, a Polícia Federal informou ao Supremo Tribunal Federal que não foram encontrados registros de conversas diretas entre o ministro André Mendonça e o ex-banqueiro Daniel Vorcaro, de acordo com a Agência Brasil.\n\nO terceiro ponto de destaque envolveu a crise na trigésima primeira Conferência das Nações Unidas sobre Mudanças Climáticas, que chegou ao fim na Turquia sob fortes críticas da sociedade civil e risco de fracasso devido à falta de avanços nos pontos mais sensíveis, segundo a ONU News Clima.\n\nNa economia, o quarto destaque foi a forte queda no mercado de criptomoedas, com o bitcoin recuando abaixo de sessenta mil dólares e atingindo a mínima em mais de dois anos, conforme apontou a InfoMoney.\n\nPor fim, o quinto ponto de destaque ficou com o setor de tecnologia, que enfrentou turbulência global após a desvalorização de empresas de inteligência artificial fazer o índice americano Nasdaq apagar todos os ganhos do ano, segundo o The Guardian World.\n\nNas próximas horas, acompanhe os desdobramentos sobre o estado de saúde do ex-presidente Jair Bolsonaro em Brasília e os resultados finais das negociações da conferência climática na Turquia. Fique ligado também nas atualizações econômicas e nos impactos da volatilidade do mercado tecnológico.\n\nO boletim Brasil e Mundo Hoje é publicado todos os dias, bem cedo, às seis horas da manhã. Continue acompanhando nossa programação em áudio e vídeo para se manter bem informado. Obrigado pela sua companhia e até a próxima."
+ }
+]
