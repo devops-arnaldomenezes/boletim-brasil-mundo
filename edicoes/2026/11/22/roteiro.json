@@ -1,0 +1,1317 @@
+[
+ {
+  "id": "destaques",
+  "titulo": "Manchetes do dia",
+  "cor": "#0B1F3A",
+  "cor2": "#1F4E8C",
+  "itens": [
+   {
+    "titulo": "Sobe para quatro o número de mortos em Tupanciretã",
+    "texto": "Sobe para quatro o número de mortos em Tupanciretã, no Rio Grande do Sul, após forte temporal. A Força Nacional do Sistema Único de Saúde avalia a instalação de um posto médico na cidade.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/sobe-para-4-o-numero-de-mortos-em-tupancireta-no-sul"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "21/11 19h39",
+     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/sobe-para-4-o-numero-de-mortos-em-tupancireta-no-sul",
+     "idioma": "pt",
+     "trecho": "Morreu neste sábado (21) a quarta vítima da tempestade que devastou a cidade de Tupanciretã , no Rio Grande do Sul, na madrugada desta sexta-feira (20)."
+    }
+   },
+   {
+    "titulo": "Deputada Talíria Petrone sofre ameaças",
+    "texto": "A deputada federal Talíria Petrone foi alvo de ameaças explícitas de morte, violência sexual e extermínio político às vésperas do Dia da Consciência Negra, segundo informações divulgadas pela Agência Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/deputada-taliria-petrone-e-ameacada-de-morte-e-violencia-sexual"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "21/11 18h59",
+     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/deputada-taliria-petrone-e-ameacada-de-morte-e-violencia-sexual",
+     "idioma": "pt",
+     "trecho": "A deputada federal Talíria Petrone (Psol- RJ) recebeu ameaça de morte às vésperas do Dia da Consciência Negra , lembrado nessa sexta sexta-feira (20)."
+    }
+   },
+   {
+    "titulo": "COP31 mantém combustíveis fósseis fora de minuta",
+    "texto": "A Conferência das Nações Unidas sobre Mudanças Climáticas entrou em segundo dia de prorrogação com um novo rascunho de acordo que ainda deixa de fora menções aos combustíveis fósseis, conforme noticiado pela rede alemã DW.",
+    "regiao": "europa",
+    "fontes": [
+     "DW (EN)"
+    ],
+    "links": [
+     "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-xml-mrss"
+    ],
+    "citacao": {
+     "veiculo": "DW (EN)",
+     "quando": "22/11 02h50",
+     "link": "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Bom dia! Você está ouvindo o Brasil e Mundo Hoje, o seu boletim diário de notícias. Neste domingo, vinte e dois de novembro de dois mil e vinte e seis, vamos trazer os principais destaques que movimentam o país e o planeta.\n\nComeçamos pelo Rio Grande do Sul. Sobe para quatro o número de mortos na cidade de Tupanciretã após a passagem de um forte temporal, segundo a Agência Brasil. A Força Nacional do Sistema Único de Saúde avalia a instalação de um posto médico avançado para atender a população atingida.\n\nAinda no cenário nacional, a deputada federal Talíria Petrone recebeu ameaças explícitas de morte e violência sexual. De acordo com a Agência Brasil, as mensagens foram enviadas às vésperas do Dia da Consciência Negra e mencionam um suposto partido neofascista.\n\nNo noticiário internacional, a Conferência das Nações Unidas sobre Mudanças Climáticas, conhecida como COP trinta e um, entrou no segundo dia de prorrogação. Conforme a emissora alemã DW, o novo rascunho do acordo global ainda não cita os combustíveis fósseis, apontados como a principal causa do aquecimento global.\n\nFique ligado, pois daqui a pouco a gente volta com mais informações detalhadas sobre esses e outros assuntos."
+ },
+ {
+  "id": "numeros",
+  "titulo": "Números e agenda do dia",
+  "cor": "#0B1F3A",
+  "cor2": "#7A5A12",
+  "itens": [
+   {
+    "titulo": "Dólar comercial: R$ 5,8889",
+    "texto": "Dólar comercial a R$ 5,8889 na cotação de venda de 19/11, alta de 1,35% sobre o dia anterior.",
+    "regiao": "brasil",
+    "fontes": [
+     "Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ],
+    "imagem": "_midia/_trabalho/grafico_dolar.png"
+   },
+   {
+    "titulo": "Euro: R$ 6,4672",
+    "texto": "Euro a R$ 6,4672 na cotação de venda de 19/11, alta de 1,49% sobre o dia anterior.",
+    "regiao": "brasil",
+    "fontes": [
+     "Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ],
+    "imagem": "_midia/_trabalho/grafico_euro.png"
+   },
+   {
+    "titulo": "Meta da Selic: 13,75%",
+    "texto": "Meta da Selic em 13,75% (dado de 22/11).",
+    "regiao": "brasil",
+    "fontes": [
+     "Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ]
+   },
+   {
+    "titulo": "Inflação (IPCA) em 12 meses: 4,63%",
+    "texto": "Inflação (IPCA) em 12 meses em 4,63% (referente a 10/2026).",
+    "regiao": "brasil",
+    "fontes": [
+     "IBGE, via Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ]
+   }
+  ],
+  "roteiro": "Agora, os números do dia. O dólar comercial fechou a 5,89 reais, alta de 1,35% sobre o dia anterior, segundo o Banco Central. O euro fechou a 6,47 reais, alta de 1,49% sobre o dia anterior, segundo o Banco Central. A meta da taxa Selic está em 13,75 por cento ao ano, segundo o Banco Central. A inflação oficial, medida pelo IPCA, acumula 4,63 por cento em doze meses, segundo o IBGE."
+ },
+ {
+  "id": "politica",
+  "titulo": "Política",
+  "cor": "#4A1D2B",
+  "cor2": "#A23B4F",
+  "itens": [
+   {
+    "titulo": "Trump restringe controle do Congresso sobre contratos federais",
+    "texto": "O presidente dos Estados Unidos, Donald Trump, determinou que empreiteiras federais consultem a Casa Branca antes de responder a questionamentos do Congresso. A medida busca dificultar a fiscalização e as investigações que legisladores pretendem conduzir sobre supostos abusos e corrupção na administração pública, segundo o jornal El País. O controle imposto afeta a transparência institucional no país norte-americano.",
+    "regiao": "eua",
+    "fontes": [
+     "NPR News",
+     "El País América"
+    ],
+    "links": [
+     "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+     "https://elpais.com/us/2026-11-21/trump-obstaculiza-la-supervision-de-contratos-por-un-congreso-controlado-por-los-democratas.html"
+    ],
+    "citacao": {
+     "veiculo": "NPR News",
+     "quando": "21/11 19h40",
+     "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Dez anos do acordo de paz na Colômbia dividem avaliações",
+    "texto": "A Colômbia comemora uma década da assinatura do histórico acordo de paz entre o Estado e as extintas Forças Armadas Revolucionárias da Colômbia. Segundo especialistas e vítimas ouvidos pela France 24, o pacto transformou o país, mas deixou promessas importantes por cumprir. Atualmente, o futuro do processo de paz está sob a gestão do presidente Abelardo de la Espriella.",
+    "regiao": "latam",
+    "fontes": [
+     "France 24 América Latina"
+    ],
+    "links": [
+     "https://www.france24.com/es/am%C3%A9rica-latina/20261122-diez-a%C3%B1os-del-acuerdo-de-paz-en-colombia-la-guerra-que-termin%C3%B3-y-las-promesas-que-quedaron-a-medias"
+    ],
+    "citacao": {
+     "veiculo": "France 24 América Latina",
+     "quando": "21/11 23h35",
+     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261122-diez-a%C3%B1os-del-acuerdo-de-paz-en-colombia-la-guerra-que-termin%C3%B3-y-las-promesas-que-quedaron-a-medias",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Cúpula trilateral em Shenzhen destaca articulação global",
+    "texto": "A cidade chinesa de Shenzhen sediou uma cúpula trilateral marcada pela forte projeção do líder chinês Xi Jinping, o retorno diplomático do presidente russo Vladimir Putin e a presença do presidente norte-americano Donald Trump. O encontro ocorreu após o revés eleitoral sofrido por Trump em seu país, segundo análises do jornal El País. A reunião reforçou novas dinâmicas geopolíticas na Ásia.",
+    "regiao": "asia",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/internacional/2026-11-21/trilateral-en-shenzhen-la-cumbre-donde-trump-presumio-putin-volvio-y-xi-gano.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "21/11 06h30",
+     "link": "https://elpais.com/internacional/2026-11-21/trilateral-en-shenzhen-la-cumbre-donde-trump-presumio-putin-volvio-y-xi-gano.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Bahrein relata ataque iraniano contra instalação industrial",
+    "texto": "O governo do Bahrein informou que o Irã atingiu uma instalação industrial no reino do Golfo durante uma série de incidentes que também afetaram petroleiros. De acordo com a agência Channel NewsAsia, os ataques marcam uma nova escalada nas hostilidades regionais. A instabilidade na região persiste desde os bombardeios realizados pelos Estados Unidos e por Israel contra território iraniano em fevereiro.",
+    "regiao": "asia",
+    "fontes": [
+     "The Japan Times",
+     "Channel NewsAsia"
+    ],
+    "links": [
+     "https://www.japantimes.co.jp/news/2026/11/22/world/bahrain-iran-attack-hormuz/",
+     "https://www.channelnewsasia.com/world/bahrain-intercept-iran-attack-6572311"
+    ],
+    "citacao": {
+     "veiculo": "The Japan Times",
+     "quando": "22/11 02h19",
+     "link": "https://www.japantimes.co.jp/news/2026/11/22/world/bahrain-iran-attack-hormuz/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Navio de carga russo pega fogo após ataque de drones no Báltico",
+    "texto": "Uma embarcação de carga russa foi atingida por drones no Mar Báltico e acabou derivando para águas finlandesas. O navio possui vínculos com uma importante empresa de logística militar da Rússia, conforme reportado pela emissora France 24. Autoridades ucranianas mantêm a postura habitual de não confirmar nem negar autoria em ações do tipo na região.",
+    "regiao": "europa",
+    "fontes": [
+     "France 24"
+    ],
+    "links": [
+     "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
+    ],
+    "citacao": {
+     "veiculo": "France 24",
+     "quando": "21/11 15h02",
+     "link": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Ataque com mísseis balísticos atinge cidade natal de Zelenskyy",
+    "texto": "Um ataque com mísseis balísticos atingiu infraestruturas civis na cidade natal do presidente ucraniano Volodymyr Zelenskyy, deixando dois mortos. A ofensiva ocorre após a Rússia prometer uma resposta severa ao ataque ucraniano contra a ponte da Crimeia, de acordo com o portal Euronews. A escalada de violência atinge diretamente zonas civis e acirra o conflito no leste europeu.",
+    "regiao": "europa",
+    "fontes": [
+     "Euronews"
+    ],
+    "links": [
+     "https://www.euronews.com/2026/11/21/ballistic-missile-attack-on-zelenskyys-hometown-kills-two-people"
+    ],
+    "citacao": {
+     "veiculo": "Euronews",
+     "quando": "21/11 10h57",
+     "link": "https://www.euronews.com/2026/11/21/ballistic-missile-attack-on-zelenskyys-hometown-kills-two-people",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Conferência do clima entra em prorrogação após impasses sobre combustíveis fósseis",
+    "texto": "A trigésima primeira Conferência das Nações Unidas sobre Mudanças Climáticas entrou em dia extra de negociações devido a fortes divergências globais. Segundo a rede PBS NewsHour, o evento gerou forte condenação internacional por omitir menções explícitas aos combustíveis fósseis em uma das minutas do acordo final. As nações continuam debatendo respostas mais firmes ao agravamento do aquecimento global.",
+    "regiao": "eua",
+    "fontes": [
+     "PBS NewsHour"
+    ],
+    "links": [
+     "https://www.pbs.org/newshour/world/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming"
+    ],
+    "citacao": {
+     "veiculo": "PBS NewsHour",
+     "quando": "21/11 14h03",
+     "link": "https://www.pbs.org/newshour/world/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Espionagem da China mirou chips de inteligência artificial",
+    "texto": "A agência de segurança estatal da China conduziu uma campanha secreta para que empresas do país adquirissem chips avançados de inteligência artificial e coletassem inteligência no setor. Segundo o jornal New York Times, a operação ocorreu anos antes de escândalos recentes envolvendo empresas como a fabricante norte-americana Nvidia. A iniciativa reflete a disputa tecnológica global pelo domínio digital.",
+    "regiao": "eua",
+    "fontes": [
+     "New York Times"
+    ],
+    "links": [
+     "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html"
+    ],
+    "citacao": {
+     "veiculo": "New York Times",
+     "quando": "22/11 01h28",
+     "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguimos agora para a nossa cobertura de política e acontecimentos internacionais que movimentam os governos e as relações diplomáticas ao redor do planeta nesta edição do Brasil e Mundo Hoje. Vamos aos principais fatos que marcam o cenário global e repercutem nas Américas, na Europa e na Ásia.\n\nNos Estados Unidos, o presidente Donald Trump determinou que empreiteiras federais consultem a Casa Branca antes de responder a questionamentos do Congresso. A medida busca dificultar a fiscalização e as investigações que legisladores pretendem conduzir sobre supostos abusos e corrupção na administração pública, segundo o jornal El País. O controle imposto afeta diretamente a transparência institucional no país norte-americano e gera forte atrito com a oposição.\n\nPassando para a América do Sul, a Colômbia comemora uma década da assinatura do histórico acordo de paz entre o Estado e as extintas Forças Armadas Revolucionárias da Colômbia. Segundo especialistas e vítimas ouvidos pela France 24, o pacto transformou o país, mas deixou promessas importantes por cumprir ao longo dos anos. Atualmente, o futuro do processo de paz está sob a gestão do presidente Abelardo de la Espriella.\n\nNa Ásia, a cidade chinesa de Shenzhen sediou uma cúpula trilateral marcada pela forte projeção do líder chinês Xi Jinping, o retorno diplomático do presidente russo Vladimir Putin e a presença do presidente norte-americano Donald Trump. O encontro ocorreu após o revés eleitoral sofrido por Trump em seu país, segundo análises do jornal El País. A reunião reforçou novas dinâmicas geopolíticas e comerciais no cenário internacional.\n\nAinda na região asiática, o governo do Bahrein informou que o Irã atingiu uma instalação industrial no reino do Golfo durante uma série de incidentes que também afetaram petroleiros. De acordo com a agência Channel NewsAsia, os ataques marcam uma nova escalada nas hostilidades regionais. A instabilidade na região persiste desde os bombardeios realizados pelos Estados Unidos e por Israel contra território iraniano em fevereiro.\n\nNo continente europeu, uma embarcação de carga russa foi atingida por drones no Mar Báltico e acabou derivando para águas finlandesas. O navio possui vínculos com uma importante empresa de logística militar da Rússia, conforme reportado pela emissora France 24. Autoridades ucranianas mantêm a postura habitual de não confirmar nem negar autoria em ações do tipo na região do Báltico.\n\nAinda sobre o conflito no leste europeu, um ataque com mísseis balísticos atingiu infraestruturas civis na cidade natal do presidente ucraniano Volodymyr Zelenskyy, deixando dois mortos. A ofensiva ocorre após a Rússia prometer uma resposta severa ao ataque ucraniano contra a ponte da Crimeia, de acordo com o portal Euronews. A escalada de violência atinge diretamente zonas civis e acirra os ânimos militares.\n\nVoltando às negociações multilaterais, a trigésima primeira Conferência das Nações Unidas sobre Mudanças Climáticas entrou em dia extra de negociações devido a fortes divergências globais. Segundo a rede PBS NewsHour, o evento gerou forte condenação internacional por omitir menções explícitas aos combustíveis fósseis em uma das minutas do acordo final. As nações continuam debatendo respostas mais firmes ao agravamento do aquecimento global.\n\nPara fechar este giro de notícias políticas e internacionais, a agência de segurança estatal da China conduziu uma campanha secreta para que empresas do país adquirissem chips avançados de inteligência artificial e coletassem inteligência no setor. Segundo o jornal New York Times, a operação ocorreu anos antes de escândalos recentes envolvendo empresas como a fabricante norte-americana Nvidia. A iniciativa reflete a disputa tecnológica global pelo domínio digital e a segurança estratégica."
+ },
+ {
+  "id": "economia",
+  "titulo": "Economia e Mercados",
+  "cor": "#0E3B2E",
+  "cor2": "#1E7A5A",
+  "itens": [
+   {
+    "titulo": "UE propõe taxar faturamento de big techs",
+    "texto": "A União Europeia propôs taxar o faturamento de grandes empresas de tecnologia no orçamento de dois mil e vinte e oito a dois mil e trinta e quatro. O plano apresentado por António Costa inclui cobrança de três por cento sobre receitas digitais, segundo o Canal Rural.",
+    "regiao": "brasil",
+    "fontes": [
+     "Canal Rural"
+    ],
+    "links": [
+     "https://www.canalrural.com.br/politica/ue-propoe-taxar-faturamento-de-big-techs-no-orcamento-de-2028-a-2034/"
+    ],
+    "citacao": {
+     "veiculo": "Canal Rural",
+     "quando": "21/11 12h22",
+     "link": "https://www.canalrural.com.br/politica/ue-propoe-taxar-faturamento-de-big-techs-no-orcamento-de-2028-a-2034/",
+     "idioma": "pt",
+     "trecho": "Plano apresentado por António Costa inclui cobrança de 3% sobre receitas digitais e preserva apoio aos agricultores no próximo ciclo orçamentário."
+    }
+   },
+   {
+    "titulo": "Acordo comercial entre União Europeia e Indonésia",
+    "texto": "A União Europeia e a Indonésia assinaram um importante acordo comercial após dez anos de negociações. O pacto elimina quase todas as tarifas entre os blocos e garante acesso a novos mercados, segundo a rede France Twenty-Four.",
+    "regiao": "europa",
+    "fontes": [
+     "France 24"
+    ],
+    "links": [
+     "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations"
+    ],
+    "citacao": {
+     "veiculo": "France 24",
+     "quando": "21/11 19h23",
+     "link": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Trump quer teto de dez por cento em juros de cartões",
+    "texto": "O presidente eleito dos Estados Unidos, Donald Trump, prometeu trabalhar com democratas para limitar as taxas de juros de cartões de crédito em dez por cento. Atualmente, a taxa mediana fica em torno de vinte e dois vírgula dois por cento, de acordo com a rede PBS NewsHour.",
+    "regiao": "eua",
+    "fontes": [
+     "PBS NewsHour"
+    ],
+    "links": [
+     "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10"
+    ],
+    "citacao": {
+     "veiculo": "PBS NewsHour",
+     "quando": "21/11 18h20",
+     "link": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Dependência econômica de servidores de tecnologia",
+    "titulo_curto": "Dependência de servidores",
+    "texto": "Especialistas alertam para a extrema vulnerabilidade da economia mundial devido à alta concentração de serviços de computação em nuvem controlados por poucas empresas. Segundo o jornal El País América, a dependência mútua sem cortafuegos adequados preocupa mercados globais.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/internacional/2026-11-21/que-pasa-si-google-y-microsoft-caen-a-la-vez-la-economia-mundial-se-ha-hipotecado-con-un-punado-de-servidores.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "21/11 13h11",
+     "link": "https://elpais.com/internacional/2026-11-21/que-pasa-si-google-y-microsoft-caen-a-la-vez-la-economia-mundial-se-ha-hipotecado-con-un-punado-de-servidores.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Banco da Coreia deve elevar taxa básica de juros",
+    "texto": "O Banco da Coreia deve elevar sua taxa básica de juros em zero vírgula vinte e cinco pontos percentuais devido ao crescimento resiliente impulsionado pelo setor de semicondutores. A informação foi divulgada pelo jornal Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10945119"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "22/11 02h46",
+     "link": "https://www.koreaherald.com/article/10945119",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Impacto da inteligência artificial na gestão da Omie",
+    "texto": "O avanço da inteligência artificial fez o empresário Marcelo Lombardo suspender o processo de sucessão da empresa Omie após quatro anos de preparação. Ele decidiu centralizar as vendas internas, conforme noticiou o portal InfoMoney.",
+    "regiao": "brasil",
+    "fontes": [
+     "InfoMoney"
+    ],
+    "links": [
+     "https://www.infomoney.com.br/business/inteligencia-artificial-omie-marcelo-lombardo-sucessao/"
+    ],
+    "citacao": {
+     "veiculo": "InfoMoney",
+     "quando": "21/11 20h01",
+     "link": "https://www.infomoney.com.br/business/inteligencia-artificial-omie-marcelo-lombardo-sucessao/",
+     "idioma": "pt",
+     "trecho": "A inteligência artificial levou Marcelo Lombardo a suspender a sucessão e centralizar as vendas da Omie."
+    }
+   },
+   {
+    "titulo": "Desafios orçamentários e de defesa do Japão",
+    "texto": "A primeira-ministra do Japão, Sanae Takaichi, enfrenta pressões internas e externas sobre cortes de impostos e o orçamento de defesa. Segundo o jornal South China Morning Post, a fraqueza do iene e as restrições econômicas complicam os planos de Washington.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/week-asia/politics/article/3375224/weak-yen-tax-cuts-put-japans-defence-plans-trump-bind"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "21/11 21h00",
+     "link": "https://www.scmp.com/week-asia/politics/article/3375224/weak-yen-tax-cuts-put-japans-defence-plans-trump-bind",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Incertezas nos mercados globais de ações",
+    "texto": "Uma forte onda de vendas em bolsas globais levantou dúvidas sobre a durabilidade do mercado de alta das ações. Conforme análises publicadas pelo jornal Korea Herald, restrições em centros de dados e o financiamento de inteligência artificial geram volatilidade.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10945106"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "22/11 02h27",
+     "link": "https://www.koreaherald.com/article/10945106",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguimos com a nossa cobertura jornalística para falar agora sobre os principais desdobramentos na economia e nos mercados globais nesta rodada de atualizações.\n\nA União Europeia propôs taxar o faturamento de grandes empresas de tecnologia no orçamento plurianual previsto para o período entre dois mil e vinte e oito e dois mil e trinta e quatro. O plano apresentado por António Costa inclui uma cobrança de três por cento sobre receitas digitais, preservando ao mesmo tempo o apoio aos agricultores do bloco europeu, segundo o Canal Rural.\n\nAinda no cenário internacional, a União Europeia e a Indonésia firmaram um importante acordo comercial após dez anos de negociações intensas. O pacto elimina quase noventa e oito vírgula cinco por cento das tarifas alfandegárias entre os dois mercados, facilitando trocas e garantindo cadeias de suprimentos mais estáveis, de acordo com a rede France Twenty-Four.\n\nNos Estados Unidos, o presidente eleito Donald Trump afirmou que pretende trabalhar em conjunto com parlamentares democratas para impor um teto de dez por cento nas taxas de juros cobradas em cartões de crédito. Atualmente, a taxa mediana no país gira em torno de vinte e dois vírgula dois por cento, segundo dados recentes divulgados pela rede PBS NewsHour.\n\nEspecialistas econômicos também alertam para o risco sistêmico da extrema dependência global em relação a um grupo restrito de servidores de tecnologia em nuvem. De acordo com o jornal El País América, a interconexão sem cortafuegos suficientes entre grandes operadores coloca a economia mundial em uma posição de forte vulnerabilidade estrutural.\n\nNa Ásia, o Banco da Coreia sinalizou que deve elevar a sua taxa básica de juros em zero vírgula vinte e cinco pontos percentuais na próxima reunião. A medida responde a um crescimento econômico resiliente alimentado pelo boom na fabricação de semicondutores, conforme apontou o jornal Korea Herald.\n\nNo setor corporativo nacional, o avanço da inteligência artificial provocou mudanças drásticas na liderança da empresa Omie. O executivo Marcelo Lombardo decidiu suspender um plano de sucessão preparado ao longo de quatro anos para assumir o controle direto das vendas, segundo informações publicadas pelo portal InfoMoney.\n\nPassando para o Japão, a primeira-ministra Sanae Takaichi enfrenta um impasse político e econômico envolvendo o orçamento de defesa e cortes de impostos. Analistas ouvidos pelo jornal South China Morning Post indicam que a desvalorização do iene e as pressões dos Estados Unidos tornam o cenário fiscal bastante desafiador.\n\nPara fechar o panorama de mercados, o recente movimento de forte baixa nas bolsas internacionais gerou incertezas sobre a durabilidade do ciclo de alta das ações. Segundo artigos especializados publicados pelo Korea Herald, preocupações com restrições em centros de dados e custos de inteligência artificial continuam pesando sobre os investidores."
+ },
+ {
+  "id": "seguros",
+  "titulo": "Seguros e Corretoras",
+  "cor": "#3A3010",
+  "cor2": "#8C7426",
+  "itens": [
+   {
+    "titulo": "Greenline anuncia seguro obrigatório para créditos de carbono",
+    "texto": "Em parceria inédita com a AKAD Seguros e estruturada com a corretora Marsh, a climatech brasileira Greenline elevou o padrão de integridade no mercado de ativos ambientais. A iniciativa estabelece um seguro obrigatório para créditos de carbono, garantindo mais segurança jurídica e confiabilidade para investidores. A medida busca blindar o setor contra fraudes e fortalecer o ecossistema verde no país, de acordo com a Revista Cobertura.",
+    "regiao": "brasil",
+    "fontes": [
+     "Revista Cobertura"
+    ],
+    "links": [
+     "https://www.revistacobertura.com.br/noticias/seguros-gerais/greenline-anuncia-seguro-obrigatorio-para-creditos-de-carbono-e-eleva-integridade-no-mercado-de-ativos-ambientais/"
+    ],
+    "citacao": {
+     "veiculo": "Revista Cobertura",
+     "quando": "21/11 14h13",
+     "link": "https://www.revistacobertura.com.br/noticias/seguros-gerais/greenline-anuncia-seguro-obrigatorio-para-creditos-de-carbono-e-eleva-integridade-no-mercado-de-ativos-ambientais/",
+     "idioma": "pt",
+     "trecho": "Em parceria inédita com a AKAD Seguros e estruturada com a corretora Marsh, a climatech brasileira eleva o padrão O post Greenline anuncia seguro obrigatório para…"
+    }
+   },
+   {
+    "titulo": "Hanwha busca Abu Dhabi para expansão financeira no Oriente Médio",
+    "texto": "Afiliadas financeiras do grupo Hanwha estão intensificando sua atuação no Oriente Médio, posicionando Abu Dhabi como base estratégica para parcerias com fundos soberanos locais. O objetivo é ampliar a presença global em áreas como seguros, valores mobiliários e gestão de ativos. A estratégia inclui cooperação avançada em infraestrutura digital, segundo o jornal Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10945134"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "22/11 03h13",
+     "link": "https://www.koreaherald.com/article/10945134",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "YIA aponta caminhos para corretores ampliarem negócios em 2027",
+    "texto": "Impulsionado pelo crescimento nos segmentos de automóveis e seguros de vida, o setor abre novos espaços para profissionais da área. A análise da YIA destaca caminhos estratégicos para que os corretores possam ampliar seus negócios no próximo ano. O mercado busca inovação e adaptação para atender a uma demanda cada vez mais exigente, segundo a Revista Cobertura.",
+    "regiao": "brasil",
+    "fontes": [
+     "Revista Cobertura"
+    ],
+    "links": [
+     "https://www.revistacobertura.com.br/noticias/seguros-gerais/yia-destaca-oportunidades-no-mercado-de-seguros-e-aponta-caminhos-para-corretores-ampliarem-seus-negocios-em-2027/"
+    ],
+    "citacao": {
+     "veiculo": "Revista Cobertura",
+     "quando": "21/11 14h09",
+     "link": "https://www.revistacobertura.com.br/noticias/seguros-gerais/yia-destaca-oportunidades-no-mercado-de-seguros-e-aponta-caminhos-para-corretores-ampliarem-seus-negocios-em-2027/",
+     "idioma": "pt",
+     "trecho": "Com crescimento nos segmentos de automóveis e seguros de vida, setor abre espaço para novos profissionais; O post YIA destaca oportunidades no mercado de seguros e…"
+    }
+   },
+   {
+    "titulo": "Livro propõe o conceito de Concernimento Securitário",
+    "texto": "Publicada pela Editora Roncarati, a obra escrita por Gê Coelho e Ronaldo Gama, lideranças da Favela Seguros e do Grupo MAG, propõe o conceito inédito de Concernimento Securitário. O lançamento amplia o debate fundamental sobre o acesso democrático à proteção financeira para populações vulneráveis. A discussão propõe novas ferramentas para a inclusão de comunidades periféricas no sistema de seguros, de acordo com a Revista Cobertura.",
+    "regiao": "brasil",
+    "fontes": [
+     "Revista Cobertura"
+    ],
+    "links": [
+     "https://www.revistacobertura.com.br/noticias/seguros-gerais/livro-propoe-conceito-de-concernimento-securitario-e-amplia-debate-sobre-acesso-a-protecao-financeira/"
+    ],
+    "citacao": {
+     "veiculo": "Revista Cobertura",
+     "quando": "21/11 14h01",
+     "link": "https://www.revistacobertura.com.br/noticias/seguros-gerais/livro-propoe-conceito-de-concernimento-securitario-e-amplia-debate-sobre-acesso-a-protecao-financeira/",
+     "idioma": "pt",
+     "trecho": "Publicada pela Editora Roncarati, obra de Gê Coelho e Ronaldo Gama, lideranças da Favela Seguros e do Grupo MAG O post Livro propõe conceito de “Concernimento…"
+    }
+   },
+   {
+    "titulo": "Envelhecimento demográfico ameaça aposentadorias globais",
+    "texto": "A Marsh e o CFA Institute divulgaram a décima oitava edição anual do Índice Global de Previdência Marsh CFA Institute, conhecido pela sigla MCGPI. O estudo aponta o envelhecimento demográfico rápido como uma ameaça crescente e direta à sustentabilidade das aposentadorias em todo o mundo. O relatório alerta para a urgência de reformas estruturais nos sistemas previdenciários globais, segundo a Revista Cobertura.",
+    "regiao": "brasil",
+    "fontes": [
+     "Revista Cobertura"
+    ],
+    "links": [
+     "https://www.revistacobertura.com.br/noticias/estudos-de-mercado/envelhecimento-demografico-a-ameaca-crescente-as-aposentadorias-no-mundo/"
+    ],
+    "citacao": {
+     "veiculo": "Revista Cobertura",
+     "quando": "21/11 13h57",
+     "link": "https://www.revistacobertura.com.br/noticias/estudos-de-mercado/envelhecimento-demografico-a-ameaca-crescente-as-aposentadorias-no-mundo/",
+     "idioma": "pt",
+     "trecho": "A Marsh (NYSE: MRSH) e o CFA Institute divulgaram a 18ª edição anual do ­­Índice Global de Previdência Marsh CFA Institute (MCGPI) O post Envelhecimento demográfico: a…"
+    }
+   },
+   {
+    "titulo": "Porto sobe para o décimo terceiro lugar no ranking Interbrand",
+    "texto": "A companhia registrou o segundo maior salto em valor de marca no ranking Interbrand de duas mil e vinte e seis. Com uma valorização de vinte e seis vírgula quatro por cento, a marca alcançou o valor de um bilhão e seiscentos milhões de reais. O avanço de duas posições reflete a solidez institucional da empresa no cenário nacional, de acordo com a Revista Cobertura.",
+    "regiao": "brasil",
+    "fontes": [
+     "Revista Cobertura"
+    ],
+    "links": [
+     "https://www.revistacobertura.com.br/noticias/instituicoes/com-o-2o-maior-salto-em-valor-porto-sobe-para-o-13o-lugar-no-ranking-interbrand/"
+    ],
+    "citacao": {
+     "veiculo": "Revista Cobertura",
+     "quando": "21/11 13h48",
+     "link": "https://www.revistacobertura.com.br/noticias/instituicoes/com-o-2o-maior-salto-em-valor-porto-sobe-para-o-13o-lugar-no-ranking-interbrand/",
+     "idioma": "pt",
+     "trecho": "Companhia avança duas posições entre as marcas brasileiras mais valiosas em 2026, com valorização de 26,4% e valor de marca de R$ 1,6 bilhão O post Com o 2º maior salto…"
+    }
+   }
+  ],
+  "roteiro": "Seguimos agora com os principais destaques da editoria de Seguros e Corretoras, trazendo as movimentações do mercado financeiro e de proteção de ativos no Brasil e no exterior.\n\nA climatech brasileira Greenline anunciou uma parceria inédita com a AKAD Seguros, estruturada com o apoio da corretora Marsh, para estabelecer um seguro obrigatório voltado aos créditos de carbono. A iniciativa eleva o patamar de integridade no mercado de ativos ambientais ao garantir maior segurança jurídica para os investidores. O mecanismo atua diretamente para blindar o setor contra eventuais fraudes e fortalecer o ecossistema verde brasileiro, segundo informou a Revista Cobertura.\n\nNo cenário internacional, o grupo sul-coreano Hanwha está intensificando sua expansão financeira no Oriente Médio e escolheu Abu Dhabi como sua base estratégica. As afiliadas financeiras da corporação buscam capturar oportunidades apoiadas por fundos soberanos locais e por grandes investidores institucionais da região. A meta é ampliar a presença global da marca nos segmentos de seguros, corretagem de valores e gestão de ativos, além de avançar em parcerias de infraestrutura digital, de acordo com o jornal Korea Herald.\n\nAinda no mercado brasileiro, análises recentes divulgadas pela YIA apontam novas e importantes oportunidades para o setor de seguros no próximo ano. Impulsionado pelo crescimento expressivo nos ramos de automóveis e de seguros de vida, o mercado abre espaço para a chegada de novos profissionais qualificados. O momento exige estratégias assertivas para que os corretores consigam ampliar seus negócios e atender a um público cada vez mais diversificado, segundo a Revista Cobertura.\n\nA literatura técnica do setor ganhou uma contribuição relevante com o lançamento do livro que propõe o conceito de concernimento securitário, publicado pela Editora Roncarati. Escrito por Gê Coelho e Ronaldo Gama, que são lideranças na Favela Seguros e no Grupo MAG, o trabalho amplia o debate sobre o acesso à proteção financeira. A obra discute caminhos práticos para democratizar o acesso a seguros em comunidades vulneráveis, de acordo com a Revista Cobertura.\n\nPreocupações macroeconômicas também movimentam a pauta global, com a divulgação da décima oitava edição do Índice Global de Previdência Marsh CFA Institute, conhecido pela sigla MCGPI. O estudo detalha como o envelhecimento demográfico acelerado representa uma ameaça crescente e real para a sustentabilidade das aposentadorias em todo o planeta. Os especialistas apontam a urgência de redizer estratégias para proteger o futuro dos beneficiários diante de pirâmides etárias cada vez mais invertidas, segundo a Revista Cobertura.\n\nFechando os destaques da editoria, a Porto registrou um avanço expressivo e subiu para a décima terceira posição no ranking das marcas brasileiras mais valiosas elaborado pela Interbrand. A companhia obteve o segundo maior salto em valor de mercado no levantamento, com uma impressionante valorização de vinte e seis vírgula quatro por cento, alcançando a marca de um bilhão e seiscentos milhões de reais. A subida de duas posições corrobora a força institucional da empresa no competitivo mercado nacional, segundo a Revista Cobertura."
+ },
+ {
+  "id": "clima",
+  "titulo": "Clima e Meio Ambiente",
+  "cor": "#12361F",
+  "cor2": "#3E8E4F",
+  "itens": [
+   {
+    "titulo": "Cúpula climática COP31 corre risco de fracassar",
+    "texto": "Negociadores de quase duzentos países enfrentam dificuldades para superar divergências sobre combustíveis fósseis e financiamento climático na Cúpula do Clima das Nações Unidas. O evento na Turquia entrou em tempo extra após o prazo oficial expirar sem consenso sobre o texto final. Segundo a InfoMoney, o impasse eleva o risco de fracasso das negociações globais.",
+    "regiao": "brasil",
+    "fontes": [
+     "InfoMoney"
+    ],
+    "links": [
+     "https://www.infomoney.com.br/mundo/cupula-climatica-cop31-corre-risco-de-fracassar-conforme-negociacoes-se-estendem/"
+    ],
+    "citacao": {
+     "veiculo": "InfoMoney",
+     "quando": "21/11 17h42",
+     "link": "https://www.infomoney.com.br/mundo/cupula-climatica-cop31-corre-risco-de-fracassar-conforme-negociacoes-se-estendem/",
+     "idioma": "pt",
+     "trecho": "Negociadores de quase 200 países estão tendo dificuldades para superar as divergências sobre combustíveis fósseis e financiamento climático The post Cúpula climática…"
+    }
+   },
+   {
+    "titulo": "Falta de menção a combustíveis fósseis gera revolta na COP31",
+    "texto": "Uma nova minuta de acordo apresentada na cúpula climática retirou todas as referências ao carvão, ao petróleo e ao gás natural. A ausência dos combustíveis fósseis, apontados como a principal causa do aquecimento global, gerou ameaças de boicote e críticas severas da União Europeia. De acordo com a emissora DW, o impasse ameaça descarrilar o acordo final do evento.",
+    "regiao": "europa",
+    "fontes": [
+     "DW (EN)"
+    ],
+    "links": [
+     "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-xml-mrss"
+    ],
+    "citacao": {
+     "veiculo": "DW (EN)",
+     "quando": "22/11 02h50",
+     "link": "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "China defende eletrificação de baixo carbono na COP31",
+    "texto": "Durante as negociações na cúpula climática, a delegação chinesa declarou apoio a metas globais de eletrificação com energia de baixo carbono. Pequim sinalizou que pretende impulsionar a transição em sua própria economia e auxiliar outros países no mesmo sentido. Conforme o jornal The Guardian, a proposta busca fixar que trinta e cinco por cento da energia global venha da eletricidade até o ano de dois mil e trinta e cinco.",
+    "regiao": "europa",
+    "fontes": [
+     "The Guardian World"
+    ],
+    "links": [
+     "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve"
+    ],
+    "citacao": {
+     "veiculo": "The Guardian World",
+     "quando": "21/11 06h47",
+     "link": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Embate sobre relatório climático ameaça futuro das negociações",
+    "texto": "Países presentes na conferência climática divergem sobre o calendário de divulgação da próxima avaliação do Painel Intergovernamental sobre Mudanças Climáticas, conhecido como IP-CC. O documento serve como principal referência científica para orientar as políticas ambientais do planeta. Segundo a emissora DW Brasil, a falta de acordo sobre a ciência compromete o planejamento do Acordo de Paris.",
+    "regiao": "brasil",
+    "fontes": [
+     "DW Brasil"
+    ],
+    "links": [
+     "https://www.dw.com/pt-br/na-cop31-embate-sobre-relatório-climático-ameaça-negociações-futuras/a-80011164?maca=bra-rss-br-all-1030-xml-mrss"
+    ],
+    "citacao": {
+     "veiculo": "DW Brasil",
+     "quando": "21/11 19h20",
+     "link": "https://www.dw.com/pt-br/na-cop31-embate-sobre-relatório-climático-ameaça-negociações-futuras/a-80011164?maca=bra-rss-br-all-1030-xml-mrss",
+     "idioma": "pt",
+     "trecho": "Países divergem sobre quando divulgar a próxima avaliação do IPCC, principal referência científica para a política climática global."
+    }
+   },
+   {
+    "titulo": "Agricultores haitianos sofrem com violência e crise climática",
+    "texto": "Anos de instabilidade política, violência urbana provocada por gangues armadas e choques climáticos extremos deixaram milhões de haitianos em situação de vulnerabilidade alimentar. Produtores rurais enfrentam colheitas perdidas e o abandono de propriedades devido à insegurança generalizada no país. De acordo com a ONU News, o impacto combinado afeta severamente a subsistência da população local.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News Clima"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/en/story/2026/11/1168834"
+    ],
+    "citacao": {
+     "veiculo": "ONU News Clima",
+     "quando": "21/11 09h00",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "El Niño forte gera impactos na agricultura brasileira",
+    "texto": "Os efeitos do fenômeno climático El Niño, apontado como o maior da história monitorada pela agência americana NOAA desde mil novecentos e cinquenta, já prejudicam o setor produtivo no Brasil. Entidades setoriais relatam irregularidades no plantio de soja no Tocantins e perdas na qualidade da colheita de trigo no Paraná. Conforme o portal Globo Rural, há alta probabilidade de o fenômeno persistir na categoria muito forte.",
+    "regiao": "brasil",
+    "fontes": [
+     "Globo Rural"
+    ],
+    "links": [
+     "https://globorural.globo.com/pecuaria/peixe/noticia/2026/11/el-nino-pode-atrapalhar-a-pesca-entenda-o-que-muda-para-os-pescadores.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "Globo Rural",
+     "quando": "21/11 06h30",
+     "link": "https://globorural.globo.com/pecuaria/peixe/noticia/2026/11/el-nino-pode-atrapalhar-a-pesca-entenda-o-que-muda-para-os-pescadores.ghtml",
+     "idioma": "pt",
+     "trecho": "Os efeitos do El Niño, apontado como o maior da história desde que a Administração Oceânica e Atmosférica Nacional dos Estados Unidos (NOAA) começou a monitorar o…"
+    }
+   },
+   {
+    "titulo": "Homem é condenado por incêndio florestal em Los Angeles",
+    "texto": "Um morador de trinta anos foi considerado culpado por provocar os incêndios florestais conhecidos como Palisades, na região de Los Angeles, nos Estados Unidos. O fogo descontrolado resultou na morte de doze pessoas e na destruição de mais de seis mil e oitocentos edifícios. Segundo a emissora BBC World, a justiça americana emitiu a condenação por crime de incêndio criminoso.",
+    "regiao": "europa",
+    "fontes": [
+     "BBC World"
+    ],
+    "links": [
+     "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+    ],
+    "citacao": {
+     "veiculo": "BBC World",
+     "quando": "21/11 01h34",
+     "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Projeto de lei nos Estados Unidos divide ambientalistas",
+    "texto": "Uma proposta de reforma de licenciamento em debate no Senado americano promete acelerar o desenvolvimento de projetos de energia renovável no país. Contudo, o texto gerou forte divisão entre ambientalistas por incluir dispositivos de apoio à indústria de petróleo e gás. De acordo com a rede NPR News, a medida busca destravar investimentos no setor energético.",
+    "regiao": "eua",
+    "fontes": [
+     "NPR News"
+    ],
+    "links": [
+     "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas"
+    ],
+    "citacao": {
+     "veiculo": "NPR News",
+     "quando": "21/11 09h40",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguindo com as notícias do dia, passamos agora para os principais acontecimentos da editoria de Clima e Meio Ambiente. O momento é de tensão na Conferência das Nações Unidas sobre Mudanças Climáticas, conhecida como COP trinta e um, realizada na Turquia. Negociadores de quase duzentos países enfrentam enormes dificuldades para superar divergências profundas sobre combustíveis fósseis e financiamento climático. O evento entrou em tempo extra após o prazo oficial expirar sem qualquer consenso sobre o texto final, elevando consideravelmente o risco de um fracasso diplomático histórico, segundo a InfoMoney.\n\nO principal ponto de atrito na cúpula é a ausência de referências aos combustíveis fósseis nas minutas do acordo. Uma nova proposta de texto apresentada pela presidência da conferência retirou completamente todas as menções ao carvão, ao petróleo e ao gás natural. Essa decisão gerou ameaças de boicote e duras críticas por parte da União Europeia e de diversos governos que exigem metas claras de descarbonização. De acordo com a emissora alemã DW, o impasse continua ameaçando o futuro de toda a negociação global.\n\nEm meio aos debates sobre energia, a delegação da China apresentou propostas voltadas para a sustentabilidade. Pequim declarou apoio a metas globais de eletrificação utilizando fontes de energia de baixo carbono. A intenção chinesa é acelerar a transição em seu próprio território e também auxiliar outras nações no processo. Conforme o jornal The Guardian, a meta discutida nos bastidores é fazer com que trinta e por cento da energia mundial venha da eletricidade até o ano de dois mil e trinta e cinco.\n\nOutro foco de intensa discussão na conferência envolve o futuro da ciência climática. Países divergem abertamente sobre o calendário de divulgação do próximo relatório do Painel Intergovernamental sobre Mudanças Climáticas, o IP-CC, que serve como principal base para as políticas ambientais do planeta. O atraso na definição sobre o documento científico compromete o planejamento de longo prazo do Acordo de Paris. Segundo a agência DW Brasil, o desacordo sobre as regras científicas eleva ainda mais a incerteza jurídica entre os governos.\n\nFora dos grandes centros de debate político, os impactos humanitários das crises ambientais continuam severos em várias regiões. No Haiti, anos de extrema instabilidade política, violência urbana provocada por gangues armadas e choques climáticos deixaram milhões de pessoas lutando contra a fome. Produtores rurais locais enfrentam o abandono de terras e colheitas totalmente perdidas devido à vulnerabilidade econômica. De acordo com a ONU News, a população sofre com a combinação dramática de conflito e eventos climáticos extremos.\n\nNo Brasil, os reflexos do clima também preocupam setores produtivos essenciais para a economia. Os efeitos do fenômeno El Niño, considerado o maior monitorado pela agência americana NOAA desde mil novecentos e cinquenta, já causam prejuízos visíveis na agricultura nacional. Entidades do setor registraram problemas graves na semeadura de soja no Tocantins e quedas na qualidade da colheita de trigo no Paraná. Conforme o portal Globo Rural, as previsões indicam que o fenômeno continuará atuando com força extrema.\n\nEnquanto isso, os Estados Unidos lidam com as consequências judiciais de tragédias ambientais recentes. A justiça americana condenou um homem de trinta anos por ter provocado os incêndios florestais conhecidos como Palisades, na região de Los Angeles. As chamas descontroladas resultaram na morte de doze pessoas e na destruição completa de mais de seis mil e oitocentos edifícios residenciais e comerciais. Segundo a rede de notícias BBC World, o réu foi considerado culpado pelas autoridades locais por crime de incêndio criminoso.\n\nAinda nos Estados Unidos, o cenário legislativo gera debates intensos sobre o futuro da transição energética. Uma proposta de reforma de licenciamento em análise no Senado americano pode acelerar consideravelmente o desenvolvimento de projetos de energia limpa e renovável. No entanto, o projeto provocou uma forte divisão entre ambientalistas por incluir medidas de incentivo à exploração de petróleo e gás. De acordo com a emissora NPR News, a discussão legislativa evidencia o delicado equilíbrio político em torno da matriz energética do país."
+ },
+ {
+  "id": "tecnologia",
+  "titulo": "Tecnologia",
+  "cor": "#14254A",
+  "cor2": "#2F5DA8",
+  "itens": [
+   {
+    "titulo": "Falha crítica em Java",
+    "texto": "Uma empresa de cibersegurança usou inteligência artificial para descobrir uma falha crítica nas funções de memória da linguagem de programação Java, usada por noventa por cento das grandes empresas do mundo. A mesma companhia havia identificado recentemente uma vulnerabilidade semelhante em outra linguagem, o PHP, segundo o portal G1.",
+    "regiao": "brasil",
+    "fontes": [
+     "G1"
+    ],
+    "links": [
+     "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "G1",
+     "quando": "22/11 03h00",
+     "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml",
+     "idioma": "pt",
+     "trecho": "Inteligência Artificial."
+    }
+   },
+   {
+    "titulo": "Protesto contra evento de IA militar em Berlim",
+    "texto": "Um evento sobre inteligência artificial militar realizado em um complexo de artes em Berlim gerou forte indignação e críticas por transformar um espaço cultural tradicionalmente associado à música techno em uma espécie de sala de guerra. Especialistas e frequentadores classificaram o episódio como um erro grave de julgamento, de acordo com o jornal The Guardian.",
+    "regiao": "europa",
+    "fontes": [
+     "The Guardian World"
+    ],
+    "links": [
+     "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex"
+    ],
+    "citacao": {
+     "veiculo": "The Guardian World",
+     "quando": "22/11 03h00",
+     "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "ONU falha em acordo sobre robôs assassinos",
+    "texto": "Diplomatas reunidos em Genebra sob a tutela da Organização das Nações Unidas encerraram as negociações sem conseguir estabelecer regras para o uso de armas autônomas, conhecidas como robôs assassinos. Os representantes deixaram o encontro concordando apenas em iniciar discussões sobre opções futuras, após uma semana sem avanços concretos, segundo o site The Verge.",
+    "regiao": "eua",
+    "fontes": [
+     "The Verge"
+    ],
+    "links": [
+     "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+    ],
+    "citacao": {
+     "veiculo": "The Verge",
+     "quando": "21/11 17h03",
+     "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Startups de Seul ganham prêmios nos Estados Unidos",
+    "texto": "Vinte e sete startups apoiadas pelo governo metropolitano de Seul conquistaram trinta e quatro prêmios de inovação na feira de tecnologia CES dois mil e vinte e sete. Entre os premiados estão participantes de programas municipais de desenvolvimento e residentes de incubadoras locais focadas em inteligência artificial, conforme informou o jornal Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10945072"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "22/11 01h30",
+     "link": "https://www.koreaherald.com/article/10945072",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Exportação de chips da Nvidia para a China",
+    "texto": "O governo dos Estados Unidos avalia que restrições adicionais não são necessárias para as exportações de chips da fabricante Nvidia para a China. A declaração foi feita após autoridades retornarem de uma viagem diplomática à Ásia, destacando que o acesso remoto a essas tecnologias já foi devidamente curtailado, segundo a emissora PBS NewsHour.",
+    "regiao": "eua",
+    "fontes": [
+     "PBS NewsHour"
+    ],
+    "links": [
+     "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china"
+    ],
+    "citacao": {
+     "veiculo": "PBS NewsHour",
+     "quando": "21/11 13h28",
+     "link": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Espionagem cibernética da Rússia na Suécia",
+    "texto": "Uma empresa de tecnologia russa apoiada por um aliado próximo do presidente Vladimir Putin coletou secretamente dados de centenas de milhares de cidadãos suecos através de cookies. A revelação gerou forte preocupação na Suécia devido à proximidade geográfica e à vulnerabilidade a táticas de guerra híbrida, de acordo com a rede France 24.",
+    "regiao": "europa",
+    "fontes": [
+     "France 24"
+    ],
+    "links": [
+     "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes"
+    ],
+    "citacao": {
+     "veiculo": "France 24",
+     "quando": "21/11 07h55",
+     "link": "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Funcionários do Google protestam contra política de IA",
+    "texto": "Mais de quinhentos e cinquenta funcionários do Google assinaram uma petição exigindo que escolas tenham acesso ao mecanismo de busca da empresa sem a interferência de inteligência artificial. O protesto interno acompanha manifestações de pais e educadores realizadas em escritórios da companhia em várias cidades, segundo a agência NPR News.",
+    "regiao": "eua",
+    "fontes": [
+     "NPR News"
+    ],
+    "links": [
+     "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy"
+    ],
+    "citacao": {
+     "veiculo": "NPR News",
+     "quando": "21/11 19h01",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Regulação de robôs assassinos adiada para dois mil e vinte e oito",
+    "texto": "Os esforços internacionais para regulamentar o uso de armas autônomas letais foram adiados até o ano de dois mil e vinte e oito. A Rússia bloqueou as negociações em andamento na Europa, embora outras nações também tenham demonstrado oposição às diretrizes propostas, segundo o portal Politico Europe.",
+    "regiao": "europa",
+    "fontes": [
+     "Politico Europe"
+    ],
+    "links": [
+     "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    ],
+    "citacao": {
+     "veiculo": "Politico Europe",
+     "quando": "21/11 13h43",
+     "link": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Espionagem da China em chips de inteligência artificial",
+    "texto": "A agência de espionagem da China conduziu uma campanha secreta de anos para ajudar empresas locais a adquirirem chips avançados de inteligência artificial e coletar informações estratégicas do setor. O plano ocorreu muito antes dos recentes escândalos envolvendo restrições comerciais internacionais, de acordo com o jornal New York Times.",
+    "regiao": "eua",
+    "fontes": [
+     "New York Times"
+    ],
+    "links": [
+     "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html"
+    ],
+    "citacao": {
+     "veiculo": "New York Times",
+     "quando": "22/11 01h28",
+     "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Ministro da Educação da Coreia do Sul renuncia",
+    "texto": "O ministro da Educação da Coreia do Sul ofereceu sua renúncia para assumir a responsabilidade pelas confusões geradas por mudanças de última hora no vestibular nacional. As alterações de segurança incluíram alertas de emergência para evitar fraudes com o uso de inteligência artificial durante o exame estatal, conforme publicou o jornal Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10945089"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "22/11 01h59",
+     "link": "https://www.koreaherald.com/article/10945089",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguimos agora para as principais atualizações do noticiário de tecnologia neste domingo, vinte e dois de novembro de dois mil e vinte e seis, trazendo os desdobramentos mais relevantes do setor no Brasil e no exterior.\n\nComeçamos pelo campo da cibersegurança, onde uma empresa do setor utilizou ferramentas de inteligência artificial para descobrir uma vulnerabilidade crítica nas funções de memória da linguagem de programação Java. O achado é preocupante porque a tecnologia afetada é utilizada por noventa por cento das grandes empresas em todo o mundo. A mesma companhia já havia identificado recentemente outra falha grave de segurança em outra linguagem amplamente difundida, o PHP, segundo o portal G1.\n\nPassando para o cenário internacional na Europa, um evento sobre inteligência artificial militar realizado em um complexo de artes em Berlim gerou forte indignação pública. O espaço cultural, tradicionalmente associado à música techno, foi transformado em uma espécie de sala de guerra para receber um evento de empresas armamentistas. Especialistas e frequentadores locais classificaram o episódio como um erro grave de julgamento e uma situação distópica, de acordo com o jornal The Guardian.\n\nAinda no exterior, diplomatas reunidos em Genebra sob a coordenação da Organização das Nações Unidas encerraram uma semana de negociações sem conseguir estabelecer regras para o uso de armas autônomas letais. Os representantes deixaram os encontros concordando apenas em iniciar discussões sobre futuras opções regulatórias, após debates sem avanços concretos sobre os chamados robôs assassinos, segundo o site The Verge.\n\nNa Ásia, a tecnologia sul-coreana ganhou destaque internacional com o anúncio de que vinte e sete startups apoiadas pelo governo metropolitano de Seul conquistaram trinta e quatro prêmios de inovação na feira CES dois mil e vinte e sete. Entre as empresas premiadas estão iniciativas ligadas a programas municipais de desenvolvimento e incubadoras locais focadas em inteligência artificial, conforme informou o jornal Korea Herald.\n\nAinda sobre o mercado global de semicondutores, o governo dos Estados Unidos avalia que restrições adicionais não são necessárias para as exportações de chips da fabricante Nvidia para a China. A declaração foi dada por autoridades após uma viagem diplomática à região asiática, ressaltando que o acesso remoto a essas tecnologias já foi devidamente curtailado pelas leis vigentes, segundo a emissora PBS NewsHour.\n\nVoltando à Europa, uma investigação jornalística revelou que uma empresa de tecnologia russa apoiada por um aliado do presidente Vladimir Putin coletou secretamente dados de centenas de milhares de cidadãos suecos através de cookies de navegação. A revelação gerou forte preocupação na Suécia, país que mantém fronteiras de proximidade com o território russo e alta abertura de registros públicos, de acordo com a rede France 24.\n\nNos Estados Unidos, a pressão interna sobre grandes empresas de tecnologia continua crescendo, com mais de quinhentos e cinquenta funcionários do Google assinando uma petição. Eles exigem que escolas tenham acesso ao mecanismo de busca da companhia sem a interferência de ferramentas de inteligência artificial, endossando protestos realizados por pais e educadores em escritórios da empresa, segundo a agência NPR News.\n\nEnquanto isso, os esforços internacionais para regulamentar o uso de armas autônomas sofreram um revés institucional com o adiamento das discussões para o ano de dois mil e vinte e oito. A Rússia bloqueou formalmente as negociações em andamento na Europa, embora outras nações também tenham apresentado resistência às diretrizes propostas para conter os robôs letais, segundo o portal Politico Europe.\n\nNa área de geopolítica da tecnologia, investigações revelam que a agência de espionagem da China conduziu uma campanha secreta durante anos para ajudar empresas locais a adquirirem chips avançados de inteligência artificial. O plano de inteligência buscava coletar dados e garantir suprimentos estratégicos do setor muito antes dos recentes escândalos envolvendo restrições comerciais norte-americanas, de acordo com o jornal New York Times.\n\nFechando o giro de tecnologia na Ásia, o ministro da Educação da Coreia do Sul apresentou sua renúncia para assumir a responsabilidade pelas falhas e confusões geradas no vestibular nacional. O governo implementou mudanças de última hora no exame para evitar fraudes com o uso de inteligência artificial, incluindo alertas emergenciais que geraram forte debate público, conforme publicou o jornal Korea Herald."
+ },
+ {
+  "id": "ia",
+  "titulo": "Inteligência Artificial",
+  "cor": "#2A1B4A",
+  "cor2": "#6A4FB3",
+  "itens": [
+   {
+    "titulo": "Ministro da Coreia do Sul renuncia após escândalo de fraude com IA em exames",
+    "texto": "O ministro da Educação da Coreia do Sul renunciou após um escândalo de fraude em exames universitários envolvendo o uso de inteligência artificial. A crise estourou depois que o primeiro colocado em um exame nacional confessou ter usado inteligência artificial para obter sua nota quase perfeita. O caso gerou forte comoção e medidas rigorosas de segurança nas vésperas dos exames de admissão no país, de acordo com o jornal The Guardian.",
+    "regiao": "asia",
+    "fontes": [
+     "The Guardian World"
+    ],
+    "links": [
+     "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+    ],
+    "citacao": {
+     "veiculo": "The Guardian World",
+     "quando": "22/11 02h04",
+     "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Amazon negocia compra de startup de IA para enfrentar concorrentes",
+    "texto": "A gigante americana Amazon está em negociações avançadas para comprar a startup Decart por sete bilhões e quinhentos milhões de dólares. A empresa é especializada em otimizar o processamento de inteligência artificial e reduzir a demanda por chips avançados. A informação foi divulgada pelo jornal Financial Times e repercutida pelo portal InfoMoney, destacando os movimentos do mercado tecnológico global.",
+    "regiao": "brasil",
+    "fontes": [
+     "InfoMoney"
+    ],
+    "links": [
+     "https://www.infomoney.com.br/business/ft-amazon-negocia-compra-de-startup-de-ia-por-us-75-bilhoes-para-enfrentar-nvidia/"
+    ],
+    "citacao": {
+     "veiculo": "InfoMoney",
+     "quando": "21/11 18h15",
+     "link": "https://www.infomoney.com.br/business/ft-amazon-negocia-compra-de-startup-de-ia-por-us-75-bilhoes-para-enfrentar-nvidia/",
+     "idioma": "pt",
+     "trecho": "Segundo o Financial Times, gigante americana está próxima de adquirir a Decart, empresa especializada em otimizar o processamento de inteligência artificial e reduzir a…"
+    }
+   },
+   {
+    "titulo": "Falha crítica é descoberta em linguagem de programação usada por grandes empresas",
+    "texto": "Uma empresa de cibersegurança utilizou inteligência artificial para descobrir uma vulnerabilidade crítica na popular linguagem de programação Java. A falha foi encontrada nas funções de memória da linguagem utilizada por noventa por cento das grandes empresas do mundo. Segundo o portal G1, a mesma empresa emergente já havia identificado recentemente uma vulnerabilidade semelhante em outra linguagem.",
+    "regiao": "brasil",
+    "fontes": [
+     "G1"
+    ],
+    "links": [
+     "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "G1",
+     "quando": "22/11 03h00",
+     "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml",
+     "idioma": "pt",
+     "trecho": "Inteligência Artificial."
+    }
+   },
+   {
+    "titulo": "Negociações da ONU sobre armas autônomas e inteligência artificial fracassam em Genebra",
+    "texto": "Esforços internacionais na Organização das Nações Unidas para estabelecer um tratado legalmente vinculativo sobre o uso de armas autônomas falharam em Genebra. As negociações de uma semana desabaram após objeções russas durante as conversas de última hora. Conforme relata o jornal The Guardian, a maioria dos Estados pretendia limitar o uso militar de inteligência artificial, mas os impasses políticos impediram o acordo.",
+    "regiao": "europa",
+    "fontes": [
+     "The Guardian World"
+    ],
+    "links": [
+     "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+    ],
+    "citacao": {
+     "veiculo": "The Guardian World",
+     "quando": "21/11 13h36",
+     "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Pesquisador da Anthropic usa inteligência artificial para resolver problema matemático",
+    "texto": "Um pesquisador da empresa Anthropic utilizou inteligência artificial para propor a solução de um dos maiores enigmas da matemática. O avanço anunciado pode remodelar a pesquisa matemática tradicional, embora ainda necessite de verificação independente pela comunidade científica. A emissora Deutsche Welle destacou que este é mais um caso em que a tecnologia supera humanos na resolução de problemas complexos.",
+    "regiao": "europa",
+    "fontes": [
+     "DW (EN)"
+    ],
+    "links": [
+     "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-xml-mrss"
+    ],
+    "citacao": {
+     "veiculo": "DW (EN)",
+     "quando": "21/11 07h29",
+     "link": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-xml-mrss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Funcionários do Google protestam contra o uso de inteligência artificial em escolas",
+    "texto": "Mais de quinhentos e cinquenta funcionários do Google assinaram uma petição exigindo que escolas tenham acesso a ferramentas de busca sem inteligência artificial. O protesto interno acompanha manifestações públicas de pais e educadores realizadas em frente a escritórios da empresa em seis cidades norte-americanas. A informação foi veiculada pela rede de notícias americana NPR News.",
+    "regiao": "eua",
+    "fontes": [
+     "NPR News"
+    ],
+    "links": [
+     "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy"
+    ],
+    "citacao": {
+     "veiculo": "NPR News",
+     "quando": "21/11 19h01",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Inteligência artificial auxilia produtores rurais no manejo de sementes e pastagens",
+    "texto": "A inteligência artificial tem sido aplicada no agronegócio brasileiro para orientar produtores na escolha de sementes e no manejo de pastagens. Por meio de assistentes virtuais acessíveis pelo celular, agricultores conseguem consultar informações técnicas e tirar dúvidas sobre o cultivo. Um exemplo citado pelo portal Globo Rural é o assistente virtual desenvolvido por uma empresa especializada no setor forrageiro.",
+    "regiao": "brasil",
+    "fontes": [
+     "Globo Rural"
+    ],
+    "links": [
+     "https://globorural.globo.com/tecnologia-e-inovacao/noticia/2026/11/como-a-inteligencia-artificial-pode-atuar-no-manejo-de-sementes.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "Globo Rural",
+     "quando": "21/11 07h00",
+     "link": "https://globorural.globo.com/tecnologia-e-inovacao/noticia/2026/11/como-a-inteligencia-artificial-pode-atuar-no-manejo-de-sementes.ghtml",
+     "idioma": "pt",
+     "trecho": "A inteligência artificial também pode ser utilizada para orientar produtores na escolha de sementes e no manejo de pastagens."
+    }
+   }
+  ],
+  "roteiro": "Abrimos agora o nosso bloco dedicado aos impactos, avanços e polêmicas envolvendo a inteligência artificial ao redor do planeta, trazendo os fatos mais relevantes que movimentaram o setor nas últimas vinte e quatro horas.\n\nComeçamos pela Coreia do Sul, onde o ministro da Educação apresentou o cargo após um grave escândalo de fraude em exames universitários com o uso de inteligência artificial. A crise política começou quando o primeiro colocado em um exame nacional confessou ter recorrido à tecnologia para alcançar uma nota quase perfeita. Segundo o jornal The Guardian, a situação gerou pânico e levou o governo a adotar medidas extremas de segurança nas vésperas dos tradicionais exames de admissão.\n\nNo mercado corporativo global, a Amazon está em negociações avançadas para adquirir a startup Decart por sete bilhões e quinhentos milhões de dólares. A empresa comprada é especializada em otimizar o processamento de inteligência artificial e reduzir a alta demanda por chips avançados no mercado. A informação foi divulgada pelo jornal Financial Times e repercutida pelo portal InfoMoney, evidenciando a corrida das grandes corporações por infraestrutura tecnológica.\n\nAinda no campo tecnológico, uma empresa de cibersegurança utilizou inteligência artificial para descobrir uma vulnerabilidade crítica na popular linguagem de programação Java. A falha foi localizada nas funções de memória da ferramenta, que é amplamente utilizada por noventa por cento das grandes empresas do mundo. De acordo com o portal G1, a mesma empresa emergente já havia identificado recentemente uma falha de segurança em outra linguagem amplamente difundida no mercado.\n\nNa editoria internacional, negociações promovidas pela Organização das Nações Unidas em Genebra para estabelecer regras rígidas sobre armas autônomas acabaram fracassando. Esforços de uma semana inteira ruíram após objeções russas durante as conversas realizadas ao longo de toda a madrugada. Conforme o jornal The Guardian, a maioria dos países presentes queria firmar um tratado legalmente vinculativo para controlar o uso militar de inteligência artificial, mas o impasse impediu o consenso.\n\nPassando para a área científica, um pesquisador da empresa Anthropic utilizou inteligência artificial para propor a solução de um dos mais complexos enigmas da matemática moderna. O anúncio sugere que a inovação pode transformar radicalmente as pesquisas matemáticas, embora o resultado ainda precise de validação independente. A emissora Deutsche Welle destacou que este é mais um exemplo recente em que modelos computacionais avançados superam humanos na resolução de problemas seculares.\n\nNos Estados Unidos, mais de quinhentos e cinquenta funcionários do Google assinaram uma petição exigindo que redes de ensino tenham acesso a ferramentas de busca sem inteligência artificial. O abaixo-assinado interno acompanha protestos públicos organizados por pais e educadores em frente a escritórios da empresa em seis cidades americanas. A notícia foi confirmada pela rede pública de rádio NPR News, refletindo o debate sobre o uso de tecnologias educacionais.\n\nEncerrando este giro, a inteligência artificial também mostra utilidade prática no campo, auxiliando produtores rurais brasileiros na escolha de sementes e no manejo de pastagens. Com o auxílio de assistentes virtuais que funcionam diretamente pelo celular, agricultores conseguem tirar dúvidas técnicas sobre o cultivo com rapidez. Um exemplo relatado pelo portal Globo Rural demonstra como as ferramentas digitais ganham espaço na rotina do agronegócio nacional."
+ },
+ {
+  "id": "saude",
+  "titulo": "Saúde",
+  "cor": "#0B3B3F",
+  "cor2": "#1C8C8C",
+  "itens": [
+   {
+    "titulo": "Força Nacional do SUS avalia instalar posto em Tupanciretã",
+    "texto": "A cidade de Tupanciretã, no Rio Grande do Sul, devastada por um forte temporal, pode receber um Posto Médico Avançado da Força Nacional do SUS. Uma equipe com treze profissionais chegou ao município para prestar atendimento de emergência. A medida busca amparar a população após o temporal que atingiu a região central do estado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/forca-nacional-do-sus-avalia-instalar-posto-medico-em-tupancireta"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "21/11 18h28",
+     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/forca-nacional-do-sus-avalia-instalar-posto-medico-em-tupancireta",
+     "idioma": "pt",
+     "trecho": "Devastada por um forte temporal na madrugada dessa sexta-feira (20), a cidade de Tupanciretã, na região central do Rio Grande do Sul, pode receber um Posto Médico…"
+    }
+   },
+   {
+    "titulo": "Jair Bolsonaro internado em cuidados intensivos",
+    "texto": "O ex-presidente brasileiro Jair Bolsonaro permanece internado em uma unidade de cuidados intensivos em Brasília devido a uma obstrução abdominal. Segundo seus médicos, o quadro de saúde é considerado estável. A hospitalização ocorre enquanto ele cumpre prisão domiciliar por condenação relacionada a uma trama golpista.",
+    "regiao": "latam",
+    "fontes": [
+     "France 24 América Latina"
+    ],
+    "links": [
+     "https://www.france24.com/es/am%C3%A9rica-latina/20261121-brasil-jair-bolsonaro-se-encuentra-en-cuidados-intensivos-pero-estable"
+    ],
+    "citacao": {
+     "veiculo": "France 24 América Latina",
+     "quando": "21/11 17h35",
+     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261121-brasil-jair-bolsonaro-se-encuentra-en-cuidados-intensivos-pero-estable",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Bayer pagará bilhões em acordo judicial nos EUA",
+    "texto": "A Justiça do Missouri, nos Estados Unidos, aprovou um acordo coletivo com a multinacional Bayer para encerrar ações sobre o herbicida Roundup. O acordo prevê pagamentos de até sete bilhões e duzentos milhões de dólares ao longo de vinte e um anos. A medida busca indenizar pessoas que alegam ter desenvolvido linfoma não Hodgkin após exposição ao produto.",
+    "regiao": "brasil",
+    "fontes": [
+     "Globo Rural"
+    ],
+    "links": [
+     "https://globorural.globo.com/insumos/noticia/2026/11/bayer-ter-de-pagar-at-us-725-bilhes-em-acordo-judicial-nos-eua.ghtml"
+    ],
+    "citacao": {
+     "veiculo": "Globo Rural",
+     "quando": "21/11 10h16",
+     "link": "https://globorural.globo.com/insumos/noticia/2026/11/bayer-ter-de-pagar-at-us-725-bilhes-em-acordo-judicial-nos-eua.ghtml",
+     "idioma": "pt",
+     "trecho": "A Justiça do Missouri, nos Estados Unidos, aprovou na sexta-feira (20/11) um acordo coletivo com a multinacional Bayer para encerrar as ações atuais e futuras contra o…"
+    }
+   },
+   {
+    "titulo": "Estudo sobre vacina contra Covid-19 é retratado",
+    "texto": "Um estudo de dois mil e vinte sobre um design de vacina para imunidade ampla contra o coronavírus foi retratado após o autor principal admitir fabricação de dados no Reino Unido. Virologistas afirmam que o revés afeta a pesquisa global, embora a ciência fundamental por trás das vacinas permaneça robusta, de acordo com o South China Morning Post.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/news/china/science/article/3375190/how-retracted-uk-covid-19-vaccine-study-tainted-global-hunt-mutation-proof-shots"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "21/11 21h00",
+     "link": "https://www.scmp.com/news/china/science/article/3375190/how-retracted-uk-covid-19-vaccine-study-tainted-global-hunt-mutation-proof-shots",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Protestos na Croácia após morte em hospital psiquiátrico",
+    "texto": "Milhares de pessoas se reuniram em Zagreb, capital da Croácia, para protestar contra a morte de um homem de trinta e dois anos em um hospital psiquiátrico. A manifestação ocorreu após a divulgação de imagens de vigilância que geraram forte comoção nacional. Os manifestantes exigem justiça e regulamentação mais rígida para os tratamentos em clínicas.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/news/world/europe/article/3375351/croatians-demand-justice-over-psychiatric-hospital-death-after-brutal-video-surfaces"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "21/11 19h05",
+     "link": "https://www.scmp.com/news/world/europe/article/3375351/croatians-demand-justice-over-psychiatric-hospital-death-after-brutal-video-surfaces",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Debate sobre vacinas e sarampo nos Estados Unidos",
+    "texto": "Especialistas discutem nos Estados Unidos estratégias para conter surtos de sarampo através da promoção da vacina tríplice viral. O debate envolve figuras públicas e autoridades de saúde na tentativa de combater a hesitação vacinal. A imunização é apontada como essencial para manter o status de eliminação da doença, segundo a STAT News.",
+    "regiao": "eua",
+    "fontes": [
+     "STAT News"
+    ],
+    "links": [
+     "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss"
+    ],
+    "citacao": {
+     "veiculo": "STAT News",
+     "quando": "21/11 06h30",
+     "link": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Inovação e debates sobre o ensino médico",
+    "texto": "Leitores e especialistas debateram na imprensa norte-americana a necessidade de reformizar o início da faculdade de medicina e o atendimento de emergência pediátrica. As discussões buscam otimizar a formação de novos profissionais de saúde para atender demandas urgentes da sociedade. As propostas visam modernizar o sistema educacional e assistencial, segundo a STAT News.",
+    "regiao": "eua",
+    "fontes": [
+     "STAT News"
+    ],
+    "links": [
+     "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss"
+    ],
+    "citacao": {
+     "veiculo": "STAT News",
+     "quando": "21/11 09h00",
+     "link": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguimos com o nosso boletim para falar agora sobre os principais acontecimentos na área da saúde e do bem-estar pelo Brasil e pelo mundo.\n\nComeçamos pelo Rio Grande do Sul, onde a cidade de Tupanciretã foi devastada por um forte temporal na última madrugada e pode receber um Posto Médico Avançado da Força Nacional do Sistema Único de Saúde. Uma equipe formada por treze profissionais, entre médicos, enfermeiros, psicólogos e assistentes sociais, chegou ao município para prestar atendimento imediato à população afetada pelas intempéries. A prioridade do grupo é avaliar as necessidades de urgência na região central do estado, segundo informou a Agência Brasil.\n\nNa política nacional e na área médica, o ex-presidente Jair Bolsonaro permanece internado em uma unidade de cuidados intensivos em Brasília devido a uma obstrução abdominal. Segundo os médicos que o acompanham, a condição de saúde dele é considerada estável neste momento. Vale lembrar que o ex-presidente cumpre prisão domiciliar e possui um histórico recorrente de hospitalizações e cirurgias desde o atentado a faca sofrido no abdômen em anos anteriores, de acordo com a emissora France 24 América Latina.\n\nPassando para o cenário internacional e judicial dos Estados Unidos, a Justiça do Missouri aprovou um acordo coletivo histórico envolvendo a multinacional Bayer. A decisão prevê o pagamento de até sete bilhões e duzentos milhões de dólares ao longo de vinte e um anos para encerrar ações judiciais sobre o herbicida Roundup. O produto é acusado por milhares de pessoas de causar linfoma não Hodgkin, e a medida busca indenizar os expostos, conforme noticiou o portal Globo Rural.\n\nNo campo da ciência e das pesquisas farmacêuticas na Ásia, um estudo publicado em dois mil e vinte sobre um design de vacina para imunidade ampla contra o coronavírus foi recentemente retratado após o autor principal admitir a fabricação de dados no Reino Unido. Especialistas apontam que a retração representa um golpe para as pesquisas globais de imunização universal, embora a ciência fundamental que visa combater mutações continue sendo considerada robusta e independente, segundo o jornal South China Morning Post.\n\nAinda na Europa, milhares de pessoas tomaram as ruas de Zagreb para protestar contra a morte de um homem de trinta e dois anos em um hospital psiquiátrico na Croácia. A manifestação foi motivada pela divulgação de imagens de câmeras de segurança que revelaram falhas graves e geraram intensa comoção popular. Os manifestantes exigem justiça rigorosa para os responsáveis e uma fiscalização muito mais rígida sobre os tratamentos oferecidos em clínicas psiquiátricas do país, de acordo com publicações do South China Morning Post.\n\nNos Estados Unidos, o debate sobre saúde pública ganha destaque com discussões voltadas para a contenção de surtos de sarampo por meio do incentivo à vacinação com a tríplice viral. Especialistas apontam que a promoção ativa da imunização é o caminho mais seguro para proteger a população e manter o status de eliminação da doença no país. A discussão envolve autoridades sanitárias na tentativa de superar barreiras de hesitação e reforçar a importância das campanhas de prevenção, segundo a STAT News.\n\nPara fechar esta seção de saúde, cartas e opiniões de leitores publicadas na imprensa norte-americana colocaram em pauta a necessidade de urgência em reformular o ensino médico e o atendimento de emergência pediátrica. As discussões apontam que encurtar o tempo de formação e aprimorar a estrutura de socorro infantil são medidas essenciais para desafogar os hospitais e melhorar a qualidade do atendimento prestado à população, de acordo com a STAT News."
+ },
+ {
+  "id": "cultura",
+  "titulo": "Cultura",
+  "cor": "#4A2410",
+  "cor2": "#C2612B",
+  "itens": [
+   {
+    "titulo": "Mostra sobre Milton Santos no Rio",
+    "texto": "O Museu da História e da Cultura Afro-Brasileira, na zona portuária do Rio de Janeiro, exibe a mostra Milton Santos e Cidadania: um geógrafo negro pensando o Brasil e o mundo. Dividida em três eixos, a exibição apresenta o pensamento do intelectual com painéis informativos para o público. As visitas podem ser feitas até o dia três de janeiro, de terça a domingo, segundo a Agência Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-apresenta-legado-de-milton-santos-para-pensar-o-brasil"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "21/11 18h04",
+     "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-apresenta-legado-de-milton-santos-para-pensar-o-brasil",
+     "idioma": "pt",
+     "trecho": "O Museu da História e da Cultura Afro-Brasileira (Muhcab), que fica na região conhecida por Pequena África, na zona portuária da cidade do Rio de Janeiro, exibe a mostra…"
+    }
+   },
+   {
+    "titulo": "Christine Baranski no teatro londrino",
+    "texto": "A consagrada atriz Christine Baranski, conhecida por seus papéis no teatro e na televisão em produções de grande sucesso, retornou aos palcos do West End em Londres. A artista, que acumula importantes prêmios ao longo da carreira, destaca-se pela postura firme e segura diante de suas escolhas profissionais e artísticas. O momento marca mais um passo importante em sua trajetória nos palcos internacionais, de acordo com o El País América.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/smoda/famosos/2026-11-21/christine-baranski-doy-a-las-mujeres-un-consejo-no-pidais-disculpas.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "21/11 01h30",
+     "link": "https://elpais.com/smoda/famosos/2026-11-21/christine-baranski-doy-a-las-mujeres-un-consejo-no-pidais-disculpas.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "John Roberts e o sucesso de Bob's Burgers",
+    "texto": "O ator e comediante John Roberts celebra a boa fase da animação Bob's Burgers, que encerrou sua décima sexta temporada mantendo altos índices de audiência e bom humor. Conhecido por dar voz à personagem Linda Belcher, Roberts equilibra o trabalho na televisão com outros projetos humorísticos. A longevidade da série demonstra a força da comédia no cenário atual, segundo o The Verge.",
+    "regiao": "eua",
+    "fontes": [
+     "The Verge"
+    ],
+    "links": [
+     "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview"
+    ],
+    "citacao": {
+     "veiculo": "The Verge",
+     "quando": "21/11 13h00",
+     "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Possível coprodução entre Coreia e China",
+    "texto": "Coreia do Sul e China discutem uma reaproximação cultural após quase uma década de congelamento na exibição de filmes coreanos em território chinês. Um acordo firmado durante a cúpula da Cooperação Econômica da Ásia-Pacífico pode abrir espaço para produções conjuntas, começando por um filme histórico sobre combatentes coreanos em Xangai. A medida representa um avanço importante nas relações diplomáticas e artísticas asiáticas, segundo o Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10945133"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "22/11 03h13",
+     "link": "https://www.koreaherald.com/article/10945133",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Renovação na literatura latino-americana",
+    "texto": "A literatura da América Latina passa por um momento de profunda transformação com o protagonismo de novas gerações de escritoras e a exploração de temas contemporâneos. Entre os gêneros que ganham destaque estão a ficção fantástica e o terror, utilizados como ferramentas para decifrar a realidade do continente. A figura paterna também surge como um dos motes centrais nas novas obras publicadas na região, de acordo com o El País América.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/babelia/2026-11-21/america-latina-un-continente-en-constante-construccion.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "21/11 01h30",
+     "link": "https://elpais.com/babelia/2026-11-21/america-latina-un-continente-en-constante-construccion.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Melhores livros de negócios de 2026",
+    "texto": "O jornal Financial Times selecionou seis obras finalistas para o prêmio de melhor livro de negócios do ano, abordando temas como inteligência artificial, o impacto de medicamentos como o Ozempic e crises financeiras globais. O vencedor da premiação será oficialmente anunciado no mês de dezembro. A lista reflete os principais debates econômicos e tecnológicos do período, conforme informou o InfoMoney.",
+    "regiao": "brasil",
+    "fontes": [
+     "InfoMoney"
+    ],
+    "links": [
+     "https://www.infomoney.com.br/negocios/ia-ozempic-e-crises-financeiras-os-melhores-livros-de-negocios-de-2026-segundo-ft/"
+    ],
+    "citacao": {
+     "veiculo": "InfoMoney",
+     "quando": "21/11 16h42",
+     "link": "https://www.infomoney.com.br/negocios/ia-ozempic-e-crises-financeiras-os-melhores-livros-de-negocios-de-2026-segundo-ft/",
+     "idioma": "pt",
+     "trecho": "Jornal selecionou seis obras para disputar o prêmio de melhor livro de negócios do ano; vencedor será anunciado em dezembro The post IA, Ozempic e crises financeiras: os…"
+    }
+   },
+   {
+    "titulo": "Josefina Licitra vence o Prêmio Sor Juana",
+    "texto": "A escritora argentina Josefina Licitra foi distinguida com o prestigiado Prêmio Sor Juana Inés de la Cruz por sua obra Crac, que aborda o silêncio e as distâncias familiares geradas pelo exílio durante a ditadura. Durante entrevistas sobre o lançamento, a autora refletiu sobre o peso do poder nas relações entre pais e filhos. O reconhecimento consolida sua trajetória na literatura contemporânea de língua espanhola, segundo o El País América.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/babelia/2026-11-21/josefina-licitra-premio-sor-juana-ines-de-la-cruz-retirar-la-palabra-a-un-hijo-es-hacer-un-ejercicio-de-poder.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "21/11 01h30",
+     "link": "https://elpais.com/babelia/2026-11-21/josefina-licitra-premio-sor-juana-ines-de-la-cruz-retirar-la-palabra-a-un-hijo-es-hacer-un-ejercicio-de-poder.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguindo com a nossa programação, abrimos agora o espaço dedicado à cultura e às artes, trazendo os principais destaques que movimentam o cenário nacional e internacional nesta edição de domingo.\n\nPara começar, o Museu da História e da Cultura Afro-Brasileira, localizado na zona portuária do Rio de Janeiro, exibe atualmente a mostra Milton Santos e Cidadania: um geógrafo negro pensando o Brasil e o mundo. Dividida em três eixos temáticos, a exposição utiliza painéis explicativos para aproximar o público do vasto legado intelectual do geógrafo. Os visitantes podem conferir a exibição até o dia três de janeiro, com funcionamento de terça-feira a domingo, segundo a Agência Brasil.\n\nPassando para os palcos internacionais, a renomada atriz Christine Baranski retornou recentemente ao teatro com uma temporada no West End de Londres. A artista, que conquistou fama mundial na televisão e acumula importantes prêmios em sua trajetória artística, mantém uma postura firme sobre suas convicções e escolhas profissionais. Esse novo desafio nos palcos britânicos reafirma o talento de uma das grandes atrizes da atualidade, de acordo com o El País América.\n\nAinda no campo do entretenimento e da televisão, o ator e comediante John Roberts comemora o sucesso contínuo da série animada Bob's Burgers. Conhecido por emprestar sua voz à marcante personagem Linda Belcher, Roberts equilibra o trabalho na animação com outras produções humorísticas de destaque. A longevidade da série comprova a preferência do público por comédias bem estruturadas e de apelo familiar, segundo o The Verge.\n\nNa Ásia, as relações culturais entre Coreia do Sul e China ganham novos horizontes após um longo período de restrições para produções coreanas em território chinês. Um entendimento bilateral firmado durante a cúpula da Cooperação Econômica da Ásia-Pacífico pode viabilizar futuras coproduções entre os dois países vizinhos. A primeira obra cotada para estrear essa nova fase é um filme histórico sobre combatentes da liberdade, conforme informou o Korea Herald.\n\nA literatura latino-americana também vive um momento de renovação profunda com o protagonismo crescente de escritoras e a exploração de novas temáticas nas livrarias. Obras centradas na figura paterna e o uso de gêneros como o terror e a ficção fantástica ganham força para interpretar os dilemas da sociedade atual. Essa nova safra literária reconstrói a identidade cultural da região através de diferentes vozes criativas, de acordo com o El País América.\n\nNo mercado editorial de negócios, a tradicional seleção do jornal Financial Times apontou seis obras finalistas para o prêmio de livro do ano, com foco em temas como inteligência artificial, crises financeiras e o impacto econômico de medicamentos inovadores. O vencedor da disputa será revelado ao público no mês de dezembro. A lista reflete as principais transformações tecnológicas e mercadológicas que moldam a economia global, segundo o InfoMoney.\n\nPor fim, a literatura em língua espanhola celebra a premiação da escritora argentina Josefina Licitra com o prestigiado Prêmio Sor Juana Inés de la Cruz. A autora foi reconhecida pela obra Crac, um livro que aborda o peso do silêncio e as rupturas nas relações familiares afetadas pelo exílio durante o período de ditadura. O trabalho destaca-se pela profundidade psicológica e pelo rigor narrativo, segundo o El País América."
+ },
+ {
+  "id": "encerramento",
+  "titulo": "Resumo e agenda",
+  "cor": "#0B1F3A",
+  "cor2": "#3A4A63",
+  "itens": [
+   {
+    "titulo": "Encerramento e Destaques do Dia",
+    "texto": "Neste domingo, vinte e dois de novembro de dois mil e vinte e seis, acompanhamos os principais acontecimentos que movimentaram o Brasil e o mundo. Entre os pontos de maior destaque, o temporal em Tupanciretã, no Rio Grande do Sul, deixou quatro mortos e mobilizou a Força Nacional do Sistema Único de Saúde, que avalia a instalação de um posto médico na cidade. No cenário internacional, a trigésima primeira Conferência das Nações Unidas sobre Mudanças Climáticas entrou em prorrogação na Turquia, envolta em forte polêmica após a exclusão de menções aos combustíveis fósseis em uma das minutas do acordo. Na política americana, o presidente Donald Trump determinou que empreiteiras consultem a Casa Branca antes de responder a questionamentos do Congresso, medida que afeta a transparência institucional. Na Ásia, a Coreia do Sul enfrentou repercussões políticas após a renúncia do ministro da Educação em meio a um escândalo de fraude com inteligência artificial em exames nacionais. E, no setor de tecnologia, a União Europeia propôs a taxação do faturamento de grandes empresas digitais no orçamento de dois mil e vinte e oito a dois mil e trinta e quatro.",
+    "regiao": "global",
+    "fontes": [
+     "Agência Brasil",
+     "DW",
+     "El País",
+     "The Guardian",
+     "Canal Rural"
+    ],
+    "links": []
+   }
+  ],
+  "roteiro": "Chegamos ao final de mais uma edição do boletim Brasil e Mundo Hoje. Vamos relembrar os cinco pontos mais importantes de hoje. Sobe para quatro o número de mortos no Rio Grande do Sul após temporal severo em Tupanciretã, segundo a Agência Brasil. A Conferência das Nações Unidas sobre Mudanças Climáticas entrou em prorrogação na Turquia em meio a impasses e fortes críticas pela ausência de menções aos combustíveis fósseis, de acordo com a rede DW. Nos Estados Unidos, o presidente Donald Trump restringiu o controle do Congresso sobre contratos federais, segundo o jornal El País. Na Coreia do Sul, o ministro da Educação renunciou após um escândalo de fraude com inteligência artificial em exames universitários, conforme publicou o The Guardian. Por fim, a União Europeia propôs taxar em três por cento o faturamento de grandes empresas de tecnologia, segundo o Canal Rural.\n\nNas próximas horas, acompanhe o desfecho das negociações de última hora na Cúpula do Clima na Turquia e os desdobramentos da assistência médica emergencial em solo gaúcho.\n\nO boletim Brasil e Mundo Hoje é publicado todos os dias, às seis horas da manhã. Obrigado pela sua companhia e até a próxima."
+ }
+]
