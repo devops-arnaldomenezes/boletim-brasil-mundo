@@ -59,6 +59,10 @@ fontes:
   - {nome: "G1 Fato ou Fake", url: "https://g1.globo.com/rss/g1/fato-ou-fake/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [checagem], janela_horas: 72}
   - {nome: "Aos Fatos", url: "https://www.aosfatos.org/noticias/feed/", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [checagem], janela_horas: 72}
   - {nome: "Estadão Verifica", url: "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/estadao-verifica/?body=%7B%22layout%22:%22google-news%22%7D", regiao: brasil, idioma: pt, tipo: imprensa, categorias: [checagem], janela_horas: 72}
+  # Domingo 22/11/2026 saiu sem Checagem (checadores BR sem nada novo no fim de semana): reforço com signatárias
+  # da IFCN na Espanha, que publicam todo dia (validadas no Actions em 22/11). Em espanhol: vão ao ar só com IA.
+  - {nome: "Maldita.es", url: "https://maldita.es/feed/", regiao: europa, idioma: es, tipo: imprensa, categorias: [checagem], janela_horas: 72}
+  - {nome: "Newtral", url: "https://www.newtral.es/feed/", regiao: europa, idioma: es, tipo: imprensa, categorias: [checagem], janela_horas: 72}
 
   # ---------------- MULTILATERAIS / GLOBAL ----------------
   - {nome: "ONU News (PT)", url: "https://news.un.org/feed/subscribe/pt/news/all/rss.xml", regiao: global, idioma: pt, tipo: multilateral}
