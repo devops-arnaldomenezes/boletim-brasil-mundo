@@ -77,7 +77,9 @@ def deduplicar(noticias: list[Noticia]) -> list[Noticia]:
         for pal, outro in vistos:
             if palavras and pal and len(palavras & pal) / len(palavras | pal) > 0.6:
                 dup = True
-                outro.relevancia += 1  # citada por mais de uma fonte = mais relevante
+                if outro.fonte != n.fonte:  # citada por mais de uma fonte = mais relevante; mesma fonte (ex.: previsão
+                    outro.relevancia += 1   # do tempo do G1 para várias cidades) não conta como repercussão
+
                 break
         if not dup:
             vistos.append((palavras, n))

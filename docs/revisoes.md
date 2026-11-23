@@ -42,3 +42,26 @@ conferidos. Teste `test_citacao_corrige_link_digitado_errado_pela_ia`.
 
 A acompanhar: região pelo fato e não pela fonte (Iêmen como "europa"); Checagem fraca às segundas, porque os
 checadores quase não publicam no fim de semana e os itens de sexta já foram ao ar no sábado e no domingo.
+
+## 2026-11-23 (segunda)
+Edição: 81 itens (70 de notícia), 37,5 min, Gemini (0 falhas de IA), publicada às 06:00 com MP3 e MP4.
+
+| Checagem | Nota | Observação |
+|---|---|---|
+| Precisão (8 itens sorteados) | 7 | 6 fiéis à fonte (Meta/Índia, Chalmers/Austrália, Polônia/Rússia, biogás China–Argentina, streaming do Brics, Índia–Singapura). Bolsas asiáticas: "Hong Kong no nível mais baixo em dezenas de meses" não está na Euronews, que só diz que as bolsas "lutaram para se recuperar" ("despencam" exagera). Bessent/Huang: a frase "após ele próprio sugerir a contradição" deturpa a fonte (Bessent tinha pedido um CEO de fora da empresa). |
+| Equilíbrio | 4 | Brasil 20% (14 de 70), abaixo da meta de 30% pela 1ª vez (16 a 22/11: 30% a 41%); Europa 27%, Ásia 24%, EUA 20%, América Latina 7%, global 1%. Política sem nenhum item do Brasil; Checagem com 7 de 8 itens da Espanha (Maldita.es/Newtral, checadores BR sem nada novo no fim de semana); Seguros com 7 de 9 dos EUA. |
+| Fontes oficiais/multilaterais | 2 | 4 de 70 itens de notícia (6%), 15% contando os números do dia. Agência Gov, IBGE, FMI e STF seguem pausadas. |
+| Locução | 9 | Sem URLs nem markdown; dígitos só no bloco de números (sem IA). |
+| Resumo escrito | 8 | Conclusão primeiro, 2 a 4 frases por item. |
+
+Achado: a deduplicação somava relevância também para quase-duplicatas da mesma fonte. As 4 previsões do tempo do
+G1 (Brasília, Porto Alegre, Caxias do Sul, Joinville) viraram um item com relevância 4 (nota 7,0) e ganharam a 1ª vaga
+Brasil em Política, à frente de notícias reais; a IA descartou o item e a seção ficou sem Brasil. Isso ocorre quase
+todo dia (1 a 6 previsões por edição de 16 a 22/11).
+
+Mudança: `coletor.deduplicar` só soma relevância quando a duplicata vem de outra fonte (teste
+`test_deduplicacao_da_mesma_fonte_nao_aumenta_relevancia`).
+
+A acompanhar: participação do Brasil às segundas (fim de semana com pouca política nacional) e Checagem dominada por
+checadores espanhóis às segundas; se o Brasil ficar abaixo de 30% de novo, reforçar fontes BR de política (Poder360,
+Agência Câmara/Senado) antes de mexer em `PESO_REGIAO`.

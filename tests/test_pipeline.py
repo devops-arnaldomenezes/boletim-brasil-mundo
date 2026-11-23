@@ -29,6 +29,18 @@ def test_deduplicacao():
     assert len(coletor.deduplicar(ns + [copia])) == len(ns)
 
 
+def test_deduplicacao_da_mesma_fonte_nao_aumenta_relevancia():
+    # 23/11/2026: 4 previsões do tempo do G1 (uma por cidade) somaram relevância e ocuparam a 1ª vaga Brasil em Política
+    base = dict(resumo="", link="", regiao="brasil", idioma="pt", tipo="imprensa", publicado="")
+    cidades = ["Brasília (DF)", "Porto Alegre (RS)", "Joinville (SC)"]
+    ns = [coletor.Noticia(titulo=f"Previsão do tempo hoje para {c}: sol com algumas nuvens durante o dia",
+                          fonte="G1", **base) for c in cidades]
+    unicas = coletor.deduplicar(ns)
+    assert len(unicas) == 1 and unicas[0].relevancia == 0
+    outra = coletor.Noticia(titulo=ns[0].titulo, fonte="Folha", **base)
+    assert coletor.deduplicar([ns[0], outra])[0].relevancia == 1
+
+
 def test_extrair_json_tolera_texto_extra():
     assert _extrair_json('Aqui está:\n{"itens": [], "roteiro": "ok"}\nFim')["roteiro"] == "ok"
 
