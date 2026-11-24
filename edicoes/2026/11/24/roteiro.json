@@ -1,0 +1,1551 @@
+[
+ {
+  "id": "destaques",
+  "titulo": "Manchetes do dia",
+  "cor": "#0B1F3A",
+  "cor2": "#1F4E8C",
+  "itens": [
+   {
+    "titulo": "Câmara aprova texto-base e urgência de projeto de ajuste fiscal",
+    "texto": "A Câmara dos Deputados aprovou o regime de urgência e o texto-base de um projeto de lei complementar com medidas de ajuste fiscal para o próximo ano, segundo a Agência Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-urgencia-para-votacao-do-projeto-de-ajuste-fiscal",
+     "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-texto-base-do-projeto-de-ajuste-fiscal"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "23/11 19h59",
+     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-urgencia-para-votacao-do-projeto-de-ajuste-fiscal",
+     "idioma": "pt",
+     "trecho": "A Câmara dos Deputados aprovou nesta segunda-feira (23) o requerimento de urgência para a votação do projeto de Lei Complementar (PLP) 299/26, que trata de medidas de…"
+    }
+   },
+   {
+    "titulo": "Governo libera centenas de milhões em créditos para diversas áreas",
+    "texto": "Novas leis publicadas no Diário Oficial da União destinam recursos extras para ações de segurança pública, saúde, transporte e compensações em Roraima, conforme informou a Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-libera-r-420-milhoes-para-acoes-de-seguranca-publica-e-transporte",
+     "https://www12.senado.leg.br/noticias/materias/2026/11/23/ministerios-terao-r-115-milhoes-para-compensar-roraima-por-migracao"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "23/11 15h32",
+     "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-libera-r-420-milhoes-para-acoes-de-seguranca-publica-e-transporte",
+     "idioma": "pt",
+     "trecho": "Foi publicada, no Diário Oficial da União (DOU) desta segunda-feira (23), a lei que destina R$ 420 milhões para vários ministérios e órgãos do governo."
+    }
+   },
+   {
+    "titulo": "Jensen Huang retorna ao cargo de presidente-executivo da Nvidia",
+    "texto": "O conselho de administração da empresa Nvidia reverteu uma decisão anterior e recolocou Jensen Huang no comando da gigante tecnológica, após articulação relatada pela France 24.",
+    "regiao": "europa",
+    "fontes": [
+     "France 24"
+    ],
+    "links": [
+     "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo"
+    ],
+    "citacao": {
+     "veiculo": "France 24",
+     "quando": "23/11 19h10",
+     "link": "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Bom dia! Seja bem-vindo ao Brasil e Mundo Hoje. Nesta terça-feira, vinte e quatro de novembro de dois mil e vinte e seis, trago os principais destaques que movimentam o cenário político e econômico de agora.\n\nPara começar, a Câmara dos Deputados deu passos decisivos na noite de ontem rumo ao equilíbrio das contas públicas. Os parlamentares aprovaram o regime de urgência e o texto-base de um projeto de lei complementar focado em medidas de ajuste fiscal para o ano que vem, de acordo com a Agência Brasil.\n\nEnquanto isso, o Diário Oficial da União trouxe a sanção de novas normas que liberam centenas de milhões de reais em créditos para diferentes setores. Entre os repasses, destacam-se verbas voltadas para a segurança pública, transporte, saúde e o apoio a ministérios que lidam com o fluxo migratório em Roraima, segundo a Agência Senado.\n\nE no noticiário internacional, uma reviravolta no mercado tecnológico chamou a atenção dos investidores globais. O conselho de administração da empresa Nvidia voltou atrás e reinstalou Jensen Huang como presidente e executivo máximo da companhia, conforme informou a France 24.\n\nFique com a gente. Logo mais traremos todos os detalhes destas e de outras notícias do Brasil e do mundo."
+ },
+ {
+  "id": "numeros",
+  "titulo": "Números e agenda do dia",
+  "cor": "#0B1F3A",
+  "cor2": "#7A5A12",
+  "itens": [
+   {
+    "titulo": "Dólar comercial: R$ 5,9708",
+    "texto": "Dólar comercial a R$ 5,9708 na cotação de venda de 23/11, alta de 1,39% sobre o dia anterior.",
+    "regiao": "brasil",
+    "fontes": [
+     "Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ],
+    "imagem": "_midia/_trabalho/grafico_dolar.png"
+   },
+   {
+    "titulo": "Euro: R$ 6,5076",
+    "texto": "Euro a R$ 6,5076 na cotação de venda de 23/11, alta de 0,62% sobre o dia anterior.",
+    "regiao": "brasil",
+    "fontes": [
+     "Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ],
+    "imagem": "_midia/_trabalho/grafico_euro.png"
+   },
+   {
+    "titulo": "Meta da Selic: 13,75%",
+    "texto": "Meta da Selic em 13,75% (dado de 24/11).",
+    "regiao": "brasil",
+    "fontes": [
+     "Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ]
+   },
+   {
+    "titulo": "Inflação (IPCA) em 12 meses: 4,63%",
+    "texto": "Inflação (IPCA) em 12 meses em 4,63% (referente a 10/2026).",
+    "regiao": "brasil",
+    "fontes": [
+     "IBGE, via Banco Central"
+    ],
+    "links": [
+     "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+    ]
+   },
+   {
+    "titulo": "Câmara dos Deputados: sessão não deliberativa solene às 11h00",
+    "texto": "Câmara dos Deputados: sessão não deliberativa solene às 11h00.",
+    "regiao": "brasil",
+    "fontes": [
+     "Câmara dos Deputados"
+    ],
+    "links": [
+     "https://www.camara.leg.br/agenda"
+    ]
+   },
+   {
+    "titulo": "Câmara dos Deputados: sessão não deliberativa solene às 09h00",
+    "texto": "Câmara dos Deputados: sessão não deliberativa solene às 09h00.",
+    "regiao": "brasil",
+    "fontes": [
+     "Câmara dos Deputados"
+    ],
+    "links": [
+     "https://www.camara.leg.br/agenda"
+    ]
+   },
+   {
+    "titulo": "Câmara dos Deputados: sessão deliberativa às 13h55",
+    "texto": "Câmara dos Deputados: sessão deliberativa às 13h55.",
+    "regiao": "brasil",
+    "fontes": [
+     "Câmara dos Deputados"
+    ],
+    "links": [
+     "https://www.camara.leg.br/agenda"
+    ]
+   },
+   {
+    "titulo": "Senado: sessão especial às 10h00",
+    "texto": "Senado: sessão especial às 10h00.",
+    "regiao": "brasil",
+    "fontes": [
+     "Senado Federal"
+    ],
+    "links": [
+     "https://www25.senado.leg.br/web/atividade/agenda"
+    ]
+   },
+   {
+    "titulo": "Senado: sessão deliberativa ordinária às 14h00",
+    "texto": "Senado: sessão deliberativa ordinária às 14h00.",
+    "regiao": "brasil",
+    "fontes": [
+     "Senado Federal"
+    ],
+    "links": [
+     "https://www25.senado.leg.br/web/atividade/agenda"
+    ]
+   }
+  ],
+  "roteiro": "Agora, os números do dia. O dólar comercial fechou a 5,97 reais, alta de 1,39% sobre o dia anterior, segundo o Banco Central. O euro fechou a 6,51 reais, alta de 0,62% sobre o dia anterior, segundo o Banco Central. A meta da taxa Selic está em 13,75 por cento ao ano, segundo o Banco Central. A inflação oficial, medida pelo IPCA, acumula 4,63 por cento em doze meses, segundo o IBGE. Na agenda de hoje em Brasília: sessão não deliberativa solene às 11h00 na Câmara dos Deputados; sessão não deliberativa solene às 09h00 na Câmara dos Deputados; sessão deliberativa às 13h55 na Câmara dos Deputados; sessão especial às 10h00 no Senado; sessão deliberativa ordinária às 14h00 no Senado."
+ },
+ {
+  "id": "politica",
+  "titulo": "Política",
+  "cor": "#4A1D2B",
+  "cor2": "#A23B4F",
+  "itens": [
+   {
+    "titulo": "Deputados aprovam urgência para projeto do ajuste fiscal",
+    "texto": "A Câmara dos Deputados aprovou a urgência do projeto de ajuste fiscal que prevê economia para atingir superávit primário de cerca de dezoito bilhões e setecentos milhões de reais em dois mil e vinte e sete. Segundo a Agência Câmara, o governo precisará economizar cerca de setenta bilhões e seiscentos milhões de reais em comparação com o ano anterior.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Câmara"
+    ],
+    "links": [
+     "https://www.camara.leg.br/noticias/1322096-deputados-aprovam-urgencia-para-projeto-do-ajuste-fiscal-acompanhe"
+    ],
+    "citacao": {
+     "veiculo": "Agência Câmara",
+     "quando": "23/11 19h52",
+     "link": "https://www.camara.leg.br/noticias/1322096-deputados-aprovam-urgencia-para-projeto-do-ajuste-fiscal-acompanhe",
+     "idioma": "pt",
+     "trecho": "Vinicius Loures / Câmara dos Deputados Sessão deliberativa do Plenário A Câmara dos Deputados aprovou há pouco a urgência do projeto de ajuste fiscal (Projeto de Lei…"
+    }
+   },
+   {
+    "titulo": "Plenário vota criação da Força Nacional do SUS nesta quarta-feira",
+    "texto": "O Senado pode votar um projeto de lei que institui de forma permanente a Força Nacional do Sistema Único de Saúde, estrutura destinada a atuar em emergências e calamidades públicas. Conforme a Agência Senado, a proposta é o primeiro item da pauta da sessão deliberativa.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/materias/2026/11/23/plenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "23/11 15h37",
+     "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/plenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira",
+     "idioma": "pt",
+     "trecho": "O Senado pode votar nesta quarta-feira (25) um projeto de lei que institui de forma permanente a Força Nacional do Sistema Único de Saúde (FN-SUS), estrutura destinada a…"
+    }
+   },
+   {
+    "titulo": "Comissão Europeia apresenta vigésimo segundo pacote de sanções contra a Rússia",
+    "texto": "A União Europeia apresentou um novo pacote de sanções com o objetivo de manter a pressão sobre Moscou e enfraquecer a capacidade de financiamento da guerra na Ucrânia. De acordo com a Comissão Europeia, a medida busca assegurar o apoio contínuo a Kiev.",
+    "regiao": "europa",
+    "fontes": [
+     "Comissão Europeia"
+    ],
+    "links": [
+     "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2563"
+    ],
+    "citacao": {
+     "veiculo": "Comissão Europeia",
+     "quando": "23/11 08h51",
+     "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2563",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Tribunal de apelações dos Estados Unidos abre caminho para anular condenação de Donald Trump",
+    "texto": "Uma decisão judicial transferiu o caso de suborno envolvendo o presidente Donald Trump para uma corte federal, onde ele poderá buscar a anulação das acusações com base na imunidade presidencial. Segundo a PBS NewsHour, o processo representa uma nova reviravolta jurídica.",
+    "regiao": "eua",
+    "fontes": [
+     "PBS NewsHour"
+    ],
+    "links": [
+     "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction"
+    ],
+    "citacao": {
+     "veiculo": "PBS NewsHour",
+     "quando": "23/11 18h54",
+     "link": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "ONU alerta que guerra em Gaza desfez setenta e sete anos de desenvolvimento humano",
+    "texto": "A Organização das Nações Unidas apelou por renovado apoio internacional para a solução de dois Estados no conflito entre israelenses e palestinos. Segundo a ONU News, os palestinos continuam enfrentando violência e condições de vida severas.",
+    "regiao": "global",
+    "fontes": [
+     "UN News"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/en/story/2026/11/1168862"
+    ],
+    "citacao": {
+     "veiculo": "UN News",
+     "quando": "23/11 09h00",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168862",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Espanha expulsa líder de facção criminosa que ameaçou o presidente do Equador",
+    "texto": "A Polícia Nacional da Espanha deteve e entregou às autoridades equatorianas William Joffre Alcívar Bautista, apontado como chefe da organização criminosa Los Tiguerones. De acordo com o jornal El País América, o criminoso mantinha ameaças contra o mandatário equatoriano.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/espana/2026-11-23/espana-expulsa-al-cabecilla-de-los-tiguerones-que-tenia-amenazado-al-presidente-de-ecuador.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "23/11 09h09",
+     "link": "https://elpais.com/espana/2026-11-23/espana-expulsa-al-cabecilla-de-los-tiguerones-que-tenia-amenazado-al-presidente-de-ecuador.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Indonésia acusa ex-chefe de polícia de traição contra o presidente",
+    "texto": "Autoridades da Indonésia formalizaram acusações contra um ex-chefe de polícia por crimes de traição e ações destinadas a enfraquecer o governo. Segundo o jornal The Japan Times, as investigações envolvem escutas telefônicas ilegais contra autoridades e ativistas.",
+    "regiao": "asia",
+    "fontes": [
+     "The Japan Times"
+    ],
+    "links": [
+     "https://www.japantimes.co.jp/news/2026/11/24/asia-pacific/crime-legal/indonesia-ex-police-chief-treason/"
+    ],
+    "citacao": {
+     "veiculo": "The Japan Times",
+     "quando": "24/11 00h04",
+     "link": "https://www.japantimes.co.jp/news/2026/11/24/asia-pacific/crime-legal/indonesia-ex-police-chief-treason/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Apenas sete por cento das mulheres sobreviventes de violência buscam a polícia, aponta ONU",
+    "texto": "Um relatório da agência ONU Mulheres revelou que a baixa notificação de agressões decorre de falhas estruturais no sistema de justiça. Conforme a agência ONU News, cerca de uma em cada três mulheres no mundo sofre algum tipo de violência ao longo da vida.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854983"
+    ],
+    "citacao": {
+     "veiculo": "ONU News (PT)",
+     "quando": "23/11 09h00",
+     "link": "https://news.un.org/feed/view/pt/story/2026/11/1854983",
+     "idioma": "pt",
+     "trecho": "Relatório da ONU Mulheres mostra que baixa notificação se baseia em falhas do sistema de justiça desde a queixa ao julgamento; em todo o mundo quase 1 em cada 3 mulheres…"
+    }
+   }
+  ],
+  "roteiro": "Seguimos agora com os principais destaques da política nacional e internacional nesta terça-feira, vinte e quatro de novembro de dois mil e vinte e seis.\n\nNa política econômica do país, a Câmara dos Deputados aprovou a urgência do projeto de ajuste fiscal que prevê economia para atingir um superávit primário de cerca de dezoito bilhões e setecentos milhões de reais em dois mil e vinte e sete. Segundo a Agência Câmara, o governo precisará realizar um esforço expressivo de economia para compensar o resultado deficitário do período anterior, consolidando as bases fiscais para o próximo ano.\n\nEm outra frente legislativa importante no Congresso Nacional, o Senado Federal pautou para votação a criação permanente da Força Nacional do Sistema Único de Saúde. De acordo com a Agência Senado, a estrutura tem como objetivo garantir uma resposta rápida e coordenada em situações de emergência sanitária e calamidade pública em todo o território nacional.\n\nPassando para o cenário internacional na Europa, a Comissão Europeia apresentou um novo pacote de sanções econômicas contra a Rússia. Segundo o bloco europeu, a medida visa manter a pressão internacional sobre Moscou e desestabilizar a capacidade financeira do país para sustentar o conflito na Ucrânia.\n\nNos Estados Unidos, os desdobramentos judiciais envolvendo o cenário político ganharam novos contornos após uma decisão de um tribunal de apelações. De acordo com a PBS NewsHour, a medida abriu um caminho legal para que a defesa do presidente Donald Trump busque anular uma condenação anterior com base em argumentos de imunidade.\n\nNo Oriente Médio e nos fóruns multilaterais, a Organização das Nações Unidas alertou para o impacto devastador do conflito prolongado na região. Segundo a ONU News, a instabilidade contínua comprometeu décadas de avanços sociais e humanitários, reforçando a urgência de retomar negociações diplomáticas para uma solução duradoura.\n\nNa América Latina, a cooperação policial internacional resultou na captura e expulsão de lideranças ligadas ao crime organizado. Conforme noticiou o jornal El País América, as autoridades espanholas deportaram para o Equador um chefe faccionado que havia feito ameaças diretas contra a segurança do presidente equatoriano.\n\nNa Ásia, a instabilidade institucional ganhou destaque na Indonésia com o avanço de investigações criminais de alta gravidade. Segundo o jornal The Japan Times, um ex-chefe de polícia foi formalmente acusado de traição e envolvimento em esquemas de espionagem contra membros do governo e da sociedade civil.\n\nPor fim, um levantamento divulgado pelas Nações Unidas chamou atenção para os desafios globais no combate à violência de gênero. De acordo com a agência ONU News, apenas sete por cento das mulheres sobreviventes buscam auxílio policial, evidenciando graves lacunas no sistema de proteção e justiça em escala mundial."
+ },
+ {
+  "id": "economia",
+  "titulo": "Economia e Mercados",
+  "cor": "#0E3B2E",
+  "cor2": "#1E7A5A",
+  "itens": [
+   {
+    "titulo": "Câmara aprova urgência e texto-base de ajuste fiscal",
+    "texto": "A Câmara dos Deputados aprovou o regime de urgência e o texto-base do projeto de lei complementar que estabelece medidas de ajuste fiscal para as contas públicas. O texto, que veio do Senado, busca garantir economia para atingir a meta de superávit primário prevista para o próximo ano. A votação ocorreu em plenário sem passar por comissões, segundo a Agência Brasil e a Agência Câmara.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil",
+     "Agência Câmara"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-urgencia-para-votacao-do-projeto-de-ajuste-fiscal",
+     "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-texto-base-do-projeto-de-ajuste-fiscal",
+     "https://www.camara.leg.br/noticias/1322096-deputados-aprovam-urgencia-para-projeto-do-ajuste-fiscal-acompanhe"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "23/11 19h59",
+     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-urgencia-para-votacao-do-projeto-de-ajuste-fiscal",
+     "idioma": "pt",
+     "trecho": "A Câmara dos Deputados aprovou nesta segunda-feira (23) o requerimento de urgência para a votação do projeto de Lei Complementar (PLP) 299/26, que trata de medidas de…"
+    }
+   },
+   {
+    "titulo": "Retorno de Jensen Huang à Nvidia impulsiona bolsas asiáticas",
+    "texto": "O retorno surpresa de Jensen Huang ao cargo de diretor executivo da Nvidia provocou forte alta nos mercados acionários da Ásia. Na Coreia do Sul, o índice Kospi disparou e acionou o mecanismo de interrupção temporária após valorização expressiva. As ações da empresa de tecnologia registraram ganhos expressivos em Wall Street na véspera, conforme o South China Morning Post.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/news/asia/east-asia/article/3375547/jensen-huangs-nvidia-return-buoys-south-korea-japan-stocks",
+     "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "23/11 23h55",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3375547/jensen-huangs-nvidia-return-buoys-south-korea-japan-stocks",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Tailândia e China fecham novas regras para exportação de durião",
+    "texto": "Os governos da Tailândia e da China estabeleceram um novo protocolo de saneamento e inspeção fitossanitária para as exportações do fruto durião. O acordo visa dar maior segurança e previsibilidade a um mercado avaliado em cinco bilhões de dólares, reduzindo barreiras comerciais na região, de acordo com o Ministério do Comércio tailandês citado pelo South China Morning Post.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/economy/china-economy/article/3375498/thailand-agrees-new-durian-export-rules-china-protect-us5-billion-trade"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "23/11 22h00",
+     "link": "https://www.scmp.com/economy/china-economy/article/3375498/thailand-agrees-new-durian-export-rules-china-protect-us5-billion-trade",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Banco Central Europeu amplia aceitação de ativos baseados em DLT",
+    "texto": "O Banco Central Europeu expandiu as regras de aceitação de ativos financeiros baseados em tecnologia de registro distribuído como garantia elegível no Eurosistema. A medida busca modernizar o sistema financeiro do bloco europeu e integrar inovações tecnológicas nas operações monetárias, segundo comunicado oficial da própria instituição.",
+    "regiao": "europa",
+    "fontes": [
+     "BCE / ECB"
+    ],
+    "links": [
+     "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html"
+    ],
+    "citacao": {
+     "veiculo": "BCE / ECB",
+     "quando": "23/11 07h00",
+     "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Setor global de seguros mantém lucratividade apesar de riscos",
+    "texto": "O mercado global de seguros registrou expansão nos prêmios de vida e de ramos elementares, mantendo resultados financeiros positivos em meio a pressões inflacionárias e eventos climáticos. A avaliação consta em relatório divulgado pela Organização para a Cooperação e Desenvolvimento Econômico, citada por portais especializados da Europa.",
+    "regiao": "europa",
+    "fontes": [
+     "Reinsurance News"
+    ],
+    "links": [
+     "https://www.scmp.com/news/asia/east-asia/article/3375547/jensen-huangs-nvidia-return-buoys-south-korea-japan-stocks",
+     "https://www.reinsurancene.ws/global-insurance-sector-sees-higher-premiums-and-strong-profitability-as-risk-pressures-persist-oecd-finds/"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "23/11 23h55",
+     "link": "https://www.scmp.com/news/asia/east-asia/article/3375547/jensen-huangs-nvidia-return-buoys-south-korea-japan-stocks",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Startup capta recursos para ligar inteligência artificial a carteiras de ações",
+    "texto": "A startup Supertake conseguiu captar vinte milhões de dólares para desenvolver uma tecnologia que permite a agentes de inteligência artificial transformar previsões econômicas de usuários em carteiras reais de ações. A ferramenta aproxima pequenos investidores do mercado financeiro sem a necessidade de escolha manual de ativos, de acordo com o TechCrunch.",
+    "regiao": "eua",
+    "fontes": [
+     "TechCrunch AI"
+    ],
+    "links": [
+     "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+    ],
+    "citacao": {
+     "veiculo": "TechCrunch AI",
+     "quando": "23/11 19h02",
+     "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Justiça dos Estados Unidos nega bloqueio a processo contra Kalshi",
+    "texto": "Um juiz federal rejeitou o pedido de medida cautelar apresentado pela Comissão de Negociação de Futuros de Commodities dos Estados Unidos para barrar uma investigação da procuradoria de Nova York contra a operadora de mercados de previsão Kalshi. O caso envolve a regulamentação desse tipo de plataforma financeira no país, segundo o Insurance Journal.",
+    "regiao": "eua",
+    "fontes": [
+     "Insurance Journal"
+    ],
+    "links": [
+     "https://www.insurancejournal.com/news/east/2026/11/24/893387.htm"
+    ],
+    "citacao": {
+     "veiculo": "Insurance Journal",
+     "quando": "24/11 03h00",
+     "link": "https://www.insurancejournal.com/news/east/2026/11/24/893387.htm",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Vamos agora aos principais destaques da economia e dos mercados nesta terça-feira, trazendo o que movimenta o dinheiro e os investimentos no Brasil e no exterior.\n\nNo cenário político e econômico brasileiro, a Câmara dos Deputados aprovou o regime de urgência e o texto-base do projeto de lei complementar que estabelece medidas de ajuste fiscal para as contas públicas. O texto, que veio do Senado Federal, busca garantir economia suficiente para atingir a meta de superávit primário prevista para o próximo ano. A votação ocorreu diretamente no plenário, sem a necessidade de tramitação prévia nas comissões da casa legislativa, segundo a Agência Brasil e a Agência Câmara.\n\nPassando para os mercados internacionais, o retorno surpresa de Jensen Huang ao cargo de diretor executivo da Nvidia provocou uma forte alta nas bolsas de valores da Ásia. Na Coreia do Sul, o principal índice acionário disparou e precisou acionar um mecanismo de interrupção temporária nas negociações após a forte valorização registrada no início do pregão. As ações da empresa de tecnologia já haviam acumulado ganhos expressivos em Wall Street na véspera da decisão corporativa, de acordo com o South China Morning Post.\n\nAinda no continente asiático, os governos da Tailândia e da China fecharam um novo acordo comercial envolvendo o setor agrícola. As autoridades estabeleceram um protocolo de saneamento e inspeção fitossanitária para as exportações do fruto conhecido como durião. A medida tem como objetivo principal dar maior segurança jurídica e previsibilidade a um mercado bilateral avaliado em cinco bilhões de dólares, reduzindo barreiras alfandegárias na região, segundo o Ministério do Comércio tailandês citado pelo South China Morning Post.\n\nNa Europa, o Banco Central Europeu decidiu ampliar as regras de aceitação de ativos financeiros baseados em tecnologia de registro distribuído, a chamada tecnologia de blocos, para servirem como garantia elegível no Eurosistema. A iniciativa busca modernizar o sistema financeiro do bloco europeu e integrar inovações tecnológicas nas operações monetárias diárias, conforme divulgou oficialmente a própria instituição financeira europeia.\n\nTambém no continente europeu, o setor global de seguros registrou expansão nos prêmios tanto no segmento de vida quanto em ramos elementares, mantendo resultados financeiros positivos em meio a pressões inflacionárias e eventos climáticos recentes. A avaliação sobre a resiliência do mercado segurador consta em um relatório divulgado pela Organização para a Cooperação e Desenvolvimento Econômico, segundo portais especializados da Europa.\n\nNos Estados Unidos, o mercado de tecnologia financeira ganhou novidades com a captação de recursos de uma nova empresa. A startup Supertake conseguiu levantar vinte milhões de dólares para desenvolver uma tecnologia que permite a agentes de inteligência artificial transformar previsões econômicas de usuários em carteiras reais de ações. A ferramenta pretende aproximar pequenos investidores do mercado financeiro sem exigir a escolha manual de ativos, de acordo com o TechCrunch.\n\nAinda no mercado norte-americano, a justiça federal rejeitou um pedido de medida cautelar apresentado pela agência reguladora de derivativos para barrar uma investigação da procuradoria de Nova York contra a operadora de mercados de previsão Kalshi. O caso envolve a disputa sobre a competência para regular e fiscalizar esse tipo emergente de plataforma financeira no país, segundo o Insurance Journal."
+ },
+ {
+  "id": "seguros",
+  "titulo": "Seguros e Corretoras",
+  "cor": "#3A3010",
+  "cor2": "#8C7426",
+  "itens": [
+   {
+    "titulo": "CNseg lança série de vídeos sobre solvência",
+    "texto": "A Confederação Nacional das Empresas de Seguros Gerais, Previdência Privada e Vida, Saúde Suplementar e Capitalização lançou uma série de cinco vídeos voltada para a solvência no mercado segurador. O material aborda a solidez financeira das companhias e a capacidade de honrar compromissos com segurados. A iniciativa busca fortalecer a confiança no setor diante de transformações tecnológicas e novas exigências econômicas, segundo o portal Sonho Seguro.",
+    "regiao": "brasil",
+    "fontes": [
+     "Sonho Seguro"
+    ],
+    "links": [
+     "https://www.sonhoseguro.com.br/2026/11/cnseg-lanca-serie-de-cinco-videos-sobre-solvencia-no-mercado-segurador/"
+    ],
+    "citacao": {
+     "veiculo": "Sonho Seguro",
+     "quando": "23/11 15h05",
+     "link": "https://www.sonhoseguro.com.br/2026/11/cnseg-lanca-serie-de-cinco-videos-sobre-solvencia-no-mercado-segurador/",
+     "idioma": "pt",
+     "trecho": "A solidez financeira das seguradoras e a capacidade de honrar compromissos com segurados, participantes de planos de previdência e detentores de títulos de capitalização…"
+    }
+   },
+   {
+    "titulo": "Susep debate impactos de eventos climáticos extremos",
+    "texto": "A Superintendência de Seguros Privados participou de um evento promovido pela Academia Nacional de Seguro e Previdência reunindo representantes públicos e do setor. Em pauta, os impactos dos eventos climáticos extremos no mercado de seguros brasileiro e a necessidade de adaptação das apólices. A discussão foi destacada pela Revista Cobertura como central para a sustentabilidade da atividade seguradora frente às mudanças do clima.",
+    "regiao": "brasil",
+    "fontes": [
+     "Revista Cobertura"
+    ],
+    "links": [
+     "https://www.revistacobertura.com.br/noticias/instituicoes/susep-debate-sobre-eventos-climaticos-extremos-e-seus-impactos-no-mercado-de-seguros/"
+    ],
+    "citacao": {
+     "veiculo": "Revista Cobertura",
+     "quando": "23/11 13h15",
+     "link": "https://www.revistacobertura.com.br/noticias/instituicoes/susep-debate-sobre-eventos-climaticos-extremos-e-seus-impactos-no-mercado-de-seguros/",
+     "idioma": "pt",
+     "trecho": "Evento promovido pela ANSP reuniu representantes do poder público e do setor segurador O post Susep debate sobre eventos climáticos extremos e seus impactos no mercado…"
+    }
+   },
+   {
+    "titulo": "Yelum e HDI Seguros mobilizam apoio no Rio Grande do Sul",
+    "texto": "O Grupo HDI, por meio das marcas Yelum e HDI Seguros, reforçou sua operação de pronto atendimento para auxiliar a população de Tupanciretã, no Rio Grande do Sul. A cidade foi atingida por um forte temporal que causou estragos na região central do estado. A mobilização visa prestar suporte rápido aos segurados e corretores locais, conforme publicou o portal Sonho Seguro.",
+    "regiao": "brasil",
+    "fontes": [
+     "Sonho Seguro"
+    ],
+    "links": [
+     "https://www.sonhoseguro.com.br/2026/11/yelum-e-hdi-seguros-reforcam-pronto-atendimento-e-mobilizam-apoio-a-populacao-de-tupancireta-rs/"
+    ],
+    "citacao": {
+     "veiculo": "Sonho Seguro",
+     "quando": "23/11 15h10",
+     "link": "https://www.sonhoseguro.com.br/2026/11/yelum-e-hdi-seguros-reforcam-pronto-atendimento-e-mobilizam-apoio-a-populacao-de-tupancireta-rs/",
+     "idioma": "pt",
+     "trecho": "Após o forte temporal que atingiu Tupanciretã, na região central do Rio Grande do Sul, na madrugada de sexta-feira (20), o Grupo HDI, por meio de suas marcas Yelum e HDI…"
+    }
+   },
+   {
+    "titulo": "Mercado global de títulos de catástrofe bate recorde",
+    "texto": "A emissão de títulos de catástrofe estruturados pela regra cento e quarenta e quatro A está a caminho de registrar um novo recorde anual em dois mil e vinte e seis. Diversas empresas, como a Beazley com sua emissão de duzentos milhões de dólares e a SafePoint com o fundo Nature Coast Re, buscam proteção contra riscos cibernéticos e tempestades. Os dados foram divulgados pelo portal especializado Artemis.",
+    "regiao": "global",
+    "fontes": [
+     "Artemis"
+    ],
+    "links": [
+     "https://www.artemis.bm/news/144a-catastrophe-bond-issuance-set-to-break-annual-issuance-record-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=144a-catastrophe-bond-issuance-set-to-break-annual-issuance-record-in-2026"
+    ],
+    "citacao": {
+     "veiculo": "Artemis",
+     "quando": "23/11 08h37",
+     "link": "https://www.artemis.bm/news/144a-catastrophe-bond-issuance-set-to-break-annual-issuance-record-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=144a-catastrophe-bond-issuance-set-to-break-annual-issuance-record-in-2026",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Regulador britânico aponta papel central do resseguro",
+    "texto": "A Autoridade de Regulamentação Prudencial do Reino Unido divulgou os resultados de seu teste de estresse dinâmico para o setor de seguros gerais. O levantamento revelou que o resseguro foi fundamental para absorver perdas catastróficas graves, reduzindo as perdas brutas em cerca de setenta e dois por cento. As informações são do site Reinsurance News.",
+    "regiao": "europa",
+    "fontes": [
+     "Reinsurance News"
+    ],
+    "links": [
+     "https://www.reinsurancene.ws/reinsurance-reduced-gross-losses-from-insurance-events-in-stress-test-by-72-pra/"
+    ],
+    "citacao": {
+     "veiculo": "Reinsurance News",
+     "quando": "23/11 14h00",
+     "link": "https://www.reinsurancene.ws/reinsurance-reduced-gross-losses-from-insurance-events-in-stress-test-by-72-pra/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Marsh lança seguro cibernético para o setor de aviação",
+    "texto": "A empresa de serviços profissionais Marsh anunciou o lançamento do Cyber Aviation, uma solução de seguro cibernético voltada especificamente para o setor aéreo. A medida responde à alta vulnerabilidade das companhias aéreas a ataques de resgate digital e interrupções de sistemas, devido à forte dependência de tecnologia operacional. A novidade foi veiculada pelo Reinsurance News.",
+    "regiao": "europa",
+    "fontes": [
+     "Reinsurance News"
+    ],
+    "links": [
+     "https://www.reinsurancene.ws/marsh-to-help-global-airlines-strengthen-protection-with-new-cyber-insurance-form/"
+    ],
+    "citacao": {
+     "veiculo": "Reinsurance News",
+     "quando": "23/11 13h00",
+     "link": "https://www.reinsurancene.ws/marsh-to-help-global-airlines-strengthen-protection-with-new-cyber-insurance-form/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Bancos sul-coreanos apoiam fornecedores de defesa",
+    "texto": "Três bancos da Coreia do Sul fecharam um acordo para fornecer cerca de oitocentos e vinte bilhões de wons, o equivalente a seiscentos e onze milhões de dólares, em empréstimos garantidos pelo governo para pequenos fornecedores militares. A iniciativa conta com a participação da Corporação de Seguro de Comércio da Coreia e visa financiar a produção diante do aumento de pedidos de exportação, segundo o jornal Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10947526"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "24/11 02h07",
+     "link": "https://www.koreaherald.com/article/10947526",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "OCDE destaca expansão e rentabilidade do setor segurador global",
+    "texto": "Os mercados de seguros em todo o mundo registraram expansão no último ano, com aumento na arrecadação de prêmios nos segmentos de vida e não vida. Segundo um relatório da Organização para Cooperação e Desenvolvimento Econômico, as seguradoras mantiveram resultados financeiros positivos apesar de pressões decorrentes de inflação de sinistros e riscos climáticos, conforme noticiou o Reinsurance News.",
+    "regiao": "europa",
+    "fontes": [
+     "Reinsurance News"
+    ],
+    "links": [
+     "https://www.reinsurancene.ws/global-insurance-sector-sees-higher-premiums-and-strong-profitability-as-risk-pressures-persist-oecd-finds/"
+    ],
+    "citacao": {
+     "veiculo": "Reinsurance News",
+     "quando": "23/11 10h00",
+     "link": "https://www.reinsurancene.ws/global-insurance-sector-sees-higher-premiums-and-strong-profitability-as-risk-pressures-persist-oecd-finds/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguimos agora com os principais destaques do mercado de seguros e corretoras, trazendo as movimentações financeiras, regulatórias e de atendimento no Brasil e no exterior.\n\nA Confederação Nacional das Empresas de Seguros Gerais, Previdência Privada e Vida, Saúde Suplementar e Capitalização lançou uma série de cinco vídeos dedicada à solvência no mercado segurador. O material aborda a solidez financeira das companhias e a capacidade de honrar compromissos com os segurados. A iniciativa busca fortalecer a confiança no setor diante de transformações tecnológicas e de novas exigências econômicas, de acordo com o portal Sonho Seguro.\n\nAinda no cenário nacional, a Superintendência de Seguros Privados participou de um evento promovido pela Academia Nacional de Seguro e Previdência que reuniu representantes públicos e do setor. Em pauta, os impactos dos eventos climáticos extremos no mercado de seguros brasileiro e a necessidade de adaptação das apólices. A discussão foi destacada pela Revista Cobertura como central para a sustentabilidade da atividade seguradora frente às mudanças do clima.\n\nNa frente de atendimento a sinistros, o Grupo HDI, por meio das marcas Yelum e HDI Seguros, reforçou sua operação de pronto atendimento para auxiliar a população de Tupanciretã, no Rio Grande do Sul. A cidade foi atingida por um forte temporal que causou estragos na região central do estado. A mobilização visa prestar suporte rápido aos segurados e corretores locais, conforme publicou o portal Sonho Seguro.\n\nMudando para o mercado internacional, a emissão de títulos de catástrofe estruturados pela regra cento e quarenta e quatro A está a caminho de registrar um novo recorde anual em dois mil e vinte e seis. Diversas empresas buscam proteção contra riscos cibernéticos e tempestades, com destaque para a Beazley e a SafePoint. Os dados sobre o avanço dessas operações foram divulgados pelo portal especializado Artemis.\n\nNa Europa, a Autoridade de Regulamentação Prudencial do Reino Unido divulgou os resultados de seu teste de estresse dinâmico para o setor de seguros gerais. O levantamento revelou que o resseguro foi fundamental para absorver perdas catastróficas graves, reduzindo as perdas brutas em cerca de setenta e dois por cento. As informações sobre o desempenho prudencial das empresas são do site Reinsurance News.\n\nAinda no continente europeu, a empresa de serviços profissionais Marsh anunciou o lançamento do Cyber Aviation, uma solução de seguro cibernético voltada especificamente para o setor aéreo. A medida responde à alta vulnerabilidade das companhias aéreas a ataques de resgate digital e interrupções de sistemas, devido à forte dependência de tecnologia operacional. A novidade corporativa foi veiculada pelo Reinsurance News.\n\nPassando para a Ásia, três grandes bancos da Coreia do Sul fecharam um acordo para fornecer cerca de oitocentos e vinte bilhões de wons em empréstimos garantidos pelo governo para pequenos fornecedores militares. A medida equivale a seiscentos e onze milhões de dólares e conta com a participação da Corporação de Seguro de Comércio da Coreia para financiar a produção diante do aumento de pedidos de exportação, segundo o jornal Korea Herald.\n\nPara fechar o panorama, os mercados de seguros em todo o mundo registraram expansão no último ano, com aumento na arrecadação de prêmios nos segmentos de vida e não vida. Segundo um relatório da Organização para Cooperação e Desenvolvimento Econômico, as seguradoras mantiveram resultados financeiros positivos apesar de pressões decorrentes de inflação de sinistros e riscos climáticos, conforme noticiou o Reinsurance News."
+ },
+ {
+  "id": "clima",
+  "titulo": "Clima e Meio Ambiente",
+  "cor": "#12361F",
+  "cor2": "#3E8E4F",
+  "itens": [
+   {
+    "titulo": "Crédito Extra para o Meio Ambiente",
+    "texto": "A Lei dezenas mil quinhentos e quarenta e oito abriu crédito especial de quatro milhões e oitocentos mil reais. Os recursos contemplam os Ministérios da Saúde e do Meio Ambiente e Mudança do Clima. A medida foi publicada no Diário Oficial da União conforme informou a Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-libera-r-4-8-mi-extras-para-tribunais-e-indenizacao-a-servidor-de-area-de-fronteira"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "23/11 14h57",
+     "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-libera-r-4-8-mi-extras-para-tribunais-e-indenizacao-a-servidor-de-area-de-fronteira",
+     "idioma": "pt",
+     "trecho": "A Lei 15.548, publicada no Diário Oficial da União desta segunda-feira (23), abre crédito especial de R$ 4,8 milhões para os Ministérios da Saúde e do Meio Ambiente e…"
+    }
+   },
+   {
+    "titulo": "Incentivo para Aquecedor Solar",
+    "texto": "A Comissão de Meio Ambiente analisa o projeto que cria um programa nacional de incentivo ao uso de aquecedores solares. O texto prevê a instalação obrigatória dos equipamentos em novas moradias populares. A iniciativa busca gerar economia de energia segundo a Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/audios/2026/11/cma-analisa-incentivo-para-aquecedor-solar-de-agua-em-casas-novas"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "23/11 18h01",
+     "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cma-analisa-incentivo-para-aquecedor-solar-de-agua-em-casas-novas",
+     "idioma": "pt",
+     "trecho": "A Comissão de Meio Ambiente (CMA) pode votar o projeto que cria o programa nacional de incentivo ao uso de aquecedores solares de água - Pronasol (PL 3.492/2023)."
+    }
+   },
+   {
+    "titulo": "Seguro Obrigatório para Carbono",
+    "texto": "Uma empresa brasileira de tecnologia climática anunciou um seguro obrigatório inédito para créditos de carbono. A parceria visa blindar emissões contra falhas e evitar riscos de greenwashing no mercado. O padrão de integridade do setor é elevado conforme destacou o portal CQCS.",
+    "regiao": "brasil",
+    "fontes": [
+     "CQCS"
+    ],
+    "links": [
+     "https://cqcs.com.br/noticia/greenline-anuncia-seguro-obrigatorio-para-creditos-de-carbono-e-eleva-integridade-no-mercado-de-ativos-ambientais/"
+    ],
+    "citacao": {
+     "veiculo": "CQCS",
+     "quando": "23/11 12h38",
+     "link": "https://cqcs.com.br/noticia/greenline-anuncia-seguro-obrigatorio-para-creditos-de-carbono-e-eleva-integridade-no-mercado-de-ativos-ambientais/",
+     "idioma": "pt",
+     "trecho": "Em parceria inédita com a AKAD Seguros e estruturada com a corretora Marsh, a climatech brasileira eleva o padrão de integridade e blindará 100% das suas emissões contra…"
+    }
+   },
+   {
+    "titulo": "Congresso e Unidades de Conservação",
+    "texto": "Especialistas apontam riscos para unidades de conservação com a formação do novo Congresso Nacional a partir de dois mil e vinte e sete. O Legislativo terá parlamentares com agendas contrárias às pautas ambientais. A situação impõe novos desafios ao governo federal segundo o portal Mongabay Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "Mongabay Brasil"
+    ],
+    "links": [
+     "https://brasil.mongabay.com/short-article/2026/11/novo-congresso-ameaca-futuro-de-unidades-de-conservacao-dizem-especialistas/"
+    ],
+    "citacao": {
+     "veiculo": "Mongabay Brasil",
+     "quando": "23/11 04h30",
+     "link": "https://brasil.mongabay.com/short-article/2026/11/novo-congresso-ameaca-futuro-de-unidades-de-conservacao-dizem-especialistas/",
+     "idioma": "pt",
+     "trecho": "Com a formação de novas bancadas no Congresso Nacional em 2027, ambientalistas apontam diversos riscos ao meio ambiente, o que impõe novos desafios ao governo federal."
+    }
+   },
+   {
+    "titulo": "Fracasso na Conferência do Clima",
+    "texto": "A trigésima primeira Conferência das Nações Unidas sobre Mudanças Climáticas terminou sem um acordo global inédito em dezessete anos. Delegações rejeitaram o texto final devido a impasses sobre combustíveis fósseis e financiamento. O evento ocorreu em Antália na Turquia segundo o veículo Insurance Journal.",
+    "regiao": "global",
+    "fontes": [
+     "Insurance Journal"
+    ],
+    "links": [
+     "https://www.insurancejournal.com/news/international/2026/11/23/893253.htm"
+    ],
+    "citacao": {
+     "veiculo": "Insurance Journal",
+     "quando": "23/11 07h06",
+     "link": "https://www.insurancejournal.com/news/international/2026/11/23/893253.htm",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Impacto de Rochas na Agricultura",
+    "texto": "Estudos recentes apontam que o uso de rochas esmagadas para capturar carbono na agricultura pode reduzir o crescimento das lavouras. Empresas de tecnologia investem somas milionárias nessa técnica de remoção de gases da atmosfera. O alerta foi repercutido pelo MIT Technology Review.",
+    "regiao": "eua",
+    "fontes": [
+     "MIT Technology Review"
+    ],
+    "links": [
+     "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
+    ],
+    "citacao": {
+     "veiculo": "MIT Technology Review",
+     "quando": "23/11 08h00",
+     "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Vieses em Registros Históricos",
+    "texto": "Pesquisadores descobriram que antigos registros climáticos da China podem conter vieses humanos em seus relatos de secas e cheias. Os documentos imperiais são vitais para reconstruir o clima histórico da região asiática. O estudo foi divulgado pelo South China Morning Post.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/news/china/science/article/3375453/chinas-historical-climate-records-could-be-skewed-human-bias-study-finds"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "23/11 23h00",
+     "link": "https://www.scmp.com/news/china/science/article/3375453/chinas-historical-climate-records-could-be-skewed-human-bias-study-finds",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Vamos agora seguir para a nossa seção de Clima e Meio Ambiente com os principais acontecimentos que movimentaram o setor no Brasil e ao redor do planeta.\n\nComeçando pelo cenário nacional, o governo federal liberou novos recursos para a área ambiental. A Lei dezenas mil quinhentos e quarenta e oito abriu um crédito especial de quatro milhões e oitocentos mil reais. Essa verba contempla diretamente os Ministérios da Saúde e do Meio Ambiente e Mudança do Clima. A medida entrou em vigor após publicação oficial e foi detalhada pela Agência Senado.\n\nAinda no âmbito legislativo brasileiro, a Comissão de Meio Ambiente analisa propostas voltadas à sustentabilidade residencial. Está em pauta o projeto que cria um programa nacional de incentivo ao uso de aquecedores solares de água. O texto prevê a instalação obrigatória desses equipamentos em novas moradias populares do programa Minha Casa, Minha Vida. A iniciativa busca gerar economia de energia para os consumidores segundo a Agência Senado.\n\nNo mercado de ativos ambientais do país, uma novidade busca trazer mais segurança jurídica. Uma empresa brasileira de tecnologia climática anunciou um seguro obrigatório inédito para créditos de carbono. A parceria foi estruturada para blindar emissões contra falhas na entrega e evitar riscos de greenwashing. Essa medida eleva consideravelmente a integridade do setor conforme noticiou o portal CQCS.\n\nContudo, o futuro da preservação enfrenta apreensão no campo político institucional. Especialistas apontam diversos riscos para as unidades de conservação com a nova composição do Congresso Nacional. A partir do próximo ano, o Legislativo contará com bancadas expressivas de perfil desfavorável às pautas verdes. O cenário impõe novos e complexos desafios ao governo federal segundo o portal Mongabay Brasil.\n\nPassando para os acontecimentos internacionais, a diplomacia climática global sofreu um revés histórico. A trigésima primeira Conferência das Nações Unidas sobre Mudanças Climáticas, realizada em Antália, terminou sem qualquer acordo principal. Pela primeira vez em dezessete anos, dezenas de nações rejeitaram o pacto final por considerá-lo brando demais com os combustíveis fósseis. O fracasso na cúpula gerou forte repercussão mundial segundo o Insurance Journal.\n\nNos Estados Unidos, debates científicos questionam métodos inovadores de geoengenharia. Pesquisas recentes indicam que o uso de rochas esmagadas para absorver carbono agrícola pode prejudicar o crescimento das plantações. Gigantes tecnológicos investem quantias milionárias nessa técnica para mitigar o aquecimento global. Os possíveis efeitos colaterais foram analisados pelo MIT Technology Review.\n\nFechando o giro de notícias na Ásia, um estudo revelou desafios na análise de dados climáticos seculares. Pesquisadores constataram que registros históricos imperiais na China podem apresentar distorções por viés humano. Esses documentos seculares sobre secas e enchentes são essenciais para modelar o clima do planeta. A pesquisa foi publicada pelo South China Morning Post."
+ },
+ {
+  "id": "tecnologia",
+  "titulo": "Tecnologia",
+  "cor": "#14254A",
+  "cor2": "#2F5DA8",
+  "itens": [
+   {
+    "titulo": "Novas funcionalidades no aplicativo Senado Digital",
+    "texto": "O aplicativo Senado Digital expandiu suas ferramentas para apoiar a atividade dos parlamentares e facilitar o acesso da sociedade ao Orçamento da União. O Prodasen incluiu módulos exclusivos para senadores e uma área de consulta pública de pagamentos. A atualização busca fortalecer a transparência na administração pública, segundo a Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/materias/2026/11/23/aplicativo-senado-digital-ganha-novas-funcionalidades-para-senadores-e-cidadaos"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "23/11 17h15",
+     "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/aplicativo-senado-digital-ganha-novas-funcionalidades-para-senadores-e-cidadaos",
+     "idioma": "pt",
+     "trecho": "O aplicativo Senado Digital teve suas funcionalidades ampliadas para apoiar a atividade parlamentar e facilitar o acesso da sociedade a informações sobre o Orçamento da…"
+    }
+   },
+   {
+    "titulo": "Inteligência artificial no setor de seguros no Brasil",
+    "texto": "Um estudo divulgado pela Susep aponta que oitenta por cento das empresas brasileiras de seguros já utilizam inteligência artificial. O foco principal é a inteligência artificial generativa para ganhos de produtividade. Apesar da ampla adoção, o impacto direto na receita ainda é limitado, com a maioria registrando aumento inferior a um por cento, segundo a fonte CQCS.",
+    "regiao": "brasil",
+    "fontes": [
+     "CQCS"
+    ],
+    "links": [
+     "https://cqcs.com.br/coluna/susep-lanca-estudo-sobre-educacao-securitaria/"
+    ],
+    "citacao": {
+     "veiculo": "CQCS",
+     "quando": "23/11 11h58",
+     "link": "https://cqcs.com.br/coluna/susep-lanca-estudo-sobre-educacao-securitaria/",
+     "idioma": "pt",
+     "trecho": "Nesse texto de novembro de 2026, temos as seguintes conclusões."
+    }
+   },
+   {
+    "titulo": "Jensen Huang retorna ao cargo de CEO da Nvidia",
+    "texto": "Jensen Huang foi readmitido como diretor-executivo da Nvidia após duas semanas de sua saída devido a um escândalo de suposto espionagem. O retorno ocorreu após intervenção do presidente americano Donald Trump junto ao conselho da empresa. A decisão gerou comemoração no mercado financeiro e alta nas ações de tecnologia na Europa, segundo a France 24.",
+    "regiao": "europa",
+    "fontes": [
+     "France 24"
+    ],
+    "links": [
+     "https://www.france24.com/en/nvidia-reinstates-huang-as-ceo-after-trump-intervention"
+    ],
+    "citacao": {
+     "veiculo": "France 24",
+     "quando": "23/11 16h34",
+     "link": "https://www.france24.com/en/nvidia-reinstates-huang-as-ceo-after-trump-intervention",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Investigação contra a Nvidia nos Estados Unidos",
+    "texto": "O senador democrata Chuck Schumer prometeu abrir uma investigação sobre o retorno de Jensen Huang à liderança da Nvidia. A medida ocorre em meio a crescentes preocupações de segurança nacional e suspeitas de irregularidades. A decisão do conselho da fabricante de chips também gerou debates sobre a liberdade de mercado, de acordo com a France 24.",
+    "regiao": "eua",
+    "fontes": [
+     "France 24"
+    ],
+    "links": [
+     "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe"
+    ],
+    "citacao": {
+     "veiculo": "France 24",
+     "quando": "23/11 16h53",
+     "link": "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Amazon adquire tecnologia da Decart por bilhões",
+    "texto": "A Amazon fechou a compra da tecnologia de otimização de inteligência artificial e da equipe de pesquisa da Decart por sete bilhões e quinhentos milhões de dólares. A aquisição faz parte dos preparativos da empresa para comercializar seus próprios chips Trainium. A movimentação acirra a competição no setor de infraestrutura tecnológica, segundo o TechCrunch AI.",
+    "regiao": "eua",
+    "fontes": [
+     "TechCrunch AI"
+    ],
+    "links": [
+     "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    ],
+    "citacao": {
+     "veiculo": "TechCrunch AI",
+     "quando": "23/11 14h14",
+     "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Relação da Malásia com a China e os Estados Unidos",
+    "texto": "O primeiro-ministro da Malásia, Anwar Ibrahim, afirmou que considera Pequim mais fácil de negociar do que Washington em questões tecnológicas. Segundo o líder asiático, a China nunca levantou objeções sobre a proximidade malaia com os Estados Unidos. As declarações foram dadas durante entrevista em Shenzhen antes de um encontro bilateral, de acordo com o South China Morning Post.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/week-asia/politics/article/3375516/malaysias-anwar-says-easier-deal-china-us-amid-tech-tensions"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "23/11 21h00",
+     "link": "https://www.scmp.com/week-asia/politics/article/3375516/malaysias-anwar-says-easier-deal-china-us-amid-tech-tensions",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Coreia do Sul adota cautela com ações da Anthropic",
+    "texto": "Gestores de ativos sul-coreanos estão mantendo uma postura cautelosa em relação aos investimentos na empresa Anthropic. O comportamento destasta com a forte adesão inicial registrada para outras empresas do setor tecnológico no mercado de capitais. A cautela reflete análises específicas sobre os riscos e a valorização das novas ferramentas de inteligência artificial, segundo o Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10947571"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "24/11 02h38",
+     "link": "https://www.koreaherald.com/article/10947571",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Coreia do Norte lança primeiro chatbot de inteligência artificial",
+    "texto": "A Coreia do Norte apresentou o seu primeiro sistema de inteligência artificial conversacional desenvolvido domesticamente. Batizado de Fonte de Sabedoria, o sistema foi criado por uma universidade local em parceria com uma empresa de software de Pyongyang. A ferramenta possui restrições severas e recusa responder a perguntas consideradas inadequadas pelo regime, segundo o South China Morning Post.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "24/11 03h00",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Nesta edição de tecnologia, vamos acompanhar as principais inovações institucionais no Brasil, os desdobramentos globais no mercado de semicondutores e os novos rumos da inteligência artificial ao redor do planeta.\n\nComeçando pelo cenário nacional, o aplicativo Senado Digital ampliou suas funcionalidades para apoiar a atividade parlamentar e facilitar o acesso da sociedade ao Orçamento da União. O órgão responsável pela tecnologia de processamento de dados no Senado incluiu ferramentas exclusivas para uso dos senadores e um módulo público para consulta de pagamentos. A atualização tem o objetivo de reforçar a transparência nos gastos públicos, segundo a Agência Senado.\n\nAinda no Brasil, um estudo divulgado pela Superintendência de Seguros Privados aponta o crescimento do uso de inteligência artificial no mercado segurador. Segundo a Confederação Nacional das Empresas de Seguros Gerais, oitenta por cento das empresas brasileiras já utilizam a tecnologia, com foco em inteligência artificial generativa. Embora os ganhos de produtividade variem, o impacto direto sobre a receita ainda é inferior a um por cento, de acordo com a fonte CQCS.\n\nMudando para o mercado internacional, a fabricante de chips Nvidia reinstalou Jensen Huang como diretor-executivo após uma reviravolta que envolveu contatos diretos do presidente americano com o conselho da empresa. Huang havia renunciado duas semanas antes devido a um escândalo de suposto espionagem industrial que derrubou as bolsas e gerou temores na economia. O retorno foi celebrado por funcionários e impulsionou as ações de tecnologia na Europa, segundo a France 24.\n\nEm desdobramento a esse caso nos Estados Unidos, a volta do executivo gerou reações no Congresso americano. O principal senador democrata, Chuck Schumer, prometeu abrir uma investigação sobre supostas irregularidades e preocupações de segurança nacional envolvendo a decisão. A interferência política no comando da empresa também reacendeu debates sobre as regras de mercado, segundo a France 24.\n\nAinda no setor de tecnologia norte-americano, a gigante Amazon anunciou a compra da tecnologia de otimização de inteligência artificial e da equipe de pesquisa da Decart. O valor da negociação é estimado em sete bilhões e quinhentos milhões de dólares, fortalecendo a infraestrutura da empresa para o lançamento de seus próprios chips. A aquisição demonstra a disputa acirrada entre as grandes corporações pelo domínio da inteligência artificial, de acordo com o TechCrunch Artificial Intelligence.\n\nCruzando para a Ásia, o primeiro-ministro da Malásia, Anwar Ibrahim, declarou que considera mais fácil negociar com a China do que com os Estados Unidos em meio às crescentes tensões tecnológicas. Segundo o líder malaio, Pequim nunca impôs restrições ou questionou a proximidade do país do Sudeste Asiático com os americanos. As declarações foram feitas durante uma entrevista antes de uma reunião bilateral, segundo o South China Morning Post.\n\nNo mercado financeiro asiático, gestores de ativos da Coreia do Sul adotam uma postura de cautela em relação às ações da Anthropic, desenvolvedora do chatbot Claude. A abordagem contrasta com o entusiasmo imediato demonstrado por fundos locais em outras ofertas públicas de empresas do setor. Os investidores avaliam com cautela os riscos regulatórios e de mercado para o novo ativo, segundo o Korea Herald.\n\nFechando o noticiário tecnológico, a Coreia do Norte apresentou o seu primeiro chatbot de inteligência artificial desenvolvido em território nacional. Nomeado de Fonte de Sabedoria, o sistema foi criado por uma instituição universitária de Pyongyang em parceria com desenvolvedores locais de software. Analistas apontam que a ferramenta possui travas de segurança rígidas e se recusa a responder a perguntas consideradas sem cultura pelo regime, segundo o South China Morning Post."
+ },
+ {
+  "id": "ia",
+  "titulo": "Inteligência Artificial",
+  "cor": "#2A1B4A",
+  "cor2": "#6A4FB3",
+  "itens": [
+   {
+    "titulo": "Comissão aprova auditoria de licitações com inteligência artificial",
+    "texto": "Uma nova proposta aprovada na Câmara dos Deputados prevê o monitoramento automatizado e contínuo das contratações públicas brasileiras por meio de sistemas de inteligência artificial. A medida visa dar mais transparência e rigor aos processos licitatórios do governo. Segundo a Agência Câmara, o projeto busca evitar fraudes e desperdícios de recursos públicos com o auxílio da tecnologia.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Câmara"
+    ],
+    "links": [
+     "https://www.camara.leg.br/noticias/1322046-comissao-aprova-auditoria-de-licitacoes-com-inteligencia-artificial"
+    ],
+    "citacao": {
+     "veiculo": "Agência Câmara",
+     "quando": "23/11 20h23",
+     "link": "https://www.camara.leg.br/noticias/1322046-comissao-aprova-auditoria-de-licitacoes-com-inteligencia-artificial",
+     "idioma": "pt",
+     "trecho": "Projeto prevê monitoramento automatizado e contínuo das contratações públicas"
+    }
+   },
+   {
+    "titulo": "Adoção de IA generativa cresce no setor de seguros brasileiro",
+    "texto": "Um estudo divulgado pela Superintendência de Seguros Privados aponta que oitenta por cento das empresas brasileiras já utilizam inteligência artificial, com forte foco em ferramentas generativas. Embora o impacto direto na receita ainda seja modesto em grande parte dos casos, os ganhos de produtividade são evidentes. De acordo com o portal CQCS, o mercado segurador busca novas formas de otimizar operações e ampliar resultados por meio da inovação.",
+    "regiao": "brasil",
+    "fontes": [
+     "CQCS"
+    ],
+    "links": [
+     "https://cqcs.com.br/coluna/susep-lanca-estudo-sobre-educacao-securitaria/"
+    ],
+    "citacao": {
+     "veiculo": "CQCS",
+     "quando": "23/11 11h58",
+     "link": "https://cqcs.com.br/coluna/susep-lanca-estudo-sobre-educacao-securitaria/",
+     "idioma": "pt",
+     "trecho": "Nesse texto de novembro de 2026, temos as seguintes conclusões."
+    }
+   },
+   {
+    "titulo": "ONU alerta para maior transferência de poder da história com IA",
+    "texto": "O secretário-geral das Nações Unidas pediu aos Estados membros que iniciem discussões urgentes sobre uma estrutura multilateral para gerenciar os riscos associados à inteligência artificial. Durante a cúpula sobre segurança tecnológica, a organização alertou que a ferramenta representa a maior transferência de poder na história da humanidade. Conforme a ONU News, falhas tecnológicas e ataques cibernéticos reforçam a necessidade de supervisão independente global.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854985"
+    ],
+    "citacao": {
+     "veiculo": "ONU News (PT)",
+     "quando": "23/11 09h00",
+     "link": "https://news.un.org/feed/view/pt/story/2026/11/1854985",
+     "idioma": "pt",
+     "trecho": "Cúpula da ONU sobre Segurança em Inteligência Artificial busca soluções para que todos os países consigam gerenciar riscos; líder das Nações Unidas defendeu criação de…"
+    }
+   },
+   {
+    "titulo": "Jensen Huang é reintegrado como CEO da Nvidia após reviravolta",
+    "texto": "O conselho de administração da Nvidia voltou atrás e readmitiu Jensen Huang como presidente e executivo chefe da companhia de tecnologia. A decisão ocorre poucos dias após o seu afastamento devido a uma polêmica envolvendo uma suposta espionagem e gerou forte reação nos mercados financeiros globais. Segundo a France 24, as ações da empresa dispararam trinta e dois por cento na bolsa e o presidente dos Estados Unidos, Donald Trump, celebrou publicamente o retorno.",
+    "regiao": "europa",
+    "fontes": [
+     "France 24"
+    ],
+    "links": [
+     "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo"
+    ],
+    "citacao": {
+     "veiculo": "France 24",
+     "quando": "23/11 19h10",
+     "link": "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Democratas americanos prometem investigar retorno de CEO da Nvidia",
+    "texto": "O senador americano Chuck Schumer anunciou que o partido democrata vai investigar possíveis irregularidades e preocupações de segurança nacional ligadas à volta de Jensen Huang ao comando da Nvidia. A movimentação política ocorre em meio ao apoio declaratório do presidente Donald Trump à gestão da empresa. De acordo com a France 24, o episódio intensifica o debate regulatório sobre a influência política no setor tecnológico americano.",
+    "regiao": "europa",
+    "fontes": [
+     "France 24"
+    ],
+    "links": [
+     "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe"
+    ],
+    "citacao": {
+     "veiculo": "France 24",
+     "quando": "23/11 16h53",
+     "link": "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Amazon adquire tecnologia de otimização de IA por bilhões",
+    "texto": "A gigante varejista Amazon fechou a compra da tecnologia de otimização de inteligência artificial e da equipe de pesquisa da empresa Decart por sete bilhões e quinhentos milhões de dólares. A aquisição faz parte da estratégia da companhia para fortalecer sua infraestrutura e preparar o terreno para a venda de seus próprios chips especializados. A informação foi veiculada pelo TechCrunch AI.",
+    "regiao": "eua",
+    "fontes": [
+     "TechCrunch AI"
+    ],
+    "links": [
+     "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    ],
+    "citacao": {
+     "veiculo": "TechCrunch AI",
+     "quando": "23/11 14h14",
+     "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Investidores sul-coreanos mantêm cautela com ações da Anthropic",
+    "texto": "Gestores de ativos da Coreia do Sul estão adotando uma postura prudente em relação aos papéis da desenvolvedora do chat inteligente Claude, contrastando com o entusiasmo recente em outras empresas do setor espacial. Vários fundos negociados em bolsa adicionaram ações da companhia logo após sua estreia na Nasdaq, mas o volume investido permanece moderado. Segundo o The Korea Herald, o comportamento reflete um olhar mais seletivo do mercado asiático para o segmento.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10947571"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "24/11 02h38",
+     "link": "https://www.koreaherald.com/article/10947571",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Coreia do Norte lança primeiro chatbot com restrições severas",
+    "texto": "A Coreia do Norte apresentou o seu primeiro assistente virtual baseado em inteligência artificial voltado ao público doméstico, batizado de Fonte de Sabedoria. O sistema foi desenvolvido conjuntamente por institutos de pesquisa e empresas de software locais para atuar dentro de rígidos padrões oficiais. Conforme análise de imagens de televisão estatal citada pelo South China Morning Post, o programa se recusa a responder a perguntas consideradas inadequadas pelo regime.",
+    "regiao": "asia",
+    "fontes": [
+     "South China Morning Post"
+    ],
+    "links": [
+     "https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions"
+    ],
+    "citacao": {
+     "veiculo": "South China Morning Post",
+     "quando": "24/11 03h00",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguimos agora com os principais destaques sobre inteligência artificial e o impacto da tecnologia nos governos, nos mercados globais e na geopolítica atual. Para começar o nosso giro informativo, o Congresso brasileiro deu um passo importante na fiscalização de gastos públicos usando a tecnologia.\n\nUma proposta recém aprovada na Câmara dos Deputados estabelece o monitoramento automatizado e contínuo das contratações do poder público com o uso de sistemas inteligentes. A medida tem como objetivo principal coibir fraudes e conferir maior transparência aos processos licitatórios do governo federal. Segundo a Agência Câmara, a iniciativa busca usar a inovação a favor da probidade administrativa.\n\nCresce também a presença da tecnologia no setor corporativo nacional, com destaque para o mercado de seguros e previdência privada no país. Um levantamento recente aponta que a grande maioria das empresas do setor já incorporou ferramentas avançadas em suas rotinas diárias. De acordo com o portal CQCS, embora os ganhos financeiros diretos ainda sejam modestos, a produtividade interna tem aumentado consideravelmente.\n\nEnquanto isso, no cenário internacional, as discussões sobre a regulamentação ganham urgência máxima diante dos riscos associados ao avanço tecnológico desenfreado. A Organização das Nações Unidas fez um apelo contundente para que os países membros criem marcos regulatórios multilaterais eficazes. Conforme a ONU News, o secretário-geral da entidade classificou o momento atual como a maior transferência de poder da história humana, exigindo supervisão rigorosa.\n\nAs turbulências do mercado financeiro global também dominaram o noticiário tecnológico nas últimas horas, especialmente no setor de semicondutores e grandes empresas. O conselho de administração da Nvidia voltou atrás em sua decisão e confirmou o retorno de Jensen Huang ao cargo de presidente e executivo chefe. Segundo a France 24, as ações da companhia dispararam na bolsa e o presidente americano celebrou o desfecho da crise.\n\nA reviravolta na fabricante de chips gerou forte repercussão política e chamou a atenção de legisladores em Washington nas últimas horas. Senadores democratas prometeram abrir investigações formais para apurar potenciais irregularidades e riscos à segurança nacional envolvendo a readmissão do executivo principal. De acordo com a France 24, o episódio coloca em evidência o intenso debate sobre a influência política no comando das gigantes de tecnologia.\n\nIndo para o mercado norte-americano de infraestrutura e computação em nuvem, grandes movimentações financeiras continuam moldando o setor de inteligência artificial. A Amazon fechou a compra da tecnologia de otimização de modelos e da equipe de pesquisa da Decart por um valor bilionário. A informação veiculada pelo TechCrunch AI detalha que o negócio serve para preparar a empresa para a comercialização de seus próprios chips especializados.\n\nNa Ásia, o comportamento dos investidores em relação às novas apostas do setor tecnológico mostra cautela por parte dos gestores locais. Fundos de investimento sul-coreanos adotaram uma postura comedida frente à recente estreia na bolsa de uma importante desenvolvedora de tecnologia generativa. Segundo o The Korea Herald, a cautela difere do apetite voraz demonstrado anteriormente por outros ativos de inovação.\n\nPara fechar o nosso bloco de inteligência artificial, novidades tecnológicas também chegam de regimes fechados no continente asiático. A Coreia do Norte apresentou oficialmente o seu primeiro assistente virtual doméstico de conversação, desenvolvido por institutos acadêmicos locais. Conforme reportado pelo South China Morning Post, o sistema possui travas severas de programação e se recusa a responder a perguntas consideradas impróprias pelas autoridades do país."
+ },
+ {
+  "id": "saude",
+  "titulo": "Saúde",
+  "cor": "#0B3B3F",
+  "cor2": "#1C8C8C",
+  "itens": [
+   {
+    "titulo": "Plenário do Senado vota criação da Força Nacional do SUS",
+    "texto": "O Senado pode votar nesta quarta-feira o projeto de lei que institui de forma permanente a Força Nacional do Sistema Único de Saúde. A estrutura é destinada a atuar em situações de emergência e calamidade pública que exijam resposta rápida dos serviços de saúde. A proposta consta como o primeiro item da pauta da sessão deliberativa do Plenário, segundo a Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/materias/2026/11/23/plenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "23/11 15h37",
+     "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/plenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira",
+     "idioma": "pt",
+     "trecho": "O Senado pode votar nesta quarta-feira (25) um projeto de lei que institui de forma permanente a Força Nacional do Sistema Único de Saúde (FN-SUS), estrutura destinada a…"
+    }
+   },
+   {
+    "titulo": "Ministério da Saúde repassa duzentos milhões para maternidades filantrópicas",
+    "texto": "O Ministério da Saúde informou ter iniciado o repasse de duzentos milhões de reais para maternidades de hospitais filantrópicos que atendem pacientes do Sistema Único de Saúde. O recurso vai beneficiar oitocentas e noventa e três instituições para ampliar o atendimento a gestantes, puérperas e recém-nascidos. O pagamento será feito em parcela única ainda este ano pelo Fundo Nacional de Saúde, de acordo com a Agência Brasil.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Brasil"
+    ],
+    "links": [
+     "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/saude-repassa-r-200-milhoes-para-maternidades-filantropicas"
+    ],
+    "citacao": {
+     "veiculo": "Agência Brasil",
+     "quando": "23/11 19h50",
+     "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/saude-repassa-r-200-milhoes-para-maternidades-filantropicas",
+     "idioma": "pt",
+     "trecho": "O Ministério da Saúde informou ter iniciado o repasse de R$ 200 milhões a maternidades de hospitais filantrópicos que atendem pacientes do Sistema Único de Saúde (SUS)."
+    }
+   },
+   {
+    "titulo": "Leis destinam quarenta e dois milhões de reais para saúde, cultura e ciência",
+    "texto": "Pacientes atendidos por hospitais e ambulatórios do Sistema Único de Saúde em nove estados vão contar com um reforço temporário no custeio que mantém o atendimento funcionando. Esse é um dos principais efeitos de uma das duas leis sancionadas pelo presidente da República que remanejam recursos do Orçamento. A medida distribui emendas parlamentares individuais como crédito suplementar, segundo a Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.lek.br/noticias/materias/2026/11/23/sancionadas-leis-que-destinam-r-42-milhoes-a-saude-cultura-e-ciencia"
+    ]
+   },
+   {
+    "titulo": "Combates na República Democrática do Congo atrapalham equipes de combate ao Ebola",
+    "texto": "Conflitos intensos perto de um hospital na província de Ituri, na República Democrática do Congo, perturbaram o trabalho vital de profissionais que respondem ao surto de Ebola. A situação obrigou as equipes de emergência a buscarem abrigo por mais de vinte e quatro horas, interrompendo o atendimento na região afetada, conforme relatou a Organização das Nações Unidas por meio de seu portal de notícias ONU News.",
+    "regiao": "global",
+    "fontes": [
+     "UN News"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/en/story/2026/11/1168858"
+    ],
+    "citacao": {
+     "veiculo": "UN News",
+     "quando": "23/11 09h00",
+     "link": "https://news.un.org/feed/view/en/story/2026/11/1168858",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Governo dos Estados Unidos estima economia de bilhões no Medicare",
+    "texto": "A administração norte-americana declarou que o governo federal economizará nove bilhões e duzentos milhões de dólares em medicamentos comprados por meio do programa de saúde Medicare no próximo ano. A redução nos gastos públicos é resultado direto da terceira rodada de negociações de preços conduzidas pelo Executivo com as empresas farmacêuticas, segundo informou a publicação especializada STAT News.",
+    "regiao": "eua",
+    "fontes": [
+     "STAT News"
+    ],
+    "links": [
+     "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss"
+    ],
+    "citacao": {
+     "veiculo": "STAT News",
+     "quando": "23/11 21h19",
+     "link": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Fundo Ibas completa vinte anos de cooperação entre Índia, Brasil e África do Sul",
+    "texto": "O Fundo Ibas celebra duas décadas de solidariedade transformando vontade política em resultados concretos no Sul Global. Em países de língua portuguesa, os projetos fortalecem comunidades em áreas vitais como saúde, agricultura e inovação em Timor-Leste, além de segurança hídrica e gestão de resíduos em outras nações parceiras, segundo informou o portal de notícias ONU News.",
+    "regiao": "global",
+    "fontes": [
+     "ONU News (PT)"
+    ],
+    "links": [
+     "https://news.un.org/feed/view/pt/story/2026/11/1854987"
+    ],
+    "citacao": {
+     "veiculo": "ONU News (PT)",
+     "quando": "23/11 09h00",
+     "link": "https://news.un.org/feed/view/pt/story/2026/11/1854987",
+     "idioma": "pt",
+     "trecho": "Fundo Ibas celebra duas décadas de solidariedade transformando vontade política em resultados concretos no Sul Global; em países lusófonos, projetos fortalecem…"
+    }
+   },
+   {
+    "titulo": "Seguradoras reforçam pronto atendimento após temporal no Rio Grande do Sul",
+    "texto": "Após o forte temporal que atingiu Tupanciretã, na região central do Rio Grande do Sul, na madrugada de sexta-feira, o Grupo HDI, por meio de suas marcas Yelum e HDI Seguros, reforçou a operação de pronto atendimento. A iniciativa busca prestar suporte imediato à população, aos segurados e aos corretores locais afetados pelos estragos climáticos, de acordo com as informações divulgadas pela fonte Sonho Seguro.",
+    "regiao": "brasil",
+    "fontes": [
+     "Sonho Seguro"
+    ],
+    "links": [
+     "https://www.sonhoseguro.com.br/2026/11/yelum-e-hdi-seguros-reforcam-pronto-atendimento-e-mobilizam-apoio-a-populacao-de-tupancireta-rs/"
+    ],
+    "citacao": {
+     "veiculo": "Sonho Seguro",
+     "quando": "23/11 15h10",
+     "link": "https://www.sonhoseguro.com.br/2026/11/yelum-e-hdi-seguros-reforcam-pronto-atendimento-e-mobilizam-apoio-a-populacao-de-tupancireta-rs/",
+     "idioma": "pt",
+     "trecho": "Após o forte temporal que atingiu Tupanciretã, na região central do Rio Grande do Sul, na madrugada de sexta-feira (20), o Grupo HDI, por meio de suas marcas Yelum e HDI…"
+    }
+   }
+  ],
+  "roteiro": "Abrimos agora o espaço dedicado às principais notícias da editoria de saúde no boletim de hoje. O Plenário do Senado pode votar nesta quarta-feira o projeto de lei que institui de forma permanente a Força Nacional do Sistema Único de Saúde. A estrutura é destinada a atuar em situações de emergência e calamidade pública que exijam resposta rápida dos serviços de saúde. A proposta consta como o primeiro item da pauta da sessão deliberativa do Plenário, segundo a Agência Senado.\n\nMudando de assunto para o apoio financeiro na área médica, o Ministério da Saúde informou ter iniciado o repasse de duzentos milhões de reais para maternidades de hospitais filantrópicos que atendem pacientes do Sistema Único de Saúde. O recurso vai beneficiar oitocentas e noventa e três instituições para ampliar o atendimento a gestantes, puérperas e recém-nascidos. O pagamento será feito em parcela única ainda este ano pelo Fundo Nacional de Saúde, de acordo com a Agência Brasil.\n\nAinda sobre investimentos no setor, pacientes atendidos por hospitais e ambulatórios do Sistema Único de Saúde em nove estados vão contar com um reforço temporário no custeio que mantém o atendimento funcionando. Esse é um dos principais efeitos de uma das duas leis sancionadas pelo presidente da República que remanejam recursos do Orçamento. A medida distribui emendas parlamentares individuais como crédito suplementar, segundo a Agência Senado.\n\nCuidando da segurança sanitária internacional, conflitos intensos perto de um hospital na província de Ituri, na República Democrática do Congo, perturbaram o trabalho vital de profissionais que respondem ao surto de Ebola. A situação obrigou as equipes de emergência a buscarem abrigo por mais de vinte e quatro horas, interrompendo o atendimento na região afetada, conforme relatou a Organização das Nações Unidas por meio de seu portal de notícias ONU News.\n\nPassando para os Estados Unidos, a administração norte-americana declarou que o governo federal economizará nove bilhões e duzentos milhões de dólares em medicamentos comprados por meio do programa de saúde Medicare no próximo ano. A redução nos gastos públicos é resultado direto da terceira rodada de negociações de preços conduzidas pelo Executivo com as empresas farmacêuticas, segundo informou a publicação especializada STAT News.\n\nAvançando para a cooperação internacional, o Fundo Ibas celebra duas décadas de solidariedade transformando vontade política em resultados concretos no Sul Global. Em países de língua portuguesa, os projetos fortalecem comunidades em áreas vitais como saúde, agricultura e inovação em Timor-Leste, além de segurança hídrica e gestão de resíduos em outras nações parceiras, segundo informou o portal de notícias ONU News.\n\nFechando esta seção com uma notícia de assistência regional, após o forte temporal que atingiu Tupanciretã, na região central do Rio Grande do Sul, na madrugada de sexta-feira, o Grupo HDI, por meio de suas marcas Yelum e HDI Seguros, reforçou a operação de pronto atendimento. A iniciativa busca prestar suporte imediato à população, aos segurados e aos corretores locais afetados pelos estragos climáticos, de acordo com as informações divulgadas pela fonte Sonho Seguro."
+ },
+ {
+  "id": "cultura",
+  "titulo": "Cultura",
+  "cor": "#4A2410",
+  "cor2": "#C2612B",
+  "itens": [
+   {
+    "titulo": "Projeto que reconhece axé music chega ao Senado",
+    "texto": "Está em análise no Senado um projeto de lei que reconhece a axé music como manifestação da cultura nacional. A proposta chegou à Casa após ser aprovada na Câmara dos Deputados no início do mês de novembro, conforme informou a Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-que-reconhece-axe-music-como-manifestacao-da-cultura-nacional-chega-ao-senado"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "23/11 17h47",
+     "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-que-reconhece-axe-music-como-manifestacao-da-cultura-nacional-chega-ao-senado",
+     "idioma": "pt",
+     "trecho": "Está em análise no Senado o projeto de lei que reconhece a axé music como manifestação da cultura nacional."
+    }
+   },
+   {
+    "titulo": "Coral do Senado é homenageado por 30 anos",
+    "texto": "Os trinta anos de história do Coral do Senado foram celebrados em uma sessão especial realizada nesta segunda-feira. Criado em mil novecentos e noventa e seis, o grupo reúne servidores, colaboradores e membros da comunidade com um repertório que inclui músicas eruditas, populares e folclóricas, segundo a Agência Senado.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Senado"
+    ],
+    "links": [
+     "https://www12.senado.leg.br/noticias/materias/2026/11/23/coral-do-senado-e-homenageado-por-30-anos-de-historia"
+    ],
+    "citacao": {
+     "veiculo": "Agência Senado",
+     "quando": "23/11 15h59",
+     "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/coral-do-senado-e-homenageado-por-30-anos-de-historia",
+     "idioma": "pt",
+     "trecho": "Os 30 anos do Coral do Senado foram comemorados em sessão especial nesta segunda-feira (23)."
+    }
+   },
+   {
+    "titulo": "Espanha sem prêmios nos Emmy Internacionais",
+    "texto": "Apesar de somar cinco indicações de destaque, incluindo a de melhor ator para Javier Cámara e de melhor minissérie para Anatomia de um Instante, a Espanha saiu de mãos vazias na entrega dos Prêmios Emmy Internacionais. O destaque da premiação foi a produção argentina Divisão Palermo, que levou o troféu de melhor comédia, de acordo com o jornal El País América.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/us/entretenimiento/2026-11-24/espana-se-va-con-las-manos-vacias-de-los-premios-emmy-internacionales-pese-a-sus-cinco-nominaciones.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "24/11 00h48",
+     "link": "https://elpais.com/us/entretenimiento/2026-11-24/espana-se-va-con-las-manos-vacias-de-los-premios-emmy-internacionales-pese-a-sus-cinco-nominaciones.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Camilo apresenta turnê e fala sobre carreira",
+    "texto": "O cantor colombiano Camilo visitou a Espanha para apresentar sua nova turnê e gravar um especial de Natal para a televisão. Em entrevista ao jornal El País América, o artista refletiu sobre sua trajetória na música desde os treze anos e a relação com sua família.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/gente/2026-11-23/camilo-cantante-incluso-en-los-dias-en-que-me-propongo-mostrar-mi-verdadero-yo-termino-poniendome-mascaras.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "23/11 01h30",
+     "link": "https://elpais.com/gente/2026-11-23/camilo-cantante-incluso-en-los-dias-en-que-me-propongo-mostrar-mi-verdadero-yo-termino-poniendome-mascaras.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Ensaio literario explora o feminismo gótico",
+    "texto": "O ensaio intitulado Feminismo Gótico resgata e reivindica a figura cultural da mulher vista como dissimulada, misteriosa ou desobediente dentro do gênero do terror. O lançamento cultural analisa o impacto de personagens femininas complexas na literatura e no cinema, segundo o El País América.",
+    "regiao": "latam",
+    "fontes": [
+     "El País América"
+    ],
+    "links": [
+     "https://elpais.com/cultura/2026-11-23/de-la-desquiciada-de-obsession-a-la-sudasangre-de-sanguine-la-reconquista-cultural-de-la-monstrua.html"
+    ],
+    "citacao": {
+     "veiculo": "El País América",
+     "quando": "23/11 01h30",
+     "link": "https://elpais.com/cultura/2026-11-23/de-la-desquiciada-de-obsession-a-la-sudasangre-de-sanguine-la-reconquista-cultural-de-la-monstrua.html",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Gisèle Pelicot processa editora por fotos em livro",
+    "texto": "A ativista francesa Gisèle Pelicot anunciou que vai tomar medidas legais após ter fotos suas sem roupas utilizadas sem permissão para promover o livro de um psicanalista sobre controle coercitivo. A ativista declarou estar profundamente chocada com a situação, de acordo com a rede France 24.",
+    "regiao": "europa",
+    "fontes": [
+     "France 24"
+    ],
+    "links": [
+     "https://www.france24.com/en/france/20261123-deeply-shocked-gis%C3%A8le-pelicot-sue-publisher-nude-photos-used-book-campaign"
+    ],
+    "citacao": {
+     "veiculo": "France 24",
+     "quando": "23/11 14h52",
+     "link": "https://www.france24.com/en/france/20261123-deeply-shocked-gis%C3%A8le-pelicot-sue-publisher-nude-photos-used-book-campaign",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "tokenId": "ted-lasso-season-5",
+    "titulo": "Apple renova a série Ted Lasso para a quinta temporada",
+    "texto": "A plataforma de streaming Apple TV anunciou a renovação da premiada série Ted Lasso para a quinta temporada. A decisão ocorre após o que a empresa classificou como uma estreia de quarta temporada com recorde de audiência, conforme informou o portal The Verge.",
+    "regiao": "eua",
+    "fontes": [
+     "The Verge"
+    ],
+    "links": [
+     "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv"
+    ],
+    "citacao": {
+     "veiculo": "The Verge",
+     "quando": "23/11 17h56",
+     "link": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Festival de Seul exibe filmes premiados em festivais",
+    "texto": "O festival CineCube Premiere Festival, na Coreia do Sul, vai exibir uma seleção de onze filmes de destaque internacional antes de seus lançamentos locais. A programação inclui produções como a comédia musical O Estreante e obras premiadas no cenário global, segundo o jornal Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10947462"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "24/11 01h22",
+     "link": "https://www.koreaherald.com/article/10947462",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Atriz coreana Park Ji-hyun nos Emmy Internacionais",
+    "texto": "A atriz Park Ji-hyun fez história ao se tornar a primeira sul-coreana indicada a um Prêmio Emmy Internacional por seu trabalho. A artista participou da quinquagésima quarta edição da premiação em Nova Iorque, que celebra produções televisivas de diversos países fora dos Estados Unidos, de acordo com o Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10947478"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "24/11 01h32",
+     "link": "https://www.koreaherald.com/article/10947478",
+     "idioma": "en",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Museu na Zona Desmilitarizada exibe itens da Guerra da Coreia",
+    "texto": "O Museu da Zona Desmilitarizada, localizado na província sul-coreana de Gangwon, mantém em exibição permanente peças históricas e memoriais sobre a Guerra da Coreia. Inaugurado em dois despachos e focado na memória do conflito, o espaço atrai visitantes interessados no período da Guerra Fria, segundo o Korea Herald.",
+    "regiao": "asia",
+    "fontes": [
+     "Korea Herald"
+    ],
+    "links": [
+     "https://www.koreaherald.com/article/10947586"
+    ],
+    "citacao": {
+     "veiculo": "Korea Herald",
+     "quando": "24/11 02h44",
+     "link": "https://www.koreaherald.com/article/10947586",
+     "idioma": "en",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Abrimos agora o nosso espaço dedicado à cultura no Brasil e no mundo. A cena artística e legislativa traz novidades importantes para o cenário nacional.\n\nEstá em análise no Senado um projeto de lei que reconhece a axé music como manifestação da cultura nacional. A proposta chegou à Casa depois de ser aprovada na Câmara dos Deputados no início do mês de novembro. A discussão valoriza a importância desse ritmo para a identidade do país, segundo a Agência Senado.\n\nOs trinta anos de história do Coral do Senado foram celebrados em uma sessão especial realizada nesta segunda-feira. Criado em mil novecentos e noventa e seis, o grupo reúne servidores, colaboradores e membros da comunidade com um repertório que inclui músicas eruditas, populares e folclóricas. A homenagem destacou a relevância cultural do grupo para o Parlamento, de acordo com a Agência Senado.\n\nCruzando o Atlântico, a premiação internacional de televisão trouxe surpresas para produções de língua espanhola. Apesar de somar cinco indicações de destaque, incluindo a de melhor ator para Javier Cámara e de melhor minissérie para Anatomia de um Instante, a Espanha saiu de mãos vazias na entrega dos Prêmios Emmy Internacionales. O grande destaque da noite foi a produção argentina Divisão Palermo, que levou o troféu de melhor comédia, de acordo com o jornal El País América.\n\nAinda sobre o mundo ibero-americano, o cantor colombiano Camilo visitou a Espanha para apresentar sua nova turnê e gravar um especial de Natal para a televisão. Em entrevista ao jornal El País América, o artista refletiu sobre sua trajetória na música desde os treze anos, a relação com sua família e os desafios de manter a autenticidade na indústria.\n\nO universo literário e o debate feminista ganharam espaço com o lançamento de um ensaio acadêmico. O livro intitulado Feminismo Gótico resgata e reivindica a figura cultural da mulher vista como dissimulada, misteriosa ou desobediente dentro do gênero do terror. A publicação analisa o impacto de personagens femininas complexas na literatura e no cinema contemporâneo, segundo o El País América.\n\nNa Europa, um caso envolvendo uma importante figura pública gerou repercussão jurídica e midiática na França. A ativista Gisèle Pelicot anunciou que vai tomar medidas legais após ter fotos suas sem roupas utilizadas sem permissão para promover o livro de um psicanalista sobre controle coercitivo. A ativista declarou estar profundamente chocada com a exploração de sua imagem, de acordo com a rede France 24.\n\nPassando para o mercado de entretenimento norte-americano, as plataformas de streaming continuam apostando em sucessos consagrados. A plataforma de streaming Apple TV anunciou a renovação da premiada série Ted Lasso para a quinta temporada. A decisão ocorre após o que a empresa classificou como uma estreia de quarta temporada com recorde de audiência, conforme informou o portal The Verge.\n\nNa Ásia, o circuito de festivais de cinema movimenta a capital sul-coreana com exibições exclusivas. O festival CineCube Premiere Festival vai exibir uma seleção de onze filmes de destaque internacional antes de seus lançamentos locais. A programação inclui produções como a comédia musical O Estreante e obras aclamadas em outros festivais globais, segundo o jornal Korea Herald.\n\nA participação de produções asiáticas no exterior também foi celebrada com grande expectativa na Coreia do Sul. A atriz Park Ji-hyun fez história ao se tornar a primeira sul-coreana indicada a um Prêmio Emmy Internacional por seu trabalho na televisão. A artista participou da quinquagésima quarta edição da premiação em Nova Iorque, que celebra programas fora dos Estados Unidos, de acordo com o Korea Herald.\n\nPara encerrar nosso giro cultural, a preservação da memória histórica na Península Coreana ganha destaque em um museu especializado. O Museu da Zona Desmilitarizada, localizado na província sul-coreana de Gangwon, mantém em exibição permanente peças históricas e memoriais sobre a Guerra da Coreia. O espaço atrai visitantes interessados no período da Guerra Fria e na história recente da região, segundo o Korea Herald."
+ },
+ {
+  "id": "checagem",
+  "titulo": "Checagem de fatos",
+  "cor": "#2B2F38",
+  "cor2": "#5E6778",
+  "itens": [
+   {
+    "titulo": "Falso que ex-presidente Jair Bolsonaro morreu",
+    "texto": "Circula nas redes sociais a informação falsa de que o ex-presidente Jair Bolsonaro teria morrido no sábado, enquanto estava internado no Hospital DF Star. Segundo a checagem do portal Aos Fatos, as publicações inventam uma data de falecimento para atrair cliques. O boletim médico oficial aponta que o ex-presidente está estável, mas em tratamento contra uma pneumonia.",
+    "regiao": "brasil",
+    "fontes": [
+     "Aos Fatos"
+    ],
+    "links": [
+     "https://www.aosfatos.org/noticias/e-falso-jair-bolsonaro-morreu/"
+    ],
+    "citacao": {
+     "veiculo": "Aos Fatos",
+     "quando": "23/11 16h05",
+     "link": "https://www.aosfatos.org/noticias/e-falso-jair-bolsonaro-morreu/",
+     "idioma": "pt",
+     "trecho": "Este texto foi atualizado às 17h15 do dia 23.nov.2026 para acrescentar informações sobre o quadro de pneumonia de Bolsonaro."
+    }
+   },
+   {
+    "titulo": "Decisão de Moraes sobre armas não inclui bíblias e bengalas",
+    "texto": "Um conteúdo enganoso nas redes sociais afirma que o ministro do Supremo Tribunal Federal, Alexandre de Moraes, determinou a destruição de bíblias, bandeiras e bengalas de condenados pelos atos de oito de janeiro. De acordo com o Aos Fatos, a decisão judicial tratava exclusivamente do descarte de quatro pistolas e cerca de duzentas munições apreendidas durante as investigações.",
+    "regiao": "brasil",
+    "fontes": [
+     "Aos Fatos"
+    ],
+    "links": [
+     "https://www.aosfatos.org/noticias/moraes-armas-condenados-8-janeiro/"
+    ],
+    "citacao": {
+     "veiculo": "Aos Fatos",
+     "quando": "23/11 17h19",
+     "link": "https://www.aosfatos.org/noticias/moraes-armas-condenados-8-janeiro/",
+     "idioma": "pt",
+     "trecho": "Não é verdade que o ministro do STF (Supremo Tribunal Federal) Alexandre de Moraes determinou a destruição de bíblias, bandeiras e bengalas que seriam considerados…"
+    }
+   },
+   {
+    "titulo": "Falsa capa do jornal O Globo sobre Flávio Bolsonaro",
+    "texto": "Uma imagem gerada por inteligência artificial simula uma capa do jornal O Globo para afirmar que o senador Flávio Bolsonaro teria usado um vestido como disfarce para fugir para a Argentina após as eleições. Conforme apurou o Aos Fatos, a publicação é falsa e não há nenhum registro de que o parlamentar tenha utilizado disfarces para deixar o território nacional.",
+    "regiao": "brasil",
+    "fontes": [
+     "Aos Fatos"
+    ],
+    "links": [
+     "https://www.aosfatos.org/noticias/flavio-bolsonaro-vestido-fuga/"
+    ],
+    "citacao": {
+     "veiculo": "Aos Fatos",
+     "quando": "23/11 18h07",
+     "link": "https://www.aosfatos.org/noticias/flavio-bolsonaro-vestido-fuga/",
+     "idioma": "pt",
+     "trecho": "Uma falsa capa do jornal O Globo tem sido compartilhada para alegar que Flávio Bolsonaro usou um vestido como disfarce para cruzar a fronteira entre o Brasil e Argentina…"
+    }
+   },
+   {
+    "titulo": "Vídeo de resgate de onça no rio Negro é antigo",
+    "texto": "Um vídeo que mostra soldados realizando o resgate de uma onça-pintada no rio Negro, em Manaus, voltou a circular nas redes sociais com legendas em inglês. Segundo o projeto Fato ou Fake do portal G1, a gravação é verdadeira, mas aconteceu no ano de dois mil e vinte e cinco, e não nos últimos dias.",
+    "regiao": "brasil",
+    "fontes": [
+     "G1 Fato ou Fake"
+    ],
+    "links": [
+     "https://g1.globo.com/fato-ou-fake/noticia/2026/11/23/e-fato-video-resgate-onca-rio-negro-manaus-ano-passado.ghtml"
+    ]
+   },
+   {
+    "titulo": "Vídeo de agricultores descartando cebolas na Bahia é de 2024",
+    "texto": "Uma gravação que mostra agricultores descartando cebolas na Bahia voltou a circular associada ao aumento recente da inadimplência no crédito rural. Segundo a Agência Lupa, o registro audiovisual é antigo e foi publicado originalmente em novembro de doze mil e vinte e quatro, sendo reutilizado fora de contexto.",
+    "regiao": "brasil",
+    "fontes": [
+     "Agência Lupa"
+    ],
+    "links": [
+     "https://www.agencialupa.org/jornalismo/2026/11/23/e-antigo-video-que-mostra-agricultores-descartando-cebolas-na-bahia/"
+    ],
+    "citacao": {
+     "veiculo": "Agência Lupa",
+     "quando": "23/11 16h51",
+     "link": "https://www.agencialupa.org/jornalismo/2026/11/23/e-antigo-video-que-mostra-agricultores-descartando-cebolas-na-bahia/",
+     "idioma": "pt",
+     "trecho": "Gravação foi publicada em novembro de 2024 e voltou a circular associada ao aumento da inadimplência no crédito rural"
+    }
+   },
+   {
+    "titulo": "Áudio alterado simula zombaria de jornalista da CNN",
+    "texto": "Circula nas plataformas digitais um vídeo com áudio adulterado para dar a entender que uma jornalista da rede CNN teria zombado de cidadãos brasileiros residentes no Paraguai. A verificação feita pelo Estadão Verifica comprovou que a fala original foi modificada digitalmente por meio de inteligência artificial para criar a falsa polêmica.",
+    "regiao": "brasil",
+    "fontes": [
+     "Estadão Verifica"
+    ],
+    "links": [
+     "https://www.estadao.com.br/estadao-verifica/video-tem-audio-alterado-para-fazer-parecer-que-jornalista-da-cnn-zombou-de-brasileiros-no-paraguai/"
+    ],
+    "citacao": {
+     "veiculo": "Estadão Verifica",
+     "quando": "23/11 08h41",
+     "link": "https://www.estadao.com.br/estadao-verifica/video-tem-audio-alterado-para-fazer-parecer-que-jornalista-da-cnn-zombou-de-brasileiros-no-paraguai/",
+     "idioma": "pt",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Ônibus incendiado em Barcelona funcionava a gás natural",
+    "texto": "Após o incêndio de um coletivo em Barcelona no dia vinte e dois de novembro, postagens nas redes sociais espalharam a falsa alegação de que o veículo seria elétrico para alimentar desinformação sobre essa tecnologia. De acordo com o site Maldita ponto es, a empresa de transporte metropolitano da cidade espanhola confirmou que o ônibus funcionava com gás natural.",
+    "regiao": "europa",
+    "fontes": [
+     "Maldita.es"
+    ],
+    "links": [
+     "https://maldita.es/malditobulo/20261123/bulos-desinformaciones-coches-electricos/"
+    ],
+    "citacao": {
+     "veiculo": "Maldita.es",
+     "quando": "23/11 13h47",
+     "link": "https://maldita.es/malditobulo/20261123/bulos-desinformaciones-coches-electricos/",
+     "idioma": "es",
+     "trecho": ""
+    }
+   },
+   {
+    "titulo": "Renfe emite alerta legítimo sobre cibersegurança",
+    "texto": "A empresa ferroviária espanhola Renfe divulgou um comunicado oficial para alertar seus clientes sobre um incidente de cibersegurança e possíveis tentativas de fraude digital. Segundo o portal Maldita ponto es, o aviso é totalmente legítimo e a companhia reforça a recomendação de que os usuários jamais compartilhem senhas ou códigos de verificação.",
+    "regiao": "europa",
+    "fontes": [
+     "Maldita.es"
+    ],
+    "links": [
+     "https://maldita.es/desinfo/20261123/renfe-viajeros-informo-publicamente-de-un-incidente-de-ciberseguridad-el-28-de-septiembre-de-2026-y-advierte-de-posibles-estafas-a-sus-clientes/"
+    ],
+    "citacao": {
+     "veiculo": "Maldita.es",
+     "quando": "23/11 08h09",
+     "link": "https://maldita.es/desinfo/20261123/renfe-viajeros-informo-publicamente-de-un-incidente-de-ciberseguridad-el-28-de-septiembre-de-2026-y-advierte-de-posibles-estafas-a-sus-clientes/",
+     "idioma": "es",
+     "trecho": ""
+    }
+   }
+  ],
+  "roteiro": "Seguindo com a nossa programação, abrimos agora espaço para a checagem de fatos do dia, destacando as principais mentiras e boatos que circularam nas redes sociais nas últimas vinte e quatro horas.\n\nComeçamos pelo Brasil, onde circulou nas redes sociais a informação falsa de que o ex-presidente Jair Bolsonaro teria morrido no sábado, enquanto estava internado no Hospital DF Star. Segundo a checagem do portal Aos Fatos, as publicações inventam uma data de falecimento com o único objetivo de atrair cliques dos internautas. O boletim médico oficial aponta que o ex-presidente está com o quadro de saúde estável, mas segue em tratamento médico devido a uma pneumonia, de acordo com o Aos Fatos.\n\nAinda no cenário nacional, um conteúdo enganoso nas redes sociais afirmou que o ministro do Supremo Tribunal Federal, Alexandre de Moraes, determinou a destruição de bíblias, bandeiras e bengalas que seriam de condenados pelos atos de oito de janeiro. De acordo com o Aos Fatos, a decisão judicial tratava exclusivamente do descarte de quatro pistolas e cerca de duzentas munições apreendidas durante as investigações. A postagem distorceu o teor real da ordem do magistrado, segundo o Aos Fatos.\n\nPassamos para outra desonestidade digital envolvendo uma imagem gerada por inteligência artificial que simula uma capa do jornal O Globo. A montagem falsa afirma que o senador Flávio Bolsonaro teria usado um vestido como disfarce para fugir para a Argentina após o término das eleições. Conforme apurou o Aos Fatos, a publicação é inteiramente falsa e não há nenhum registro oficial ou jornalístico de que o parlamentar tenha utilizado disfarces para deixar o território nacional, segundo o Aos Fatos.\n\nAinda no campo dos vídeos distorcidos, uma gravação que mostra soldados realizando o resgate de uma onça-pintada no rio Negro, em Manaus, voltou a circular nas redes sociais com legendas em inglês e grande número de visualizações. Segundo o projeto Fato ou Fake do portal G1, a gravação é verdadeira, mas aconteceu no ano de dois mil e vinte e cinco, e não nos últimos dias como sugeriam as postagens recentes, de acordo com o G1 Fato ou Fake.\n\nMudando de assunto mas ainda falando de registros antigos fora de contexto, um vídeo que mostra agricultores descartando cebolas na Bahia voltou a circular associado ao aumento recente da inadimplência no crédito rural. Segundo a Agência Lupa, o registro audiovisual é antigo e foi publicado originalmente em novembro de doze mil e vinte e quatro, sendo reutilizado agora com uma narrativa totalmente diferente da original, segundo a Agência Lupa.\n\nA desinformação também usou recursos de áudio adulterado para fabricar polêmicas envolvendo a imprensa. Circula nas plataformas digitais um vídeo com o som modificado para dar a entender que uma jornalista da rede CNN teria zombado de cidadãos brasileiros residentes no Paraguai. A verificação feita pelo Estadão Verifica comprovou que a fala original foi modificada digitalmente por meio de ferramentas de inteligência artificial para criar a falsa ofensa, segundo o Estadão Verifica.\n\nCruzando o oceano para acompanhar a checagem de fatos na Europa, registramos que após o incêndio de um coletivo em Barcelona no dia vinte e dois de novembro, postagens nas redes sociais espalharam a falsa alegação de que o veículo seria elétrico. O boato buscava alimentar desinformação contra veículos movidos a bateria. De acordo com o site Maldita ponto es, a empresa de transporte metropolitano da cidade espanhola confirmou oficialmente que o ônibus incendiado funcionava com gás natural, segundo o Maldita ponto es.\n\nFechando esta edição da checagem, a empresa ferroviária espanhola Renfe divulgou um comunicado oficial para alertar seus clientes sobre um incidente de cibersegurança e possíveis tentativas de fraude digital por e-mail e mensagens. Segundo o portal Maldita ponto es, o aviso emitido é totalmente legítimo. A companhia reforça a recomendação para que os usuários jamais compartilhem senhas ou códigos de verificação com terceiros, segundo o Maldita ponto es."
+ },
+ {
+  "id": "encerramento",
+  "titulo": "Resumo e agenda",
+  "cor": "#0B1F3A",
+  "cor2": "#3A4A63",
+  "itens": [
+   {
+    "titulo": "Encerramento do Boletim Brasil e Mundo Hoje",
+    "texto": "Chegamos ao fim de mais uma edição do boletim Brasil e Mundo Hoje. Nesta terça-feira, destacamos a aprovação pela Câmara dos Deputados do regime de urgência e do texto-base do projeto de ajuste fiscal, segundo a Agência Brasil. No cenário internacional, a France 24 informou o retorno surpresa de Jensen Huang ao cargo de presidente-executivo da Nvidia, impulsionando os mercados asiáticos. Na política nacional, o Senado incluiu na pauta a votação da criação permanente da Força Nacional do Sistema Único de Saúde, conforme a Agência Senado. Na área de tecnologia, a Amazon adquiriu a tecnologia de otimização de inteligência artificial da Decart por sete bilhões e quinhentos milhões de dólares, de acordo com o TechCrunch Artificial Intelligence. E, no meio ambiente, a Trigésima Primeira Conferência das Nações Unidas sobre Mudanças Climáticas, realizada na Turquia, encerrou-se sem um acordo global inédito em dezessete anos, segundo o Insurance Journal. Para as próximas horas, acompanhe a votação da Força Nacional do SUS no plenário do Senado e os desdobramentos econômicos do ajuste fiscal na Câmara dos Deputados. O boletim Brasil e Mundo Hoje é publicado todos os dias, às seis horas da manhã. Obrigado pela sua companhia e até amanhã.",
+    "regiae": "global",
+    "fontes": [
+     "Agência Brasil",
+     "France 24",
+     "Agência Senado",
+     "TechCrunch AI",
+     "Insurance Journal"
+    ],
+    "links": [],
+    "regiao": "global"
+   }
+  ],
+  "roteiro": "Chegamos ao fim de mais uma edição do boletim Brasil e Mundo Hoje.\n\nNesta terça-feira, destacamos a aprovação pela Câmara dos Deputados do regime de urgência e do texto-base do projeto de ajuste fiscal, segundo a Agência Brasil.\n\nNo cenário internacional, a France 24 informou o retorno surpresa de Jensen Huang ao cargo de presidente-executivo da Nvidia, impulsionando os mercados asiáticos.\n\nNa política nacional, o Senado incluiu na pauta a votação da criação permanente da Força Nacional do Sistema Único de Saúde, conforme a Agência Senado.\n\nNa área de tecnologia, a Amazon adquiriu a tecnologia de otimização de inteligência artificial da Decart por sete bilhões e quinhentos milhões de dólares, de acordo com o portal TechCrunch.\n\nE, no meio ambiente, a Conferência das Nações Unidas sobre Mudanças Climáticas, realizada na Turquia, encerrou-se sem um acordo global inédito em dezessete anos, segundo o Insurance Journal.\n\nPara as próximas horas, acompanhe a votação da Força Nacional do Sistema Único de Saúde no plenário do Senado e os desdobramentos econômicos do ajuste fiscal na Câmara dos Deputados.\n\nO boletim Brasil e Mundo Hoje é publicado todos os dias, às seis horas da manhã.\n\nObrigado pela sua companhia e até amanhã."
+ }
+]
